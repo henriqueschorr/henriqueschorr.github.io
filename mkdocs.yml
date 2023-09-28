@@ -1,37 +1,48 @@
 site_name: Beyond the Horizon
-site_description: 'Documentação para o RPG Beyond the Horizon (BTH)'
-site_author: 'Henrique Schorr'
-docs_dir: docs
+theme:
+  name: 'material'
+# site_description: 'Documentação para o RPG Beyond the Horizon (BTH)'
+# site_author: 'Henrique Schorr'
+# docs_dir: docs
 # repo_name: 'mhausenblas/mkdocs-template'
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
   - Home: index.md
-  # - Regras: 
-  - Introdução: introduction.md
-  - Personagem: character.md
+  - Regras: 
+    - Introdução: regras/introduction.md
+    - Personagem: regras/character.md
+  - Humanos:
+    - Introdução: species/human/introduction.md
+  - Hivers:
+    - Introdução: species/hiver/introduction.md
+  - Symbions:
+    - Introdução: species/symbion/introduction.md
 
-extra_css:
-  - stylesheets\extra.css
-extra_javascript:
-  - javascripts\list.js
+# extra_css:
+#   - stylesheets\extra.css
+# extra_javascript:
+#   - javascripts\list.js
 
-theme:
-  name: 'material'
-  custom_dir: theme
-  logo: images/logo.png
-  site_favicon: images/logo.png
-  palette:
-    primary: blue
-    accent: light blue
-  feature:
-    tabs: false
 
-markdown_extensions:
-    - admonition
-    - codehilite:
-        guess_lang: False
-    - toc:
-        permalink: True
-    - footnotes
-    - pymdownx.details
+  # custom_dir: theme
+  # logo: images/logo.png
+  # site_favicon: images/logo.png
+  # palette:
+  #   primary: blue
+  #   accent: light blue
+  # feature:
+  #   - navigation.sections
+  #   - navigation.instant
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
+    # tabs: false
+
+# markdown_extensions:
+#     - admonition
+#     - codehilite:
+#         guess_lang: False
+#     - toc:
+#         permalink: True
+#     - footnotes
+#     - pymdownx.details

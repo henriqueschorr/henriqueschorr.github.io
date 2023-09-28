@@ -1,5 +1,3 @@
-# Introdução
-
 ## O Sistema de RPG Beyond The Horizon
 
 Beyond the Horizon (BTH) é um sistema de RPG base, cru, mas o que isto significa propriamente?  

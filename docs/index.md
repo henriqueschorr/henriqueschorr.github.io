@@ -1,4 +1,6 @@
-## Sample
+## HOME PAGE
+
+<!-- ## Sample
 
 One more, finally. Or not? :)
 
@@ -37,4 +39,4 @@ Can we now have `the build`?
 NOW!
 
 
-Not gonna work, is it?
+Not gonna work, is it? -->
