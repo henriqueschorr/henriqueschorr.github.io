@@ -4,12 +4,20 @@ site_author: 'Henrique Schorr'
 docs_dir: docs/
 repo_name: 'mhausenblas/mkdocs-template'
 repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+
 nav:
     - Home: index.md
     - Regras: introduction.md
       - character.md
+
+extra_css:
+  - stylesheets\extra.css
+extra_javascript:
+  - javascripts\list.js
+
 theme:
   name: 'material'
+  custom_dir: theme
 
 markdown_extensions:
     - admonition
