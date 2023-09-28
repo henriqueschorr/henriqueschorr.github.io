@@ -1,18 +1,33 @@
+# name: Publish docs via GitHub Pages
+# on:
+#   push:
+#     branches:
+#       - master
+
+# jobs:
+#   build:
+#     name: Deploy docs
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout master
+#         uses: actions/checkout@v1
+
+#       - name: Deploy docs
+#         uses: mhausenblas/mkdocs-deploy-gh-pages@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 name: Publish docs via GitHub Pages
 on:
   push:
     branches:
       - master
-
 jobs:
-  build:
-    name: Deploy docs
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: self-hosted
     steps:
-      - name: Checkout master
-        uses: actions/checkout@v1
+      - uses: actions/checkout@v3
+      - run: |
+          pip install mkdocs-material==8.2.3
+          mkdocs gh-deploy --force
 
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
