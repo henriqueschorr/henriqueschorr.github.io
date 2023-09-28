@@ -1,6 +1,9 @@
 site_name: Beyond the Horizon
 theme:
   name: 'material'
+  font:
+    title: Orbitron
+    text: Roboto
 # site_description: 'Documentação para o RPG Beyond the Horizon (BTH)'
 # site_author: 'Henrique Schorr'
 # docs_dir: docs
