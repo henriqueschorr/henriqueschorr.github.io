@@ -10,20 +10,28 @@ jobs:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
-      - name: Install and Deploy
+      - name: Checkout master
+        uses: actions/checkout@v1
+
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
-          MY_EMAIL: henrique.schorr@gmail.com
-          MY_NAME: henriqueschorr
-        run: |
-          git config --global user.email $MY_EMAIL
-          git config --global user.name $MY_NAME
-          git remote set-url origin https://$MY_NAME:${{ secrets.PASSWORD }}@github.com/henriqueschorr/henriqueschorr.github.io.git
-          pip install mkdocs-material
-          mkdocs gh-deploy --force
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # steps:
+    #   - uses: actions/checkout@v1
+    #   - uses: actions/setup-python@v4
+    #     with:
+    #       python-version: 3.x
+    #   - name: Install and Deploy
+    #     env:
+    #       MY_EMAIL: henrique.schorr@gmail.com
+    #       MY_NAME: henriqueschorr
+    #     run: |
+    #       git config --global user.email $MY_EMAIL
+    #       git config --global user.name $MY_NAME
+    #       git remote set-url origin https://$MY_NAME:${{ secrets.PASSWORD }}@github.com/henriqueschorr/henriqueschorr.github.io.git
+    #       pip install mkdocs-material
+    #       mkdocs gh-deploy --force
       # - uses: actions/setup-python@v4
       # #  with:
       #     python-version: 3.x
