@@ -20,6 +20,8 @@ jobs:
       #     path: .cache
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       #https://www.youtube.com/watch?v=Q-YA_dA8C20
 
