@@ -1,5 +1,5 @@
 ## Documentation
-https://squidfunk.github.io/mkdocs-material/creating-your-site/
+https://squidfunk.github.io/mkdocs-material/creating-your-site/  
 [MkDocs deploy](https://github.com/marketplace/actions/deploy-mkdocs) GitHub action.  
 https://github.com/mhausenblas/mkdocs-deploy-gh-pages
 
