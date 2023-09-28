@@ -11,6 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Install and Deploy
+        env:
+          MY_EMAIL: henrique.schorr@gmail.com
+          MY_NAME: henriqueschorr
+        run: |
+          git config --global user.email $MY_EMAIL
+          git config --global user.name $MY_NAME
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -25,10 +32,6 @@ jobs:
 
       #https://www.youtube.com/watch?v=Q-YA_dA8C20
 
-      # - name: Deploy docs
-      #   uses: mhausenblas/mkdocs-deploy-gh-pages@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # build:
   #   name: Deploy docs
   #   runs-on: ubuntu-latest
