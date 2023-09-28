@@ -10,17 +10,18 @@ jobs:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v1
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - uses: actions/cache@v2
-        with:
-          key: ${{ github.ref}}
-          path: .cache
+      # - uses: actions/cache@v2
+      #   with:
+      #     key: ${{ github.ref}}
+      #     path: .cache
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
 
+      #https://www.youtube.com/watch?v=Q-YA_dA8C20
 
       # - name: Deploy docs
       #   uses: mhausenblas/mkdocs-deploy-gh-pages@master
