@@ -1,10 +1,21 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: Beyond the Horizon
+site_description: 'Documentação para o RPG Beyond the Horizon (BTH)'
+site_author: 'Henrique Schorr'
 docs_dir: docs/
 repo_name: 'mhausenblas/mkdocs-template'
 repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 nav:
     - Home: index.md
+    - Regras: introduction.md
+      - character.md
 theme:
   name: 'material'
+
+markdown_extensions:
+    - admonition
+    - codehilite:
+        guess_lang: False
+    - toc:
+        permalink: True
+    - footnotes
+    - pymdownx.details
