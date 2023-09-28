@@ -1,14 +1,15 @@
 site_name: Beyond the Horizon
 site_description: 'Documentação para o RPG Beyond the Horizon (BTH)'
 site_author: 'Henrique Schorr'
-docs_dir: docs/
+docs_dir: docs
 # repo_name: 'mhausenblas/mkdocs-template'
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
-    - Home: index.md
-    - Regras: regras/introduction.md
-      - regras/character.md
+  - Home: index.md
+  - Regras: 
+    - Introdução: regras/introduction.md
+    - Personagem: regras/character.md
 
 extra_css:
   - stylesheets\extra.css
@@ -18,6 +19,13 @@ extra_javascript:
 theme:
   name: 'material'
   custom_dir: theme
+  logo: images/logo.png
+  site_favicon: images/logo.png
+  palette:
+    primary: blue
+    accent: light blue
+  feature:
+    tabs: false
 
 markdown_extensions:
     - admonition
