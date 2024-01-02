@@ -13,8 +13,23 @@ theme:
 nav:
   - Home: index.md
   - Regras: 
-    - Introdução: regras/introduction.md
-    - Personagem: regras/character.md
+    - Introdução: rules/introduction.md
+    - Personagem: 
+      - Espécies: rules/character/species.md
+      - Atributos:
+        - Aptidões: rules/character/aptitudes.md
+        - Competências: rules/character/skills.md
+      - Resiliência: rules/character/resilience.md
+      - Anatomia: rules/character/anatomy.md
+      - Velocidades: rules/character/speeds.md
+      - Conhecimento Científico: rules/character/scienceKnowledge.md
+      - Passivas: rules/character/passives.md
+      - Ações, Reações e Habilidades: rules/character/actionsReactions.md
+      - Armamentos e Armaduras: rules/character/weaponArmor.md
+      - Inventário: rules/character/inventory.md
+      - Descanso: rules/character/rests.md
+      - Sobrevivência: rules/character/survival.md
+      - Aprimoramentos: rules/character/upgrades.md
   - Humanos:
     - Introdução: species/human/introduction.md
   - Hivers:
@@ -22,8 +37,8 @@ nav:
   - Symbions:
     - Introdução: species/symbion/introduction.md
 
-# extra_css:
-#   - stylesheets\extra.css
+extra_css:
+  - stylesheets\extra.css
 # extra_javascript:
 #   - javascripts\list.js
 
