@@ -1,6 +1,6 @@
 site_name: Beyond the Horizon
 theme:
-  name: 'material'
+  name: "material"
   font:
     title: Orbitron
     text: Roboto
@@ -12,49 +12,79 @@ theme:
 
 nav:
   - Home: index.md
-  - Regras: 
-    - Introdução: rules/introduction.md
-    - Personagem: 
-      - Espécies: rules/character/species.md
-      - Atributos:
-        - Aptidões: rules/character/aptitudes.md
-        - Competências: rules/character/skills.md
-      - Resiliência: rules/character/resilience.md
-      - Anatomia: rules/character/anatomy.md
-      - Velocidades: rules/character/speeds.md
-      - Conhecimento Científico: rules/character/scienceKnowledge.md
-      - Passivas: rules/character/passives.md
-      - Ações, Reações e Habilidades: rules/character/actionsReactions.md
-      - Armamentos e Armaduras: rules/character/weaponArmor.md
-      - Inventário: rules/character/inventory.md
-      - Descanso: rules/character/rests.md
-      - Sobrevivência: rules/character/survival.md
-      - Aprimoramentos: rules/character/upgrades.md
+  - Regras:
+      - Introdução: rules/introduction.md
+      - Personagem:
+          - Espécies: rules/character/species.md
+          - Atributos:
+              - Aptidões: rules/character/aptitudes.md
+              - Competências: rules/character/skills.md
+          - Resiliência: rules/character/resilience.md
+          - Anatomia: rules/character/anatomy.md
+          - Rapidez: rules/character/quickness.md
+          - Conhecimento Científico: rules/character/scienceKnowledge.md
+          - Passivas: rules/character/passives.md
+          - Ações, Reações e Habilidades: rules/character/actionsReactions.md
+          - Armamentos e Armaduras: rules/character/weaponArmor.md
+          - Inventário: rules/character/inventory.md
+          - Descanso: rules/character/rests.md
+          - Sobrevivência: rules/character/survival.md
+          - Aprimoramentos: rules/character/upgrades.md
+          - Nível: rules/character/level.md
+      - Jogando:
+          - Checks e Rolagens: rules/play/checks.md
+          - Modificadores de Check: rules/play/checkModifiers.md
+          - Modificadores Situacionais: rules/play/situationalModifiers.md
+          - Aflições: rules/play/afflictions.md
+          - Benefícios: rules/play/buffs.md
+          - Ações: rules/play/actions.md
+          - Reações: rules/play/reactions.md
+          - Alcance e Área de Efeito: rules/play/reachArea.md
+          - Dano: rules/play/damage.md
+      - Modos de Jogo:
+          - Exploração: rules/game_modes/exploration.md
+          - Encontro: rules/game_modes/encounter.md
+      - Anatomia:
+          - Sentidos: rules/anatomy/senses.md
+          - Movimento: rules/anatomy/movement.md
+          - Corpo: rules/anatomy/body.md
+      - Ciência:
+          - Conhecimento: rules/science/knowledge.md
+          - Mecânicas Bases: rules/science/mechanics.md
+          - Matéria: rules/science/matter.md
+          - Ações e Atividades: rules/science/actions.md
+      - Armamentos e Armaduras:
+          - Armamentos: rules/weapon_armor/weapon.md
+          - Armaduras: rules/weapon_armor/armor.md
+      - Inventário: rules/inventory.md
+      - Ambientação:
+        - Ambientação: rules/ambiance/ambiance.md
+        - Mecânicas Bases: rules/ambiance/mechanics.md
+      - Criaturas: rules/creatures.md
   - Humanos:
-    - Introdução: species/human/introduction.md
+      - Introdução: species/human/introduction.md
   - Hivers:
-    - Introdução: species/hiver/introduction.md
+      - Introdução: species/hiver/introduction.md
   - Symbions:
-    - Introdução: species/symbion/introduction.md
+      - Introdução: species/symbion/introduction.md
 
 extra_css:
   - stylesheets\extra.css
 # extra_javascript:
 #   - javascripts\list.js
 
-
-  # custom_dir: theme
-  # logo: images/logo.png
-  # site_favicon: images/logo.png
-  # palette:
-  #   primary: blue
-  #   accent: light blue
-  # feature:
-  #   - navigation.sections
-  #   - navigation.instant
-  #   - navigation.tabs
-  #   - navigation.tabs.sticky
-    # tabs: false
+# custom_dir: theme
+# logo: images/logo.png
+# site_favicon: images/logo.png
+# palette:
+#   primary: blue
+#   accent: light blue
+# feature:
+#   - navigation.sections
+#   - navigation.instant
+#   - navigation.tabs
+#   - navigation.tabs.sticky
+# tabs: false
 
 # markdown_extensions:
 #     - admonition
