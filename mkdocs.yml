@@ -39,15 +39,17 @@ nav:
           - Benefícios: rules/play/buffs.md
           - Ações: rules/play/actions.md
           - Reações: rules/play/reactions.md
+          - Habilidades: rules/play/abilities.md
           - Alcance e Área de Efeito: rules/play/reachArea.md
           - Dano: rules/play/damage.md
+          - Combo: rules/play/combo.md
       - Modos de Jogo:
-          - Exploração: rules/game_modes/exploration.md
           - Encontro: rules/game_modes/encounter.md
+          - Exploração: rules/game_modes/exploration.md         
       - Anatomia:
-          - Sentidos: rules/anatomy/senses.md
-          - Movimento: rules/anatomy/movement.md
           - Corpo: rules/anatomy/body.md
+          - Movimento: rules/anatomy/movement.md
+          - Sentidos: rules/anatomy/senses.md
       - Ciência:
           - Conhecimento: rules/science/knowledge.md
           - Mecânicas Bases: rules/science/mechanics.md
@@ -57,10 +59,16 @@ nav:
           - Armamentos: rules/weapon_armor/weapon.md
           - Armaduras: rules/weapon_armor/armor.md
       - Inventário: rules/inventory.md
+      - Aprimoramentos: rules/upgrades.md
       - Ambientação:
         - Ambientação: rules/ambiance/ambiance.md
         - Mecânicas Bases: rules/ambiance/mechanics.md
       - Criaturas: rules/creatures.md
+      - Marcadores:
+        - Espécie e Criaturas: rules/tags/creatures.md
+        - Habilidades: rules/tags/abilities.md
+        - Armamentos e Equipamentos: rules/tags/weaponEquipment.md
+        # - Armaduras: rules/tags/armor.md        
   - Humanos:
       - Introdução: species/human/introduction.md
   - Hivers:
