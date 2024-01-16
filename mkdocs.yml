@@ -4,6 +4,11 @@ theme:
   font:
     title: Orbitron
     text: Roboto
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.indexes
 # site_description: 'Documentação para o RPG Beyond the Horizon (BTH)'
 # site_author: 'Henrique Schorr'
 # docs_dir: docs
@@ -26,23 +31,23 @@ nav:
           - Passivas: rules/character/passives.md
           - Ações, Reações e Habilidades: rules/character/actionsReactions.md
           - Armamentos e Armaduras: rules/character/weaponArmor.md
-          - Inventário: rules/character/inventory.md
-          - Descanso: rules/character/rests.md
+          - Inventário: rules/character/inventory.md          
           - Sobrevivência: rules/character/survival.md
           - Aprimoramentos: rules/character/upgrades.md
           - Nível: rules/character/level.md
       - Jogando:
           - Checks e Rolagens: rules/play/checks.md
-          - Modificadores de Check: rules/play/checkModifiers.md
           - Modificadores Situacionais: rules/play/situationalModifiers.md
           - Aflições: rules/play/afflictions.md
           - Benefícios: rules/play/buffs.md
           - Ações: rules/play/actions.md
+          - Ações Livres: rules/play/freeActions.md
           - Reações: rules/play/reactions.md
           - Habilidades: rules/play/abilities.md
           - Alcance e Área de Efeito: rules/play/reachArea.md
           - Dano: rules/play/damage.md
           - Combo: rules/play/combo.md
+          - Descanso: rules/play/rests.md
       - Modos de Jogo:
           - Encontro: rules/game_modes/encounter.md
           - Exploração: rules/game_modes/exploration.md         
@@ -71,8 +76,14 @@ nav:
         # - Armaduras: rules/tags/armor.md        
   - Humanos:
       - Introdução: species/human/introduction.md
+      - Características Básicas: species/human/basics.md
+      - Classes:
+        - species/human/index.md
+        - Segurança:
+            - species/human/security/index.md
+            - Soldado: species/human/security/soldier.md
   - Hivers:
-      - Introdução: species/hiver/introduction.md
+      - Introdução: species/hiver/introduction.md      
   - Symbions:
       - Introdução: species/symbion/introduction.md
 

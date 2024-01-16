@@ -3,11 +3,12 @@ Anatomia
 Ambientação
 Atributos
 Conhecimento Científico
-Passivas
 Ações
 Reações
-Nível
-Aprimoramentos
+Classes
+    Passivas
+    Nível
+    Aprimoramentos
 Equipamentos
 Armamentos
 Armaduras
