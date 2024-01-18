@@ -1,0 +1,135 @@
+Especialização focada em combate média-longa distância, prestando apoio a seus aliados, suprimindo o avanço dos inimigos ou causando alto dano em alvo único.
+
+## Passiva: Arsenal
+
+Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil de Precisão, Fuzil de Assalto, Pistola e Faca de Combate.
+
+## Equipamento Inicial
+
+A.N.E Médio, 1x Fuzil de Precisão, 1x Fuzil de Assalto, 1x Pistola, 1x Faca de Combate, 2x Granadas de Fragmentação, 50x Munição Normal, 1x Kit Médico Simples.
+
+## Aprimoramentos
+
+| Nível | Aprimoramentos                               |
+| ----- | -------------------------------------------- |
+| 1     | Atributos + A.N.E. Média + Visão Aprimoraada |
+| 2     | Precisão \| Barragem de Tiros                |
+| 3     | Precisão Aleijadora \| Barragem Supressora   |
+| 4     | Recarga Magnética + Barricada Individual     |
+| 5     | Tiro Marcador \| Tiro Granadeiro             |
+
+### Aprimoramento de Atributos (1)
+Você recebe 10 pontos de aptidão e 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+
+### A.N.E. Média (1)
+_Equipamento_   
+Você recebe o equipamento A.N.E. Média.
+
+### Visão Aprimorada (1) :arrow_forward:
+_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+**Custo:** 1x Célula de Energia (EN)  
+**Duração:** 2 turnos  
+**Alvo:** Si  
+**Alcance:** Efeito válido até 100m de visão    
+A.N.E. aprimora temporariamente seu visor, tornando sua visão mais clara, focada e certeira.  
+
+- Ignore qualquer efeito natural do tempo que torne ações envolvendo visão Difícil.
+- Ignore Proteção Parcial.
+- Ataques a distância são Fácil.
+
+### Precisão (2) :arrow_forward:
+_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+**Custo:** 1x Célula de Energia (EN)  
+**Duração:** 2 turnos    
+**Alvo:** Fuzil de Precisão    
+**Alcance:** Alcance efetivo do armamento    
+A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornando-o mais certeiro.  
+
+- Você adiciona 1RDA da aptidão relacionada ao dano total dos ataques usando fuzil de precisão.
+- Divida o dano igualmente entre AP e HP do alvo caso seja possível.
+- Esse ataque é passível de Explosão de Dano.
+
+### Barragem de Tiros (2) :arrow_forward:
+_Habilidade (Atacar)_ \| _Ofensivo, Energia_  
+**Custo:** 1x Célula de Energia (EN), 3x Munição Normal  
+**Alcance:** Alcance efetivo do armamento  
+**Área de Efeito:** Linha Reta ou Cone  
+A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você realizar 3 tiros no intervalo de 1 ação.   
+
+- Você atira com seu fuzil de assalto diretamente a sua frente, podendo ser (escolha um):
+    - Linha reta acertando todos os 3 tiros em apenas uma criatura.
+    - Área em cone, podendo acertar até 3 criaturas diferentes.
+- Você deve realizar checks de combate individuais para cada tiro.
+
+### Precisão Aleijadora (3) :arrow_forward:
+_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+**Pré Requisito:** Precisão
+**Custo:** 1x Célula de Energia (EN)  
+**Duração:** 2 turnos    
+**Alvo:** Fuzil de Precisão    
+**Alcance:** Alcance efetivo do armamento    
+A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornando-o mais certeiro. você também acerta partes sensíveis do corpo de uma criatura, podendo causar aflições, se possível.
+
+- Você adiciona 1RDA da aptidão relacionada ao dano total dos ataques usando fuzil de precisão.
+- Divida o dano igualmente entre AP e HP do alvo caso seja possível.
+- Esse ataque é passível de Explosão de Dano.
+- Aplica uma das 3 aflições a abaixo, a sua escolha:
+    - Caído: Check Físico ou Agilidade.
+    - Debilitado 1: Check Físico.
+    - Desarmado: Check Físico ou Agilidade.  
+
+### Barragem Supressora (3) :arrow_forward:
+_Habilidade (Atacar)_ \| _Ofensivo, Energia_  
+**Custo:** 1x Célula de Energia (EN), 3x Munição  
+**Alcance:** Alcance efetivo do armamento  
+**Área de Efeito:** Linha Reta ou Cone  
+A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você realizar 3 tiros no intervalo de 1 ação. Você também impede o movimento de criaturas na área.   
+
+- Você atira com seu fuzil de assalto diretamente a sua frente, podendo ser (escolha um):
+    - Linha reta acertando todos os 3 tiros em apenas uma criatura.
+    - Área em cone, podendo acertar até 3 criaturas diferentes.
+- Você deve realizar checks de combate individuais para cada tiro.
+- Criaturas na área em que você atacou são impedidas de se mover mais próximo a você.
+
+### Recarga Magnética (4) :free:
+_Habilidade (Ação Livre - Recarregar)_ \| Utilidade, Energia_  
+**Custo:** 1x Célula de Energia (EN)  
+**Alvo:** Munições e Armamentos
+**Alcance:** A munição não pode estar a mais de 4 metros de você. Os armamentos devem estar em sua posse  
+A.N.E. cria uma linha magnética entre todos seus armamentos e suas munições apropriadas.
+
+- Você recarrega todos seus armamentos sem precisar gastar uma ação para o mesmo.
+- 
+### Barricada Individual (4) :arrow_forward: 
+_Habilidade (Interagir - Equipamento)_ \| Defensivo, Utilidade, Energia_  
+**Custo:** 1x Célula de Energia (EN)  
+**Duração:** 2 turnos  
+**Alvo:** Si  
+A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frente, ela move junto com você. A barricada lhe protege de ataques a distância e potencializa seus tiros.
+
+- Ataques a distância contra você são desacelerados e causam metade do dano. 
+    - Somente para ataques que causam dano Corte, Perfuração ou Concussão. 
+    - Somente se o ataque vem da sua frente.
+- Seus projéteis são carregados por energia no momento que passam pela barricada. 
+    - Adicione 1d4 de dano de Energia para seus ataques a distância.
+
+### Tiro Marcador (5) :fast_forward: 
+_Habilidade (Atacar)_ \| Ofensivo, Utilidade, Energia_  
+**Custo:** 2x Célula de Energia (EN),   
+**Duração:** 2 turnos  
+**Alvo:** Si  
+A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frente, ela move junto com você. A barricada lhe protege de ataques a distância e potencializa seus tiros.
+
+- Ataques a distância contra você são desacelerados e causam metade do dano. 
+    - Somente para ataques que causam dano Corte, Perfuração ou Concussão. 
+    - Somente se o ataque vem da sua frente.
+- Seus projéteis são carregados por energia no momento que passam pela barricada. 
+    - Adicione 1d4 de dano de Energia para seus ataques a distância.
+
+
+
+
+
+
+
+
