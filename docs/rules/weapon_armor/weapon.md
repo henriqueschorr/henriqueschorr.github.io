@@ -19,6 +19,9 @@ Seu personagem possui um equipamento que tem o propósito para ser usado como ar
 Seu personagem possui alguma parte do corpo que pode ser usada como armamento, como as mandíbulas dos Evoras. Ou ainda seu personagem pode soltar algum projétil ou substância que também pode causar dano ou efeito negativo em criaturas, como os espinhos dos Hivers. 
 Armamentos de origem natural não podem ser desarmados.
 
+#### Tamanho
+Caso o armamento seja do tipo equipamento, ele terá o tamanho que ocupa no inventário.
+
 #### Check
 Indica qual Competência & Aptidão deve ser utilizada para o ataque. Alguns armamentos podem ter mais de uma possibilidade.
 

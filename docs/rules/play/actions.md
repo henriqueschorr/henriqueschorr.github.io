@@ -10,7 +10,7 @@ Ações definem o que você pode fazer durante seu Turno. Em geral, você pode r
 | [Preparar]()  | 1     | Escolha alguma outra ação e aja após um gatilho definido.                                                                                                                                                                                                                                                                           |
 | [Procurar]()  | 1     | Procure por um objeto ou criatura.                                                                                                                                                                                                                                                                                                  |
 | [Atacar]()    | Varia | Atacar com algum armamento.                                                                                                                                                                                                                                                                                                         |
-| [Ciência]()   | Varia | Realizar cálculos, performar cirurgia, construir objeto, consertar veículo. Qualquer ação envolvendo a competência de Ciência e conhecimento sobre as áreas científicas.                                                                                                                                 |
+| [Ciência]()   | Varia | Realizar cálculos, performar cirurgia, construir objeto, consertar veículo. Qualquer ação envolvendo a competência de Ciência e conhecimento sobre as áreas científicas.                                                                                                                                                            |
 | Habilidade    | Varia | Usar alguma habilidade do seu personagem.                                                                                                                                                                                                                                                                                           |
 
 ## Mover
@@ -27,6 +27,26 @@ Mover é uma das ações mais básicas do jogo e inclui qualquer ação que envo
 | Nadar     | Nada \<Velocidade\> de distância dentro do seu turno.                                                                                                                                                                                                                                                                          |
 | Cavar     | Cava, move-se no subterrâneo \<Velocidade\> de distância dentro do seu turno.                                                                                                                                                                                                                                                  |
 | Voar      | Voa \<Velocidade\> de distância dentro do seu turno.                                                                                                                                                                                                                                                                           |
+
+| Físico   | Salto Longo Parado | Salto Longo Correndo |
+| -------- | :----------------: | :------------------: |
+| < 40     |         -          |          -           |
+| 40 - 49  |         2m         |          2m          |
+| 50 - 59  |         2m         |          3m          |
+| 60 - 69  |         3m         |          4m          |
+| 70 - 79  |         3m         |       4m - 5m        |
+| 80 - 89  |         4m         |          5m          |
+| 90 - 100 |      4m - 5m       |          6m          |
+
+| Físico   | Salto Alto Parado | Salto Alto Correndo |
+| -------- | :---------------: | :-----------------: |
+| < 40     |         -         |          -          |
+| 40 - 49  |        1m         |         2m          |
+| 50 - 59  |        1m         |         2m          |
+| 60 - 69  |        2m         |         3m          |
+| 70 - 79  |        2m         |         3m          |
+| 80 - 89  |        2m         |         4m          |
+| 90 - 100 |        3m         |       4m - 5m       |
 
 ## Manobra
 

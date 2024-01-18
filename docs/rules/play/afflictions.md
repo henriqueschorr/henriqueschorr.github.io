@@ -27,3 +27,14 @@ Caso uma aflição não apresente número, ela deve ser retirada de alguma outra
 Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações envolvendo algum sentido ou parte do corpo, esta especificidade estará informada entre parênteses ao lado da aflição, por exemplo:
 
 **_Exemplo:_** _Mari'Jonna aplica, em seu ataque, a aflição **Debilitado 2 (visão)** em seu oponente. Sempre que o alvo executar alguma ação ou reação envolvendo visão nos próximos 2 turnos, esta será considerada Debilitada._
+
+| Especificação | Detalhes                                            |
+| ------------- | --------------------------------------------------- |
+| Corpo         | Afeta seu físico, dificultanto movimentos do corpo. |
+| Neural        | Afeta seu cérebro, mente.                           |
+| Sentido       | Afeta todos os seus sentidos ao mesmo tempo.        |
+| Visão         | Afeta qualquer tipo de visão.                       |
+| Audição       | Afeta qualquer tipo de audição.                     |
+| Olfato        | Afeta qualquer tipo de olfato.                      |
+| Paladar       | Afeta qualquer tipo de paladar.                     |
+| Tato          | Afeta qualquer tipo de tato.                        |
