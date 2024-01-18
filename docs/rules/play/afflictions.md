@@ -38,3 +38,5 @@ Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações e
 | Olfato        | Afeta qualquer tipo de olfato.                      |
 | Paladar       | Afeta qualquer tipo de paladar.                     |
 | Tato          | Afeta qualquer tipo de tato.                        |
+
+### Dano Persistente

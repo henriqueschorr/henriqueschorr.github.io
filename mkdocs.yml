@@ -82,6 +82,7 @@ nav:
         - Segurança:
             - species/human/security/index.md
             - Soldado: species/human/security/soldier.md
+            - Batedor: species/human/security/scout.md
   - Hivers:
       - Introdução: species/hiver/introduction.md      
   - Symbions:
