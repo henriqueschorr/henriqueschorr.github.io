@@ -115,16 +115,16 @@ A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frent
 
 ### Tiro Marcador (5) :fast_forward: 
 _Habilidade (Atacar)_ \| Ofensivo, Utilidade, Energia_  
-**Custo:** 2x Célula de Energia (EN),   
-**Duração:** 2 turnos  
-**Alvo:** Si  
-A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frente, ela move junto com você. A barricada lhe protege de ataques a distância e potencializa seus tiros.
+**Requerimento:** Fuzil de Precisão  
+**Custo:** 2x Célula de Energia (EN), 3x Munição   
+**Duração:** 2 turnos
+**Alcance:** Alcance efetivo do armamento    
+A.N.E. modifica uma de suas munições e você dispara com seu fuzil de precisão. O projétil marca o alvo, fazendo com que 2 outros projéteis são disparados do seu inventário automaticamente. O alvo também permanece marcado com uma aura, fazendo ataques a distância serem mais fáceis.
 
-- Ataques a distância contra você são desacelerados e causam metade do dano. 
-    - Somente para ataques que causam dano Corte, Perfuração ou Concussão. 
-    - Somente se o ataque vem da sua frente.
-- Seus projéteis são carregados por energia no momento que passam pela barricada. 
-    - Adicione 1d4 de dano de Energia para seus ataques a distância.
+- Faça um ataque normal com seu fuzil de precisão em algum alvo. Caso o ataque seja bem sucedido:
+    - Calcule o dano normalmente. 
+    - Escolha 2 Munições quaisquer do seu inventário, estas serão disparadas e acertam automaticamente o alvo do seu ataque. Calcule o dano como se fosse um ataque normal para cada projétil.
+    - Ataques a distância contra o alvo atingido são Fácil por 2 turnos.
 
 
 
