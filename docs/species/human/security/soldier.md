@@ -87,7 +87,7 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
 ### Precisão Aleijadora (3) :arrow_forward: :large_orange_diamond:
 
 _Habilidade (Interagir - Equipamento)_ \| _Controle, Utilidade, Energia_  
-**Pré Requisito:** Precisão
+**Pré Requisito:** Precisão  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Fuzil de Precisão  
@@ -110,6 +110,7 @@ Você pode acionar esta habilidade e também fazer um ataque.
 ### Barragem Supressora (3) :arrow_forward:
 
 _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+**Pré Requisito:** Barragem de Tiros    
 **Custo:** 1x Célula de Energia (EN), 3x Munição  
 **Alcance:** Alcance efetivo do armamento  
 **Área de Efeito:** Linha Reta ou Cone  
@@ -130,7 +131,6 @@ _Habilidade (Ação Livre - Recarregar)_ \| Utilidade, Energia\_
 A.N.E. cria uma linha magnética entre todos seus armamentos e suas munições apropriadas.
 
 - Você recarrega todos seus armamentos sem precisar gastar uma ação para o mesmo.
--
 
 ### Barricada Individual (4) :arrow_forward:
 

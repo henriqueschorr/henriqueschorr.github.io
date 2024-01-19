@@ -93,3 +93,78 @@ A.N.E faz com que seu infusor seja capaz de infundir armaduras do tipo equipamen
     - Todas as criaturas adjacentes ao aliado recebem dano do efeito de infusão.
 - Caso você escolha um inimigo:
     - O inimigo recebe dano do efeito de infusão.
+
+### Potencializador Químico (4) :arrow_forward:
+
+_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+**Custo:** 1x Célula de Energia (EN)   
+**Alvo:** Lançador de Dardos ou Infusor      
+A.N.E potencializa seu próximo dardo ou infusão.
+
+- Seu próximo dardo ou infusão tem seus efeitos dobrados:
+    - Dano Dobrado
+    - Cura Dobrada
+    - Duração de efeito dobrada
+
+**Especial:** Caso seu lançador de dardos esteja sob efeito da habilidade de Dardo Liberador, ambas soluções são afetadas por esta habilidade.
+
+### Redoma Protetora (4) :arrow_forward: :large_orange_diamond:  
+
+_Habilidade (Interagir - Equipamento)_ \| _Defensivo, Controle, Energia_  
+**Custo:** 1x Célula de Energia (EN)   
+**Duração:** 2 turnos
+**Alvo:** Si  
+**Área de Efeito:** Esfera 4m    
+A.N.E. consome 1x Célula de Energia para criar uma redoma de energia em formato de esfera em volta de você, garantindo alta proteção.
+
+- Uma esfera de 4m de energia surge tendo você como ponto central.
+- Todos dentro da esfera possuem Proteção Total.
+- Inimigos que entrarem em contato com a redoma devem realizar um check Físico ou são empurrados 4m para trás.
+
+**Combo**  
+_Gatilho: Aliado até 10m de você fica inconsciente._  
+_Custo: 1 CP_  
+Você pode se mover adjacente até o alvo e usar esta habilidade.
+
+### Histeria (5) :fast_forward:  
+
+_Habilidade (Atacar)_ \| _Ofensivo, Controle, Suporte, Utilidade, Energia_  
+**Requerimento:** Lançador de Dardos  
+**Custo:** 2x Célula de Energia (EN)  
+A.N.E acelera a cadência do seu lançador de dardos e dispara 3 dardos.
+
+- Escolha 1 a 3 alvos, aliados ou inimigos.
+- Faça o ataque nos alvos escolhidos.
+- Se o dardo acertar um aliado, ele recebe Acelerado 1.
+- Se o dardo acertar um inimigo, ele fica Confuso 1.
+
+### Caos (5) :arrows_counterclockwise: :large_orange_diamond: 
+
+_Habilidade (Atacar)_ \| _Ofensivo, Utilidade, Energia_  
+**Requerimento:** Infusor, elementos no ambiente ou soluções elementais  
+**Custo:** 2x Célula de Energia (EN), elemento    
+**Alcance:** 10m  
+**Área de Efeito:** Esfera 10m  
+A.N.E faz com que seu infusor consuma até 4 tipos de elementos do ambiente ou de suas soluções e os dispara consecutivamente em área.
+
+- Escolha de 1 a 4 elementos para carregar que estejam no ambiente ou em suas soluções.
+    - Fogo
+    - Gelo
+    - Energia
+    - Ácido
+- Se o elemento carregado vier do ambiente, o elemento é consumido e os seguintes efeitos ocorrem:
+    - Fogo: Apaga incêndios ou o fogo de criaturas Queimando.
+    - Gelo: Retira líquidos congelados do ambiente e aumenta a temperatura.
+    - Energia: Extingue curtos-circuitos ou superfícies eletrificadas.
+    - Ácido: Retira líquidos corrosivos do ambiente.
+- Uma explosão elemental ocorre consecutivamente para cada elemento na área de escolha. 
+    - Inimigos devem realizar um check Agilidade.
+        - Em caso de sucesso, recebem apenas metade do dano.
+        - Em caso de sucesso crítico, não recebem dano algum.
+        - Em caso de falha, recebem dano total.
+        - Em caso de falha crítica, recebem o efeito crítico do último elemento liberado.
+    -  Cada explosão elemental causa 1VDA Controle + 1RDA Cérebro + Nível de dano do tipo do elemento liberado.
+
+**Combo**  
+_Gatilho: Aliado cria ou provoca de alguma forma algum dos 4 elementos no ambiente._  
+_Custo: 2 CP_  

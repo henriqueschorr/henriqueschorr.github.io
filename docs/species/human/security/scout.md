@@ -74,6 +74,7 @@ A.N.E. energiza sua lâmina fragmento, causando dano elétrico extra nos seus at
 ### Flecha Atordoadora (2) :arrow_forward:
 
 _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+**Pré Requisito:** Flecha Silenciadora   
 **Requerimento:** Arco Composto  
 **Custo:** 1x Célula de Energia (EN), 1x Munição  
 **Duração:** 2 turnos  
@@ -90,7 +91,8 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 
 ### Serra Elétrica (2) :arrow_forward: :large_orange_diamond:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_   
+**Pré Requisito:** Lâmina Elétrica  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Lâmina Fragmento

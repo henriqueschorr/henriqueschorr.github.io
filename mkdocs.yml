@@ -86,6 +86,9 @@ nav:
         - Técnico:
             - species/human/technician/index.md
             - Cientista: species/human/technician/scientist.md
+        - Agente:
+            - species/human/agent/index.md
+            - Capitão: species/human/agent/captain.md
   - Hivers:
       - Introdução: species/hiver/introduction.md      
   - Symbions:

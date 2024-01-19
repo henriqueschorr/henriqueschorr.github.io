@@ -3,6 +3,7 @@ Aflições são condições em que seu personagem se encontra e lhe dão certas 
 | Aflição          | Efeito                                                                                                                                 |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Caído            | Ações e reações são Difícil. Ataques adjacentes contra você são Muito Fácil. Ataques a distância contra você são Fácil.                |
+| Confuso | Alvo ataca alvo mais próximo, aliado ou inimigo. |
 | Controlado       | Criatura tem suas ações e reações definidas por controlador.                                                                           |
 | Dano Persistente | Recebe X de dano Y no início do seu turno. X = valor do dano. Y = tipo do dano.                                                        |
 | Debilitado       | Ações e Reações são Difícil.                                                                                                           |
