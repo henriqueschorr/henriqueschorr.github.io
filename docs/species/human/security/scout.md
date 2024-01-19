@@ -79,7 +79,7 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 
 **Especial:** Se o ataque acertar uma criatura, a área de silêncio se move junto com a criatura, uma vez que o efeito parte da flecha.
 
-### Serra Elétrica (2) :arrow_forward:
+### Serra Elétrica (2) :arrow_forward: :large_orange_diamond: 
 
 _Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
 **Custo:** 1x Célula de Energia (EN)  
@@ -90,6 +90,11 @@ A.N.E. energiza sua lâmina fragmento, fazendo os fragmentos vibrarem numa alta 
 - Adicione 1RDA dano Energia aos seus ataques com a lâmina fragmento.
 - Adicione 1RDA dano Corte aos seus ataques com a lâmina fragmento.
 - Se você atingir o HP de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente (Sangramento).
+
+**Combo**  
+_Gatilho: Aliado destrói AP de criatura adjacente a você._  
+_Custo: 1 CP_  
+Você pode acionar esta habilidade e também fazer um ataque.
 
 ### Gancho Magnético (4) :arrow_forward:
 
@@ -117,7 +122,7 @@ A.N.E. cria uma cópia sua e a faz se mover em alguma direção por 2 turnos. Vo
 - Criaturas que forem realizar alguma ação contra você devem rolar um d20. Em um resultado de 10 ou menos, a ação é feita contra o chamariz.
 - Aliados não Controlados sabem quem é você e quem é o chamariz.
 
-### Flecha Luz (5) :fast_forward:
+### Flecha Luz (5) :fast_forward: :large_orange_diamond:
 
 _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
 **Requerimento:** Arco Composto  
@@ -137,6 +142,10 @@ A.N.E. aumenta a tensão de força do seu arco composto e dispara uma flecha com
     - Se a criatura estiver até 5m de uma estrutura, ela deve realizar um check Físico ou então é empurrada e Presa na estrutura pela flecha.
     - Se houver outra criatura até 10m do seu alvo inicial, o ataque atravessa o alvo e atinge a criatura atrás.
         - Este ataque é considerado uma ação surpresa.
+
+**Combo**  
+_Gatilho: Criatura é empurrada próxima a estrutura ou aliado cria estrutura próxima a criatura._  
+_Custo: 2 CP_  
 
 ### Nuvem de Lâminas (5) :fast_forward:
 

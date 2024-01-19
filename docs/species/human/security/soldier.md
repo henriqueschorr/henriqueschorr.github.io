@@ -8,6 +8,9 @@ Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil d
 
 A.N.E Médio, 1x Fuzil de Precisão, 1x Fuzil de Assalto, 1x Pistola, 1x Faca de Combate, 2x Granadas de Fragmentação, 50x Munição Normal, 1x Kit Médico Simples.
 
+## Ciência: Receitas
+Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você necessita de uma estação apropriada para produzir os itens abaixo.
+
 ## Aprimoramentos
 
 | Nível | Aprimoramentos                               |
@@ -67,7 +70,7 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
 
-### Precisão Aleijadora (3) :arrow_forward:
+### Precisão Aleijadora (3) :arrow_forward: :large_orange_diamond: 
 _Habilidade (Interagir - Equipamento)_ \| _Controle, Utilidade, Energia_  
 **Pré Requisito:** Precisão
 **Custo:** 1x Célula de Energia (EN)  
@@ -83,6 +86,11 @@ A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornan
     - Caído: Check Físico ou Agilidade.
     - Debilitado 1: Check Físico.
     - Desarmado: Check Físico ou Agilidade.  
+
+**Combo**  
+_Gatilho: Criatura tem Ponto Fraco exposto._  
+_Custo: 1 CP_  
+Você pode acionar esta habilidade e também fazer um ataque.
 
 ### Barragem Supressora (3) :arrow_forward:
 _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
@@ -132,7 +140,7 @@ A.N.E. modifica uma de suas munições e você dispara com seu fuzil de precisã
     - Escolha 2 Munições quaisquer do seu inventário, estas serão disparadas e acertam automaticamente o alvo do seu ataque. Calcule o dano como se fosse um ataque normal para cada projétil.
     - Ataques a distância contra o alvo atingido são Fácil por 2 turnos.
 
-### Tiro Granadeiro (5) :fast_forward: 
+### Tiro Granadeiro (5) :fast_forward: :large_orange_diamond: 
 _Habilidade (Atacar)_ \| _Ofensivo, Energia_  
 **Requerimento:** Fuzil de Assalto  
 **Custo:** 2x Célula de Energia (EN), 2x Munição, 2x Granadas  
@@ -142,6 +150,10 @@ A.N.E. coloca um sinalizador nos 2 próximos projéteis que você irá atirar du
 - Atire duas vezes com seu rifle de assalto e calcule o dano normalmente.
 - Escolha 2 granadas que você possua e elas são automaticamente disparadas no local que você atirou (1 granada para cada projétil).
 - Calcule o dano das granadas normalmente.
+
+**Combo**  
+_Gatilho: 2 ou mais inimigos adjacentes a si mesmos se tornam inaptos ou incapacitados._  
+_Custo: 2 CP_  
 
 
 

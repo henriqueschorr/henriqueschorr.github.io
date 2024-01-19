@@ -83,7 +83,11 @@ Descrição sobre a habilidade.
 - Passo 2 da habilidade.
 - etc.
 
-**Combo:** descrição do combo.  
+**Combo**  
+_Gatilho: Algum gatilho._  
+_Custo: X CP_  
+Descrição do combo caso necessária.
+
 **Especial:** explicação sobre mecânicas e sinergias especiais.
 
 Abaixo você encontra os símbolos identificadores de ação/reação:

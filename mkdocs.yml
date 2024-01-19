@@ -83,6 +83,9 @@ nav:
             - species/human/security/index.md
             - Soldado: species/human/security/soldier.md
             - Batedor: species/human/security/scout.md
+        - Técnico:
+            - species/human/technician/index.md
+            - Cientista: species/human/technician/scientist.md
   - Hivers:
       - Introdução: species/hiver/introduction.md      
   - Symbions:
