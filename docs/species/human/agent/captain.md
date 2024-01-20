@@ -200,6 +200,28 @@ Falha: Criatura afetada recebe 1d4 + Nível dano neural no começo de cada turno
 Sucesso: Criatura afetada fica Medo 2.
 
 ## Checkpoints
+Os seguintes checkpoints podem ser utilizados juntamente com a habilidade de planejamento.
+
+#### Posicionamento Estratégico
+Você pode dizer para um aliado se posicionar em uma área estratégica. Exemplos: em cima de uma torre, dentro de um bunker, telhado de um prédio alto.  
+O checkpoint é alcançado quando o aliado chega no local planejado.
+
+#### Alvo prioritário
+Você pode indicar uma criatura como alvo prioritário a ser atacado. Exemplos: focar inimigo curandeiro, focar inimigo sniper.  
+O checkpoint é alcançado quando 2 ou mais ataques ou habilidades são executadas contra o alvo.
+
+#### Sabotagem
+Você indica alguma estrutura, objeto, equipamento ou aparelho que deve ser tomado controle, desabilitado ou destruido. Exemplos: destruir alguma armadilha inimiga, tomar controle de torre metralhadora inimiga, desabilitar camera de segurança.  
+O checkpoint é alcançado quando 1 check de ciência ou, 1 ou mais ataques ou habilidades são executadas para alcançar o objetivo.
+
+#### Guarda Costas
+Você indica um alvo, criatura ou objeto que seus aliados devem defender. Exemplos: defenda nosso curandeiro, defensa nossa torre de comunicação.  
+O checkpoint é alcançado quando 1 ação de Defender ou alguma habilidade com o marcador Defesa ou Suporte é utilizada no alvo.
+
+#### Segurar Posição
+Você indica uma área de até 6m, você e seus aliados devem se manter nessa área. Exemplo: permaneçam no elevador de carga, fiquem dentro do tanque de guerra.  
+O checkpoint é alcançado quando você e 2 ou mais aliados permanecem na área de 6m por 2 ou mais turnos.
+
 
 
 
