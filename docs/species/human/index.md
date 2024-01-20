@@ -54,7 +54,7 @@ Classes definem basicamente o papel, profissão de um Humano em uma equipe, gera
         </tr>
          <tr>
             <td>Chef</td>
-            <td>Cutelo Grande e Mixer-Gun</td>
+            <td>Cutelo do Chef e Mixer-Gun</td>
             <td>Suporte, Combate curta a média distância, controle de grupo, caça e alimentação especial.</td>
         </tr>
     </tbody>

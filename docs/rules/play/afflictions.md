@@ -1,19 +1,20 @@
 Aflições são condições em que seu personagem se encontra e lhe dão certas desvantagem em diversas situações.
 
-| Aflição          | Efeito                                                                                                                                 |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Caído            | Ações e reações são Difícil. Ataques adjacentes contra você são Muito Fácil. Ataques a distância contra você são Fácil.                |
-| Confuso          | Alvo ataca alvo mais próximo, aliado ou inimigo.                                                                                       |
-| Controlado       | Criatura tem suas ações e reações definidas por controlador.                                                                           |
-| Dano Persistente | Recebe X de dano Y no início do seu turno. X = valor do dano. Y = tipo do dano.                                                        |
-| Debilitado       | Ações e Reações são Difícil.                                                                                                           |
-| Desarmado        | Uma criatura desarmada não pode atacar. Essa aflição somente é válida para armamentos do tipo equipamento.                             |
-| Enjoado          | Sempre que for realizar alguma ação ou aeação, faça um check Físico. Em caso de falha você vomita em vez de realizar a ação ou reação. |
-| Inapto           | Ações e reações são Muito Difícil.                                                                                                     |
-| Incapacitado     | Você não pode realizar ações ou reações.                                                                                               |
-| Limitado         | Você possui 1 ação e reação a menos.                                                                                                   |
-| Medo             | Você gasta suas ações e reações para se mover o mais longe possível do alvo de seu medo.                                               |
-| Preso            | Você não pode usar ações ou reações Mover.                                                                                             |
+| Aflição          | Efeito                                                                                                                                                                                                                     |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Caído            | Ações e reações são Difícil. Ataques adjacentes contra você são Muito Fácil. Ataques a distância contra você são Fácil.                                                                                                    |
+| Confuso          | Alvo ataca alvo mais próximo, aliado ou inimigo.                                                                                                                                                                           |
+| Controlado       | Criatura tem suas ações e reações definidas por controlador.                                                                                                                                                               |
+| Dano Persistente | Recebe X de dano Y no início do seu turno. X = valor do dano. Y = tipo do dano.                                                                                                                                            |
+| Debilitado       | Ações e Reações são Difícil.                                                                                                                                                                                               |
+| Desarmado        | Uma criatura desarmada não pode atacar. Essa aflição somente é válida para armamentos do tipo equipamento.                                                                                                                 |
+| Enjoado          | Sempre que for realizar alguma ação ou aeação, faça um check Físico. Em caso de falha você vomita em vez de realizar a ação ou reação.                                                                                     |
+| Inapto           | Ações e reações são Muito Difícil.                                                                                                                                                                                         |
+| Incapacitado     | Você não pode realizar ações ou reações.                                                                                                                                                                                   |
+| Limitado         | Você possui 1 ação e reação a menos.                                                                                                                                                                                       |
+| Medo             | Você gasta suas ações e reações para se mover o mais longe possível do alvo de seu medo.                                                                                                                                   |
+| Morte            | Você não pode realizar ações ou reações. Você está morrendo, 0 HP. Morrerá de vez nos próximos VDA Físico turnos (mínimo 1). Essa aflição pode ser retirada com habilidades, equipamentos ou caso você cure ao menos 1 HP. |
+| Preso            | Você não pode usar ações ou reações Mover.                                                                                                                                                                                 |
 
 ## Duração
 
@@ -31,14 +32,14 @@ Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações e
 
 | Especificação | Detalhes                                            |
 | ------------- | --------------------------------------------------- |
+| Audição       | Afeta qualquer tipo de audição.                     |
 | Corpo         | Afeta seu físico, dificultanto movimentos do corpo. |
 | Neural        | Afeta seu cérebro, mente.                           |
-| Sentido       | Afeta todos os seus sentidos ao mesmo tempo.        |
-| Visão         | Afeta qualquer tipo de visão.                       |
-| Audição       | Afeta qualquer tipo de audição.                     |
 | Olfato        | Afeta qualquer tipo de olfato.                      |
 | Paladar       | Afeta qualquer tipo de paladar.                     |
+| Sentido       | Afeta todos os seus sentidos ao mesmo tempo.        |
 | Tato          | Afeta qualquer tipo de tato.                        |
+| Visão         | Afeta qualquer tipo de visão.                       |
 
 ### Dano Persistente
 

@@ -90,10 +90,18 @@ nav:
         - Agente:
             - species/human/agent/index.md
             - Capitão: species/human/agent/captain.md
-  - Hivers:
-      - Introdução: species/hiver/introduction.md      
-  - Symbions:
-      - Introdução: species/symbion/introduction.md
+    - Equipamentos:
+        - species/human/equipment/index.md
+        - Armamentos: species/human/equipment/weapons.md
+        - Equipamentos: species/human/equipment/equipments.md
+    - Ciência:
+        - species/human/science/index.md
+        - Recursos: species/human/science/resources.md
+        - Receitas: species/human/science/recipes.md
+#   - Hivers:
+#       - Introdução: species/hiver/introduction.md      
+#   - Symbions:
+#       - Introdução: species/symbion/introduction.md
 
 extra_css:
   - stylesheets\extra.css

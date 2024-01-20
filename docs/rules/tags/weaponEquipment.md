@@ -15,6 +15,9 @@ Indica que este armamento/equipamento pode ser utilizado um número limitado de 
 #### Contínuo 
 Indica que o armamento/equipamento não sofre as penalizações normais da regra de ataque contínuo. Você não sofre penalização no segundo ataque contínuo. Você sofre apenas uma penalização de -5 no limite do check no terceiro ataque contínuo.
 
+#### Especial
+Armamento/equipamento tem características especiais, estas estarão informadas.
+
 #### Munição
 Define o tipo de munição, projétil que o armamento/equipamento atira: Normal, Avançada ou Elemento.
 
@@ -26,5 +29,8 @@ Indica que é impossível o desarme do armamento/equipamento.
 
 #### Silencioso
 Indica que o armamento/equipamento não causa sons suficiente para alertar inimigos.
+
+#### Versátil
+Indica que o armamento/equipamento pode ter seu check usado com qualquer uma das seguintes aptidões: Físico, Agilidade, Controle.
 
 

@@ -19,9 +19,9 @@ Resistência (Temperaturas)
 2x Células de Energia (3x se Engenheiro)
 
 **Carga**  
-Equipamento Acesso Rápido x6  
-Munição x100  
-Equipamento x 10
+Equipamento Acesso Rápido x6  (Porta Armas costas e cintura)  
+Munição x100 (Bolsos)  
+Equipamento x 10 (Mochila Tática)  
 
 **Equipamentos**  
 Lanterna de cabeça  
