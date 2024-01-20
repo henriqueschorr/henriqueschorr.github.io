@@ -10,6 +10,9 @@ Abaixo você encontra informações sobre a resiliência dos humanos.
 ### Pontos de Vida (HP)
 Humanos começam com 8 de HP.
 
+### Energia (EN)
+Humanos utilizam Células de Energia presentes na A.N.E. como EN.
+
 ## Anatomia
 Abaixo você encontra informações sobre a anatomia dos humanos.
 Possuem 1 par de braços e de pernas. Também 

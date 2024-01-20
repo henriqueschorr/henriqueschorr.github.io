@@ -196,7 +196,7 @@ Falha: Criatura afetada se volta contra seus aliados e realiza ações hostis so
 Sucesso: Criatura afetada fica Confuso 2.  
 
 **Morram**.  
-Falha: Criatura afetada recebe 1d4 + Nível dano neural no começo de cada turno dela.  
+Falha: Criatura afetada recebe Dano Persistente 2 (Neural) 1VDA Influência + Nível.  
 Sucesso: Criatura afetada fica Medo 2.
 
 ## Checkpoints

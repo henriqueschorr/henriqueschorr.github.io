@@ -29,3 +29,6 @@ Recursos são matérias utilizadas exclusivamente para produção de algo relaci
 ## Equipamentos de Carga
 
 São equipamentos especiais que em vez de consumir da sua capacidade de inventário, acrescenta ao valor máximo da sua capacidade de carga.
+
+### Acesso Rápido
+Alguns equipamentos de carga provém acesso rápido, ou seja, você gasta apenas 1 ação para pegar o equipamento.

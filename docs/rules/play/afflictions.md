@@ -3,7 +3,7 @@ Aflições são condições em que seu personagem se encontra e lhe dão certas 
 | Aflição          | Efeito                                                                                                                                 |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Caído            | Ações e reações são Difícil. Ataques adjacentes contra você são Muito Fácil. Ataques a distância contra você são Fácil.                |
-| Confuso | Alvo ataca alvo mais próximo, aliado ou inimigo. |
+| Confuso          | Alvo ataca alvo mais próximo, aliado ou inimigo.                                                                                       |
 | Controlado       | Criatura tem suas ações e reações definidas por controlador.                                                                           |
 | Dano Persistente | Recebe X de dano Y no início do seu turno. X = valor do dano. Y = tipo do dano.                                                        |
 | Debilitado       | Ações e Reações são Difícil.                                                                                                           |
@@ -41,3 +41,13 @@ Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações e
 | Tato          | Afeta qualquer tipo de tato.                        |
 
 ### Dano Persistente
+
+Dano persistente virá com uma especificação diferente dos demais tipos de aflição.
+
+| Especificação | Detalhes                                                                                                     |
+| ------------- | ------------------------------------------------------------------------------------------------------------ |
+| Sangramento   | Você recebe dano sem tipo. Você deve estancar o sangramento para ele parar.                                  |
+| Fogo          | Você recebe dano do tipo fogo. Você deve apagar o fogo, como por exemplo mergulhar em água.                  |
+| Gelo          | Você recebe dano do tipo gelo. Você deve se aquecer para parar este dano.                                    |
+| Neural        | Você sofre dano do tipo neural. Varia muito a forma de parar este dano.                                      |
+| Veneno        | Você sofre dano do tipo veneno. Você deve neutralizar ou retirar o veneno do seu corpo para parar este dano. |
