@@ -82,7 +82,7 @@ A.N.E torna possível a ligação de uma solução gasosa juntamente com soluç�
 
 ### Infusor de Armadura (3) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Ofensivo, Suporte, Utilidade, Energia_  
 **Custo:** 2x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Infusor    
@@ -91,6 +91,7 @@ A.N.E faz com que seu infusor seja capaz de infundir armaduras do tipo equipamen
 - Escolha uma armadura do tipo equipamento ou um construto para ser o alvo.
 - Caso você escolha um aliado:
     - Todas as criaturas adjacentes ao aliado recebem dano do efeito de infusão.
+    - Aliado ganha Resistência ao tipo de dano.
 - Caso você escolha um inimigo:
     - O inimigo recebe dano do efeito de infusão.
 

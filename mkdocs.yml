@@ -58,11 +58,12 @@ nav:
       - Ciência:
           - Conhecimento: rules/science/knowledge.md
           - Mecânicas Bases: rules/science/mechanics.md
-          - Matéria: rules/science/matter.md
+          - Recursos: rules/science/matteresources.md
           - Ações e Atividades: rules/science/actions.md
       - Armamentos e Armaduras:
           - Armamentos: rules/weapon_armor/weapon.md
           - Armaduras: rules/weapon_armor/armor.md
+          - Munição: rules/weapon_armor/ammo.md
       - Inventário: rules/inventory.md
       - Aprimoramentos: rules/upgrades.md
       - Ambientação:
@@ -94,10 +95,10 @@ nav:
         - species/human/equipment/index.md
         - Armamentos: species/human/equipment/weapons.md
         - Equipamentos: species/human/equipment/equipments.md
-    - Ciência:
-        - species/human/science/index.md
-        - Recursos: species/human/science/resources.md
-        - Receitas: species/human/science/recipes.md
+    - Ciência - Receitas:
+        - species/human/scienceRecipes/index.md
+        - Química: species/human/scienceRecipes/chemistry.md
+        - Biologia: species/human/scienceRecipes/biology.md
 #   - Hivers:
 #       - Introdução: species/hiver/introduction.md      
 #   - Symbions:
