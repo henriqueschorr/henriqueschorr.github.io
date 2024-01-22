@@ -39,7 +39,7 @@ nav:
         - Checks e Rolagens: rules/play/checks.md
         - Modificadores Situacionais: rules/play/situationalModifiers.md
         - Aflições: rules/play/afflictions.md
-        - Benefícios: rules/play/buffs.md
+        - Benefícios (Buffs): rules/play/buffs.md
         - Ações: rules/play/actions.md
         - Ações Livres: rules/play/freeActions.md
         - Reações: rules/play/reactions.md
@@ -48,10 +48,10 @@ nav:
         - Dano: rules/play/damage.md
         - Combo: rules/play/combo.md
         - Descanso: rules/play/rests.md
-      - Modos de Jogo:
-        - rules/game_modes/index.md
-        - Encontro: rules/game_modes/encounter.md
-        - Exploração: rules/game_modes/exploration.md         
+        - Modos de Jogo:
+          - rules/play/game_modes/index.md
+          - Encontro: rules/play/game_modes/encounter.md
+          - Exploração: rules/play/game_modes/exploration.md         
       - Anatomia:
         - rules/anatomy/index.md
         - Corpo: rules/anatomy/body.md
@@ -61,7 +61,7 @@ nav:
         - rules/science/index.md
         - Conhecimento: rules/science/knowledge.md
         - Mecânicas Bases: rules/science/mechanics.md
-        - Recursos: rules/science/matteresources.md
+        - Recursos: rules/science/resources.md
         - Ações e Atividades: rules/science/actions.md
       - Armamentos e Armaduras:
         - rules/weapon_armor/index.md
@@ -72,7 +72,7 @@ nav:
       - Aprimoramentos: rules/upgrades.md
       - Ambientação:
         - rules/ambiance/index.md
-        - Ambientação: rules/ambiance/ambiance.md
+        - Fenômenos Naturais: rules/ambiance/ambiance.md
         - Mecânicas Bases: rules/ambiance/mechanics.md
       - Criaturas: rules/creatures.md
       - Marcadores:
