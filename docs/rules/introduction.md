@@ -7,7 +7,7 @@ Seu personagem também é composto por Resiliência, Características Físicas, 
 
 ## Jogando
 Uma vez que seu personagem esteja pronto, você estará pronto para jogar BTH. O jogo é uma narrativa cooperativa entre os jogadores e o Mestre do Universo (MU). O MU irá colocar seu personagem em algum lugar do universo, descrevendo o que pode ser sentido a sua volta. Você, no papel do seu personagem irá dizer como irá reagir a tudo que o MU lhe impor, assim como os NPCs (personagens controlados pelo MU) irão reagir as suas ações. 
-Algumas ações realizadas por seu personagem ou NPC precisarão ter seu resultado decidido por um Check: você rola um d100, adiciona ou subtrai modificadores baseado no contexto da ação, e então o resultado desse check lhe dirá se sua ação foi realizada com Sucesso ou Falha. Você também pode ter resultados como Sucesso Parcial, Sucesso Crítico ou Falha Crítica. Para mais detalhes, veja o capítulo de [Checks e Rolagens]().
+Algumas ações realizadas por seu personagem ou NPC precisarão ter seu resultado decidido por um Check: você rola um d100, adiciona ou subtrai modificadores baseado no contexto da ação, e então o resultado desse check lhe dirá se sua ação foi realizada com Sucesso ou Falha. Você também pode ter resultados como Sucesso Parcial, Sucesso Crítico ou Falha Crítica. Para mais detalhes, veja o capítulo de [Checks e Rolagens](../rules/play/checks.md).
 O jogo todo gira em torno de dois modos distintos, estes que intercalam entre um e outro ao longo da aventura.
 
 ### Exploração

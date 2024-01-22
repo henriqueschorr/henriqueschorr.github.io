@@ -16,89 +16,94 @@ theme:
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
-  - Home: index.md
-  - Regras:
-      - Introdução: rules/introduction.md
+    - Regras:
+      - rules/index.md  
       - Personagem:
-          - Espécies: rules/character/species.md
-          - Atributos:
-              - Aptidões: rules/character/aptitudes.md
-              - Competências: rules/character/skills.md
-          - Resiliência: rules/character/resilience.md
-          - Anatomia: rules/character/anatomy.md
-          - Rapidez: rules/character/quickness.md
-          - Conhecimento Científico: rules/character/scienceKnowledge.md
-          - Passivas: rules/character/passives.md
-          - Ações, Reações e Habilidades: rules/character/actionsReactions.md
-          - Armamentos e Armaduras: rules/character/weaponArmor.md
-          - Inventário: rules/character/inventory.md          
-          - Sobrevivência: rules/character/survival.md
-          - Aprimoramentos: rules/character/upgrades.md
-          - Nível: rules/character/level.md
+        - rules/character/index.md
+        - Espécies: rules/character/species.md
+        - Aptidões: rules/character/aptitudes.md
+        - Competências: rules/character/skills.md
+        - Resiliência: rules/character/resilience.md
+        - Anatomia: rules/character/anatomy.md
+        - Rapidez: rules/character/quickness.md
+        - Conhecimento Científico: rules/character/scienceKnowledge.md
+        - Passivas: rules/character/passives.md
+        - Ações, Reações e Habilidades: rules/character/actionsReactions.md
+        - Armamentos e Armaduras: rules/character/weaponArmor.md
+        - Inventário: rules/character/inventory.md          
+        - Sobrevivência: rules/character/survival.md
+        - Aprimoramentos: rules/character/upgrades.md
+        - Nível: rules/character/level.md
       - Jogando:
-          - Checks e Rolagens: rules/play/checks.md
-          - Modificadores Situacionais: rules/play/situationalModifiers.md
-          - Aflições: rules/play/afflictions.md
-          - Benefícios: rules/play/buffs.md
-          - Ações: rules/play/actions.md
-          - Ações Livres: rules/play/freeActions.md
-          - Reações: rules/play/reactions.md
-          - Habilidades: rules/play/abilities.md
-          - Alcance e Área de Efeito: rules/play/reachArea.md
-          - Dano: rules/play/damage.md
-          - Combo: rules/play/combo.md
-          - Descanso: rules/play/rests.md
+        - rules/play/index.md
+        - Checks e Rolagens: rules/play/checks.md
+        - Modificadores Situacionais: rules/play/situationalModifiers.md
+        - Aflições: rules/play/afflictions.md
+        - Benefícios: rules/play/buffs.md
+        - Ações: rules/play/actions.md
+        - Ações Livres: rules/play/freeActions.md
+        - Reações: rules/play/reactions.md
+        - Habilidades: rules/play/abilities.md
+        - Alcance e Área de Efeito: rules/play/reachArea.md
+        - Dano: rules/play/damage.md
+        - Combo: rules/play/combo.md
+        - Descanso: rules/play/rests.md
       - Modos de Jogo:
-          - Encontro: rules/game_modes/encounter.md
-          - Exploração: rules/game_modes/exploration.md         
+        - rules/game_modes/index.md
+        - Encontro: rules/game_modes/encounter.md
+        - Exploração: rules/game_modes/exploration.md         
       - Anatomia:
-          - Corpo: rules/anatomy/body.md
-          - Movimento: rules/anatomy/movement.md
-          - Sentidos: rules/anatomy/senses.md
+        - rules/anatomy/index.md
+        - Corpo: rules/anatomy/body.md
+        - Movimento: rules/anatomy/movement.md
+        - Sentidos: rules/anatomy/senses.md
       - Ciência:
-          - Conhecimento: rules/science/knowledge.md
-          - Mecânicas Bases: rules/science/mechanics.md
-          - Recursos: rules/science/matteresources.md
-          - Ações e Atividades: rules/science/actions.md
+        - rules/science/index.md
+        - Conhecimento: rules/science/knowledge.md
+        - Mecânicas Bases: rules/science/mechanics.md
+        - Recursos: rules/science/matteresources.md
+        - Ações e Atividades: rules/science/actions.md
       - Armamentos e Armaduras:
-          - Armamentos: rules/weapon_armor/weapon.md
-          - Armaduras: rules/weapon_armor/armor.md
-          - Munição: rules/weapon_armor/ammo.md
+        - rules/weapon_armor/index.md
+        - Armamentos: rules/weapon_armor/weapon.md
+        - Armaduras: rules/weapon_armor/armor.md
+        - Munição: rules/weapon_armor/ammo.md
       - Inventário: rules/inventory.md
       - Aprimoramentos: rules/upgrades.md
       - Ambientação:
+        - rules/ambiance/index.md
         - Ambientação: rules/ambiance/ambiance.md
         - Mecânicas Bases: rules/ambiance/mechanics.md
       - Criaturas: rules/creatures.md
       - Marcadores:
+        - rules/tags/index.md
         - Espécie e Criaturas: rules/tags/creatures.md
         - Habilidades: rules/tags/abilities.md
         - Armamentos e Equipamentos: rules/tags/weaponEquipment.md
-        # - Armaduras: rules/tags/armor.md        
-  - Humanos:
+    - Humanos:
       - Introdução: species/human/introduction.md
       - Características Básicas: species/human/basics.md
       - A.N.E.: species/human/ane.md
       - Classes:
         - species/human/index.md
         - Segurança:
-            - species/human/security/index.md
-            - Soldado: species/human/security/soldier.md
-            - Batedor: species/human/security/scout.md
+          - species/human/security/index.md
+          - Soldado: species/human/security/soldier.md
+          - Batedor: species/human/security/scout.md
         - Técnico:
-            - species/human/technician/index.md
-            - Cientista: species/human/technician/scientist.md
+          - species/human/technician/index.md
+          - Cientista: species/human/technician/scientist.md
         - Agente:
-            - species/human/agent/index.md
-            - Capitão: species/human/agent/captain.md
-    - Equipamentos:
-        - species/human/equipment/index.md
-        - Armamentos: species/human/equipment/weapons.md
-        - Equipamentos: species/human/equipment/equipments.md
-    - Ciência - Receitas:
-        - species/human/scienceRecipes/index.md
-        - Química: species/human/scienceRecipes/chemistry.md
-        - Biologia: species/human/scienceRecipes/biology.md
+          - species/human/agent/index.md
+          - Capitão: species/human/agent/captain.md
+        - Equipamentos:
+          - species/human/equipment/index.md
+          - Armamentos: species/human/equipment/weapons.md
+          - Equipamentos: species/human/equipment/equipments.md
+        - Ciência Receitas:
+          - species/human/scienceRecipes/index.md
+          - Química: species/human/scienceRecipes/chemistry.md
+          - Biologia: species/human/scienceRecipes/biology.md
 #   - Hivers:
 #       - Introdução: species/hiver/introduction.md      
 #   - Symbions:

@@ -1,4 +1,4 @@
-Abaixo você encontra todas as soluções que humanos podem produzir na área da química. Qualquer humano pode tentar produzir as soluções, porém é necessário um local e ferramentas apropriadas para fazê-lo. Esta área é dominada pelos Cientistas, ainda mais possuindo seu laboratório móvel, que os permite produzir as soluções em qualquer momento e local.
+Abaixo você encontra todas as soluções que humanos podem produzir na área da química. Esta área é dominada pelos Cientistas, ainda mais possuindo seu laboratório móvel que os permite produzir as soluções em qualquer momento e local.
 
 ### Leitura das Tabelas
 
@@ -33,13 +33,13 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 
 Soluções elementais liberam elementos na área, causando dano no tipo do elemento ou criando terrenos. Possuem <ins>Complexidade de criação Média</ins>.
 
-| Solução    | Consumo | Receita                                 | Efeito                                                                    |
-| ---------- | ------- | --------------------------------------- | ------------------------------------------------------------------------- |
-| Fogo       | Toque   | 2x Solvente Gasoso, 2x Soluto Iônico    | 2RDA Cérebro + Nível dano fogo.                                           |
-| Gelo       | Toque   | 2x Solvente Sólido, 2x Soluto Iônico    | 2RDA Cérebro + Nível dano gelo.                                           |
-| Escorregão | Toque   | 2x Solvente Sólido, 1x Soluto Molecular | Check Agilidade ou Caído. Área 4m.                                        |
-| Ácido      | Toque   | 2x Solvente Líquido, 2x Soluto Iônico   | 2RDA Cérebro + Nível dano corrosivo.                                      |
-| Parede     | Toque   | 3x Solvente Sólido, 1x Soluto Iônico    | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. |
+| Solução    | Consumo | Receita                                 | Efeito                                                                                  |
+| ---------- | ------- | --------------------------------------- | --------------------------------------------------------------------------------------- |
+| Fogo       | Toque   | 2x Solvente Gasoso, 2x Soluto Iônico    | 2RDA Cérebro + Nível dano fogo.                                                         |
+| Gelo       | Toque   | 2x Solvente Sólido, 2x Soluto Iônico    | 2RDA Cérebro + Nível dano gelo.                                                         |
+| Escorregão | Toque   | 2x Solvente Sólido, 1x Soluto Molecular | Check Agilidade ou Caído. Área 4m.                                                      |
+| Ácido      | Toque   | 2x Solvente Líquido, 2x Soluto Iônico   | 2RDA Cérebro + Nível dano corrosivo.                                                    |
+| Parede     | Toque   | 3x Solvente Sólido, 1x Soluto Iônico    | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 HP.  |
 
 ## Solução Avançada
 
