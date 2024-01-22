@@ -1,11 +1,11 @@
 ## Nível de Conhecimento
 Os níveis de conhecimento de uma área da ciência varia de espécie para espécie e de indivíduo para indivíduo. Há 3 níveis de conhecimento sobre uma área específica:
 
-### Sem Conhecimento
+### Desconhecido
 Personagens sem conhecimento sobre uma área, ou sobre ciência como um todo, não podem executar ações relacionadas à ciência/área.
 
-### Conhecimento
-Personagens com conhecimento sobre uma área, ou sobre ciência como um todo, podem executar ações relacionadas a área, porém executam as mesmas com desvantagem.
+### Familiar
+Personagens familiares com uma área, ou sobre ciência como um todo, possuem conhecimento e podem executar ações relacionadas a área, porém executam as mesmas com desvantagem.
 
 ### Perícia
 Personagens com perícia sobre uma área, ou sobre ciência como um todo, podem executar ações relacionadas a área normalmente.

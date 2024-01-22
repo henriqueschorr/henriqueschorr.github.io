@@ -2,7 +2,7 @@
 Humanoid, Racional.
 
 ## Atributos
-Humanos começam com todos os atributos em 30 pontos.
+Humanos começam com todos os atributos (aptidões e competências) em 30 pontos.
 
 ## Resiliência
 Abaixo você encontra informações sobre a resiliência dos humanos.
@@ -24,13 +24,13 @@ Humanos são considerados tamanho médio.
 Humanos possuem os seguintes setindos: Visão, Audição, Olfato, Paladar e Tato.
 
 ### Partes do Corpo
-Humanos são seres bípedes que possuem todas as [partes do corpo](), menos a cauda. 
+Humanos são seres bípedes que possuem todas as [partes do corpo](../../rules/anatomy/body.md#partes-do-corpo), menos a cauda. 
 
 ### Sistemas do Corpo
-Possuem todos os [sistemas do corpo]().
+Possuem todos os [sistemas do corpo](../../rules/anatomy/body.md#sistemas-do-corpo).
 
 ## Conhecimento Científico
-Humanos possuem conhecimento científico sobre todas as áreas.
+Humanos são familiares com todas as áreas da ciência.
 
 ## Ações e Reações
 Humanos podem realizar todas ações e reações básicas.

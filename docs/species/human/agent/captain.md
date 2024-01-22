@@ -10,17 +10,30 @@ A.N.E Leve, 1x Rifle de Assalto, 1x Pistola, 1x Faca de Combate, 1x Neurotransmi
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                       |
-| ----- | ------------------------------------ |
-| 1     | Atributos + A.N.E. Leve + Inspiração |
-| 2     | Preparação \| Sugestão               |
-| 3     | Planejamento \| Comando              |
-| 4     | Rede Neural + Proteção Neural        |
-| 5     | Arte da Guerra \| Palavra Final      |
+<!-- | Nível | Aprimoramentos                                                                                                                          |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [Atributos](#aprimoramento-de-atributos-1) + [Perícia](#perícia-1) + [A.N.E. Leve](../../human/ane.md) + [Inspiração](#inspiração-1-▶️) |
+| 2     | [Preparação](#preparação-2-🕘) \| [Sugestão](#sugestão-2-▶️)                                                                            |
+| 3     | [Planejamento](#planejamento-3-🕘-🔶) \| [Comando](#comando-3-▶️)                                                                       |
+| 4     | [Rede Neural](#rede-neural-4-▶️) + [Proteção Neural](#proteção-neural-4-▶️-🔶)                                                          |
+| 5     | [Arte da Guerra](#arte-da-guerra-5-🔄) \| [Palavra Final](#palavra-final-5-⏩)                                                          | -->
+
+| Nível | Aprimoramentos                                                       |
+| ----- | -------------------------------------------------------------------- |
+| 1     | Atributos + Perícia + [A.N.E. Leve](../../human/ane.md) + Inspiração |
+| 2     | Preparação \| Sugestão                                               |
+| 3     | Planejamento \| Comando                                              |
+| 4     | Rede Neural + Proteção Neural                                        |
+| 5     | Arte da Guerra \| Palavra Final                                      |
 
 ### Aprimoramento de Atributos (1)
 
-Você recebe 10 pontos de aptidão e 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+
+### Perícia (1)
+
+Você pode escolher uma das áreas da ciência para adquirir Perícia.
 
 ### A.N.E. Leve (1)
 
@@ -34,7 +47,7 @@ _Habilidade (Ajudar)_ \| _Suporte, Utilidade, Energia_
 **Custo:** 1x Célula de Energia  
 **Duração:** 1min  
 **Alvo:** Aliados  
-**Alcance:** 30m   
+**Alcance:** 30m  
 Ao realizar ações durante o tempo de duração desta habilidade, A.N.E. transmite sinais para o cérebro de seus aliados, forçando a liberação de hormônios incentivadores como adrenalina e cortisol, tornando assim, em poucas palavras, suas ações inspiradoras.
 
 - Ao **Mover** pelo menos 6m, seus aliados ganham uma ação livre mover 4m. Este movimento não provoca reações de seus inimigos.
@@ -44,7 +57,7 @@ Ao realizar ações durante o tempo de duração desta habilidade, A.N.E. transm
 
 **Especial:** Caso o aliado saia do alcance desta habilidade após receber o benefício, o efeito não acaba, uma vez que o sinal já foi enviado ao cérebro dele.
 
-### Preparação (2)
+### Preparação (2) :clock9:
 
 _Habilidade (Ajudar)_ \| _Suporte, Utilidade, Energia_  
 **Requerimento:** Neurotransmissor. Você deve estar numa situação fora de perigo, como num descanso.
@@ -72,10 +85,10 @@ A.N.E. libera energia direcionada criaturas na área e controla a liberação ou
 - Todas suas ações de Interagir - Social são Fácil.
 - Qualquer check de Influência seu ou de seus aliados é Fácil.
 
-### Planejamento (3) :large_orange_diamond: 
+### Planejamento (3) :clock9: :large_orange_diamond:
 
 _Habilidade (Ajudar)_ \| _Suporte, Utilidade, Energia_  
-**Pré Requisito:** Preparação    
+**Pré Requisito:** Preparação  
 **Requerimento:** Neurotransmissor. Você deve estar numa situação fora de perigo, como num descanso. Você deve ter conhecimento geral sobre o campo de ação e os inimigos.
 **Custo:** 1x Célula de Energia  
 **Frequência:** 2x a cada descanso longo  
@@ -99,7 +112,7 @@ Ao utilizar Arte da Guerra você pode imediatamente definir um plano de ação c
 ### Comando (3) :arrow_forward:
 
 _Habilidade (Interagir - Social)_ \| _Utilidade, Energia_  
-**Pré Requisito:** Sugestão   
+**Pré Requisito:** Sugestão  
 **Requerimento:** Neurotransmissor  
 **Custo:** 1x Célula de Energia  
 **Duração:** 10 min  
@@ -113,30 +126,30 @@ A.N.E. libera energia direcionada criaturas na área e controla a liberação ou
 ### Rede Neural (4) :arrow_forward:
 
 _Habilidade (Interagir - Social, Equipamento, Ajudar)_ \| _Utilidade, Energia_  
-**Requerimento:** Neurotransmissor   
+**Requerimento:** Neurotransmissor  
 **Custo:** 1x Célula de Energia  
 **Duração:** 10 min  
 **Alvo:** Aliados  
 **Alcance:** 30m  
 Você conecta seu cérebro aos seus demais aliados, podendo acessar informações sobre seu estado de saúde, e até menos acionar habilidades por eles.
 
-- Você sabe toda e qualquer informação de saúde de seus aliados 
+- Você sabe toda e qualquer informação de saúde de seus aliados
   - HP
   - Aflições e Benefícios
   - Venenos e outros malfeitores que possam estar percorrendo seu corpo
 - Você pode enviar um comando para o cérebro do aliado, fazendo-o utilizar alguma habilidade no momento, desde que esta tenha custo 1 em ação.
-    - O aliado deve permitir o acionamento da habilidade.
-        - O aliado não tem escolha caso esteja Incapacitado (Neural) ou inconsciente.
-    - Caso a habilidade consuma algum recurso, seu aliado irá pagar o custo.
+  - O aliado deve permitir o acionamento da habilidade.
+    - O aliado não tem escolha caso esteja Incapacitado (Neural) ou inconsciente.
+  - Caso a habilidade consuma algum recurso, seu aliado irá pagar o custo.
 
-### Proteção Neural (4) :arrow_forward: :large_orange_diamond: 
+### Proteção Neural (4) :arrow_forward: :large_orange_diamond:
 
 _Habilidade (Proteger)_ \| _Suporte, Energia_  
 **Requerimento:** Neurotransmissor  
 **Custo:** 1x Célula de Energia  
 **Duração:** 3 turnos  
 **Alvo:** Si e Aliados  
-**Alcance:** 20m    
+**Alcance:** 20m  
 Você libera uma onda de energia que atua diretamente no cérebro de seus aliados, liberando-os de condições neurais e protegendo-os até o fim desta habilidade.
 
 - Qualquer aflição neural, é removida de você e aliados.
@@ -144,7 +157,7 @@ Você libera uma onda de energia que atua diretamente no cérebro de seus aliado
 
 **Combo**  
 _Gatilho: Aliado sofre da aflição Controlado._  
-_Custo: 1 CP_  
+_Custo: 1 CP_
 
 ### Arte da Guerra (5) :arrows_counterclockwise:
 
@@ -153,11 +166,11 @@ _Habilidade (Proteger)_ \| _Suporte, Energia_
 **Custo:** 2x Célula de Energia  
 **Duração:** 2 turnos  
 **Alvo:** Aliados  
-**Alcance:** 30m    
+**Alcance:** 30m  
 Você toma nota de tudo ao seu redor, ambiente, armadilhas, criaturas, etc. Você age e instrui seus aliados rapidamente, fazendo-os executar tarefas rapidamente e facilmente, além de deixar seus inimigos debilitados.
 
 - Você diz 1 ação para cada aliado executar no mesmo momento.
-    - A ação executada pelo aliado é Fácil.
+  - A ação executada pelo aliado é Fácil.
 - No próximo turno de cada aliado, o aliado pode realizar uma das ações a sua escolha como Muito Fácil.
 - Todos os ataques dos aliados são passíveis de Explosão de Dano.
 - Todo o dano causado por um aliado tem 1RDA Atenção seu a mais.
@@ -176,54 +189,54 @@ Você diz apenas uma palavra, esta palavra ecoa por toda a distância e se torna
 
 - Você deve escolher se quer afetar aliados, inimigos ou ambos.
 - Você fala uma das seguintes palavras:
-    - Parem.
-    - Paz.
-    - Caos.
-    - Morram.
+  - Parem.
+  - Paz.
+  - Caos.
+  - Morram.
 - Todos os alvos devem realizar um check Interação. Abaixo você vê uma descrição do que cada resultado do check causa.
 
 **Parem**.  
-Falha: Criatura afetada fica congelada no local em que estava quando esta habilidade foi usada, podendo apenas realizar ações relacionadas à comunicação.    
-Sucesso: Criatura fica Limitado 2.  
+Falha: Criatura afetada fica congelada no local em que estava quando esta habilidade foi usada, podendo apenas realizar ações relacionadas à comunicação.  
+Sucesso: Criatura fica Limitado 2.
 
 **Paz**.  
 Falha: Criatura afetada não possui desejo algum de causar atos maléficos contra outras criaturas, se tornando extremamente dócil e aberta a interações amigáveis.  
 Sucesso: Criatura afetada fica Caído e Desarmado 2 por você.  
-Caso a criatura tenha armamento do tipo natural, neste caso ela também é afetada pelo Desarmado.  
+Caso a criatura tenha armamento do tipo natural, neste caso ela também é afetada pelo Desarmado.
 
 **Caos**.  
 Falha: Criatura afetada se volta contra seus aliados e realiza ações hostis somente contra eles até o fim da duração desta habilidade.  
-Sucesso: Criatura afetada fica Confuso 2.  
+Sucesso: Criatura afetada fica Confuso 2.
 
 **Morram**.  
 Falha: Criatura afetada recebe Dano Persistente 2 (Neural) 1VDA Influência + Nível.  
 Sucesso: Criatura afetada fica Medo 2.
 
 ## Checkpoints
+
 Os seguintes checkpoints podem ser utilizados juntamente com a habilidade de planejamento.
 
 #### Posicionamento Estratégico
+
 Você pode dizer para um aliado se posicionar em uma área estratégica. Exemplos: em cima de uma torre, dentro de um bunker, telhado de um prédio alto.  
 O checkpoint é alcançado quando o aliado chega no local planejado.
 
 #### Alvo prioritário
+
 Você pode indicar uma criatura como alvo prioritário a ser atacado. Exemplos: focar inimigo curandeiro, focar inimigo sniper.  
 O checkpoint é alcançado quando 2 ou mais ataques ou habilidades são executadas contra o alvo.
 
 #### Sabotagem
+
 Você indica alguma estrutura, objeto, equipamento ou aparelho que deve ser tomado controle, desabilitado ou destruido. Exemplos: destruir alguma armadilha inimiga, tomar controle de torre metralhadora inimiga, desabilitar camera de segurança.  
 O checkpoint é alcançado quando 1 check de ciência ou, 1 ou mais ataques ou habilidades são executadas para alcançar o objetivo.
 
 #### Guarda Costas
+
 Você indica um alvo, criatura ou objeto que seus aliados devem defender. Exemplos: defenda nosso curandeiro, defensa nossa torre de comunicação.  
 O checkpoint é alcançado quando 1 ação de Defender ou alguma habilidade com o marcador Defesa ou Suporte é utilizada no alvo.
 
 #### Segurar Posição
+
 Você indica uma área de até 6m, você e seus aliados devem se manter nessa área. Exemplo: permaneçam no elevador de carga, fiquem dentro do tanque de guerra.  
 O checkpoint é alcançado quando você e 2 ou mais aliados permanecem na área de 6m por 2 ou mais turnos.
-
-
-
-
-
-

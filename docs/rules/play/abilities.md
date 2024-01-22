@@ -92,11 +92,12 @@ Descrição do combo caso necessária.
 
 Abaixo você encontra os símbolos identificadores de ação/reação:
 
-| Símbolo                     | Identifica                         |
-| --------------------------- | ---------------------------------- |
-| :arrow_forward:             | 1 ação                             |
-| :fast_forward:              | 2 ações                            |
-| :leftwards_arrow_with_hook: | 1 reação                           |
-| :arrows_counterclockwise:   | Turno inteiro (3 ações + 1 reação) |
-| :large_orange_diamond:      | Habilidade possui combo            |
-| :free:                      | Ação Livre                         |
+| Símbolo                     | Identifica                                                                        |
+| --------------------------- | --------------------------------------------------------------------------------- |
+| :arrow_forward:             | 1 ação                                                                            |
+| :fast_forward:              | 2 ações                                                                           |
+| :leftwards_arrow_with_hook: | 1 reação                                                                          |
+| :arrows_counterclockwise:   | Turno inteiro (3 ações + 1 reação)                                                |
+| :large_orange_diamond:      | Habilidade possui combo                                                           |
+| :free:                      | Ação Livre                                                                        |
+| :clock9:                    | Atividade: habilidade terá tempo de execução medida em minutos ou maior intervalo |

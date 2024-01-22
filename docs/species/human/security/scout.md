@@ -22,7 +22,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 | Nível | Aprimoramentos                         |
 | ----- | -------------------------------------- |
-| 1     | Atributos + A.N.E. Leve + Camuflagem   |
+| 1     | Atributos + Perícia +[A.N.E. Leve](../../human/ane.md) + Camuflagem   |
 | 2     | Flecha Silenciadora \| Lâmina Elétrica |
 | 3     | Flecha Atordoadora \| Serra Elétrica   |
 | 4     | Gancho Magnético + Chamariz            |
@@ -30,7 +30,12 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ### Aprimoramento de Atributos (1)
 
-Você recebe 10 pontos de aptidão e 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+
+### Perícia (1)
+
+Você pode escolher uma das áreas da ciência para adquirir Perícia.
 
 ### A.N.E. Leve (1)
 
