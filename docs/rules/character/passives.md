@@ -1,3 +1,3 @@
 Muitas espécies possuem características especiais que podem ativar automaticamente dado um determinado gatilho, ou estão sempre ativas. Estas características são chamadas de Passivas e lhe concedem mecânicas especiais que podem variar de habilidades a distorção/quebra das regras do jogo, exemplos:
 
-- A especialização de Batedor dos Humanos lhe concede a possibilidade de usar a regra de [explosão de dano]() sempre que você obter sucesso crítico em um ataque, não apenas durante [ações surpresas]().
+- A especialização de Batedor dos Humanos lhe concede a possibilidade de usar a regra de [Explosão de Dano](../play/damage.md#explosão-de-dano) sempre que você obter sucesso crítico em um ataque, não apenas durante [Ações Surpresas](../../play/situationalModifiers/#acao-surpresa).

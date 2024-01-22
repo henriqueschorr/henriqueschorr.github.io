@@ -27,13 +27,13 @@ Basicamente toda ação e reação requisita um check de competência. Este chec
 Dependendo do valor tirado no check (d100), o resultado da sua ação pode ser considerado um sucesso ou falha crítica.
 
 ### Sucesso Crítico
-Quando você tira números iguais no d100 e igual ou abaixo ao valor necessário, seu check é um sucesso crítico. Sucessos críticos podem ter efeitos adicionais, como por exemplo, durante um ataque, o tipo de dano da arma/habilidade causa efeitos adicionais. Mais informações na seção [Tipos de Dano]().
+Quando você tira números iguais no d100 e igual ou abaixo ao valor necessário, seu check é um sucesso crítico. Sucessos críticos podem ter efeitos adicionais, como por exemplo, durante um ataque, o tipo de dano da arma/habilidade causa efeitos adicionais. Mais informações na seção [Tipos de Dano](./damage.md#tipos-de-dano).
 
 ***Exemplo:** Remella possui valor 50 em Combate e ataca novamente com seu arco um inimigo, tirando 33 no check.*  
 - *Por serem números iguais e abaixo do valor necessário (50), o ataque é um sucesso crítico.*  
 - *Por ser um ataque e o tipo de dano da flecha é perfuração, o inimigo recebe a aflição Dano Persistente.*
 
-Sucesso Crítico também acontece quando você tira 1 no d100. Se o check for para um ataque, este ataque também recebe [Dano Dobrado]().
+Sucesso Crítico também acontece quando você tira 1 no d100. Se o check for para um ataque, este ataque também recebe [Dano Dobrado](./damage.md#dano-dobrado).
 
 ### Falha Crítica
 Segue a mesma lógica do sucesso crítico, porém acontece quando o valor igual tirado é acima do valor necessário para sucesso, ou quando você tira 100 no d100. Efeitos extras acontecem somente se explícito na descrição ou caso o MU ache necessário a punição.

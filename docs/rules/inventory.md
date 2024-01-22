@@ -1,4 +1,4 @@
-Algumas espécies, como os humanos, fazem uso de [Equipamentos](), ferramentas, [Munições]() e [Recursos]() para suplementar suas ações e ataques. Seu personagem deve ser capaz de carregar estes itens, para isso existe o sistema de inventário informando o quanto de equipamento, munições e recursos seu personagem é capaz de carregar.
+Algumas espécies, como os humanos, fazem uso de [Equipamentos](#equipamentos), ferramentas, [Munições](#munições) e [Recursos](#recursos) para suplementar suas ações e ataques. Seu personagem deve ser capaz de carregar estes itens, para isso existe o sistema de inventário informando o quanto de equipamento, munições e recursos seu personagem é capaz de carregar.
 
 ## Sistema de Inventário
 

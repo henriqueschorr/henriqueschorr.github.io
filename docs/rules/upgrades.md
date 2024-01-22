@@ -23,7 +23,7 @@ Seu personagem recebe um equipamento novo ou é feita alguma alteração em algu
 
 ##### Habilidade
 Seu personagem recebe uma habilidade nova ou é feita alguma alteração em alguma habilidade já existente.  
-Caso um aprimoramento também seja uma habilidade, ele poderá conter também as características listadas em [Habilidades]().
+Caso um aprimoramento também seja uma habilidade, ele poderá conter também as características listadas em [Habilidades](./play/abilities.md).
 
 ##### Passiva
 Seu personagem recebe uma passiva nova ou é feita alguma alteração em alguma passiva já existente.
@@ -64,6 +64,6 @@ Descrição sobre a habilidade.
 **Combo:** descrição do combo.  
 **Especial:** explicação sobre mecânicas e sinergias especiais.  
 
-Para saber os símbolos de ação/reação que aparecem nas habilidades, visite o capítulo de [Apresentação]() de [Habilidades]().
+Para saber os símbolos de ação/reação que aparecem nas habilidades, visite o capítulo de [Apresentação](./play/abilities.md#apresentação) de [Habilidades](./play/abilities.md).
 
 

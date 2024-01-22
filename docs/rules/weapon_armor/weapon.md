@@ -35,7 +35,7 @@ Indica formato (linha reta, cone, esfera) e tamanho da área de impacto, caso im
 Indica o dano base da arma.
 
 #### Munição
-Indica o tipo de munição que o armamento usa, caso possua. Se possuir, é necessário no mínimo uma munição do tipo do armamento para poder atacar com ele. Para mais informações sobre, veja a sessão [Munições]().
+Indica o tipo de munição que o armamento usa, caso possua. Se possuir, é necessário no mínimo uma munição do tipo do armamento para poder atacar com ele. Para mais informações sobre, veja a sessão [Munições](ammo.md).
 
 #### Capacidade
 Indica a capacidade de munição que o armamento pode utilizar antes de ser necessário seu carregamento.
@@ -44,7 +44,7 @@ Indica a capacidade de munição que o armamento pode utilizar antes de ser nece
 Alguns armamentos podem causar efeitos, como exemplo pode causar alguma aflição quando utilizado. Esta seção indica o check, se necessário, que o alvo deve realizar e o efeito que o ataque causa.
 
 #### Marcadores
-Lista de marcadores que definem comportamento e outras características especiais do armamento. Para saber os marcadores possíveis de armamento, veja a sessão [Armamentos]() de [Marcadores]().
+Lista de marcadores que definem comportamento e outras características especiais do armamento. Para saber os marcadores possíveis de armamento, veja a sessão [Armamentos](../tags/weaponEquipment.md) de [Marcadores](../tags/index.md).
 
 #### Especial
 Qualquer regra especial que não se encaixa em alguma das características anteriores.

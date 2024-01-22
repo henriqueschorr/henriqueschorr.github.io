@@ -2,11 +2,11 @@ Reações também são ações, porém ocorrem fora do seu turno, sendo acionada
 
 | Reação          | Custo | Gatilho                                                                               | Resultado                                                                                                                                     |
 | --------------- | ----- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Esquivar]()    | 1     | Ataque contra você.                                                                   | Esquiva de ataque inimigo.                                                                                                                    |
-| [Defender]()    | 1     | Ataque contra você.                                                                   | Usa de equipamento ou armamento natural para se Defender de ataque inimigo. Podendo realizar um ataque de retribuição se bem sucedido.        |
-| [Proteger]()    | 1     | Ataque contra um aliado.                                                              | Protege aliado, criatura ou objeto.                                                                                                           |
-| [Retribuição]() | 1     | Inimigo mova-se para distância fora de alcance adjacente ou ataca um de seus aliados. | Você pode realizar um ataque caso um inimigo adjacente a você mova-se para longe, ou caso um inimigo ataque outra criatura que não seja você. |
-| [Habilidade]()  | Varia | Varia                                                                                 | Usar alguma Habilidade do seu personagem.                                                                                                     |
+| [Esquivar](#esquivar)    | 1     | Ataque contra você.                                                                   | Esquiva de ataque inimigo.                                                                                                                    |
+| [Defender](#defender)    | 1     | Ataque contra você.                                                                   | Usa de equipamento ou armamento natural para se Defender de ataque inimigo. Podendo realizar um ataque de retribuição se bem sucedido.        |
+| [Proteger](#proteger)    | 1     | Ataque contra um aliado.                                                              | Protege aliado, criatura ou objeto.                                                                                                           |
+| [Retribuição](#retribuição) | 1     | Inimigo mova-se para distância fora de alcance adjacente ou ataca um de seus aliados. | Você pode realizar um ataque caso um inimigo adjacente a você mova-se para longe, ou caso um inimigo ataque outra criatura que não seja você. |
+| [Habilidade](#habilidade)  | Varia | Varia                                                                                 | Usar alguma Habilidade do seu personagem.                                                                                                     |
 
 ## Esquivar
 

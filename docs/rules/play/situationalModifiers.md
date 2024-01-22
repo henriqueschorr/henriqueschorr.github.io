@@ -3,7 +3,7 @@ Ações Surpresas acontecem quando você realiza alguma ação contra uma criatu
 
 - Ações contra inimigos surpreendidos são Muito Fácil.    
 - Inimigos não podem usar reações.    
-- [Explosão de Dano]().
+- [Explosão de Dano](./damage.md#explosão-de-dano).
 
 ### Ataques a distância contra inimigos adjacentes
 Quando você realiza ataques a distância contra um inimigo adjacente, o ataque é realizado com desvantagem.

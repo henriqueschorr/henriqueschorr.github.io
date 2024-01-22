@@ -16,7 +16,7 @@ Uma habilidade também pode custar o turno inteiro, consumindo assim 2 ações e
 
 #### Marcador
 
-Lista de marcadores que definem comportamento e outras características especiais da habilidade. Para saber os marcadores possíveis de habilidade, veja a sessão [Habilidades]() de [Marcadores]().
+Lista de marcadores que definem comportamento e outras características especiais da habilidade. Para saber os marcadores possíveis de habilidade, veja a sessão [Habilidades](../tags/abilities.md) de [Marcadores](../tags/index.md).
 
 #### Requerimento
 
@@ -56,7 +56,7 @@ Esta seção descreve os efeitos e/ou benefícios ao usar esta habilidades. Tamb
 
 #### Combo
 
-Indica o custo de CP (Pontos de Combo), o gatilho e o efeito ao usar essa habilidade em modo Combo. Para mais informações sobre este assunto, veja o capítulo [Combo]().
+Indica o custo de CP (Pontos de Combo), o gatilho e o efeito ao usar essa habilidade em modo Combo. Para mais informações sobre este assunto, veja o capítulo [Combo](combo.md).
 
 #### Especial
 

@@ -16,7 +16,7 @@ Alguns armamentos ou habilidades mais avançadas podem ter mais de um tipo de da
 
 ## Explosão de Dano
 
-A explosão de dano pode acontecer durante [Ações Surpresas]() ou caso algum armamento, habilidade ou outra característica do seu personagem informa o mesmo. Quando um ataque seu possui explosão de dano, você soma 1 RAD da aptidão ao dano total, podendo continuar rolando o RAD caso você tire o valor máximo do dado, indefinidamente.
+A explosão de dano pode acontecer durante [Ações Surpresas](./situationalModifiers.md#ação-surpresa) ou caso algum armamento, habilidade ou outra característica do seu personagem informa o mesmo. Quando um ataque seu possui explosão de dano, você soma 1 RAD da aptidão ao dano total, podendo continuar rolando o RAD caso você tire o valor máximo do dado, indefinidamente.
 
 _**Exemplo:** Remella está em furtividade e tem uma ação surpresa contra o inimigo. Ele decide atacar o inimigo, tendo assim, explosão de dano_.
 

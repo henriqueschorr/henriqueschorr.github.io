@@ -1,4 +1,4 @@
-Indica o quanto seu personagem é familiarizado com as leis e os específicos de uma área de ciência. Se seu personagem possui conhecimento sobre uma área, ele pode realizar um check de Ciência para tarefas relacionadas a esta área. O check é realizado com desvantagem, a não ser que seu personagem possua [Perícia](). Para mais informações, veja mais o capítulo [Ciência]().
+Indica o quanto seu personagem é familiarizado com as leis e os específicos de uma área de ciência. Se seu personagem possui conhecimento sobre uma área, ele pode realizar um check de Ciência para tarefas relacionadas a esta área. O check é realizado com desvantagem, a não ser que seu personagem possua [Perícia](../science/knowledge#perícia). Para mais informações, veja mais o capítulo [Ciência](../science/index.md).
 
 ## Receitas
 Espécies que possuem conhecimento científico geralmente possuem receitas do que podem produzir. Seu personagem terá acesso a essas receitas baseado de acordo com o valor da sua aptidão de Cérebro. Maiores detalhes estarão no livro de regra de cada espécie.
