@@ -88,11 +88,11 @@ Todos os aprimoramentos de armamentos I possuem complexidade Média.
 
 ## Aprimoramentos de Armamentos II
 
-Todos os aprimoramentos de armamentos I possuem complexidade Alta.
+Todos os aprimoramentos de armamentos II possuem complexidade Alta.
 
-| Receita           | Alvo                                             | Componentes                        | Efeito                                          |
-| ----------------- | ------------------------------------------------ | ---------------------------------- | ----------------------------------------------- |
-| Fio Etéreo        | Armas Brancas de alcance adjacente               | 2x Sucata, 2x Material Químico     | Aumenta em 1 nível o dado de dano do armamento. |
-| Tensionamento     | Arco Composto                                    | 2x Sucata, 2x Material Tecnológico | Aumenta em 1 nível o dado de dano do armamento. |
-| Impacto Explosivo | Armas de Fogo que usam munição comum ou avançada | 2x Sucata, 2x Material Tecnológico | Aumenta em 1 nível o dado de dano do armamento. |
-| Especialização    | Armas de Fogo que usam munição comum ou avançada | 2x Sucata, 2x Material Tecnológico | Aumenta em 1 nível o dado de dano do armamento. |
+| Receita           | Alvo                                             | Componentes                                                                           | Efeito                                                                                                      |
+| ----------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Fio Etéreo        | Armas Brancas de alcance adjacente               | 1x Material Raro, 2x Material Químico                                                 | Todo ataque pode causar 50% Dano Persistente 1 (Sangramento). Check Físico.                                 |
+| Arpão Perfurante  | Arco Composto                                    | 1x Material Raro, 2x Material Tecnológico                                             | Armamento recebe o marcador Perfuração para sempre.                                                         |
+| Impacto Explosivo | Armas de Fogo que usam munição comum ou avançada | 1x Material Radioativo, 2x Material Tecnológico                                       | Todos os ataques causam 1RDA Controle a mais de dano corte.                                                 |
+| Especialização    | Armas Especiais específicas de personagem        | 1x Material Raro, 2x Material Tecnológico, 1x Material Químico, 1x Material Biológico | Aprimora armamento ou equipamento especial de um personagem. Veja uma lista abaixo dos efeitos específicos. |

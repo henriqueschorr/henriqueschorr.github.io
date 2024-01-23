@@ -26,7 +26,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | 2     | Flecha Silenciadora \| Lâmina Elétrica |
 | 3     | Flecha Atordoadora \| Serra Elétrica   |
 | 4     | Gancho Magnético + Chamariz            |
-| 5     | Flecha Luz \| Nuvem de Lâminas         |
+| 5     | Flecha Arpão \| Nuvem de Lâminas         |
 
 ### Aprimoramento de Atributos (1)
 
@@ -138,7 +138,7 @@ A.N.E. cria uma cópia sua e a faz se mover em alguma direção por 2 turnos. Vo
 - Criaturas que forem realizar alguma ação contra você devem rolar um d20. Em um resultado de 10 ou menos, a ação é feita contra o chamariz.
 - Aliados não Controlados sabem quem é você e quem é o chamariz.
 
-### Flecha Luz (5) :fast_forward: :large_orange_diamond:
+### Flecha Arpão (5) :fast_forward: :large_orange_diamond:
 
 _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
 **Requerimento:** Arco Composto  
