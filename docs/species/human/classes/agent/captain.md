@@ -20,7 +20,7 @@ A.N.E Leve, 1x Rifle de Assalto, 1x Pistola, 1x Faca de Combate, 1x Neurotransmi
 
 | Nível | Aprimoramentos                                                       |
 | ----- | -------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Leve](../../human/ane.md) + Inspiração |
+| 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Inspiração |
 | 2     | Preparação \| Sugestão                                               |
 | 3     | Planejamento \| Comando                                              |
 | 4     | Rede Neural + Proteção Neural                                        |

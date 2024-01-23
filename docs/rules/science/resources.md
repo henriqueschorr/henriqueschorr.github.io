@@ -20,3 +20,6 @@ Micro-processadores, placas-mães, baterias e outros componentes usados para fab
 
 ## Material Radioativo
 Materiais compostos por elementos radioativos. Geralmente usado com checks envolvendo a ciência de Química.
+
+## Material Raro
+Algum material raro, seja algum minério, placa-mãe avançada, componente raro, etc.

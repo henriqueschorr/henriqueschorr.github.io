@@ -22,7 +22,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 | Nível | Aprimoramentos                         |
 | ----- | -------------------------------------- |
-| 1     | Atributos + Perícia +[A.N.E. Leve](../../human/ane.md) + Camuflagem   |
+| 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem   |
 | 2     | Flecha Silenciadora \| Lâmina Elétrica |
 | 3     | Flecha Atordoadora \| Serra Elétrica   |
 | 4     | Gancho Magnético + Chamariz            |

@@ -8,7 +8,7 @@ Neste capítulo você encontrará todas as informações sobre como jogar Beyond
 Apresenta a regra de check usando 1d100 roll under, checks adaptativos e auxílio de aptidão. Também especifica sucesso e falha crítica, níveis de dificuldade, vantagem e desvantagem.
 
 [Modificadores Situacionais](./situationalModifiers.md)  
-Apresenta situações que alteram o modo em que você realiza um check ou resolve alguma situação. Agrega regras sobre ação surpresa, disputa, furtividade, patrulha & vigia, proteção, terreno alto e terreno difícil.
+Apresenta situações que alteram o modo em que você realiza um check ou resolve alguma situação. Agrega regras sobre ataques múltiplos, furtividade, ação surpresa, disputa, patrulha & vigia, proteção, terreno alto e terreno difícil.
 
 [Aflições](./afflictions.md)  
 Apresenta uma lista das aflições que podem ser exercidas no seu personagem e seus efeitos. Assim como regras de tempo de duração da aflição, especificação e dano persistente.

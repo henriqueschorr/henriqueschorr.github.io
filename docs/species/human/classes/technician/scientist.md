@@ -21,7 +21,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 | Nível | Aprimoramentos                                                               |
 | ----- | ---------------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Leve](../../human/ane.md) + Legenda: Orgânicos |
+| 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Legenda: Orgânicos |
 | 2     | Dardo Perfurador \| Infusor de Projétil                                      |
 | 3     | Dardo Liberador \| Infusor de Armadura                                       |
 | 4     | Potencializador Químico + Redoma Protetora                                   |

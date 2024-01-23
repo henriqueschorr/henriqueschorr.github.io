@@ -4,7 +4,7 @@ Abaixo você encontra todas as soluções que humanos podem produzir na área da
 
 Abaixo você encontra o que cada uma das colunas presentes na apresentação das soluções representa.
 
-**Solução:** Nome da solução final.  
+**Receita:** Nome da solução final.  
 **Consumo:** Modo em que a solução deve ser consumida para fazer efeito.
 
 - Injestão: Via oral
@@ -14,14 +14,14 @@ Abaixo você encontra o que cada uma das colunas presentes na apresentação das
 
 Ignore esta coluna caso a solução esteja presente em um dado infusor.
 
-**Receita:** Componentes químicos necessários para produzir esta solução.  
+**Componentes:** Componentes químicos necessários para produzir esta solução.  
 **Efeito:** Efeito ativo que a solução causa após aplicada.
 
 ## Solução Simples
 
 Soluções simples, como o próprio nome já diz, são soluções simples de serem produzidas. Soluções simples tem <ins>Complexidade de criação Baixa</ins>.
 
-<!-- | Solução        | Consumo   | Receita                                                   | Efeito                                                                                                                                    |
+<!-- | Receita        | Consumo   | Componentes                                                   | Efeito                                                                                                                                    |
 | -------------- | --------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Med-Gel        | Ingestão  | 1x Solvente Líquido, 2x Soluto Molecular                  | Cura 1VDA Cérebro + Nível de HP.                                                                                                          |
 | Neutralizador  | Ingestão  | 1x Solvente Líquido, 1x Soluto Iônico                     | Neutraliza qualquer veneno.                                                                                                               |
@@ -29,7 +29,7 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 | Hemofólico     | Aplicação | 1x Solvente Gasoso, 1x Soluto Molecular, 1x Soluto Iônico | Check Físico. Recebe 1VDA Cérebro de dano extra para cada ataque que a criatura alvo receber. Falha: Dura 3 turnos. Sucesso: Dura 1 turno |
 | Ventania       | Toque     | 2 Solvente Gasoso                                         | Check Físico. Falha: Criatura é empurrada 2m para trás.                                                                                   | -->
 
-| Solução        | Consumo   | Receita                                    | Efeito                                                                                                                                    |
+| Receita        | Consumo   | Componentes                                    | Efeito                                                                                                                                    |
 | -------------- | --------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Med-Gel        | Ingestão  | 2x Material Químico                        | Cura 1VDA Cérebro + Nível de HP.                                                                                                          |
 | Neutralizador  | Ingestão  | 1x Material Químico, 1x Material Biológico | Neutraliza qualquer veneno.                                                                                                               |
@@ -41,7 +41,7 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 
 Soluções elementais liberam elementos na área, causando dano no tipo do elemento ou criando terrenos. Possuem <ins>Complexidade de criação Média</ins>.
 
-<!-- | Solução    | Consumo | Receita                                 | Efeito                                                                                  |
+<!-- | Receita    | Consumo | Componentes                                 | Efeito                                                                                  |
 | ---------- | ------- | --------------------------------------- | --------------------------------------------------------------------------------------- |
 | Fogo       | Toque   | 2x Solvente Gasoso, 2x Soluto Iônico    | 2RDA Cérebro + Nível dano fogo.                                                         |
 | Gelo       | Toque   | 2x Solvente Sólido, 2x Soluto Iônico    | 2RDA Cérebro + Nível dano gelo.                                                         |
@@ -49,7 +49,7 @@ Soluções elementais liberam elementos na área, causando dano no tipo do eleme
 | Ácido      | Toque   | 2x Solvente Líquido, 2x Soluto Iônico   | 2RDA Cérebro + Nível dano corrosivo.                                                    |
 | Parede     | Toque   | 3x Solvente Sólido, 1x Soluto Iônico    | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 HP. | -->
 
-| Solução    | Consumo | Receita             | Efeito                                                                                  |
+| Receita    | Consumo | Receita             | Efeito                                                                                  |
 | ---------- | ------- | ------------------- | --------------------------------------------------------------------------------------- |
 | Fogo       | Toque   | 3x Material Químico | 2RDA Cérebro + Nível dano fogo.                                                         |
 | Gelo       | Toque   | 3x Material Químico | 2RDA Cérebro + Nível dano gelo.                                                         |
@@ -61,7 +61,7 @@ Soluções elementais liberam elementos na área, causando dano no tipo do eleme
 
 Soluções avançadas necessitam de mais materiais, tempo e concentração para serem produzidas. Soluções avançadas tem <ins>Complexidade de criação Média</ins>.
 
-<!-- | Solução          | Consumo   | Receita                                  | Efeito                                                                                                                     |
+<!-- | Receita          | Consumo   | Componentes                                  | Efeito                                                                                                                     |
 | ---------------- | --------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Med-Gel Avançado | Ingestão  | 2x Solvente Líquido, 3x Soluto Molecular | Cura 2VDA Cérebro + Nível de HP.                                                                                           |
 | Liberador        | Inalação  | 2x Solvente Gasoso, 3x Soluto Molecular  | Remove qualquer aflição do tipo (Neural).                                                                                  |
@@ -70,7 +70,7 @@ Soluções avançadas necessitam de mais materiais, tempo e concentração para 
 | Eclipse          | Aplicação | 2x Solvente Sólido, 3x Soluto Iônico     | Incapacitado (Sentidos) 2.                                                                                                 |
 | Lobotomia        | Aplicação | 2x Solvente Sólido, 3x Soluto Molecular  | Check Cérebro. Falha: Dano Persistente 2 (Neural) 1VDA Cérebro + Nível. Sucesso: Dano Persistente 1 (Neural) 1VDA Cérebro. | -->
 
-| Solução          | Consumo   | Receita                                    | Efeito                                                                                                                     |
+| Receita          | Consumo   | Componentes                                    | Efeito                                                                                                                     |
 | ---------------- | --------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | Med-Gel Avançado | Ingestão  | 3x Material Químico                        | Cura 2VDA Cérebro + Nível de HP.                                                                                           |
 | Liberador        | Inalação  | 4x Material Químico                        | Remove qualquer aflição do tipo (Neural).                                                                                  |
@@ -83,6 +83,6 @@ Soluções avançadas necessitam de mais materiais, tempo e concentração para 
 
 Soluções extremamente raras que necessitam de recursos difíceis de se obter. Causam efeitos devastadores e muito fortes. Possuem <ins>Complexidade de criação Alta</ins>
 
-| Solução          | Consumo | Receita                                                              | Efeito                                                                                                          |
+| Receita          | Consumo | Componentes                                                              | Efeito                                                                                                          |
 | ---------------- | ------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Evento Horizonte | Toque   | 1x Elemento Radioativo + 2x Material Químico + 2x Material Biológico | 4VDA Cérebro + Nível dano radioativo. Puxa criaturas numa área de 6m para o centro. Check Físico. Falha: Caído. |

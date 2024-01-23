@@ -48,10 +48,11 @@ nav:
         - Dano: rules/play/damage.md
         - Combo: rules/play/combo.md
         - Descanso: rules/play/rests.md
+        - Loot: rules/play/loot.md
         - Modos de Jogo:
           - rules/play/game_modes/index.md
           - Encontro: rules/play/game_modes/encounter.md
-          - Exploração: rules/play/game_modes/exploration.md         
+          - Exploração: rules/play/game_modes/exploration.md                 
       - Anatomia:
         - rules/anatomy/index.md
         - Corpo: rules/anatomy/body.md
@@ -87,16 +88,16 @@ nav:
       - Classes:
         - species/human/index.md
         - Segurança:
-          - species/human/security/index.md
-          - Soldado: species/human/security/soldier.md
-          - Batedor: species/human/security/scout.md
+          - species/human/classes/security/index.md
+          - Soldado: species/human/classes/security/soldier.md
+          - Batedor: species/human/classes/security/scout.md
         - Técnico:
-          - species/human/technician/index.md
-          - Cientista: species/human/technician/scientist.md
-          - Engenheiro: species/human/technician/engineer.md
+          - species/human/classes/technician/index.md
+          - Cientista: species/human/classes/technician/scientist.md
+          - Engenheiro: species/human/classes/technician/engineer.md
         - Agente:
-          - species/human/agent/index.md
-          - Capitão: species/human/agent/captain.md
+          - species/human/classes/agent/index.md
+          - Capitão: species/human/classes/agent/captain.md
         - Equipamentos:
           - species/human/equipment/index.md
           - Armamentos: species/human/equipment/weapons.md
@@ -105,6 +106,7 @@ nav:
           - species/human/scienceRecipes/index.md
           - Química: species/human/scienceRecipes/chemistry.md
           - Biologia: species/human/scienceRecipes/biology.md
+          - Engenharia: species/human/scienceRecipes/engineering.md
 #   - Hivers:
 #       - Introdução: species/hiver/introduction.md      
 #   - Symbions:

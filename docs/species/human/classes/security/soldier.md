@@ -6,7 +6,7 @@ Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil d
 
 ## Equipamento Inicial
 
-A.N.E Médio, 1x Fuzil de Precisão, 1x Fuzil de Assalto, 1x Pistola, 1x Faca de Combate, 2x Granadas de Fragmentação, 50x Munição Comum, 1x Kit Médico Simples.
+A.N.E Médio, 1x Fuzil de Precisão, 1x Fuzil de Assalto, 1x Pistola, 1x Faca de Combate, 2x Granadas de Fragmentação, 30x Munição Comum, 20x Munição Avançada, 1x Kit Médico Simples.
 
 ## Ciência: Receitas
 
@@ -23,7 +23,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 | Nível | Aprimoramentos                                                               |
 | ----- | ---------------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Média](../../human/ane.md) + Visão Aprimoraada |
+| 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada |
 | 2     | Precisão \| Barragem de Tiros                                                |
 | 3     | Precisão Aleijadora \| Barragem Supressora                                   |
 | 4     | Recarga Magnética + Barricada Individual                                     |
@@ -66,7 +66,7 @@ _Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_
 A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornando-o mais certeiro.
 
 - Adicione 1RDA ao dano causado com fuzil de precisão.
-- Divida o dano igualmente entre AP e HP do alvo caso seja possível.
+- Seus ataques ganham [Perfuração](../../../../rules/tags/weaponEquipment.md#perfuração).
 - Seus ataques são passível de Explosão de Dano.
 
 **Combo**  

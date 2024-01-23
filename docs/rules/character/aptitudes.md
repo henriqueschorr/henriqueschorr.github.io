@@ -1,4 +1,4 @@
-Você possui 5 aptidões, sendo elas definições de suas características físicas e biológicas. Aptidões são utilizadas ao tentar resistir alguma [Aflição](../rules/play/afflictions.md) aplicada por uma criatura ou acontecimento no ambiente, e definem seu [Dado de Aptidão (AD)](#dados-de-aptidão-ad-vad-rad).
+Você possui 5 aptidões, sendo elas definições de suas características físicas e biológicas. Aptidões são utilizadas ao tentar resistir alguma [Aflição](../play/afflictions.md) aplicada por uma criatura ou acontecimento no ambiente, e definem seu [Dado de Aptidão (AD)](#dados-de-aptidão-ad-vad-rad).
 
 ### Físico
 Força bruta, vigor e tenacidade. Físico representa força muscular e resistência. Quanto você pode levantar, carregar, golpear e quanta punição física pode suportar é determinado por esta aptidão. Indicado para quem deseja ser a linha de frente em um combate, encarando os inimigos cara a cara.  
