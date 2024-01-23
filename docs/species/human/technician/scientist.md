@@ -7,13 +7,13 @@ Para os Dardos de Infusão, determine quais soluções estão dentro de cada um.
 
 ## Ciência: Receitas
 
-Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você necessita de uma estação apropriada para produzir os itens abaixo.
+Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você pode produzir os itens abaixo em qualquer local com seu laboratório móvel.
 
 | Cérebro | Receitas                                               |
 | ------- | ------------------------------------------------------ |
 | 30      | Solução Simples, Kit Médico Simples, Dardos de Infusão |
 | 40      | Kit Médico Avançado                                    |
-| 45      | Solução Elemental                                      |
+| 45      | Solução Elemental, Munição Elemental                   |
 | 50      | Solução Avançada                                       |
 | 60      | Solução Especial                                       |
 

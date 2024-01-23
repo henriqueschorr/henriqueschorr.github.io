@@ -38,7 +38,7 @@ Classes definem basicamente o papel, profissão de um Humano em uma equipe, gera
         </tr>
         <tr>
             <td>Engenheiro</td>
-            <td>Drone e Forja Móvel</td>
+            <td>Drone de Combate e Forja Móvel</td>
             <td>Suporte, conserto de equipamentos, manipulação de construtos.</td>
         </tr>
         <tr>

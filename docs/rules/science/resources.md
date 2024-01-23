@@ -6,14 +6,16 @@ Consiste em pedaços de metal, madeira ou qualquer outro material utilizado para
 ## Material Químico
 Compostos, soluções, gases, elementos formam a matéria de material químico. Usados para criação de poções, venenos e afins. Geralmente usado com checks envolvendo a ciência de Química.
 
-- Solvente Gasoso
+<!-- - Solvente Gasoso
 - Solvente Líquido
 - Solvente Sólido
 - Soluto Molecular
-- Soluto Iônico
+- Soluto Iônico -->
 
 ## Material Biológico
 Pedaços de animais, plantas, insetos ou até mesmo vírus compõem o material biológico. São usados para cirurgias (transplante de córneas), transfusão de sangue, criação de roupas (couro, pêlo, etc) e outras diversas situações relacionadas a organismos vivos. Geralmente usado com checks envolvendo a ciência de Biologia.
+
+## Material Tecnológico
 
 ## Material Radioativo
 Materiais compostos por elementos radioativos. Geralmente usado com checks envolvendo a ciência de Química.

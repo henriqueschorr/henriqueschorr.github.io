@@ -21,13 +21,21 @@ Ignore esta coluna caso a solução esteja presente em um dado infusor.
 
 Soluções simples, como o próprio nome já diz, são soluções simples de serem produzidas. Soluções simples tem <ins>Complexidade de criação Baixa</ins>.
 
-| Solução        | Consumo   | Receita                                                   | Efeito                                                                                                                                    |
+<!-- | Solução        | Consumo   | Receita                                                   | Efeito                                                                                                                                    |
 | -------------- | --------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Med-Gel        | Ingestão  | 1x Solvente Líquido, 2x Soluto Molecular                  | Cura 1VDA Cérebro + Nível de HP.                                                                                                          |
 | Neutralizador  | Ingestão  | 1x Solvente Líquido, 1x Soluto Iônico                     | Neutraliza qualquer veneno.                                                                                                               |
 | Essência Podre | Inalação  | 1x Solvente Gasoso, 1x Soluto Iônico                      | Check Físico. Falha: Enjoado 2. Sucesso: Enjoado 1.                                                                                       |
 | Hemofólico     | Aplicação | 1x Solvente Gasoso, 1x Soluto Molecular, 1x Soluto Iônico | Check Físico. Recebe 1VDA Cérebro de dano extra para cada ataque que a criatura alvo receber. Falha: Dura 3 turnos. Sucesso: Dura 1 turno |
-| Ventania       | Toque     | 2 Solvente Gasoso                                         | Check Físico. Falha: Criatura é empurrada 2m para trás.                                                                                   |
+| Ventania       | Toque     | 2 Solvente Gasoso                                         | Check Físico. Falha: Criatura é empurrada 2m para trás.                                                                                   | -->
+
+| Solução        | Consumo   | Receita                                    | Efeito                                                                                                                                    |
+| -------------- | --------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Med-Gel        | Ingestão  | 2x Material Químico                        | Cura 1VDA Cérebro + Nível de HP.                                                                                                          |
+| Neutralizador  | Ingestão  | 1x Material Químico, 1x Material Biológico | Neutraliza qualquer veneno.                                                                                                               |
+| Essência Podre | Inalação  | 1x Material Químico, 1x Material Biológico | Check Físico. Falha: Enjoado 2. Sucesso: Enjoado 1.                                                                                       |
+| Hemofólico     | Aplicação | 2x Material Químico                        | Check Físico. Recebe 1VDA Cérebro de dano extra para cada ataque que a criatura alvo receber. Falha: Dura 3 turnos. Sucesso: Dura 1 turno |
+| Ventania       | Toque     | 2x Material Químico                        | Check Físico. Falha: Criatura é empurrada 2m para trás.                                                                                   |
 
 ## Solução Elemental
 
@@ -39,7 +47,7 @@ Soluções elementais liberam elementos na área, causando dano no tipo do eleme
 | Gelo       | Toque   | 2x Solvente Sólido, 2x Soluto Iônico    | 2RDA Cérebro + Nível dano gelo.                                                         |
 | Escorregão | Toque   | 2x Solvente Sólido, 1x Soluto Molecular | Check Agilidade ou Caído. Área 4m.                                                      |
 | Ácido      | Toque   | 2x Solvente Líquido, 2x Soluto Iônico   | 2RDA Cérebro + Nível dano corrosivo.                                                    |
-| Parede     | Toque   | 3x Solvente Sólido, 1x Soluto Iônico    | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 HP.  |
+| Parede     | Toque   | 3x Solvente Sólido, 1x Soluto Iônico    | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 HP. |
 
 ## Solução Avançada
 

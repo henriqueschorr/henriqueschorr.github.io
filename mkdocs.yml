@@ -93,6 +93,7 @@ nav:
         - Técnico:
           - species/human/technician/index.md
           - Cientista: species/human/technician/scientist.md
+          - Engenheiro: species/human/technician/engineer.md
         - Agente:
           - species/human/agent/index.md
           - Capitão: species/human/agent/captain.md
