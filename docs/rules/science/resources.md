@@ -4,7 +4,7 @@ Matéria são os itens, objetos, compostos consumíveis (uso único) necessário
 Consiste em pedaços de metal, madeira ou qualquer outro material utilizado para construir ou consertar engenhos, equipamentos mecânicos, eletrônicos e afins. Geralmente usado com checks envolvendo a ciência de Engenharia ou Biologia.
 
 ## Material Químico
-Compostos, soluções, gases, elementos formam a matéria de material químico. Usados para criação de poções, venenos e afins. Geralmente usado com checks envolvendo a ciência de Química.
+Compostos, soluções, gases, elementos compõem o material químico. São usados para criação de poções, venenos e afins. Geralmente usado com checks envolvendo a ciência de Química.
 
 <!-- - Solvente Gasoso
 - Solvente Líquido
@@ -16,6 +16,7 @@ Compostos, soluções, gases, elementos formam a matéria de material químico. 
 Pedaços de animais, plantas, insetos ou até mesmo vírus compõem o material biológico. São usados para cirurgias (transplante de córneas), transfusão de sangue, criação de roupas (couro, pêlo, etc) e outras diversas situações relacionadas a organismos vivos. Geralmente usado com checks envolvendo a ciência de Biologia.
 
 ## Material Tecnológico
+Micro-processadores, placas-mães, baterias e outros componentes usados para fabricar e aprimorar equipamentos fazem parte do grupo de material tecnológico. Geralmente usados com checks envolvendo a ciência de Engenharia.
 
 ## Material Radioativo
 Materiais compostos por elementos radioativos. Geralmente usado com checks envolvendo a ciência de Química.
