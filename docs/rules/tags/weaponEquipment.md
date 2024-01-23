@@ -19,7 +19,7 @@ Indica que o armamento/equipamento não sofre as penalizações normais da regra
 Armamento/equipamento tem características especiais, estas estarão informadas.
 
 #### Munição
-Define o tipo de munição, projétil que o armamento/equipamento atira: Normal, Avançada ou Elemento.
+Define o tipo de munição, projétil que o armamento/equipamento atira: Comum, Avançada, Míssil, Energia ou Químico.
 
 #### Recarregar
 Indica que após o armamento/equipamento atingir sua capacidade, quantidade de munição gasta, deve ser realizada uma ação de Recarregar para poder ser utilizado novamente.

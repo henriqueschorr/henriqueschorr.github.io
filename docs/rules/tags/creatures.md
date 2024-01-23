@@ -6,6 +6,9 @@ Construto são criaturas que têm seu corpo inteiramente ou quase inteiramente f
 #### Elemental
 Criaturas elementais são inteiramente feitas por um dos quatro tipos de elemento ou suas variações: terra, água, ar, fogo.
 
+#### Energia
+Criatura é um robô ou algum outro tipo de criatura que usa energia como força de vida.
+
 #### Fungo
 Fungo são criaturas que se assemelham aos fungos da terra, como por exemplo o mofo e cogumelos. Este marcador também identifica que a criatura é de natureza Orgânica.
 

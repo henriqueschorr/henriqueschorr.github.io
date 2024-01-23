@@ -14,13 +14,13 @@ Equipamentos são quaisquer objetos que não façam parte da anatomia, corpo do 
 
 Alguns armamentos, principalmente os de ataque a longa distância que disparam projéteis, utilizam munição para suprir seus ataques. Segue abaixo uma lista dos tipos de munições.
 
-| Munição  | Detalhes                                                                                                                           | Tamanho    | Exemplos de Uso                 |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------- |
-| Comum    | Geralmente feita de metais como o chumbo e de tamanho pequeno. Flechas e outros projéteis similares também se encaixam nesse tipo. | >=50x = 1  | Pistola, Rifle de Assalto, Arco |
-| Avançada | Possuem composição parecida com as comuns, mas possuem um maior calibre e força de impacto.                                        | >=50x = 2  | Rifle de Precisão               |
-| Míssil   | Literalmente misseis que são disparados por algum armamento.                                                                       | 1 = 4      | Lança-Míssil                    |
-| Energia  | Geralmente são baterias e sua capacidade é indicada em percentagem.                                                                | >=100% = 4 |                                 |
-| Químico  | Geralmente são líquidos químicos como algum tipo de ácido ou que sejam inflamáveis. Indicado em Mls.                               | >=1l = 4   | Lança-Chamas                    |
+| Munição  | Tamanho    |
+| -------- | ---------- |
+| Comum    | >=50x = 1  |
+| Avançada | >=50x = 2  |
+| Míssil   | 1 = 4      |
+| Energia  | >=100% = 4 |
+| Químico  | >=1l = 4   |
 
 ### Recursos
 
@@ -31,4 +31,5 @@ Recursos são matérias utilizadas exclusivamente para produção de algo relaci
 São equipamentos especiais que em vez de consumir da sua capacidade de inventário, acrescenta ao valor máximo da sua capacidade de carga.
 
 ### Acesso Rápido
+
 Alguns equipamentos de carga provém acesso rápido, ou seja, você gasta apenas 1 ação para pegar o equipamento.

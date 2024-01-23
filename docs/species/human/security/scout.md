@@ -6,7 +6,7 @@ Qualquer ataque do Batedor é passível da mecânica de Explosão de Dano.
 
 ## Equipamento Inicial
 
-A.N.E Leve, 1x Arco Composto, 1x Lâmina Fragmento, 2x Armadilha, 30x Munição Normal, 1x Kit Médico Simples.
+A.N.E Leve, 1x Arco Composto, 1x Lâmina Fragmento, 2x Armadilha, 30x Munição Comum, 1x Kit Médico Simples.
 
 ## Ciência: Receitas
 
@@ -14,9 +14,9 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 | Cérebro | Receitas                                          |
 | ------- | ------------------------------------------------- |
-| 30      | Munição Normal (flechas)                          |
+| 30      | Munição Comum (flechas)                          |
 | 35      | Mina de Congelamento                              |
-| 40      | Munição Elemental (flechas), Mina de Atordoamento |
+| 40      | Munição Químico (flechas), Mina de Atordoamento |
 
 ## Aprimoramentos
 
@@ -123,8 +123,8 @@ Você atira a partir da sua mão uma pequena esfera de energia que se prende a u
 - Você atira uma esfera de energia no alvo escolhido, permitindo você se movimentar toda a distância nesta mesma ação.
 - Este movimento não causa reações em inimigos.
 - Se o alvo escolhido for uma criatura, se você atacar esta criatura logo após realizar esta ação, aplique o seguinte:
-  - Adicione 1RDA Físico a mais do tipo de dano original do armamento.
-  - O alvo deve realizar um check Físico ou fica Debilitado 1 (Corpo).
+    - Adicione 1RDA Físico a mais do tipo de dano original do armamento.
+    - O alvo deve realizar um check Físico ou fica Debilitado 1 (Corpo).
 
 ### Chamariz (4) :arrow_forward: :leftwards_arrow_with_hook:
 
@@ -151,13 +151,13 @@ A.N.E. aumenta a tensão de força do seu arco composto e dispara uma flecha com
 - Faça um ataque com seu arco composto.
 - Este ataque tem dano dobrado.
 - Caso o alvo seja uma estrutura:
-  - O ataque atravessa a estrutura se ela tiver até 1m de espessura.
-  - Caso há uma criatura atrás da estrutura até 10m, você pode rolar o check para acertá-la.
-    - Este ataque é considerado uma ação surpresa.
+    - O ataque atravessa a estrutura se ela tiver até 1m de espessura.
+    - Caso há uma criatura atrás da estrutura até 10m, você pode rolar o check para acertá-la.
+        - Este ataque é considerado uma ação surpresa.
 - Caso o alvo seja uma criatura:
-  - Se a criatura estiver até 5m de uma estrutura, ela deve realizar um check Físico ou então é empurrada e Presa na estrutura pela flecha.
-  - Se houver outra criatura até 10m do seu alvo inicial, o ataque atravessa o alvo e atinge a criatura atrás.
-    - Este ataque é considerado uma ação surpresa.
+    - Se a criatura estiver até 5m de uma estrutura, ela deve realizar um check Físico ou então é empurrada e Presa na estrutura pela flecha.
+    - Se houver outra criatura até 10m do seu alvo inicial, o ataque atravessa o alvo e atinge a criatura atrás.
+        - Este ataque é considerado uma ação surpresa.
 
 **Combo**  
 _Gatilho: Criatura é empurrada próxima a estrutura ou aliado cria estrutura próxima a criatura._  
@@ -175,6 +175,6 @@ A.N.E. fragmenta sua lâmina em 6 pedaços separados e, com uma aura magnética 
 - Você pode usar a reação Defender enquanto houver 5 ou mais fragmentos ao seu redor.
 - Criaturas adjacentes sofrem 1d4 + (seu nível) dano Corte.
 - Você pode usar uma ação de ataque para lançar até 3 fragmentos.
-  - Este ataque é a distância e tem alcance de 20m.
-  - O dano base de cada fragmento utiliza um nível a menos do dado de dano da lâmina fragmento. Se, por exemplo, o dado de dano base da lâmina for 1d6, o dano base de cada fragmento será 1d4.
+    - Este ataque é a distância e tem alcance de 20m.
+    - O dano base de cada fragmento utiliza um nível a menos do dado de dano da lâmina fragmento. Se, por exemplo, o dado de dano base da lâmina for 1d6, o dano base de cada fragmento será 1d4.
 - Ao fim da duração desta habilidade ou após você atacar com todos os 6 fragmentos, eles retornam a você a lâmina fragmento é reintegrada.

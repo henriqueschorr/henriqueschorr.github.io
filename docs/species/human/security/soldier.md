@@ -6,29 +6,28 @@ Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil d
 
 ## Equipamento Inicial
 
-A.N.E Médio, 1x Fuzil de Precisão, 1x Fuzil de Assalto, 1x Pistola, 1x Faca de Combate, 2x Granadas de Fragmentação, 50x Munição Normal, 1x Kit Médico Simples.
+A.N.E Médio, 1x Fuzil de Precisão, 1x Fuzil de Assalto, 1x Pistola, 1x Faca de Combate, 2x Granadas de Fragmentação, 50x Munição Comum, 1x Kit Médico Simples.
 
 ## Ciência: Receitas
 
 Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você necessita de uma estação apropriada para produzir os itens abaixo.
 
-| Cérebro | Receitas                                                        |
-| ------- | --------------------------------------------------------------- |
-| 30      | Munição Normal                                                  |
-| 35      | Granada de Fragmentação                                         |
-| 40      | Granada de Luz, Granada de Fumaça                               |
-| 50      | Munição Elemental, Granada Termobarica, Granada de Atordoamento |
-| 60      | Munição Especial                                                |
+| Cérebro | Receitas                                                      |
+| ------- | ------------------------------------------------------------- |
+| 30      | Munição Comum                                                 |
+| 35      | Granada de Fragmentação                                       |
+| 40      | Granada de Luz, Granada de Fumaça                             |
+| 50      | Munição Químico, Granada Termobarica, Granada de Atordoamento |
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                               |
-| ----- | -------------------------------------------- |
+| Nível | Aprimoramentos                                                               |
+| ----- | ---------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../human/ane.md) + Visão Aprimoraada |
-| 2     | Precisão \| Barragem de Tiros                |
-| 3     | Precisão Aleijadora \| Barragem Supressora   |
-| 4     | Recarga Magnética + Barricada Individual     |
-| 5     | Tiro Marcador \| Tiro Granadeiro             |
+| 2     | Precisão \| Barragem de Tiros                                                |
+| 3     | Precisão Aleijadora \| Barragem Supressora                                   |
+| 4     | Recarga Magnética + Barricada Individual                                     |
+| 5     | Tiro Marcador \| Tiro Granadeiro                                             |
 
 ### Aprimoramento de Atributos (1)
 
@@ -79,14 +78,14 @@ Você pode acionar esta habilidade e também fazer um ataque.
 
 _Habilidade (Atacar)_ \| _Ofensivo, Energia_  
 **Requerimento:** Fuzil de assalto  
-**Custo:** 1x Célula de Energia (EN), 3x Munição Normal  
+**Custo:** 1x Célula de Energia (EN), 3x Munição  
 **Alcance:** Alcance efetivo do armamento  
 **Área de Efeito:** Linha Reta ou Cone  
 A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você realizar 3 tiros no intervalo de 1 ação.
 
 - Realize um ataque com seu fuzil de assalto, podendo ser (escolha um):
-  - Linha reta acertando todos os 3 tiros em apenas uma criatura.
-  - Área em cone, podendo acertar até 3 criaturas diferentes.
+    - Linha reta acertando todos os 3 tiros em apenas uma criatura.
+    - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
 
 ### Precisão Aleijadora (3) :arrow_forward: :large_orange_diamond:
@@ -103,9 +102,9 @@ A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornan
 - Divida o dano igualmente entre AP e HP do alvo caso seja possível.
 - Ataques até o fim do efeito desta habilidade são passível de Explosão de Dano.
 - No seu primeiro ataque durante esta habilidade, aplique uma das 3 aflições abaixo, a sua escolha:
-  - Caído: Check Físico ou Agilidade.
-  - Debilitado 1: Check Físico.
-  - Desarmado: Check Físico ou Agilidade.
+    - Caído: Check Físico ou Agilidade.
+    - Debilitado 1: Check Físico.
+    - Desarmado: Check Físico ou Agilidade.
 
 **Combo**  
 _Gatilho: Criatura tem Ponto Fraco exposto._  
@@ -115,15 +114,15 @@ Você pode acionar esta habilidade e também fazer um ataque.
 ### Barragem Supressora (3) :arrow_forward:
 
 _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
-**Pré Requisito:** Barragem de Tiros    
+**Pré Requisito:** Barragem de Tiros  
 **Custo:** 1x Célula de Energia (EN), 3x Munição  
 **Alcance:** Alcance efetivo do armamento  
 **Área de Efeito:** Linha Reta ou Cone  
 A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você realizar 3 tiros no intervalo de 1 ação. Você também impede o movimento de criaturas na área.
 
 - Realize um ataque com seu fuzil de assalto, podendo ser (escolha um):
-  - Linha reta acertando todos os 3 tiros em apenas uma criatura.
-  - Área em cone, podendo acertar até 3 criaturas diferentes.
+    - Linha reta acertando todos os 3 tiros em apenas uma criatura.
+    - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
 - Criaturas na área em que você atacou são impedidas de se mover mais próximo a você.
 
@@ -146,10 +145,10 @@ _Habilidade (Interagir - Equipamento)_ \| Defensivo, Utilidade, Energia\_
 A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frente, ela move junto com você. A barricada lhe protege de ataques a distância e potencializa seus tiros.
 
 - Ataques a distância contra você são desacelerados e causam metade do dano.
-  - Somente para ataques que causam dano Corte, Perfuração ou Concussão.
-  - Somente se o ataque vem da sua frente.
+    - Somente para ataques que causam dano Corte, Perfuração ou Concussão.
+    - Somente se o ataque vem da sua frente.
 - Seus projéteis são carregados por energia no momento que passam pela barricada.
-  - Adicione 1d4 de dano de Energia para seus ataques a distância.
+    - Adicione 1d4 de dano de Energia para seus ataques a distância.
 
 ### Tiro Marcador (5) :fast_forward:
 
@@ -161,9 +160,9 @@ _Habilidade (Atacar)_ \| Ofensivo, Utilidade, Energia\_
 A.N.E. modifica uma de suas munições e você dispara com seu fuzil de precisão. O projétil marca o alvo, fazendo com que 2 outros projéteis são disparados do seu inventário automaticamente. O alvo também permanece marcado com uma aura, fazendo ataques a distância serem mais fáceis.
 
 - Faça um ataque normal com seu fuzil de precisão em algum alvo. Caso o ataque seja bem sucedido:
-  - Calcule o dano normalmente.
-  - Escolha 2 Munições quaisquer do seu inventário, estas serão disparadas e acertam automaticamente o alvo do seu ataque. Calcule o dano como se fosse um ataque normal para cada projétil.
-  - Ataques a distância contra o alvo atingido são Fácil por 2 turnos.
+    - Calcule o dano normalmente.
+    - Escolha 2 Munições quaisquer do seu inventário, estas serão disparadas e acertam automaticamente o alvo do seu ataque. Calcule o dano como se fosse um ataque normal para cada projétil.
+    - Ataques a distância contra o alvo atingido são Fácil por 2 turnos.
 
 ### Tiro Granadeiro (5) :fast_forward: :large_orange_diamond:
 

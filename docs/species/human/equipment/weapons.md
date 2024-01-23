@@ -8,7 +8,7 @@ Armas brancas são armamentos que não se utilizam de fogo, combustão ou explos
 
 | Nome             | Dano                 | Alcance    | Marcadores                                |
 | ---------------- | -------------------- | ---------- | ----------------------------------------- |
-| Arco Composto    | 1d8 perfuração       | 30m (120m) | 2-mão, Munição (Normal), Silencioso       |
+| Arco Composto    | 1d8 perfuração       | 30m (120m) | 2-mão, Munição (Comum), Silencioso        |
 | Faca de Combate  | 1d4 corte/perfuração | Adjacente  | Arremesso, Versátil                       |
 | Lâmina Fragmento | 1d6 corte/perfuração | Adjacente  | Acesso Rápido, Especial, Seguro, Versátil |
 
@@ -20,20 +20,20 @@ Pequenos fragmentos interligados se tornam uma lâmina que você pode usar para 
 
 Armas de fogo são armamentos que necessitam de alguma forma de combustão ou explosão para realizar seu disparo.
 
-| Nome              | Dano            | Alcance     | Capacidade | Marcadores                                    |
-| ----------------- | --------------- | ----------- | :--------: | --------------------------------------------- |
-| Fuzil de Assalto  | 2d8 perfuração  | 300m (600m) |     30     | 2-mão, Contínuo, Munição (Normal), Recarregar |
-| Fuzil de Precisão | 2d12 perfuração | 500m (1km)  |     2      | 2-mão, Munição (Normal), Recarregar           |
-| Pistola           | 2d6 perfuração  | 50m (300m)  |     12     | Munição (Normal), Recarregar                  |
+| Nome              | Dano            | Alcance     | Capacidade | Marcadores                                   |
+| ----------------- | --------------- | ----------- | :--------: | -------------------------------------------- |
+| Fuzil de Assalto  | 2d8 perfuração  | 300m (600m) |     30     | 2-mão, Contínuo, Munição (Comum), Recarregar |
+| Fuzil de Precisão | 2d12 perfuração | 500m (1km)  |     2      | 2-mão, Munição (Comum), Recarregar           |
+| Pistola           | 2d6 perfuração  | 50m (300m)  |     12     | Munição (Comum), Recarregar                  |
 
 ## Armas Especiais
 
 Armas especiais são armamentos com características e comportamento bem específicos quanto ao seu uso.
 
-| Nome               | Dano                      | Alcance   | Capacidade | Marcadores                                           |
-| ------------------ | ------------------------- | --------- | :--------: | ---------------------------------------------------- |
-| Cutelo do Chef     | 1d10 corte                | Adjacente |     1      | Especial, Munição (Especial)                         |
-| Mixer-Gun          | 4d6 (o tipo depende)      | 6m        |     2      | Especial, Munição (Especial), Recarregar             |
+| Nome           | Dano                 | Alcance   | Capacidade | Marcadores                               |
+| -------------- | -------------------- | --------- | :--------: | ---------------------------------------- |
+| Cutelo do Chef | 1d10 corte           | Adjacente |     1      | Especial, Munição (Químico), Recarregar  |
+| Mixer-Gun      | 4d6 (o tipo depende) | 6m        |     2      | Especial, Munição (Especial), Recarregar |
 
 ## Explosivos
 
