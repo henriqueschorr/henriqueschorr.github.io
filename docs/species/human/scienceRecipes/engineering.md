@@ -4,12 +4,12 @@ Abaixo você encontra todos os itens que humanos podem produzir na área da enge
 
 Abaixo você encontra o que cada uma das colunas representa.
 
-**Receita:** Nome do item ou aprimoramento que você irá produzir.  
-**Alvo:** Alvo do aprimoramento ou item caso ele possua.
-**Complexidade:** Complexidade de criação do item ou aprimoramento.
-**Componentes:** Componentes químicos necessários para produzir esta solução.  
-**Efeito:** Efeito ativo que a solução causa após aplicada.
-**Exclusivo:** Você não pode adquirir este aprimoramento caso possua o outro aprimoramento listado.
+**Receita:** Nome do item ou aprimoramento que você irá produzir.   
+**Alvo:** Alvo do aprimoramento ou item caso ele possua.  
+**Complexidade:** Complexidade de criação do item ou aprimoramento.  
+**Componentes:** Componentes químicos necessários para produzir esta solução.   
+**Efeito:** Efeito ativo que a solução causa após aplicada.  
+**Exclusivo:** Você não pode adquirir este aprimoramento caso possua o outro aprimoramento listado.  
 
 ## Suporte
 
@@ -42,7 +42,7 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 
 ## Aprimoramentos de Drone I
 
-Todos os aprimoramentos de drone I possuem complexidade Média e possuem como alvo o Drone de Combate.
+Todos os aprimoramentos de drone I possuem complexidade Média e possuem como alvo o Drone de Combate. Uma vez implementados os efeitos são permanentes.
 
 | Receita          | Componentes                                             | Exclusivo                        | Efeito                                                                                                                   |
 | ---------------- | ------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -54,7 +54,7 @@ Todos os aprimoramentos de drone I possuem complexidade Média e possuem como al
 
 ## Aprimoramentos de Drone II
 
-Todos os aprimoramentos de drone II possuem complexidade Média e possuem como alvo o Drone de Combate.
+Todos os aprimoramentos de drone II possuem complexidade Média e possuem como alvo o Drone de Combate. Uma vez implementados os efeitos são permanentes.
 
 | Receita                | Componentes                                               | Exclusivo                                   | Efeito                                                                                                                                                                                   |
 | ---------------------- | --------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ Todos os aprimoramentos de drone II possuem complexidade Média e possuem como a
 
 ## Aprimoramentos de Drone III
 
-Todos os aprimoramentos de drone III possuem complexidade Alta e possuem como alvo o Drone de Combate.
+Todos os aprimoramentos de drone III possuem complexidade Alta e possuem como alvo o Drone de Combate. Uma vez implementados os efeitos são permanentes.
 
 | Receita              | Componentes                                             | Exclusivo                                | Efeito                                                                                                                                                                                                                                          |
 | -------------------- | ------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +78,7 @@ Todos os aprimoramentos de drone III possuem complexidade Alta e possuem como al
 
 ## Aprimoramentos de Armamentos I
 
-Todos os aprimoramentos de armamentos I possuem complexidade Média.
+Todos os aprimoramentos de armamentos I possuem complexidade Média. Uma vez implementados os efeitos são permanentes.
 
 | Receita       | Alvo                                             | Componentes                        | Efeito                                          |
 | ------------- | ------------------------------------------------ | ---------------------------------- | ----------------------------------------------- |
@@ -88,7 +88,7 @@ Todos os aprimoramentos de armamentos I possuem complexidade Média.
 
 ## Aprimoramentos de Armamentos II
 
-Todos os aprimoramentos de armamentos II possuem complexidade Alta.
+Todos os aprimoramentos de armamentos II possuem complexidade Alta. Uma vez implementados os efeitos são permanentes.
 
 | Receita           | Alvo                                             | Componentes                                                                           | Efeito                                                                                                      |
 | ----------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |

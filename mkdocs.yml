@@ -98,15 +98,15 @@ nav:
         - Agente:
           - species/human/classes/agent/index.md
           - Capitão: species/human/classes/agent/captain.md
-        - Equipamentos:
-          - species/human/equipment/index.md
-          - Armamentos: species/human/equipment/weapons.md
-          - Equipamentos: species/human/equipment/equipments.md
-        - Ciência Receitas:
-          - species/human/scienceRecipes/index.md
-          - Química: species/human/scienceRecipes/chemistry.md
-          - Biologia: species/human/scienceRecipes/biology.md
-          - Engenharia: species/human/scienceRecipes/engineering.md
+      - Equipamentos:
+        - species/human/equipment/index.md
+        - Armamentos: species/human/equipment/weapons.md
+        - Equipamentos: species/human/equipment/equipments.md
+      - Ciência Receitas:
+        - species/human/scienceRecipes/index.md
+        - Química: species/human/scienceRecipes/chemistry.md
+        - Biologia: species/human/scienceRecipes/biology.md
+        - Engenharia: species/human/scienceRecipes/engineering.md
 #   - Hivers:
 #       - Introdução: species/hiver/introduction.md      
 #   - Symbions:

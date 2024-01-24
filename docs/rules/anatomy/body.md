@@ -22,7 +22,7 @@ Esta seção indica quais partes do corpo seu personagem pode possuir. Este tóp
 
 ## Sistemas do Corpo
 
-https://beduka.com/blog/materias/biologia/como-e-dividido-o-corpo-humano/
+<!-- https://beduka.com/blog/materias/biologia/como-e-dividido-o-corpo-humano/ -->
 Assim como as partes do corpo, seu personagem possui sistemas que também são importantes mecanicamente para o jogo. Os possíveis sistemas do corpo são os seguintes:
 
 | Sistema        | Responsabilidade                                                                                                                |

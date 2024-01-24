@@ -14,7 +14,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | 30      | Solução Simples, Kit Médico Simples, Dardos de Infusão |
 | 40      | Kit Médico Avançado                                    |
 | 45      | Solução Elemental, Munição Químico                     |
-| 50      | Solução Avançada, Aprimoramento de Corpo               |
+| 50      | Solução Avançada, Aprimoramentos de Corpo              |
 | 60      | Solução Especial                                       |
 
 ## Aprimoramentos
@@ -96,10 +96,10 @@ A.N.E faz com que seu infusor seja capaz de infundir armaduras do tipo equipamen
 
 - Escolha uma armadura do tipo equipamento ou um construto para ser o alvo.
 - Caso você escolha um aliado:
-  - Todas as criaturas adjacentes ao aliado recebem dano do efeito de infusão.
-  - Aliado ganha Resistência ao tipo de dano.
+    - Todas as criaturas adjacentes ao aliado recebem dano do efeito de infusão.
+    - Aliado ganha Resistência ao tipo de dano.
 - Caso você escolha um inimigo:
-  - O inimigo recebe dano do efeito de infusão.
+    - O inimigo recebe dano do efeito de infusão.
 
 ### Potencializador Químico (4) :arrow_forward:
 
@@ -109,9 +109,9 @@ _Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_
 A.N.E potencializa seu próximo dardo ou infusão.
 
 - Seu próximo dardo ou infusão tem seus efeitos dobrados:
-  - Dano Dobrado
-  - Cura Dobrada
-  - Duração de efeito dobrada
+    - Dano Dobrado
+    - Cura Dobrada
+    - Duração de efeito dobrada
 
 **Especial:** Caso seu lançador de dardos esteja sob efeito da habilidade de Dardo Liberador, ambas soluções são afetadas por esta habilidade.
 
@@ -155,22 +155,22 @@ _Habilidade (Atacar)_ \| _Ofensivo, Utilidade, Energia_
 A.N.E faz com que seu infusor consuma até 4 tipos de elementos do ambiente ou de suas soluções e os dispara consecutivamente em área.
 
 - Escolha de 1 a 4 elementos para carregar que estejam no ambiente ou em suas soluções.
-  - Fogo
-  - Gelo
-  - Energia
-  - Ácido
+    - Fogo
+    - Gelo
+    - Energia
+    - Ácido
 - Se o elemento carregado vier do ambiente, o elemento é consumido e os seguintes efeitos ocorrem:
-  - Fogo: Apaga incêndios ou o fogo de criaturas Queimando.
-  - Gelo: Retira líquidos congelados do ambiente e aumenta a temperatura.
-  - Energia: Extingue curtos-circuitos ou superfícies eletrificadas.
-  - Ácido: Retira líquidos corrosivos do ambiente.
+    - Fogo: Apaga incêndios ou o fogo de criaturas Queimando.
+    - Gelo: Retira líquidos congelados do ambiente e aumenta a temperatura.
+    - Energia: Extingue curtos-circuitos ou superfícies eletrificadas.
+    - Ácido: Retira líquidos corrosivos do ambiente.
 - Uma explosão elemental ocorre consecutivamente para cada elemento na área de escolha.
-  - Inimigos devem realizar um check Agilidade.
-    - Sucesso: recebem apenas metade do dano.
-    - Sucesso crítico: não recebem dano algum.
-    - Falha: recebem dano total.
-    - Falha crítica: recebem o efeito crítico do último elemento liberado.
-  - Cada explosão elemental causa 1VDA Controle + 1RDA Cérebro + Nível de dano do tipo do elemento liberado.
+    - Inimigos devem realizar um check Agilidade.
+        - Sucesso: recebem apenas metade do dano.
+        - Sucesso crítico: não recebem dano algum.
+        - Falha: recebem dano total.
+        - Falha crítica: recebem o efeito crítico do último elemento liberado.
+    - Cada explosão elemental causa 1VDA Controle + 1RDA Cérebro + Nível de dano do tipo do elemento liberado.
 
 **Combo**  
 _Gatilho: Aliado cria ou provoca de alguma forma algum dos 4 elementos no ambiente._  
