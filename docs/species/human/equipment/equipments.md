@@ -9,6 +9,8 @@ Dardo com compartimento para uma solução. Apenas Cientistas sabem realizar o m
 **Infundir Solução**: 1 ação. Você insere qualquer uma solução dentro de um dardo infusor.  
 **Aplicar**: 1 ação. Você aplica ou libera o conteúdo do dardo infusor.
 
+### Drone de Combate
+
 #### Forja Móvel
 
 TBD.

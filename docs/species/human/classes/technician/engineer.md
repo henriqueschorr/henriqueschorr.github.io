@@ -16,6 +16,10 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | 50      | Sistema Lázarus, Aprimoramentos de Drone II, Munição Míssil            |
 | 60      | Aprimoramentos de Armamentos II, Aprimoramentos de Drones III          |
 
+## Drone de Combate
+O [Drone de Combate](../../equipment/equipments.md#drone-de-combate) é um construto aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral. Para comandá-lo você deve usar uma ação de Interagir - Equipamento e dizer uma das ações como: mover até local x e atacar alvo y, defender alvo x, etc. O drone irá realizar a ação comandada até que ela seja completada ou até você comandar outra ação.  
+Caso você use uma habilidade, o drone irá comepletá-la e retornará a sua ação comandada anteriormente.
+
 ## Aprimoramentos
 
 | Nível | Aprimoramentos                                                                 |
@@ -65,7 +69,7 @@ A.N.E reorganiza os componentes de seu drone o transformando em uma torre de tir
 - Drone se transforma em uma torre de ataque.
 - Drone não pode se mover.
 - Drone pode atacar normalmente em seu turno.
-- Drone pode usar sua reação para atacar qualquer inimigo que entre na sua área de ação.
+- Drone pode usa sua reação automaticamente para atacar qualquer inimigo que entre na sua área de ação.
 - Os ataques do drone são Fácil.
 - Você pode cancelar essa habilidade em qualquer momento.
 
