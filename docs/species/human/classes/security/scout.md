@@ -12,21 +12,21 @@ A.N.E Leve, 1x Arco Composto, 1x Lâmina Fragmento, 2x Armadilha, 30x Munição 
 
 Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você necessita de uma estação apropriada para produzir os itens abaixo.
 
-| Cérebro | Receitas                                          |
-| ------- | ------------------------------------------------- |
-| 30      | Munição Comum (flechas)                          |
-| 35      | Mina de Congelamento                              |
+| Cérebro | Receitas                                        |
+| ------- | ----------------------------------------------- |
+| 30      | Munição Comum (flechas)                         |
+| 35      | Mina de Congelamento                            |
 | 40      | Munição Químico (flechas), Mina de Atordoamento |
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                         |
-| ----- | -------------------------------------- |
-| 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem   |
-| 2     | Flecha Silenciadora \| Lâmina Elétrica |
-| 3     | Flecha Atordoadora \| Serra Elétrica   |
-| 4     | Gancho Magnético + Chamariz            |
-| 5     | Flecha Arpão \| Nuvem de Lâminas         |
+| Nível | Aprimoramentos                                                         |
+| ----- | ---------------------------------------------------------------------- |
+| 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem |
+| 2     | Flecha Silenciadora \| Lâmina Elétrica                                 |
+| 3     | Flecha Atordoadora \| Serra Elétrica                                   |
+| 4     | Gancho Magnético + Chamariz                                            |
+| 5     | Flecha Arpão \| Nuvem de Lâminas                                       |
 
 ### Aprimoramento de Atributos (1)
 

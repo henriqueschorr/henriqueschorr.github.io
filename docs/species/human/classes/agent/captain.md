@@ -12,19 +12,19 @@ A.N.E Leve, 1x Rifle de Assalto, 1x Pistola, 1x Faca de Combate, 1x Neurotransmi
 
 <!-- | Nível | Aprimoramentos                                                                                                                          |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [Atributos](#aprimoramento-de-atributos-1) + [Perícia](#perícia-1) + [A.N.E. Leve](../../human/ane.md) + [Inspiração](#inspiração-1-▶️) |
-| 2     | [Preparação](#preparação-2-🕘) \| [Sugestão](#sugestão-2-▶️)                                                                            |
-| 3     | [Planejamento](#planejamento-3-🕘-🔶) \| [Comando](#comando-3-▶️)                                                                       |
-| 4     | [Rede Neural](#rede-neural-4-▶️) + [Proteção Neural](#proteção-neural-4-▶️-🔶)                                                          |
+| 1---1 | [-------------------------------------------------------------------------------------------------------------------------------------) |
+| 2     | [Preparação](#preparação-2-🕘) \| [Sugestão](#sugestão-2-▶️)                                                                          |
+| 3     | [Planejamento](#planejamento-3-🕘-🔶) \| [Comando](#comando-3-▶️)                                                                    |
+| 4     | [Rede Neural](#rede-neural-4-▶️) + [Proteção Neural](#proteção-neural-4-▶️-🔶)                                                       |
 | 5     | [Arte da Guerra](#arte-da-guerra-5-🔄) \| [Palavra Final](#palavra-final-5-⏩)                                                          | -->
 
-| Nível | Aprimoramentos                                                       |
-| ----- | -------------------------------------------------------------------- |
+| Nível | Aprimoramentos                                                          |
+| ----- | ----------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Inspiração |
-| 2     | Preparação \| Sugestão                                               |
-| 3     | Planejamento \| Comando                                              |
-| 4     | Rede Neural + Proteção Neural                                        |
-| 5     | Arte da Guerra \| Palavra Final                                      |
+| 2     | Preparação \| Sugestão                                                  |
+| 3     | Planejamento \| Comando                                                 |
+| 4     | Rede Neural + Proteção Neural                                           |
+| 5     | Arte da Guerra \| Palavra Final                                         |
 
 ### Aprimoramento de Atributos (1)
 
@@ -134,13 +134,13 @@ _Habilidade (Interagir - Social, Equipamento, Ajudar)_ \| _Utilidade, Energia_
 Você conecta seu cérebro aos seus demais aliados, podendo acessar informações sobre seu estado de saúde, e até menos acionar habilidades por eles.
 
 - Você sabe toda e qualquer informação de saúde de seus aliados
-  - HP
-  - Aflições e Benefícios
-  - Venenos e outros malfeitores que possam estar percorrendo seu corpo
+    - HP
+    - Aflições e Benefícios
+    - Venenos e outros malfeitores que possam estar percorrendo seu corpo
 - Você pode enviar um comando para o cérebro do aliado, fazendo-o utilizar alguma habilidade no momento, desde que esta tenha custo 1 em ação.
-  - O aliado deve permitir o acionamento da habilidade.
-    - O aliado não tem escolha caso esteja Incapacitado (Neural) ou inconsciente.
-  - Caso a habilidade consuma algum recurso, seu aliado irá pagar o custo.
+    - O aliado deve permitir o acionamento da habilidade.
+        - O aliado não tem escolha caso esteja Incapacitado (Neural) ou inconsciente.
+    - Caso a habilidade consuma algum recurso, seu aliado irá pagar o custo.
 
 ### Proteção Neural (4) :arrow_forward: :large_orange_diamond:
 
@@ -170,7 +170,7 @@ _Habilidade (Proteger)_ \| _Suporte, Energia_
 Você toma nota de tudo ao seu redor, ambiente, armadilhas, criaturas, etc. Você age e instrui seus aliados rapidamente, fazendo-os executar tarefas rapidamente e facilmente, além de deixar seus inimigos debilitados.
 
 - Você diz 1 ação para cada aliado executar no mesmo momento.
-  - A ação executada pelo aliado é Fácil.
+    - A ação executada pelo aliado é Fácil.
 - No próximo turno de cada aliado, o aliado pode realizar uma das ações a sua escolha como Muito Fácil.
 - Todos os ataques dos aliados são passíveis de Explosão de Dano.
 - Todo o dano causado por um aliado tem 1RDA Atenção seu a mais.
@@ -189,10 +189,10 @@ Você diz apenas uma palavra, esta palavra ecoa por toda a distância e se torna
 
 - Você deve escolher se quer afetar aliados, inimigos ou ambos.
 - Você fala uma das seguintes palavras:
-  - Parem.
-  - Paz.
-  - Caos.
-  - Morram.
+    - Parem.
+    - Paz.
+    - Caos.
+    - Morram.
 - Todos os alvos devem realizar um check Interação. Abaixo você vê uma descrição do que cada resultado do check causa.
 
 **Parem**.  
