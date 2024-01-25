@@ -21,12 +21,12 @@ A.N.E Leve, 1x Rifle de Assalto, 1x Pistola, 1x Faca de Combate, 1x Neurotransmi
 | Nível | Aprimoramentos                                                          |
 | ----- | ----------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Inspiração |
-| 2     | Preparação \| Sugestão                                                  |
-| 3     | Planejamento \| Comando                                                 |
-| 4     | Rede Neural + Proteção Neural                                           |
-| 5     | Arte da Guerra \| Palavra Final                                         |
+| 2     | Aptidão + Preparação + Sugestão                                         |
+| 3     | Atributos + (Planejamento \| Comando)                                   |
+| 4     | Competência + Rede Neural + Proteção Neural                             |
+| 5     | Atributos + (Arte da Guerra \| Palavra Final)                           |
 
-### Aprimoramento de Atributos (1)
+### Aprimoramento de Atributos (1, 3, 5)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
@@ -56,6 +56,10 @@ Ao realizar ações durante o tempo de duração desta habilidade, A.N.E. transm
 - Quando você **Atacar** ou usar uma **Habilidade** em algum inimigo, todo ataque ou habilidade realizada por qualquer um contra o mesmo alvo é Fácil.
 
 **Especial:** Caso o aliado saia do alcance desta habilidade após receber o benefício, o efeito não acaba, uma vez que o sinal já foi enviado ao cérebro dele.
+
+### Aprimoramento de Aptidão (2)
+
+Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Preparação (2) :clock9:
 
@@ -122,6 +126,10 @@ A.N.E. libera energia direcionada criaturas na área e controla a liberação ou
 
 - Todas suas ações de Interagir - Social são realizadas com Vantagem.
 - Qualquer check de Influência seu ou de seus aliados são realizados com Vantagem.
+
+### Aprimoramento de Competência (4)
+
+Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Rede Neural (4) :arrow_forward:
 

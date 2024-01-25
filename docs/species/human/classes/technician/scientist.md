@@ -22,10 +22,10 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | Nível | Aprimoramentos                                                                  |
 | ----- | ------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Legenda: Orgânicos |
-| 2     | Dardo Perfurador \| Infusor de Projétil                                         |
-| 3     | Dardo Liberador \| Infusor de Armadura                                          |
-| 4     | Potencializador Químico + Redoma Protetora                                      |
-| 5     | Histeria \| Caos                                                                |
+| 2     | Aptidão + Dardo Perfurador + Infusor de Projétil                                |
+| 3     | Atributos + (Dardo Liberador \| Infusor de Armadura)                            |
+| 4     | Competência + Potencializador Químico + Redoma Protetora                        |
+| 5     | Atributos + (Histeria \| Caos)                                                  |
 
 ### Aprimoramento de Atributos (1)
 
@@ -53,6 +53,10 @@ A.N.E escaneia o ambiente ao seu redor e exibe em seu visor informações básic
 - Você consegue saber se há gases ou outros materiais orgânicos nocivos no ambiente.
 - Você recebe informação sobre a resiliência de todas as criaturas orgânicas na área.
 - Escolha uma das criaturas orgânicas na área, você e todos seus aliados sabem seu Ponto Fraco.
+
+### Aprimoramento de Aptidão (2)
+
+Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Dardo Perfurador (2) :arrow_forward:
 
@@ -100,6 +104,10 @@ A.N.E faz com que seu infusor seja capaz de infundir armaduras do tipo equipamen
     - Aliado ganha Resistência ao tipo de dano.
 - Caso você escolha um inimigo:
     - O inimigo recebe dano do efeito de infusão.
+
+### Aprimoramento de Competência (4)
+
+Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Potencializador Químico (4) :arrow_forward:
 

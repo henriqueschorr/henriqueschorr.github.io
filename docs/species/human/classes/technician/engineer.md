@@ -26,10 +26,10 @@ Caso você use uma habilidade, o drone irá comepletá-la e retornará a sua aç
 | Nível | Aprimoramentos                                                                    |
 | ----- | --------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Legenda: Construtos |
-| 2     | Drone: Torre \| Drone: Laser                                                      |
-| 3     | Drone: Morteiro \| Drone: Sobrecarga                                              |
-| 4     | Drone: Escudo + Reforge                                                           |
-| 5     | Drone: Bomba Magnética \| Drone: Parasita                                         |
+| 2     | Aptidão + Drone: Torre + Drone: Laser                                             |
+| 3     | Atributos + (Drone: Morteiro \| Drone: Sobrecarga)                                |
+| 4     | Competência + Drone: Escudo + Reforge                                             |
+| 5     | Atributos + (Drone: Bomba Magnética \| Drone: Parasita)                           |
 
 ### Aprimoramento de Atributos (1)
 
@@ -57,6 +57,10 @@ A.N.E escaneia o ambiente ao seu redor e exibe em seu visor informações básic
 - Você consegue saber se há armadilhas ou dispositivos detectores no local.
 - Você recebe informação sobre a resiliência de todas as criaturas do tipo construto na área.
 - Escolha uma das criaturas construto na área, você e todos seus aliados sabem seu Ponto Fraco.
+
+### Aprimoramento de Aptidão (2)
+
+Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Drone: Torre (2) :arrow_forward:
 
@@ -125,6 +129,10 @@ Seu Drone pula em alguma criatura ou dispositivo e libera uma grande quantidade 
 - Se o alvo é um dispositivo:
     - Se estiver desativado, você o ativa.
     - Se estiver ativo, você o desativa.
+
+### Aprimoramento de Competência (4)
+
+Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Drone: Escudo (4) :arrow_forward: :leftwards_arrow_with_hook:
 

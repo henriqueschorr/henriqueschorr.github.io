@@ -23,10 +23,10 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | Nível | Aprimoramentos                                                         |
 | ----- | ---------------------------------------------------------------------- |
 | 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem |
-| 2     | Flecha Silenciadora \| Lâmina Elétrica                                 |
-| 3     | Flecha Atordoadora \| Serra Elétrica                                   |
-| 4     | Gancho Magnético + Chamariz                                            |
-| 5     | Flecha Arpão \| Nuvem de Lâminas                                       |
+| 2     | Aptidão + Flecha Silenciadora + Lâmina Elétrica                        |
+| 3     | Atributos + (Flecha Atordoadora \| Serra Elétrica)                     |
+| 4     | Competência + Gancho Magnético + Chamariz                              |
+| 5     | Atributos + (Flecha Arpão \| Nuvem de Lâminas)                         |
 
 ### Aprimoramento de Atributos (1)
 
@@ -49,6 +49,10 @@ _Habilidade (Interagir - Equipamento)_ \| _Defensivo, Utilidade, Energia_
 **Duração:** 3 turnos ou até você receber dano  
 **Alvo:** Si  
 A.N.E aciona a camuflagem, tornando você efetivamente Camuflado quanto ao cenário.
+
+### Aprimoramento de Aptidão (2)
+
+Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Flecha Silenciadora (2) :arrow_forward:
 
@@ -76,7 +80,7 @@ A.N.E. energiza sua lâmina fragmento, causando dano elétrico extra nos seus at
 
 - Adicione 1RDA dano Energia aos seus ataques com a lâmina fragmento.
 
-### Flecha Atordoadora (2) :arrow_forward:
+### Flecha Atordoadora (3) :arrow_forward:
 
 _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
 **Pré Requisito:** Flecha Silenciadora   
@@ -94,7 +98,7 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 
 **Especial:** Se o ataque acertar uma criatura, a área de silêncio se move junto com a criatura, uma vez que o efeito parte da flecha.
 
-### Serra Elétrica (2) :arrow_forward: :large_orange_diamond:
+### Serra Elétrica (3) :arrow_forward: :large_orange_diamond:
 
 _Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_   
 **Pré Requisito:** Lâmina Elétrica  
@@ -111,6 +115,10 @@ A.N.E. energiza sua lâmina fragmento, fazendo os fragmentos vibrarem numa alta 
 _Gatilho: Aliado destrói AP de criatura adjacente a você._  
 _Custo: 1 CP_  
 Você pode acionar esta habilidade e também fazer um ataque.
+
+### Aprimoramento de Competência (4)
+
+Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Gancho Magnético (4) :arrow_forward:
 

@@ -21,13 +21,13 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                                                               |
-| ----- | ---------------------------------------------------------------------------- |
+| Nível | Aprimoramentos                                                                  |
+| ----- | ------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada |
-| 2     | Precisão \| Barragem de Tiros                                                |
-| 3     | Precisão Aleijadora \| Barragem Supressora                                   |
-| 4     | Recarga Magnética + Barricada Individual                                     |
-| 5     | Tiro Marcador \| Tiro Granadeiro                                             |
+| 2     | Aptidão + Precisão + Barragem de Tiros                                          |
+| 3     | Atributos + (Precisão Aleijadora \| Barragem Supressora)                        |
+| 4     | Competência + Recarga Magnética + Barricada Individual                          |
+| 5     | Atributos + (Tiro Marcador \| Tiro Granadeiro)                                  |
 
 ### Aprimoramento de Atributos (1)
 
@@ -55,6 +55,10 @@ A.N.E. aprimora temporariamente seu visor, tornando sua visão mais clara, focad
 - Ignore qualquer efeito natural do tempo que torne ações envolvendo visão Difícil.
 - Ignore Proteção Parcial.
 - Ataques a distância são Fácil.
+
+### Aprimoramento de Aptidão (2)
+
+Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Precisão (2) :arrow_forward: :large_orange_diamond:
 
@@ -125,6 +129,10 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
 - Criaturas na área em que você atacou são impedidas de se mover mais próximo a você.
+
+### Aprimoramento de Competência (4)
+
+Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
 ### Recarga Magnética (4) :free:
 
