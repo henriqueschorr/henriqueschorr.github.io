@@ -1,4 +1,5 @@
-Abaixo você encontra todas os produtos que humanos podem produzir na área da biologia.
+Abaixo você encontra todas os produtos que humanos podem produzir na área da biologia.  
+Todas os itens que indicarem RDA ou VDA, considere o RDA/VDA da pessoa que o produziu, a não ser que diga o contrário. Considere o RDA/VDA atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
 
 ## Suporte
 

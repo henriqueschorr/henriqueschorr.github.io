@@ -12,9 +12,9 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ------- | ---------------------------------------------------------------------- |
 | 30      | Munição Comum, Nano-Fix Simples, Granadas, Armadilhas                  |
 | 40      | Munição Avançada, Munição Energia, Aprimoramentos de Drone I           |
-| 45      | Nano-Fix Avançado, Aprimoramentos de Armamentos I, Membrana Resistente |
+| 45      | Nano-Fix Avançado, Aprimoramentos de Equipamentos I, Membrana Resistente |
 | 50      | Sistema Lázarus, Aprimoramentos de Drone II, Munição Míssil            |
-| 60      | Aprimoramentos de Armamentos II, Aprimoramentos de Drones III          |
+| 60      | Aprimoramentos de Equipamentos II, Aprimoramentos de Drones III          |
 
 ## Drone de Combate
 
@@ -94,7 +94,8 @@ A.N.E transforma a energia do drone em projéteis de laser, causando dano elétr
 - O armamento do drone se transforma uma arma capaz de disparar laser.
 - Drone não consome munição.
 - Os ataques do drone causam:
-    - Seu dano normal + 1VDA Ciência dano Elétrico + 1VDA Ciência dano Fogo.
+    - Seu dano normal + 2VDA Ciência.
+        - O tipo do dano é dividido igualmente entre tipo elétrico e fogo.
 
 ### Drone: Morteiro (3) :arrow_forward:
 
@@ -112,7 +113,7 @@ A.N.E reorganiza os componentes de seu drone o transformando em um morteiro capa
     - Granadas
     - Munição Míssel
     - Bola de Canhão
-        - Bola de Canhão pode ser feita a partir de 10 sucatas e causa 6VDA Cérebro dano concussão
+        - Bola de Canhão pode ser feita a partir de 10 sucatas e causa 5RDA Cérebro dano concussão
 
 ### Drone: Sobrecarga (3) :arrow_forward:
 
@@ -124,7 +125,7 @@ Seu Drone pula em alguma criatura ou dispositivo e libera uma grande quantidade 
 
 - Drone salta em uma criatura ou dispositivo e libera uma descarga de energia.
 - Se o alvo é uma criatura:
-    - A criatura recebe 2VDA Cérebro + Nível dano energia.
+    - A criatura recebe 2RDA Cérebro + Nível dano energia.
     - Se for um construto, check físico ou Incapacitado 2 (Corpo)
 - Se o alvo é um dispositivo:
     - Se estiver desativado, você o ativa.
@@ -180,7 +181,7 @@ A.N.E transforma seu drone em um potente imã, puxando qualquer metal na região
         - Inimigos devem realizar um check físico ou controle. Falha: Desarmados
 - Drone recebe 2 AP para cada material integrado.
 - Drone pode expelir os materiais integrados com uma enorme força (custo de 2 ações).
-    - Esse ataque causa 1RDA Controle para cada material integrado + Nível de dano concussão.
+    - Esse ataque causa 2RDA Cérebro para cada material integrado + Nível de dano concussão.
 - Ao final da duração dessa habilidade, os materiais são simplesmentes jogados no chão.
 
 **Especial:** Fica ao critério do MU determinar o tamanho e peso possível dos metais puxados e integrados, mas eles não deveriam ultrapassar muito o tamanho e peso do drone.
@@ -196,6 +197,6 @@ _Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_
 A.N.E cria um link entre seu drone e uma criatura do tipo construto ou dispositivo eletrônico, fazendo-o tomar controle do mesmo.
 
 - Criatura alvo deve realizar um check Cérebro:
-    - Sucesso: Recebe 2VDA Cérebro + Nível dano energia e fica Debilitado 2 (Neural).
+    - Sucesso: Recebe 2RDA Cérebro + Nível dano energia e fica Debilitado 2 (Neural).
     - Falha: Criatura fica Controlado 3 por você.
         - Em qualquer momento, até o fim de Controlado, você pode comandar a criatura a ficar Incapacitado 2 (Neural).

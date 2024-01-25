@@ -40,9 +40,11 @@ _**Exemplo:** Remella tira 1 no check do seu ataque, podendo causar então dano 
 - _Dano total dobrado: (1d6 + 8) x 2._
 
 ### Explosão de Dano x Dano Dobrado
+
 Quando algum ataque é passível de ambos os bônus, explosão de dano ocorre antes de dano dobrado, ou seja, você dobra o dano somente quando parar de rolar dados.
 
 ## Ponto Fraco
+
 Criaturas ou você podem ter seus pontos fracos expostos através de alguma habilidade ou equipamento, como por exemplo a habilidade de Legenda: Orgânicos do humano cientista. Pontos fracos não precisam ser necessariamente especificados, pode ser um ponto fraco genérico qualquer.  
 Quando alguém ataca pela primeira vez uma criatura que tenha ponto fraco especificado, o dano é dobrado e passível de explosão de dano. O ponto fraco "some" após a criatura sofrer o primeiro ataque e se torna indisponível pelas próximas 24 horas.
 
@@ -50,17 +52,17 @@ Quando alguém ataca pela primeira vez uma criatura que tenha ponto fraco especi
 
 No universo há diversos tipos de armamentos e habilidades diferentes, o tipo de dano aplicado não poderia ser diferente. Abaixo você encontra todos os tipos de dano e o efeito causado caso você tenha um Sucesso Crítico durante o ataque, além de alguns exemplos do que pode causar este dano.
 
-| Tipo de Dano | Efeito Crítico                 | Exemplos                           |
-| ------------ | ------------------------------ | ---------------------------------- |
-| Corte        | Dano Dobrado se HP             | Lâmina Retrátil, Pétalas de Sangue |
-| Concussão    | Dano Dobrado se AP             | Broto: Punhos, Braços-Tentáculos   |
-| Perfuração   | Dano Persistente 2 (50%) se HP | Pistola, Broto: Espinhos           |
-| Fogo         | Dano Persistente 2 (50%)       | Granada Termobárica                |
-| Gelo         | Limitado                       | Mina de Congelamento               |
-| Corrosivo    | Dano Dobrado                   | Florescer, Infectar                |
-| Energia      | Incapacitado                   | Lâmina de Energia                  |
-| Sensorial    | Descrito no fator causador     | Granada de Luz                     |
-| Neural       | Descrito no fator causador     | Palavra Final, Sonhos e Pesadelos  |
-| Radiação     | Descrito no fator causador     | Objetos radioativos, espaço        |
-| Veneno       | Descrito no fator causador     | Glândula de Veneno                 |
-| Caos         | Descrito no fator causador     | Armamentos produzidos com Solarium |
+| Tipo de Dano | Efeito Crítico                                              | Exemplos                           |
+| ------------ | ----------------------------------------------------------- | ---------------------------------- |
+| Corte        | Dano Dobrado se HP                                          | Lâmina Retrátil, Pétalas de Sangue |
+| Concussão    | Dano Dobrado se AP                                          | Broto: Punhos, Braços-Tentáculos   |
+| Perfuração   | Dano Persistente 2 (Sangramento) 50% do dano original se HP | Pistola, Broto: Espinhos           |
+| Fogo         | Dano Persistente 2 (Fogo) 50% do dano original se HP        | Granada Termobárica                |
+| Gelo         | Limitado 2                                                  | Mina de Congelamento               |
+| Corrosivo    | Dano Dobrado                                                | Florescer, Infectar                |
+| Energia      | Incapacitado (Neural) 2                                     | Lâmina de Energia                  |
+| Sensorial    | Descrito no fator causador                                  | Granada de Luz                     |
+| Neural       | Descrito no fator causador                                  | Palavra Final, Sonhos e Pesadelos  |
+| Radiação     | Descrito no fator causador                                  | Objetos radioativos, espaço        |
+| Veneno       | Descrito no fator causador                                  | Glândula de Veneno                 |
+| Caos         | Descrito no fator causador                                  | Armamentos produzidos com Solarium |

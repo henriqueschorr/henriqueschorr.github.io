@@ -181,8 +181,8 @@ Você toma nota de tudo ao seu redor, ambiente, armadilhas, criaturas, etc. Voc�
     - A ação executada pelo aliado é Fácil.
 - No próximo turno de cada aliado, o aliado pode realizar uma das ações a sua escolha como Muito Fácil.
 - Todos os ataques dos aliados são passíveis de Explosão de Dano.
-- Todo o dano causado por um aliado tem 1RDA Atenção seu a mais.
-- Toda cura causada por um aliado tem 1RDA Atenção seu a mais.
+- Todo o dano causado por um aliado tem 1VDA Atenção seu a mais.
+- Toda cura causada por um aliado tem 1VDA Atenção seu a mais.
 - Inimigos atingidos por você ou seus aliados ficam Debilitados 1 (Neural) .
 
 ### Palavra Final (5) :fast_forward:

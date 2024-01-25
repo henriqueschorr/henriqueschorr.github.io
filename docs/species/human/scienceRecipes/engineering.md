@@ -1,26 +1,25 @@
-Abaixo você encontra todos os itens que humanos podem produzir na área da engenharia. Esta área é dominada pelos Engenheiros, ainda mais possuindo sua forja móvel que os permite produzir os itens em qualquer momento e local.
+Abaixo você encontra todos os itens que humanos podem produzir na área da engenharia. Esta área é dominada pelos Engenheiros, ainda mais possuindo sua forja móvel que os permite produzir os itens em qualquer momento e local.  
+Todas os itens que indicarem RDA ou VDA, considere o RDA/VDA da pessoa que o produziu, a não ser que diga o contrário. Considere o RDA/VDA atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
 
 ### Leitura das Tabelas
 
 Abaixo você encontra o que cada uma das colunas representa.
 
-**Receita:** Nome do item ou aprimoramento que você irá produzir.   
+**Receita:** Nome do item ou aprimoramento que você irá produzir.  
 **Alvo:** Alvo do aprimoramento ou item caso ele possua.  
 **Complexidade:** Complexidade de criação do item ou aprimoramento.  
-**Componentes:** Componentes químicos necessários para produzir esta solução.   
+**Componentes:** Componentes químicos necessários para produzir esta solução.  
 **Efeito:** Efeito ativo que a solução causa após aplicada.  
-**Exclusivo:** Você não pode adquirir este aprimoramento caso possua o outro aprimoramento listado.  
+**Exclusivo:** Você não pode adquirir este aprimoramento caso possua o outro aprimoramento listado.
 
 ## Suporte
 
 Itens de suporte que você pode criar ou implementar e concedem bônus a você ou seus aliados.
 
-| Receita             | Alvo                         | Complexidade | Componentes                                             | Efeito                                                                                                                    |
-| ------------------- | ---------------------------- | ------------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Nano-Fix Simples    | -                            | Baixa        | 3x Sucata                                               | Recupera 1VDA Cérebro + Nível de AP.                                                                                      |
-| Nano-Fix Avançado   | -                            | Média        | 5x Sucata                                               | Recupera 2VDA Cérebro + Nível de AP.                                                                                      |
-| Membrana Resistente | Armadura do tipo equipamento | Alta         | 4x Sucata, 1x Material Tecnológico, 1x Material Químico | Armadura possui resistência a um tipo dos danos a seguir a sua escolha: fogo, gelo ou energia.                            |
-| Sistema Lázarus     | Armadura do tipo equipamento | Alta         | 2x Sucata, 3x Material Tecnológico, 3x Material Químico | Quando o usuário da armadura chegar a 0 HP, ele volta a vida com 1VDA Cérebro. Efeito possível apenas 1x a cada 24 horas. |
+| Receita           | Alvo | Complexidade | Componentes | Efeito                               |
+| ----------------- | ---- | ------------ | ----------- | ------------------------------------ |
+| Nano-Fix Simples  | -    | Baixa        | 3x Sucata   | Recupera 1VDA Cérebro + Nível de AP. |
+| Nano-Fix Avançado | -    | Média        | 5x Sucata   | Recupera 2VDA Cérebro + Nível de AP. |
 
 ## Armamentos e Munições
 
@@ -70,29 +69,31 @@ Todos os aprimoramentos de drone III possuem complexidade Alta e possuem como al
 
 | Receita              | Componentes                                             | Exclusivo                                | Efeito                                                                                                                                                                                                                                          |
 | -------------------- | ------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Meteoro              | 5x Sucata, 3x Material Tecnológico, 2x Material Químico | Escudeiro, Lutador, Propulsor, Aracnídeo | Ao usar a habilidade de Drone: Morteiro, seus ataques tem área de efeito aumentada para 10m e causam 2VDA Controle a mais de dano em criaturas atingidas nos 4m centrais.                                                                       |
+| Meteoro              | 5x Sucata, 3x Material Tecnológico, 2x Material Químico | Escudeiro, Lutador, Propulsor, Aracnídeo | Ao usar a habilidade de Drone: Morteiro, seus ataques tem área de efeito aumentada para 10m e causam 2RDA Controle a mais de dano em criaturas atingidas nos 4m centrais.                                                                       |
 | Pulso P.E.M          | 5x Sucata, 5x Material Tecnológico, 2x Material Químico | -                                        | Ao usar a habilidade de Drone: Sobrecarga, a habilidade tem área de efeito de 4m.                                                                                                                                                               |
 | Sobrecarga Vampírica | 5x Sucata, 5x Material Tecnológico, 3x Material Químico | -                                        | Ao usar a habilidade de Drone: Sobrecarga, em vez de realizar uma descarga, o drone suga a energia das criaturas. A habilidade não causa mais dano, porém o efeito é aumentado para Incapacitado 4 e você ou algum aliado recebe 2 EN de volta. |
-| Tempestade Magnética | 5x Sucata, 5x Material Tecnológico, 5x Material Químico | -                                        | Ao usar a habilidade de Drone: Bomba Magnética, a explosão causa 4VDA Controle dano corte a mais.                                                                                                                                               |
+| Tempestade Magnética | 5x Sucata, 5x Material Tecnológico, 5x Material Químico | -                                        | Ao usar a habilidade de Drone: Bomba Magnética, a explosão causa 4RDA Controle dano corte a mais, independente do numero de fragmentos.                                                                                                         |
 | Multi Processadores  | 5x Sucata, 8x Material Tecnológico, 3x Material Químico | -                                        | Ao usar a habilidade de Drone: Parasita, você pode tomar controle de (1VDA Cérebro / 2) alvos em vez de apenas 1 alvo.                                                                                                                          |
 
-## Aprimoramentos de Armamentos I
+## Aprimoramentos de Equipamentos I
 
-Todos os aprimoramentos de armamentos I possuem complexidade Média. Uma vez implementados os efeitos são permanentes.
+Todos os aprimoramentos de equipamentos I possuem complexidade Média. Uma vez implementados os efeitos são permanentes.
 
-| Receita       | Alvo                                             | Componentes                        | Efeito                                          |
-| ------------- | ------------------------------------------------ | ---------------------------------- | ----------------------------------------------- |
-| Fio Perfeito  | Armas Brancas de alcance adjacente               | 2x Sucata, 2x Material Químico     | Aumenta em 1 nível o dado de dano do armamento. |
-| Tensionamento | Arco Composto                                    | 2x Sucata, 2x Material Tecnológico | Aumenta em 1 nível o dado de dano do armamento. |
-| Potência      | Armas de Fogo que usam munição comum ou avançada | 2x Sucata, 2x Material Tecnológico | Aumenta em 1 nível o dado de dano do armamento. |
+| Receita             | Alvo                                             | Componentes                                             | Efeito                                                                                         |
+| ------------------- | ------------------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Fio Perfeito        | Armas Brancas de alcance adjacente               | 2x Sucata, 2x Material Químico                          | Aumenta em 1 nível o dado de dano do armamento.                                                |
+| Tensionamento       | Arco Composto                                    | 2x Sucata, 2x Material Tecnológico                      | Aumenta em 1 nível o dado de dano do armamento.                                                |
+| Potência            | Armas de Fogo que usam munição comum ou avançada | 2x Sucata, 2x Material Tecnológico                      | Aumenta em 1 nível o dado de dano do armamento.                                                |
+| Membrana Resistente | Armadura do tipo equipamento                     | 4x Sucata, 1x Material Tecnológico, 1x Material Químico | Armadura possui resistência a um tipo dos danos a seguir a sua escolha: fogo, gelo ou energia. |
 
-## Aprimoramentos de Armamentos II
+## Aprimoramentos de Equipamentos II
 
-Todos os aprimoramentos de armamentos II possuem complexidade Alta. Uma vez implementados os efeitos são permanentes.
+Todos os aprimoramentos de equipamentos II possuem complexidade Alta. Uma vez implementados os efeitos são permanentes.
 
-| Receita           | Alvo                                             | Componentes                                                                           | Efeito                                                                                                      |
-| ----------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Fio Etéreo        | Armas Brancas de alcance adjacente               | 1x Material Raro, 2x Material Químico                                                 | Todo ataque pode causar 50% Dano Persistente 1 (Sangramento). Check Físico.                                 |
-| Arpão Perfurante  | Arco Composto                                    | 1x Material Raro, 2x Material Tecnológico                                             | Armamento recebe o marcador Perfuração para sempre.                                                         |
-| Impacto Explosivo | Armas de Fogo que usam munição comum ou avançada | 1x Material Radioativo, 2x Material Tecnológico                                       | Todos os ataques causam 1RDA Controle a mais de dano corte.                                                 |
-| Especialização    | Armas Especiais específicas de personagem        | 1x Material Raro, 2x Material Tecnológico, 1x Material Químico, 1x Material Biológico | Aprimora armamento ou equipamento especial de um personagem. Veja uma lista abaixo dos efeitos específicos. |
+| Receita           | Alvo                                                 | Componentes                                                                           | Efeito                                                                                                                    |
+| ----------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Fio Etéreo        | Armas Brancas de alcance adjacente                   | 1x Material Raro, 2x Material Químico                                                 | Todo ataque: check Físico ou alvo Dano Persistente 1 (Sangramento) 50% do dano original.                                  |
+| Arpão Perfurante  | Arco Composto                                        | 1x Material Raro, 2x Material Tecnológico                                             | Armamento recebe o marcador Perfuração para sempre.                                                                       |
+| Impacto Explosivo | Armas de Fogo que usam munição comum ou avançada     | 1x Material Radioativo, 2x Material Tecnológico                                       | Todos os ataques causam 1RDA Controle a mais de dano corte.                                                               |
+| Sistema Lázarus   | Armadura do tipo equipamento                         | 2x Sucata, 3x Material Tecnológico, 3x Material Químico                               | Quando o usuário da armadura chegar a 0 HP, ele volta a vida com 1VDA Cérebro. Efeito possível apenas 1x a cada 24 horas. |
+| Especialização    | Armamentos ou equipamentos específicos de personagem | 1x Material Raro, 2x Material Tecnológico, 1x Material Químico, 1x Material Biológico | Aprimora armamento ou equipamento especial de um personagem. Veja uma lista abaixo dos efeitos específicos.               |

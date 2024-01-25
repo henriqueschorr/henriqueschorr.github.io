@@ -109,7 +109,7 @@ A.N.E. energiza sua lâmina fragmento, fazendo os fragmentos vibrarem numa alta 
 
 - Adicione 1RDA dano Energia aos seus ataques com a lâmina fragmento.
 - Adicione 1RDA dano Corte aos seus ataques com a lâmina fragmento.
-- Se você atingir o HP de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente (Sangramento).
+- Se você atingir o HP de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente 2 (Sangramento) 50% do dano original.
 
 **Combo**  
 _Gatilho: Aliado destrói AP de criatura adjacente a você._  
