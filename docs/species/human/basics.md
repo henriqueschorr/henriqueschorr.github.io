@@ -29,6 +29,9 @@ Humanos são seres bípedes que possuem todas as [partes do corpo](../../rules/a
 ### Sistemas do Corpo
 Possuem todos os [sistemas do corpo](../../rules/anatomy/body.md#sistemas-do-corpo).
 
+## Movimento
+Terrestre 8m, Aquático 4m.
+
 ## Conhecimento Científico
 Humanos são familiares com todas as áreas da ciência.
 

@@ -2,7 +2,7 @@ Especializado em tarefas envolvendo as ciências de Química e Biologia, como po
 
 ## Equipamento Inicial
 
-[A.N.E. Média](../../../human/ane.md), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Drone de Combate](../../equipment/equipments.md#drone-de-combate), 1x [Forja Móvel](../../equipment/equipments.md#forja-móvel), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
+[A.N.E. Média](../../../human/ane.md), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Drone de Combate](../../companion.md#drone-de-combate), 1x [Forja Móvel](../../equipment/equipments.md#forja-móvel), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
 
 ## Ciência: Receitas
 
@@ -18,10 +18,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Drone de Combate
 
-O [Drone de Combate](../../equipment/equipments.md#drone-de-combate) é um construto aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. 
-
-#### Comandar
-Para comandá-lo você deve usar uma ação de Interagir - Equipamento e dizer uma ação como: mover até local x e atacar alvo y, defender alvo x, etc. O drone irá realizar a ação comandada até que ela seja completada ou até você comandar outra ação. Caso você use uma habilidade, o drone irá comepletá-la e retornará a sua ação comandada anteriormente.
+O [Drone de Combate](../../equipment/equipments.md#drone-de-combate) é um construto parceiro e aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. Para mais informações sobre parceiros, visite o capítulo [Parceiros](../../../../rules/companion.md).
 
 #### Checks
 Todo e qualquer check que seu drone precisar fazer, seja ele para esquivar, atacar, resistir a algum efeito, etc, é realizado por você, a capacidade de sucesso dele é determinada pelo quão bem você o construiu e programou. Caso seja necessário um check de competência, você usa Ciência. As aptidões relacionadas as ações do seu drone são a de Cérebro e Controle, a sua escolha. 

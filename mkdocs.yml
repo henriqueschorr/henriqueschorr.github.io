@@ -34,6 +34,7 @@ nav:
         - Sobrevivência: rules/character/survival.md
         - Aprimoramentos: rules/character/upgrades.md
         - Nível: rules/character/level.md
+        - Parceiro: rules/character/companion.md
       - Jogando:
         - rules/play/index.md
         - Checks e Rolagens: rules/play/checks.md
@@ -76,6 +77,7 @@ nav:
         - Fenômenos Naturais: rules/ambiance/ambiance.md
         - Mecânicas Bases: rules/ambiance/mechanics.md
       - Criaturas: rules/creatures.md
+      - Parceiros: rules/companion.md
       - Marcadores:
         - rules/tags/index.md
         - Espécie e Criaturas: rules/tags/creatures.md
@@ -102,6 +104,7 @@ nav:
         - species/human/equipment/index.md
         - Armamentos: species/human/equipment/weapons.md
         - Equipamentos: species/human/equipment/equipments.md
+      - Parceiros: species/human/companion.md
       - Ciência Receitas:
         - species/human/scienceRecipes/index.md
         - Química: species/human/scienceRecipes/chemistry.md

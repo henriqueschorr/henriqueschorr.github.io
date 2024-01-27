@@ -2,7 +2,7 @@
 title: Regras Gerais
 ---
 
-# Introdução
+<!-- # Introdução
 
 ## Seu Personagem
 O primeiro passo para você começar a jogar Beyond the Horizon é criar o seu Personagem. Seu personagem seguirá uma arquitetura básica de Atributos, Ações, Reações e outras diversas características. A construção varia bastante de espécie para espécie, esta que define os valores iniciais de seus atributos, Pontos de Vida (HP), Energia (EN), Aprimoramentos, Habilidades, etc.
@@ -18,4 +18,4 @@ O jogo todo gira em torno de dois modos distintos, estes que intercalam entre um
 Na maioria do tempo você passará explorando o mundo, interagindo com NPCs e viajando. Este modo de jogo é conhecido como Exploração. Neste modo de jogo a narrativa é bem livre, o MU lhe dará um cenário e você deve decidir suas ações, dependendo da sua ação, um check poderá ser solicitado ou não, após isso será narrado as consequências de suas escolhas e a narrativa continua. Para mais informações sobre este modo de jogo, veja o capítulo [Exploração](../rules/play/game_modes/exploration.md).
 
 ### Encontro
-Este modo de jogo é utilizado quando seu personagem se encontra em uma situação delicada, que necessita mais atenção e narrativa bem definida. Encontros geralmente são batalhas. Durante um encontro, todos os envolvidos possuem um Turno cada, onde cada um realiza um número finito de ações. Para mais informações sobre este modo de jogo, veja o capítulo [Encontro](../rules/play/game_modes/encounter.md).
+Este modo de jogo é utilizado quando seu personagem se encontra em uma situação delicada, que necessita mais atenção e narrativa bem definida. Encontros geralmente são batalhas. Durante um encontro, todos os envolvidos possuem um Turno cada, onde cada um realiza um número finito de ações. Para mais informações sobre este modo de jogo, veja o capítulo [Encontro](../rules/play/game_modes/encounter.md). -->
