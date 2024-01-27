@@ -6,7 +6,7 @@ Você não faz rolagem de Iniciativa quando requisitado, em vez disso, você sem
 
 ## Equipamento Inicial
 
-A.N.E Leve, 1x Rifle de Assalto, 1x Pistola, 1x Faca de Combate, 1x Neurotransmissor, 1x Kit Médico Simples, 30x Munição Comum.
+[A.N.E. Leve](../../../human/ane.md), 1x [Rifle de Assalto](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Neurotransmissor](../../equipment/equipments.md#neurotransmissor), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md).
 
 ## Aprimoramentos
 

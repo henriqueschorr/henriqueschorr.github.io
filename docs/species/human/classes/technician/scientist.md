@@ -2,20 +2,20 @@ Especializado em tarefas envolvendo as ciências de Química e Biologia, como po
 
 ## Equipamento Inicial
 
-A.N.E Leve, 1x Pistola, 1x Faca de Combate, 1x Lançador de Dardos, 1x Infusor, 1x Laboratório Móvel, 2x Kit Médico Simples, 1x Kit Médico Avançado, 20x Munição Comum, 5x Dardos de Infusão.  
-Para os Dardos de Infusão, determine quais soluções estão dentro de cada um. Você pode ter apenas Solução Simples.
+[A.N.E. Leve](../../../human/ane.md), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Lançador de Dardos](../../equipment/equipments.md#lançador-de-dardos), 1x [Infusor](../../equipment/equipments.md#infusor), 1x [Laboratório Móvel](../../equipment/equipments.md#laboratório-móvel), 2x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte), 1x [Kit Médico Avançado](../../scienceRecipes/biology.md#suporte), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 5x [Dardos de Infusão](../../equipment/equipments.md#dardo-infusor).  
+Para os Dardos de Infusão, determine quais soluções estão dentro de cada um. Você pode ter apenas [Solução Simples](../../scienceRecipes/chemistry.md#solução-simples).
 
 ## Ciência: Receitas
 
 Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você pode produzir os itens abaixo em qualquer local com seu laboratório móvel.
 
-| Cérebro | Receitas                                               |
-| ------- | ------------------------------------------------------ |
-| 30      | Solução Simples, Kit Médico Simples, Dardos de Infusão |
-| 40      | Kit Médico Avançado                                    |
-| 45      | Solução Elemental, Munição Químico                     |
-| 50      | Solução Avançada, Aprimoramentos de Corpo              |
-| 60      | Solução Especial                                       |
+| Cérebro | Receitas                                                                                                                                                                                              |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 30      | [Solução Simples](../../scienceRecipes/chemistry.md#solução-simples), [Kit Médico Simples](../../scienceRecipes/biology.md#suporte), [Dardos de Infusão](../../equipment/equipments.md#dardo-infusor) |
+| 40      | [Kit Médico Avançado](../../scienceRecipes/biology.md#suporte)                                                                                                                                        |
+| 45      | [Solução Elemental](../../scienceRecipes/chemistry.md#solução-elemental), [Munição Químico](../../../../rules/weapon_armor/ammo.md)                                                                   |
+| 50      | [Solução Avançada](../../scienceRecipes/chemistry.md#solução-avançada), [Aprimoramentos de Corpo](../../scienceRecipes/biology.md#aprimoramentos-de-corpo)                                            |
+| 60      | [Solução Especial](../../scienceRecipes/chemistry.md#solução-especial)                                                                                                                                |
 
 ## Aprimoramentos
 

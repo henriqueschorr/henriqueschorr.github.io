@@ -15,7 +15,9 @@ Ações definem o que você pode fazer durante seu Turno. Em geral, você pode r
 
 ## Mover
 
-Mover é uma das ações mais básicas do jogo e inclui qualquer ação que envolva o corpo do seu personagem mudar seu ponto no eixo espacial. Dependendo da ação desejada ou do contexto do cenário atual, um check de Mobilidade será necessário. Por exemplo, ao caminhar tentando manter o equilíbrio, será necessário um check de Mobilidade & Agilidade. Abaixo segue uma lista das ações relacionadas à mobilidade e seus detalhes.
+Mover é uma das ações mais básicas do jogo e inclui qualquer ação que envolva o corpo do seu personagem mudar seu ponto no eixo espacial. Dependendo da ação desejada ou do contexto do cenário atual, um check de Mobilidade será necessário. Por exemplo, ao caminhar tentando manter o equilíbrio, será necessário um check de Mobilidade & Agilidade.  
+Quando você usa a ação Mover, você não precisa mover toda sua velocidade antes de realizar alguma outra ação, no momento que você usou Mover, você pode intercalar seu movimento entre suas outras ações.  
+Abaixo segue uma lista das ações relacionadas à mobilidade e seus detalhes.
 
 | Movimento | Efeito                                                                                                                                                                                                                                                                                                                         |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

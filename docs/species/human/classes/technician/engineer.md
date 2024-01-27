@@ -2,19 +2,19 @@ Especializado em tarefas envolvendo as ciências de Química e Biologia, como po
 
 ## Equipamento Inicial
 
-A.N.E Média, 1x Pistola, 1x Faca de Combate, 1x Drone de Combate, 1x Forja Móvel, 1x Kit Médico Simples, 20x Munição Comum.
+[A.N.E. Média](../../../human/ane.md), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Drone de Combate](../../equipment/equipments.md#drone-de-combate), 1x [Forja Móvel](../../equipment/equipments.md#forja-móvel), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
 
 ## Ciência: Receitas
 
 Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você pode produzir os itens abaixo em qualquer local com seu forja móvel.
 
-| Cérebro | Receitas                                                               |
-| ------- | ---------------------------------------------------------------------- |
-| 30      | Munição Comum, Nano-Fix Simples, Granadas, Armadilhas                  |
-| 40      | Munição Avançada, Munição Energia, Aprimoramentos de Drone I           |
-| 45      | Nano-Fix Avançado, Aprimoramentos de Equipamentos I, Membrana Resistente |
-| 50      | Sistema Lázarus, Aprimoramentos de Drone II, Munição Míssil            |
-| 60      | Aprimoramentos de Equipamentos II, Aprimoramentos de Drones III          |
+| Cérebro | Receitas                                                                                                                                                                                                                         |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 30      | [Munição Comum](../../../../rules/weapon_armor/ammo.md), [Nano-Fix Simples](../../scienceRecipes/engineering.md#suporte), [Granadas](../../equipment/weapons.md#explosivos), [Armadilhas](../../equipment/weapons.md#armadilhas) |
+| 40      | [Munição Avançada](../../../../rules/weapon_armor/ammo.md), [Munição Energia](../../../../rules/weapon_armor/ammo.md), [Aprimoramentos de Drone I](../../scienceRecipes/engineering.md#aprimoramentos-de-drone-i)                |
+| 45      | [Nano-Fix Avançado](../../scienceRecipes/engineering.md#suporte), [Aprimoramentos de Equipamentos I](../../scienceRecipes/engineering.md#aprimoramentos-de-equipamentos-i)                                                       |
+| 50      | [Aprimoramentos de Drone II](../../scienceRecipes/engineering.md#aprimoramentos-de-drone-ii), [Munição Míssil](../../../../rules/weapon_armor/ammo.md)                                                                           |
+| 60      | [Aprimoramentos de Equipamentos II](../../scienceRecipes/engineering.md#aprimoramentos-de-equipamentos-ii), [Aprimoramentos de Drones III](../../scienceRecipes/engineering.md#aprimoramentos-de-drone-iii)                      |
 
 ## Drone de Combate
 

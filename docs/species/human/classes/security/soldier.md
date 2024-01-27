@@ -6,7 +6,7 @@ Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil d
 
 ## Equipamento Inicial
 
-A.N.E Médio, 1x Fuzil de Precisão, 1x Fuzil de Assalto, 1x Pistola, 1x Faca de Combate, 2x Granadas de Fragmentação, 30x Munição Comum, 20x Munição Avançada, 1x Kit Médico Simples.
+[A.N.E. Média](../../../human/ane.md), 1x [Fuzil de Precisão](../../equipment/weapons.md#armas-de-fogo), 1x [Fuzil de Assalto](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 2x [Granadas de Fragmentação](../../equipment/weapons.md#explosivos), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 20x [Munição Avançada](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
 
 ## Ciência: Receitas
 
