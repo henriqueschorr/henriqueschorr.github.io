@@ -18,8 +18,13 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Drone de Combate
 
-O [Drone de Combate](../../equipment/equipments.md#drone-de-combate) é um construto aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral. Para comandá-lo você deve usar uma ação de Interagir - Equipamento e dizer uma das ações como: mover até local x e atacar alvo y, defender alvo x, etc. O drone irá realizar a ação comandada até que ela seja completada ou até você comandar outra ação.  
-Caso você use uma habilidade, o drone irá comepletá-la e retornará a sua ação comandada anteriormente.
+O [Drone de Combate](../../equipment/equipments.md#drone-de-combate) é um construto aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. 
+
+#### Comandar
+Para comandá-lo você deve usar uma ação de Interagir - Equipamento e dizer uma ação como: mover até local x e atacar alvo y, defender alvo x, etc. O drone irá realizar a ação comandada até que ela seja completada ou até você comandar outra ação. Caso você use uma habilidade, o drone irá comepletá-la e retornará a sua ação comandada anteriormente.
+
+#### Checks
+Todo e qualquer check que seu drone precisar fazer, seja ele para esquivar, atacar, resistir a algum efeito, etc, é realizado por você, a capacidade de sucesso dele é determinada pelo quão bem você o construiu e programou. Caso seja necessário um check de competência, você usa Ciência. As aptidões relacionadas as ações do seu drone são a de Cérebro e Controle, a sua escolha. 
 
 ## Aprimoramentos
 
@@ -28,7 +33,7 @@ Caso você use uma habilidade, o drone irá comepletá-la e retornará a sua aç
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Legenda: Construtos |
 | 2     | Aptidão + Drone: Torre + Drone: Laser                                             |
 | 3     | Atributos + (Drone: Morteiro \| Drone: Sobrecarga)                                |
-| 4     | Competência + Drone: Escudo + Reforge                                             |
+| 4     | Competência + Reforge + Drone: Escudo                                             |
 | 5     | Atributos + (Drone: Bomba Magnética \| Drone: Parasita)                           |
 
 ### Aprimoramento de Atributos (1)
@@ -135,6 +140,20 @@ Seu Drone pula em alguma criatura ou dispositivo e libera uma grande quantidade 
 
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
+### Reforge (4) :fast_forward:
+
+_Habilidade (Interação - Equipamento, Ajudar)_ \| _Suporte, Energia_  
+**Requerimento:** Aliado deve estar usando uma armadura do tipo equipamento  
+**Custo:** 1x Célula de Energia (EN)  
+**Alvo:** Armadura do tipo equipamento  
+**Alcance:** Adjacente  
+A.N.E transfere parte de seus nano-robôs para alguma armadura do tipo equipamento, regerando AP e podendo também transferir EN junto.
+
+- Você pode transferir AP seu para AP de alguma aliado com armadura do tipo equipamento.
+    - Diminua a quantidade que você quiser do seu AP
+    - Adicione esse AP ao seu aliado
+- Você pode transferir 1 EN para um aliado humano.
+
 ### Drone: Escudo (4) :arrow_forward: :leftwards_arrow_with_hook:
 
 _Habilidade (Interação - Equipamento)_ \| _Defensivo, Suporte, Energia_  
@@ -150,20 +169,6 @@ A.N.E reorganiza os componentes de seu drone o transformando em um escudo móvel
 - Aliados atrás do drone possuem Proteção Total.
 - Qualquer ataque que pegue no Drone é absorvido e transformado em Energia (EN) para você ou o aliado.
     - 5 de dano = 1 EN.
-
-### Reforge (4) :fast_forward:
-
-_Habilidade (Interação - Equipamento, Ajudar)_ \| _Suporte, Energia_  
-**Requerimento:** Aliado deve estar usando uma armadura do tipo equipamento  
-**Custo:** 1x Célula de Energia (EN)  
-**Alvo:** Armadura do tipo equipamento  
-**Alcance:** Adjacente  
-A.N.E transfere parte de seus nano-robôs para alguma armadura do tipo equipamento, regerando AP e podendo também transferir EN junto.
-
-- Você pode transferir AP seu para AP de alguma aliado com armadura do tipo equipamento.
-    - Diminua a quantidade que você quiser do seu AP
-    - Adicione esse AP ao seu aliado
-- Você pode transferir 1 EN para um aliado humano.
 
 ### Drone: Bomba Magnética (5) :arrows_counterclockwise:
 

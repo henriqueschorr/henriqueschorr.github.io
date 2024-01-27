@@ -11,6 +11,7 @@ Abaixo você encontra o que cada uma das colunas representa.
 **Componentes:** Componentes químicos necessários para produzir esta solução.  
 **Efeito:** Efeito ativo que a solução causa após aplicada.  
 **Exclusivo:** Você não pode adquirir este aprimoramento caso possua o outro aprimoramento listado.
+**Quantidade:** Indica a quantidade criada por vez.
 
 ## Suporte
 
@@ -25,19 +26,19 @@ Itens de suporte que você pode criar ou implementar e concedem bônus a você o
 
 Soluções simples, como o próprio nome já diz, são soluções simples de serem produzidas. Soluções simples tem <ins>Complexidade de criação Baixa</ins>.
 
-| Receita                 | Complexidade | Componentes                                              |
-| ----------------------- | ------------ | -------------------------------------------------------- |
-| Munição Comum           | Baixa        | 1x Sucatas                                               |
-| Munição Avançada        | Baixa        | 2x Sucatas                                               |
-| Munição Energia         | Baixa        | 2x Sucatas, 1x Material Tecnológico                      |
-| Munição Míssil          | Média        | 6x Sucatas, 1x Material Tecnológico, 1x Material Químico |
-| Granada de Atordoamento | Média        | 4x Sucatas, 1x Material Tecnológico, 1x Material Químico |
-| Granada de Fragmentação | Média        | 6x Sucatas, 1x Material Tecnológico                      |
-| Granada de Luz          | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |
-| Granada Termobarica     | Média        | 4x Sucatas, 1x Material Tecnológico, 1x Material Químico |
-| Mina de Atordoamento    | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |
-| Mina de Congelamento    | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |
-| Mina Trovão             | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |
+| Receita                 | Complexidade | Componentes                                              | Quantidade |
+| ----------------------- | ------------ | -------------------------------------------------------- | :--------: |
+| Munição Comum           | Baixa        | 1x Sucatas                                               |     10     |
+| Munição Avançada        | Baixa        | 1x Sucatas                                               |     5      |
+| Munição Energia         | Baixa        | 2x Sucatas, 1x Material Tecnológico                      |     5      |
+| Munição Míssil          | Média        | 6x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
+| Granada de Atordoamento | Média        | 4x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
+| Granada de Fragmentação | Média        | 6x Sucatas, 1x Material Tecnológico                      |     1      |
+| Granada de Luz          | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
+| Granada Termobarica     | Média        | 4x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
+| Mina de Atordoamento    | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
+| Mina de Congelamento    | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
+| Mina Trovão             | Média        | 3x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
 
 ## Aprimoramentos de Drone I
 
