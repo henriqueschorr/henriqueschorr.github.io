@@ -1,5 +1,7 @@
 Especialização focada em combate média-longa distância, prestando apoio a seus aliados, suprimindo o avanço dos inimigos ou causando alto dano em alvo único.
 
+![Soldado](../../../../images/human/soldier.jpg){ width="300", align="right" }
+
 ## Passiva: Arsenal
 
 Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil de Precisão, Fuzil de Assalto, Pistola e Faca de Combate.

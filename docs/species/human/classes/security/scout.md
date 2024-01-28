@@ -1,5 +1,7 @@
 Esta é a Especialização ideal para quem gosta de se esgueirar pelas linhas inimigas e assassinar silenciosamente seus alvos, causando um enorme estrago no campo de batalha sem sequer ser percebido.
 
+![Batedor](../../../../images/human/scout.jpg){ width="300", align="right" }
+
 ## Passiva: Golpe Letal
 
 Qualquer ataque do Batedor é passível da mecânica de Explosão de Dano.

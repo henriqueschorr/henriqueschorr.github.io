@@ -1,5 +1,7 @@
 Especializado em tarefas envolvendo as ciências de Química e Biologia, como por exemplo produção de medicamentos, venenos ou até mesmo atendimento médico.
 
+![Cientista](../../../../images/human/scientist.jpg){ width="300", align="right" }
+
 ## Equipamento Inicial
 
 [A.N.E. Leve](../../../human/ane.md), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Lançador de Dardos](../../equipment/equipments.md#lançador-de-dardos), 1x [Infusor](../../equipment/equipments.md#infusor), 1x [Laboratório Móvel](../../equipment/equipments.md#laboratório-móvel), 2x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte), 1x [Kit Médico Avançado](../../scienceRecipes/biology.md#suporte), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 5x [Dardos de Infusão](../../equipment/equipments.md#dardo-infusor).  

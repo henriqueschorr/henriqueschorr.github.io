@@ -15,6 +15,22 @@ Classes definem basicamente o papel, profissão de um Humano em uma equipe, gera
     </thead>
     <tbody>
         <tr>
+            <td rowspan=3>Agente</td>
+            <td>Capitão</td>
+            <td>Neurotransmissor</td>
+            <td>Suporte, proteção de equipe, controle estratégico, manipulação.</td>
+        </tr>
+         <tr>
+            <td>Piloto</td>
+            <td>Hoverboard</td>
+            <td>Combate curta a média distância, mobilidade, condução de veículos ou criaturas.</td>
+        </tr>
+         <tr>
+            <td>Chef</td>
+            <td>Cutelo do Chef e Mixer-Gun</td>
+            <td>Suporte, Combate curta a média distância, controle de grupo, caça e alimentação especial.</td>
+        </tr>
+        <tr>
             <td rowspan=3>Segurança</td>
             <td>Soldado</td>
             <td>Fuzil de Precisão e Fuzil de Assalto</td>
@@ -40,22 +56,6 @@ Classes definem basicamente o papel, profissão de um Humano em uma equipe, gera
             <td>Engenheiro</td>
             <td>Drone de Combate e Forja Móvel</td>
             <td>Suporte, conserto de equipamentos, manipulação de construtos.</td>
-        </tr>
-        <tr>
-            <td rowspan=3>Agente</td>
-            <td>Capitão</td>
-            <td>Neurotransmissor</td>
-            <td>Suporte, proteção de equipe, controle estratégico, manipulação.</td>
-        </tr>
-         <tr>
-            <td>Piloto</td>
-            <td>Hoverboard</td>
-            <td>Combate curta a média distância, mobilidade, condução de veículos ou criaturas.</td>
-        </tr>
-         <tr>
-            <td>Chef</td>
-            <td>Cutelo do Chef e Mixer-Gun</td>
-            <td>Suporte, Combate curta a média distância, controle de grupo, caça e alimentação especial.</td>
-        </tr>
+        </tr>        
     </tbody>
 </table>

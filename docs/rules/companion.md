@@ -30,6 +30,7 @@ _Marcadores_
 **Ações:** Lista de ações que pode performar.  
 **Reações:** Lista de reações que pode performar.  
 **Inventário:** Capacidade de inventário caso possua.  
+**Turno:** Informa quantidades de ações e reações por turno.   
 
 #### Armamentos
 Tabela mostrando armamentos caso possua.

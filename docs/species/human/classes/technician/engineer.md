@@ -1,8 +1,10 @@
 Especializado em tarefas envolvendo as ciências de Química e Biologia, como por exemplo produção de medicamentos, venenos ou até mesmo atendimento médico.
 
+![Engenheiro](../../../../images/human/engineer.jpg){ width="300", align="right" }
+
 ## Equipamento Inicial
 
-[A.N.E. Média](../../../human/ane.md), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Drone de Combate](../../companion.md#drone-de-combate), 1x [Forja Móvel](../../equipment/equipments.md#forja-móvel), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
+[A.N.E. Média](../../../human/ane.md), [Espingarda](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Drone de Combate](../../companion.md#drone-de-combate), 1x [Forja Móvel](../../equipment/equipments.md#forja-móvel), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
 
 ## Ciência: Receitas
 
@@ -18,7 +20,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Drone de Combate
 
-O [Drone de Combate](../../equipment/equipments.md#drone-de-combate) é um construto parceiro e aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. Para mais informações sobre parceiros, visite o capítulo [Parceiros](../../../../rules/companion.md).
+O [Drone de Combate](../../companion.md#drone-de-combate) é um construto parceiro e aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. Para mais informações sobre parceiros, visite o capítulo [Parceiros](../../../../rules/companion.md).
 
 #### Checks
 Todo e qualquer check que seu drone precisar fazer, seja ele para esquivar, atacar, resistir a algum efeito, etc, é realizado por você, a capacidade de sucesso dele é determinada pelo quão bem você o construiu e programou. Caso seja necessário um check de competência, você usa Ciência. As aptidões relacionadas as ações do seu drone são a de Cérebro e Controle, a sua escolha. 
@@ -93,11 +95,10 @@ _Habilidade (Interação - Equipamento)_ \| _Ofensivo, Utilidade, Energia_
 **Duração:** 5 turnos  
 A.N.E transforma a energia do drone em projéteis de laser, causando dano elétrico e fogo nos seus ataques.
 
-- O armamento do drone se transforma uma arma capaz de disparar laser.
+- O armamento do drone dispara lasers em vez da munição normal.
 - Drone não consome munição.
-- Os ataques do drone causam:
-    - Seu dano normal + 2VDA Ciência.
-        - O tipo do dano é dividido igualmente entre tipo elétrico e fogo.
+- Os ataques do drone causam 1VDA Ciência a mais de dano.
+    - O tipo do dano é dividido igualmente entre tipo elétrico e fogo.
 
 ### Drone: Morteiro (3) :arrow_forward:
 

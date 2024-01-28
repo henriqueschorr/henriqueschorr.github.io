@@ -1,5 +1,7 @@
 Especializado em comandar e organizar uma equipe para torná-los funcionais. Estrategista de batalha e manipulador de indivíduos.
 
+![Capitão](../../../../images/human/captain2.jpg){ width="300", align="right" }
+
 ## Passiva: Raciocínio Rápido
 
 Você não faz rolagem de Iniciativa quando requisitado, em vez disso, você sempre atua na mesma iniciativa do seu aliado mais rápido, podendo escolher agir antes ou depois dele.

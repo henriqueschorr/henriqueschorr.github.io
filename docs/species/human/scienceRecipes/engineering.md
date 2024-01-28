@@ -44,13 +44,14 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 
 Todos os aprimoramentos de drone I possuem complexidade Média e possuem como alvo o Drone de Combate. Uma vez implementados os efeitos são permanentes.
 
-| Receita          | Componentes                                             | Exclusivo                        | Efeito                                                                                                                   |
-| ---------------- | ------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Drone de Assalto | 3x Sucata, 2x Material Tecnológico                      | Drone Sniper                     | Armamento do drone tem marcador Contínuo adicionado.                                                                     |
-| Drone Sniper     | 3x Sucata, 2x Material Tecnológico                      | Drone de Assalto, Lutador        | Armamento do drone usa Munição Avançada, tem dano aumentado para 2d6 e alcance aumentado para 50m.                       |
-| Escudeiro        | 5x Sucata, 1x Material Tecnológico                      | Meteoro                          | Drone possui um escudo e pode usar as reações Defender e Proteger.                                                       |
-| Lutador          | 3x Sucata, 3x Material Tecnológico                      | Drone Sniper, Blindagem, Meteoro | Drone tem braços e pernas maiores e mais fortes, podendo realizar a ação Manobra.                                        |
-| Revestimento     | 3x Sucata, 1x Material Tecnológico, 1x Material Químico | Blindagem                        | Drone pode ficar submerso em líquidos como água e possui resistência a um dos elementos a seguir: fogo, gelo ou energia. |
+| Receita          | Componentes                                             | Exclusivo                                   | Efeito                                                                                                                   |
+| ---------------- | ------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Drone de Assalto | 3x Sucata, 2x Material Tecnológico                      | Drone Sniper, Drone Destruidor              | Armamento do drone tem marcador Contínuo adicionado.                                                                     |
+| Drone Sniper     | 3x Sucata, 2x Material Tecnológico                      | Drone de Assalto, Drone Destruidor, Lutador | Armamento do drone usa Munição Avançada, tem dano aumentado para 2d6 e alcance aumentado para 50m.                       |
+| Drone Destruidor | 3x Sucata, 2x Material Tecnológico                      | Drone de Assalto, Drone Sniper              | Armamento do drone se transforma em uma espingarda, tem dano aumentado para 3d6 e alcance diminuído para 10m.                       |
+| Escudeiro        | 5x Sucata, 1x Material Tecnológico                      | Meteoro                                     | Drone possui um escudo e pode usar as reações Defender e Proteger.                                                       |
+| Lutador          | 3x Sucata, 3x Material Tecnológico                      | Drone Sniper, Blindagem, Meteoro            | Drone tem braços e pernas maiores e mais fortes, podendo realizar a ação Manobra.                                        |
+| Revestimento     | 3x Sucata, 1x Material Tecnológico, 1x Material Químico | Blindagem                                   | Drone pode ficar submerso em líquidos como água e possui resistência a um dos elementos a seguir: fogo, gelo ou energia. |
 
 ## Aprimoramentos de Drone II
 

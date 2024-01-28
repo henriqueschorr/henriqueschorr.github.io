@@ -22,8 +22,9 @@ Armas de fogo são armamentos que necessitam de alguma forma de combustão ou ex
 
 | Nome              | Dano            | Alcance     | Capacidade | Marcadores                                   |
 | ----------------- | --------------- | ----------- | :--------: | -------------------------------------------- |
+| Espingarda        | 3d6 perfuração  | 10m (50m)   |     12     | 2-mão, Munição (Comum), Recarregar           |
 | Fuzil de Assalto  | 2d8 perfuração  | 300m (600m) |     30     | 2-mão, Contínuo, Munição (Comum), Recarregar |
-| Fuzil de Precisão | 2d12 perfuração | 500m (1km)  |     2      | 2-mão, Munição (Avançada), Recarregar           |
+| Fuzil de Precisão | 2d12 perfuração | 500m (1km)  |     2      | 2-mão, Munição (Avançada), Recarregar        |
 | Pistola           | 2d6 perfuração  | 50m (300m)  |     12     | Munição (Comum), Recarregar                  |
 
 ## Armas Especiais

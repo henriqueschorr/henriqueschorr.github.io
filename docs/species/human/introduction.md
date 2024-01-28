@@ -1,15 +1,1 @@
-Introdução
-Anatomia
-Ambientação
-Atributos
-Conhecimento Científico
-Ações
-Reações
-Classes
-    Passivas
-    Nível
-    Aprimoramentos
-Equipamentos
-Armamentos
-Armaduras
-
+![Personagem](../../images/character.jpg){ width="300", align="right" }

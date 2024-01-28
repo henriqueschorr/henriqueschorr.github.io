@@ -88,7 +88,10 @@ nav:
       - Características Básicas: species/human/basics.md
       - A.N.E.: species/human/ane.md
       - Classes:
-        - species/human/index.md
+        - species/human/classes/index.md
+        - Agente:
+          - species/human/classes/agent/index.md
+          - Capitão: species/human/classes/agent/captain.md
         - Segurança:
           - species/human/classes/security/index.md
           - Soldado: species/human/classes/security/soldier.md
@@ -96,10 +99,7 @@ nav:
         - Técnico:
           - species/human/classes/technician/index.md
           - Cientista: species/human/classes/technician/scientist.md
-          - Engenheiro: species/human/classes/technician/engineer.md
-        - Agente:
-          - species/human/classes/agent/index.md
-          - Capitão: species/human/classes/agent/captain.md
+          - Engenheiro: species/human/classes/technician/engineer.md        
       - Equipamentos:
         - species/human/equipment/index.md
         - Armamentos: species/human/equipment/weapons.md
