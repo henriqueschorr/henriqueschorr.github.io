@@ -78,6 +78,7 @@ nav:
         - Mecânicas Bases: rules/ambiance/mechanics.md
       - Criaturas: rules/creatures.md
       - Parceiros: rules/companion.md
+      - Veículos e Montarias: rules/vehicles.md
       - Marcadores:
         - rules/tags/index.md
         - Espécie e Criaturas: rules/tags/creatures.md
@@ -111,6 +112,8 @@ nav:
         - Química: species/human/scienceRecipes/chemistry.md
         - Biologia: species/human/scienceRecipes/biology.md
         - Engenharia: species/human/scienceRecipes/engineering.md
+      - Veículos:
+        - Aéreos: species/human/vehicles/flying.md
 #   - Hivers:
 #       - Introdução: species/hiver/introduction.md      
 #   - Symbions:

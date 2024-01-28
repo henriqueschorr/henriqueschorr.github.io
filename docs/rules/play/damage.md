@@ -43,6 +43,9 @@ _**Exemplo:** Remella tira 1 no check do seu ataque, podendo causar então dano 
 
 Quando algum ataque é passível de ambos os bônus, explosão de dano ocorre antes de dano dobrado, ou seja, você dobra o dano somente quando parar de rolar dados.
 
+### Perfuração
+Se uma criatura possui AP e HP, dano total é causado no AP e 50% de dano extra é causado no HP.
+
 ## Ponto Fraco
 
 Criaturas ou você podem ter seus pontos fracos expostos através de alguma habilidade ou equipamento, como por exemplo a habilidade de Legenda: Orgânicos do humano cientista. Pontos fracos não precisam ser necessariamente especificados, pode ser um ponto fraco genérico qualquer.  

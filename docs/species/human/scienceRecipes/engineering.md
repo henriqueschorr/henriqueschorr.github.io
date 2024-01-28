@@ -102,6 +102,12 @@ Todos os aprimoramentos de equipamentos II possuem [complexidade Alta](../../../
 
 ### Lâmina Fragmento: Fragmentação Extra
 
+A Lâmina fragmento é capaz de se fragmentar em 2 extras fragmentos.
+
 ### Pistola Cinética: Explosão Sônica
 
-### Planador de Combate: ???
+Ao usar o tiro aberto da pistola cinética, inimigos em uma área de 6m devem fazer um check Físico ou ficar Debilitados 2 (Audição).
+
+### Planador de Combate: Controle Remoto
+
+Piloto consegue controlar remotamente o planador de combate, podendo comandar ataques com os armamentos presentes nele. Trate-o como um [Parceiro](../../../rules/companion.md).

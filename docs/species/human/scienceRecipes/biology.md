@@ -17,4 +17,4 @@ Todos os aprimoramentos de corpo I possuem complexidade Média e podem ser aplic
 | Solução           | Receita                                                           | Efeito                                                                                                    |
 | ----------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Anabolizantes     | 1x Material Radioativo, 3x Materia Químico, 1x Material Biológico | Aumenta em 5 uma das seguintes aptidões a sua escolha: Físico, Agilidade, Controle. Diminua 5 de Cérebro. |
-| Micro-Processador | 1x Material Raro, 2x Material Tecnológico, 2x Material Biológico  | Aumenta em 5 uma das seguintes aptidões a sua escolha: Atenção, Cérebro, Social. Diminua 5 de Físico.     |
+| Micro-Processador | 1x Material Raro, 2x Material Tecnológico, 2x Material Biológico  | Aumenta em 5 uma das seguintes aptidões a sua escolha: Atenção, Cérebro, Influência. Diminua 5 de Físico.     |
