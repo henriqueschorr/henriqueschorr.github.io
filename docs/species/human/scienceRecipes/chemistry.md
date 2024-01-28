@@ -20,7 +20,7 @@ Ignore esta coluna caso a solução esteja presente em um dado infusor.
 
 ## Solução Simples
 
-Soluções simples, como o próprio nome já diz, são soluções simples de serem produzidas. Soluções simples tem <ins>Complexidade de criação Baixa</ins>.
+Soluções simples, como o próprio nome já diz, são soluções simples de serem produzidas. Soluções simples tem [Complexidade de criação Baixa](../../../rules/science/actions.md#construir-ou-criar).
 
 <!-- | Receita        | Consumo   | Componentes                                                   | Efeito                                                                                                                                    |
 | -------------- | --------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 
 ## Solução Elemental
 
-Soluções elementais liberam elementos na área, causando dano no tipo do elemento ou criando terrenos. Possuem <ins>Complexidade de criação Média</ins>.
+Soluções elementais liberam elementos na área, causando dano no tipo do elemento ou criando terrenos. Possuem [Complexidade de criação Média](../../../rules/science/actions.md#construir-ou-criar).
 
 <!-- | Receita    | Consumo | Componentes                                 | Efeito                                                                                  |
 | ---------- | ------- | --------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@ Soluções elementais liberam elementos na área, causando dano no tipo do eleme
 
 ## Solução Avançada
 
-Soluções avançadas necessitam de mais materiais, tempo e concentração para serem produzidas. Soluções avançadas tem <ins>Complexidade de criação Média</ins>.
+Soluções avançadas necessitam de mais materiais, tempo e concentração para serem produzidas. Soluções avançadas tem [Complexidade de criação Média](../../../rules/science/actions.md#construir-ou-criar).
 
 <!-- | Receita          | Consumo   | Componentes                                  | Efeito                                                                                                                     |
 | ---------------- | --------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -83,7 +83,7 @@ Soluções avançadas necessitam de mais materiais, tempo e concentração para 
 
 ## Solução Especial
 
-Soluções extremamente raras que necessitam de recursos difíceis de se obter. Causam efeitos devastadores e muito fortes. Possuem <ins>Complexidade de criação Alta</ins>
+Soluções extremamente raras que necessitam de recursos difíceis de se obter. Causam efeitos devastadores e muito fortes. Possuem [Complexidade de criação Alta](../../../rules/science/actions.md#construir-ou-criar).
 
 | Receita          | Consumo | Componentes                                                          | Efeito                                                                                                                             |
 | ---------------- | ------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |

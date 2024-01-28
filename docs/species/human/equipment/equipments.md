@@ -11,7 +11,7 @@ Dardo com compartimento para uma solução. Apenas Cientistas sabem realizar o m
 
 ### Forja Móvel
 
-![Forja Móvel](../../../../images/human/mobile_forge_lab.jpg){ width="200", align="right" }
+![Forja Móvel](../../../images/human/mobile_forge_lab.jpg){ width="200", align="right" }
 
 Equipamento exclusivo dos Engenheiros. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com a forja móvel:
 
@@ -22,7 +22,7 @@ O tempo de criação ou aprimoração de cada item é informado na [Engenharia](
 
 ### Infusor
 
-![Infusor](../../../../images/human/infusor.jpg){ width="200", align="right" }
+![Infusor](../../../images/human/infusor.jpg){ width="200", align="right" }
 
 Equipamento exclusivo dos Cientistas. Você pode carregar uma das suas soluções ou absorver do ambiente para pode aplicar em lâminas ou outros armamentos e armaduras através de habilidades. Seu infusor pode conter até 3 soluções ao mesmo tempo.
 Você pode realizar as seguintes ações com um infusor:
@@ -42,7 +42,7 @@ Você pode absorver ou carregar os seguintes:
 
 ### Laboratório Móvel
 
-![Laboratório Móvel](../../../../images/human/mobile_forge_lab.jpg){ width="200", align="right" }
+![Laboratório Móvel](../../../images/human/mobile_forge_lab.jpg){ width="200", align="right" }
 
 Equipamento exclusivo dos Cientistas. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com o laboratório móvel:
 
@@ -54,7 +54,7 @@ O tempo de criação ou aprimoração de cada item é informado na [Química](..
 
 ### Lançador de Dardos
 
-![Lançador de Dardos](../../../../images/human/dartgun.jpg){ width="200", align="right" }
+![Lançador de Dardos](../../../images/human/dartgun.jpg){ width="200", align="right" }
 
 Equipamento exclusivo dos Cientistas. Possui a aparência de uma pequena pistola com diversos componentes. Pode armazenar até 3 dardos infusores que você pode disparar para aplicar soluções em aliados ou inimigos. Você pode realizar a seguinte ação com esse armamento:
 
@@ -63,7 +63,7 @@ Equipamento exclusivo dos Cientistas. Possui a aparência de uma pequena pistola
 
 ### Neurotransmissor
 
-![Neurotransmissor](../../../../images/human/neurotransmissor.jpg){ width="200", align="right" }
+![Neurotransmissor](../../../images/human/neurotransmissor.jpg){ width="200", align="right" }
 
 Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E. e é utilizado para realizar as habilidades neurotransmissoras dos capitães. Com o neurotransmissor, você consegue realizar a seguinte habilidade:
 

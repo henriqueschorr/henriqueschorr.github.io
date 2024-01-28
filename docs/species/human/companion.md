@@ -4,7 +4,7 @@
 _Construto, Energia_  
 Equipamento exclusivo dos Engenheiros, também considerado um armamento. Possui em torno 1m de altura, largura e comprimento, 6 pernas e 1 armamento montado. Abaixo seguem suas características:
 
-![Drone de Combate](../../../../images/human/combat_drone.jpg){ width="400", align="right" }
+![Drone de Combate](../../images/human/combat_drone.jpg){ width="400", align="right" }
 
 **AP:** 12 + VDA Cérebro + Nível.  
 **Tamanho:** Pequeno.    
