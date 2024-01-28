@@ -46,7 +46,7 @@ Você recebe o equipamento A.N.E. Leve.
 
 ### Legenda: Orgânicos (1) :arrow_forward:
 
-_Habilidade (Procurar)_ \| _Utilidade, Energia_  
+_Habilidade (Procurar)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 5 min  
 **Alcance:** 30m  
@@ -62,7 +62,7 @@ Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em
 
 ### Dardo Perfurador (2) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Lançador de Dardos  
@@ -73,7 +73,7 @@ A.N.E faz com que seus dardos lançados saem com extrema velocidade de rotação
 
 ### Infusor de Projétil (2) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Infusor  
@@ -84,7 +84,7 @@ A.N.E faz com que seu infusor seja capaz de infundir armamentos do tipo equipame
 
 ### Dardo Liberador (3) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Lançador de Dardos  
@@ -94,7 +94,7 @@ A.N.E torna possível a ligação de uma solução gasosa juntamente com soluç�
 
 ### Infusor de Armadura (3) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Ofensivo, Suporte, Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Ofensivo, Suporte, Utilidade_  
 **Custo:** 2x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Infusor  
@@ -113,7 +113,7 @@ Você recebe 10 pontos de competência para distribuir, podendo colocar 10 ponto
 
 ### Potencializador Químico (4) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Alvo:** Lançador de Dardos ou Infusor  
 A.N.E potencializa seu próximo dardo ou infusão.
@@ -127,7 +127,7 @@ A.N.E potencializa seu próximo dardo ou infusão.
 
 ### Redoma Protetora (4) :arrow_forward: :large_orange_diamond:
 
-_Habilidade (Interagir - Equipamento)_ \| _Defensivo, Controle, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Controle, Defensivo, Energia_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos
 **Alvo:** Si  
@@ -145,7 +145,7 @@ Você pode se mover adjacente até o alvo e usar esta habilidade.
 
 ### Histeria (5) :fast_forward:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Controle, Suporte, Utilidade, Energia_  
+_Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo, Suporte, Utilidade_  
 **Requerimento:** Lançador de Dardos  
 **Custo:** 2x Célula de Energia (EN)  
 A.N.E acelera a cadência do seu lançador de dardos e dispara 3 dardos.
@@ -157,7 +157,7 @@ A.N.E acelera a cadência do seu lançador de dardos e dispara 3 dardos.
 
 ### Caos (5) :arrows_counterclockwise: :large_orange_diamond:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Utilidade, Energia_  
+_Habilidade (Atacar)_ \| _Energia, Ofensivo, Utilidade_  
 **Requerimento:** Infusor, elementos no ambiente ou soluções elementais  
 **Custo:** 2x Célula de Energia (EN), elemento  
 **Alcance:** 10m  

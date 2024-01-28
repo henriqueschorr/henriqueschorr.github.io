@@ -44,7 +44,7 @@ Você recebe o equipamento A.N.E. Leve.
 
 ### Inspiração (1) :arrow_forward:
 
-_Habilidade (Ajudar)_ \| _Suporte, Utilidade, Energia_  
+_Habilidade (Ajudar)_ \| _Energia, Suporte, Utilidade_  
 **Requerimento:** Neurotransmissor. Seus aliados devem ser capazes de ver/ouvir/sentir você realizando as ações/reações  
 **Custo:** 1x Célula de Energia  
 **Duração:** 1min  
@@ -65,7 +65,7 @@ Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em
 
 ### Preparação (2) :clock9:
 
-_Habilidade (Ajudar)_ \| _Suporte, Utilidade, Energia_  
+_Habilidade (Ajudar)_ \| _Energia, Suporte, Utilidade_  
 **Requerimento:** Neurotransmissor. Você deve estar numa situação fora de perigo, como num descanso.
 **Custo:** 1x Célula de Energia  
 **Frequência:** 2x a cada descanso longo  
@@ -80,7 +80,7 @@ Por 1 hora você entra numa espécie de transe, transmitindo capacidade neural e
 
 ### Sugestão (2) :arrow_forward:
 
-_Habilidade (Interagir - Social)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Social)_ \| _Energia, Utilidade_  
 **Requerimento:** Neurotransmissor  
 **Custo:** 1x Célula de Energia  
 **Duração:** 10 min  
@@ -93,7 +93,7 @@ A.N.E. libera energia direcionada criaturas na área e controla a liberação ou
 
 ### Planejamento (3) :clock9: :large_orange_diamond:
 
-_Habilidade (Ajudar)_ \| _Suporte, Utilidade, Energia_  
+_Habilidade (Ajudar)_ \| _Energia, Suporte, Utilidade_  
 **Pré Requisito:** Preparação  
 **Requerimento:** Neurotransmissor. Você deve estar numa situação fora de perigo, como num descanso. Você deve ter conhecimento geral sobre o campo de ação e os inimigos.
 **Custo:** 1x Célula de Energia  
@@ -117,7 +117,7 @@ Ao utilizar Arte da Guerra você pode imediatamente definir um plano de ação c
 
 ### Comando (3) :arrow_forward:
 
-_Habilidade (Interagir - Social)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Social)_ \| _Energia, Utilidade_  
 **Pré Requisito:** Sugestão  
 **Requerimento:** Neurotransmissor  
 **Custo:** 1x Célula de Energia  
@@ -135,7 +135,7 @@ Você recebe 10 pontos de competência para distribuir, podendo colocar 10 ponto
 
 ### Rede Neural (4) :arrow_forward:
 
-_Habilidade (Interagir - Social, Equipamento, Ajudar)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Social, Equipamento, Ajudar)_ \| _Energia, Suporte, Utilidade_  
 **Requerimento:** Neurotransmissor  
 **Custo:** 1x Célula de Energia  
 **Duração:** 10 min  
@@ -154,7 +154,7 @@ Você conecta seu cérebro aos seus demais aliados, podendo acessar informaçõe
 
 ### Proteção Neural (4) :arrow_forward: :large_orange_diamond:
 
-_Habilidade (Proteger)_ \| _Suporte, Energia_  
+_Habilidade (Proteger)_ \| _Defensivo, Energia, Suporte_  
 **Requerimento:** Neurotransmissor  
 **Custo:** 1x Célula de Energia  
 **Duração:** 3 turnos  
@@ -171,7 +171,7 @@ _Custo: 1 CP_
 
 ### Arte da Guerra (5) :arrows_counterclockwise:
 
-_Habilidade (Proteger)_ \| _Suporte, Energia_  
+_Habilidade (Proteger)_ \| _Energia, Suporte, Utilidade_  
 **Requerimento:** Neurotransmissor  
 **Custo:** 2x Célula de Energia  
 **Duração:** 2 turnos  
@@ -189,7 +189,7 @@ Você toma nota de tudo ao seu redor, ambiente, armadilhas, criaturas, etc. Voc�
 
 ### Palavra Final (5) :fast_forward:
 
-_Habilidade (Interagir - Social)_ \| _Controle, Energia_  
+_Habilidade (Interagir - Social)_ \| _Controle, Energia, Ofensivo, Utilidade_  
 **Requerimento:** Neurotransmissor  
 **Custo:** 2x Célula de Energia  
 **Duração:** 1 min  

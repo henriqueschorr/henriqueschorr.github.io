@@ -64,7 +64,7 @@ Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em
 
 ### Precisão (2) :arrow_forward: :large_orange_diamond:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Fuzil de Precisão  
@@ -82,7 +82,7 @@ Você pode acionar esta habilidade e também fazer um ataque.
 
 ### Barragem de Tiros (2) :arrow_forward:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Energia_  
+_Habilidade (Atacar)_ \| _Energia, Ofensivo_  
 **Requerimento:** Fuzil de assalto  
 **Custo:** 1x Célula de Energia (EN), 3x Munição  
 **Alcance:** Alcance efetivo do armamento  
@@ -96,7 +96,7 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
 
 ### Precisão Aleijadora (3) :arrow_forward: :large_orange_diamond:
 
-_Habilidade (Interagir - Equipamento)_ \| _Controle, Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Controle, Energia, Utilidade_  
 **Pré Requisito:** Precisão  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
@@ -119,7 +119,7 @@ Você pode acionar esta habilidade e também fazer um ataque.
 
 ### Barragem Supressora (3) :arrow_forward:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+_Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo_  
 **Pré Requisito:** Barragem de Tiros  
 **Custo:** 1x Célula de Energia (EN), 3x Munição  
 **Alcance:** Alcance efetivo do armamento  
@@ -138,7 +138,7 @@ Você recebe 10 pontos de competência para distribuir, podendo colocar 10 ponto
 
 ### Recarga Magnética (4) :free:
 
-_Habilidade (Ação Livre - Recarregar)_ \| Utilidade, Energia\_  
+_Habilidade (Ação Livre - Recarregar)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Alvo:** Munições e Armamentos
 **Alcance:** A munição não pode estar a mais de 4 metros de você. Os armamentos devem estar em sua posse  
@@ -148,7 +148,7 @@ A.N.E. cria uma linha magnética entre todos seus armamentos e suas munições a
 
 ### Barricada Individual (4) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| Defensivo, Utilidade, Energia\_  
+_Habilidade (Interagir - Equipamento)_ \| _Defensivo, Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Si  
@@ -162,7 +162,7 @@ A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frent
 
 ### Tiro Marcador (5) :fast_forward:
 
-_Habilidade (Atacar)_ \| Ofensivo, Utilidade, Energia\_  
+_Habilidade (Atacar)_ \| _Energia, Ofensivo, Utilidade_  
 **Requerimento:** Fuzil de Precisão  
 **Custo:** 2x Célula de Energia (EN), 3x Munição  
 **Duração:** 2 turnos
@@ -176,7 +176,7 @@ A.N.E. modifica uma de suas munições e você dispara com seu fuzil de precisã
 
 ### Tiro Granadeiro (5) :fast_forward: :large_orange_diamond:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Energia_  
+_Habilidade (Atacar)_ \| _Energia, Ofensivo_  
 **Requerimento:** Fuzil de Assalto  
 **Custo:** 2x Célula de Energia (EN), 2x Munição, 2x Granadas  
 **Alcance:** 50m  

@@ -99,3 +99,9 @@ Todos os aprimoramentos de equipamentos II possuem [complexidade Alta](../../../
 | Impacto Explosivo | Armas de Fogo que usam munição comum ou avançada     | 1x Material Radioativo, 2x Material Tecnológico                                       | Todos os ataques causam 1VDA Controle (usuário) a mais de dano corte.                                                           |
 | Sistema Lázarus   | Armadura do tipo equipamento                         | 2x Sucata, 3x Material Tecnológico, 3x Material Químico                               | Quando o usuário da armadura chegar a 0 HP, ele volta a vida com 1VDA Cérebro (seu). Efeito possível apenas 1x a cada 24 horas. |
 | Especialização    | Armamentos ou equipamentos específicos de personagem | 1x Material Raro, 2x Material Tecnológico, 1x Material Químico, 1x Material Biológico | Aprimora armamento ou equipamento especial de um personagem. Veja uma lista abaixo dos efeitos específicos.                     |
+
+### Lâmina Fragmento: Fragmentação Extra
+
+### Pistola Cinética: Explosão Sônica
+
+### Planador de Combate: ???

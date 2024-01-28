@@ -92,6 +92,7 @@ nav:
         - Agente:
           - species/human/classes/agent/index.md
           - Capitão: species/human/classes/agent/captain.md
+          - Piloto: species/human/classes/agent/pilot.md
         - Segurança:
           - species/human/classes/security/index.md
           - Soldado: species/human/classes/security/soldier.md

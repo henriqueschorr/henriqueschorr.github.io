@@ -52,7 +52,7 @@ Você recebe o equipamento A.N.E. Média.
 
 ### Legenda: Construtos (1) :arrow_forward:
 
-_Habilidade (Procurar)_ \| _Utilidade, Energia_  
+_Habilidade (Procurar)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 5 min  
 **Alcance:** 30m  
@@ -68,7 +68,7 @@ Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em
 
 ### Drone: Torre (2) :arrow_forward:
 
-_Habilidade (Interação - Equipamento)_ \| _Ofensivo, Defensivo, Utilidade, Energia_  
+_Habilidade (Interação - Equipamento)_ \| _Defensivo, Energia, Ofensivo, Utilidade_  
 **Requerimento:** Drone de Combate  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 5 turnos  
@@ -89,7 +89,7 @@ A.N.E reorganiza os componentes de seu drone o transformando em uma torre de tir
 
 ### Drone: Laser (2) :arrow_forward:
 
-_Habilidade (Interação - Equipamento)_ \| _Ofensivo, Utilidade, Energia_  
+_Habilidade (Interação - Equipamento)_ \| _Energia, Ofensivo, Utilidade_  
 **Requerimento:** Drone de Combate  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 5 turnos  
@@ -102,7 +102,7 @@ A.N.E transforma a energia do drone em projéteis de laser, causando dano elétr
 
 ### Drone: Morteiro (3) :arrow_forward:
 
-_Habilidade (Interação - Equipamento)_ \| _Ofensivo, Energia_  
+_Habilidade (Interação - Equipamento)_ \| _Energia, Ofensivo_  
 **Requerimento:** Drone de Combate  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
@@ -120,7 +120,7 @@ A.N.E reorganiza os componentes de seu drone o transformando em um morteiro capa
 
 ### Drone: Sobrecarga (3) :arrow_forward:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+_Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo_  
 **Requerimento:** Drone de Combate  
 **Custo:** 1x Célula de Energia (EN)  
 **Alvo:** Criatura com marcadores construto e energia, ou dispositivo eletrônico  
@@ -140,7 +140,7 @@ Você recebe 10 pontos de competência para distribuir, podendo colocar 10 ponto
 
 ### Reforge (4) :fast_forward:
 
-_Habilidade (Interação - Equipamento, Ajudar)_ \| _Suporte, Energia_  
+_Habilidade (Interação - Equipamento, Ajudar)_ \| _Energia, Suporte_  
 **Requerimento:** Aliado deve estar usando uma armadura do tipo equipamento  
 **Custo:** 1x Célula de Energia (EN)  
 **Alvo:** Armadura do tipo equipamento  
@@ -154,7 +154,7 @@ A.N.E transfere parte de seus nano-robôs para alguma armadura do tipo equipamen
 
 ### Drone: Escudo (4) :arrow_forward: :leftwards_arrow_with_hook:
 
-_Habilidade (Interação - Equipamento)_ \| _Defensivo, Suporte, Energia_  
+_Habilidade (Interação - Equipamento)_ \| _Defensivo, Energia, Suporte_  
 **Requerimento:** Drone de Combate  
 **Custo:** 1x Célula de Energia (EN)  
 **Gatilho:** Ataque é feito contra aliado que esteja atrás do drone  
@@ -170,7 +170,7 @@ A.N.E reorganiza os componentes de seu drone o transformando em um escudo móvel
 
 ### Drone: Bomba Magnética (5) :arrows_counterclockwise:
 
-_Habilidade (Interação - Equipamento)_ \| _Ofensivo, Defensivo, Controle, Utilidade, Energia_  
+_Habilidade (Interação - Equipamento)_ \| _Controle, Defensivo, Energia, Ofensivo, Utilidade_  
 **Requerimento:** Drone de Combate  
 **Custo:** 2x Célula de Energia (EN)  
 **Duração:** 2 turnos  
@@ -191,7 +191,7 @@ A.N.E transforma seu drone em um potente imã, puxando qualquer metal na região
 
 ### Drone: Parasita (5) :arrows_counterclockwise:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+_Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo, Utilidade_  
 **Requerimento:** Drone de Combate  
 **Custo:** 2x Célula de Energia (EN)  
 **Duração:** 3 turnos  

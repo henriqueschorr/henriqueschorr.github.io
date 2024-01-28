@@ -46,7 +46,7 @@ Você recebe o equipamento A.N.E. Leve.
 
 ### Camuflagem (1) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Defensivo, Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Defensivo, Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 3 turnos ou até você receber dano  
 **Alvo:** Si  
@@ -58,7 +58,7 @@ Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em
 
 ### Flecha Silenciadora (2) :arrow_forward:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+_Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_  
 **Requerimento:** Arco Composto  
 **Custo:** 1x Célula de Energia (EN), 1x Munição  
 **Duração:** 2 turnos  
@@ -74,7 +74,7 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 
 ### Lâmina Elétrica (2) :arrow_forward:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Lâmina Fragmento
@@ -84,7 +84,7 @@ A.N.E. energiza sua lâmina fragmento, causando dano elétrico extra nos seus at
 
 ### Flecha Atordoadora (3) :arrow_forward:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+_Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_  
 **Pré Requisito:** Flecha Silenciadora   
 **Requerimento:** Arco Composto  
 **Custo:** 1x Célula de Energia (EN), 1x Munição  
@@ -102,7 +102,7 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 
 ### Serra Elétrica (3) :arrow_forward: :large_orange_diamond:
 
-_Habilidade (Interagir - Equipamento)_ \| _Utilidade, Energia_   
+_Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_   
 **Pré Requisito:** Lâmina Elétrica  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
@@ -124,7 +124,7 @@ Você recebe 10 pontos de competência para distribuir, podendo colocar 10 ponto
 
 ### Gancho Magnético (4) :arrow_forward:
 
-_Habilidade (Mover, Atacar)_ \| _Ofensivo, Utilidade, Controle, Mobilidade, Energia_  
+_Habilidade (Mover, Atacar)_ \| _Controle, Energia, Mobilidade, Ofensivo, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
 **Alcance:** 20m  
 Você atira a partir da sua mão uma pequena esfera de energia que se prende a uma superfície ou criatura, fazendo uma âncora magnética que você pode usar para se movimentar toda a distância ao preço de uma ação.
@@ -138,7 +138,7 @@ Você atira a partir da sua mão uma pequena esfera de energia que se prende a u
 
 ### Chamariz (4) :arrow_forward: :leftwards_arrow_with_hook:
 
-_Habilidade (Interagir - Equipamento)_ \| _Defensivo, Utilidade, Energia_  
+_Habilidade (Interagir - Equipamento)_ \| _Defensivo, Energia, Utilidade_  
 **Custo:** 2x Célula de Energia (EN)  
 **Gatilho:** Ataque contra você  
 **Duração:** 2 turnos  
@@ -150,7 +150,7 @@ A.N.E. cria uma cópia sua e a faz se mover em alguma direção por 2 turnos. Vo
 
 ### Flecha Arpão (5) :fast_forward: :large_orange_diamond:
 
-_Habilidade (Atacar)_ \| _Ofensivo, Controle, Energia_  
+_Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo_  
 **Requerimento:** Arco Composto  
 **Custo:** 2x Célula de Energia (EN), 1x Munição  
 **Duração:** 2 turnos  
@@ -175,7 +175,7 @@ _Custo: 2 CP_
 
 ### Nuvem de Lâminas (5) :fast_forward:
 
-_Habilidade (Interação - Equipamento)_ \| _Defensivo, Utilidade, Energia_  
+_Habilidade (Interação - Equipamento)_ \| _Defensivo, Energia, Ofensivo, Utilidade_  
 **Custo:** 2x Célula de Energia (EN)  
 **Duração:** 2 turnos
 **Alvo:** Lâmina Fragmento  
