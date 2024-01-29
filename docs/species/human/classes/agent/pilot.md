@@ -79,7 +79,7 @@ A.N.E. tensiona as lâminas do seu planador e junta ela com uma extrema força l
 - Utilize o dano de uma lâmina e dobre-o para determinar o dano total.
 - Este ataque tem [Perfuração](../../../../rules/play/damage.md#perfuração).
 
-### Chuva Explosiva (3) :fast_forward:
+### Chuva Explosiva (3) :fast_forward: :large_orange_diamond: 
 
 _Habilidade (Atacar)_ \| _Energia, Ofensivo_  
 **Requerimento:** Planador de Combate, você deve entre 4m e 8m de altura da área alvo  
@@ -95,6 +95,13 @@ A.N.E. reestrutura seu planador e faz com que ele dispare até 2 explosivos ou a
 - Para cada 10 munições disparadas:
     - Criaturas na área de efeito recebem 3d6 + Nível de dano perfuração caso não desviem e metade deste dano caso desviem.
 - Ao final do disparo dos projéteis, os explosivos/armadilhas são automaticamente acionados.
+
+**Combo**  
+_Gatilho: aliado armou alguma armadilha ou outro dispositivo que tenha gatilho._  
+_Custo: 2 CP_  
+Você se move até o local em que seu aliado armou a armadilha/dispositivo e usa esta habilidade.
+
+**Especial:** Esta habilidade também detona qualquer outro explosivo ou armadilha que seu aliado tenha armado na área de efeito.
 
 ### Madíbula Mastigadora (3) :fast_forward:
 
@@ -162,7 +169,7 @@ A.N.E. desmonta seu planador e o integra junto a sua armadura, tornando você, A
     - Chuva Balística e Chuva Explosiva: Você pode usar essa habilidade diretamente na sua frente em vez de abaixo.
     - Abdução: Você pode jogar o alvo longe, siga as regras de [impacto](../../../../rules/ambiance/mechanics.md#impacto).
 
-### Canhão Yamato (5) :arrows_counterclockwise:
+### Canhão Yamato (5) :arrows_counterclockwise: :large_orange_diamond:
 
 _Habilidade (Atacar, Mover)_ \| _Controle, Energia, Ofensivo_  
 **Requerimento:** Planador de Combate  
@@ -182,3 +189,7 @@ A.N.E. reorganiza a estrutura do seu planador, deixando o fino e com as lâminas
     - Este ataque tem [Perfuração](../../../../rules/play/damage.md#perfuração).
 - O alvo então é lançado a uma distância de 8m.
 - Caso o alvo esteja a uma distância de até 6m de uma estrutura, você o perfura e prende-o contra a estrutura. Ele está preso.
+
+**Combo**  
+_Gatilho: Criatura é empurrada próxima a estrutura ou aliado cria estrutura próxima a criatura._  
+_Custo: 2 CP_

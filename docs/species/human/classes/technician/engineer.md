@@ -66,7 +66,7 @@ A.N.E escaneia o ambiente ao seu redor e exibe em seu visor informações básic
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
-### Drone: Torre (2) :arrow_forward:
+### Drone: Torre (2) :arrow_forward: :large_orange_diamond:
 
 _Habilidade (Interação - Equipamento)_ \| _Defensivo, Energia, Ofensivo, Utilidade_  
 **Requerimento:** Drone de Combate  
@@ -78,9 +78,14 @@ A.N.E reorganiza os componentes de seu drone o transformando em uma torre de tir
 - Drone se transforma em uma torre de ataque.
 - Drone não pode se mover.
 - Drone pode atacar normalmente em seu turno.
-- Drone pode usa sua reação automaticamente para atacar qualquer inimigo que entre na sua área de ação.
+- Drone pode usa sua reação automaticamente para atacar qualquer inimigo que entre ou já esteja na sua área de ação.
 - Os ataques do drone são Fácil.
 - Você pode cancelar essa habilidade em qualquer momento.
+
+**Combo**  
+_Gatilho: Aliado usa alguma habilidade que possua os marcadores defensivo ou suporte, e custa 2 ou mais ações._  
+_Custo: 2 CP_  
+Você pode acionar essa habilidade e comandar o drone a já realizar um ataque em cada inimigo ao alcance como parte deste combo.
 
 **Especial:**
 
@@ -168,7 +173,7 @@ A.N.E reorganiza os componentes de seu drone o transformando em um escudo móvel
 - Qualquer ataque que pegue no Drone é absorvido e transformado em Energia (EN) para você ou o aliado.
     - 5 de dano = 1 EN.
 
-### Drone: Bomba Magnética (5) :arrows_counterclockwise:
+### Drone: Bomba Magnética (5) :arrows_counterclockwise: :large_orange_diamond: 
 
 _Habilidade (Interação - Equipamento)_ \| _Controle, Defensivo, Energia, Ofensivo, Utilidade_  
 **Requerimento:** Drone de Combate  
@@ -186,6 +191,11 @@ A.N.E transforma seu drone em um potente imã, puxando qualquer metal na região
 - Drone pode expelir os materiais integrados com uma enorme força (custo de 2 ações).
     - Esse ataque causa 2RDA Cérebro para cada material integrado + Nível de dano concussão.
 - Ao final da duração dessa habilidade, os materiais são simplesmentes jogados no chão.
+
+**Combo**  
+_Gatilho: Algum aliado causa 15 ou mais de dano em AP de algum inimigo, ou destrói um construto._  
+_Custo: 2 CP_  
+Adicione 3 sucatas aos materiais integrados caso essa habilidade teve como gatilho o dano ao AP. Adicione 5 caso o gatilho tenha sido a destruição de um construto.
 
 **Especial:** Fica ao critério do MU determinar o tamanho e peso possível dos metais puxados e integrados, mas eles não deveriam ultrapassar muito o tamanho e peso do drone.
 
