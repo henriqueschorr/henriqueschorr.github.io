@@ -33,6 +33,7 @@ nav:
       - Aprimoramentos: character/upgrades.md
       - Nível: character/level.md
       - Parceiro: character/companion.md
+      - Transporte: character/transport.md
     - Regras:
       - rules/index.md        
       - Jogando:
@@ -78,7 +79,7 @@ nav:
         - Mecânicas Bases: rules/ambiance/mechanics.md
       - Criaturas: rules/creatures.md
       - Parceiros: rules/companion.md
-      - Veículos e Montarias: rules/vehicles.md
+      - Transporte: rules/transport.md
       - Marcadores:
         - rules/tags/index.md
         - Espécie e Criaturas: rules/tags/creatures.md

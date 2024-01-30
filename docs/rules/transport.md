@@ -1,4 +1,6 @@
-Algumas espécies utilizam veículos fabricados ou montarias para se locomover pelos mais diversos biomas. Existem 3 tipos de veículos e montarias: Terrestre, Aquático e Aéreo. Veículos também são considerados equipamentos, e montarias também são consideradas parceiros.
+Algumas espécies utilizam veículos ou montarias para se locomover pelos mais diversos biomas. Existem dois tipos
+
+Existem 3 tipos de veículos e montarias: Terrestre, Aquático e Aéreo. Veículos também são considerados equipamentos, e montarias também são consideradas parceiros.
 
 ## Checks
 Qualquer manobra arriscada ou checks requisitados pelo MU para você conseguir fazer algo com um veículo, é realizado com Condução & Controle. Já para uma montaria, ou seja, uma criatura viva, alguns checks podem ser requisitados utilizando também a competência de Interação e a aptidão de Influência.
