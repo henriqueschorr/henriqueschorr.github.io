@@ -2,11 +2,11 @@ Indica quais tipos de superfícies ou eixo seu personagem é capaz de se movimen
 
 | Tipo de Movimento | Detalhes                                                                 | Ação Mover |
 | ----------------- | ------------------------------------------------------------------------ | ---------- |
+| Aéreo             | Movimento no ar, atmosfera.                                              | Voar       |
+| Aquático          | Movimento dentro de líquidos, como a água.                               | Nadar      |
+| Subterrâneo       | Movimento sob superícies sólidas, como túneis.                           | Cavar      |
 | Terrestre         | Movimento sobre superfícies terrestres sólidas horizontais, como o chão. | Caminhar   |
 | Vertical          | Movimento sobre superfícies sólidas verticais, como paredes ou tetos.    | Escalar    |
-| Subterrâneo       | Movimento sob superícies sólidas, como túneis.                           | Cavar      |
-| Aquático          | Movimento dentro de líquidos, como a água.                               | Nadar      |
-| Aéreo             | Movimento no ar, atmosfera.                                              | Voar       |
 
 - Seu personagem irá possuir ao menos um tipo de movimento.
 - Se seu personagem não possui um certo movimento, ele não é capaz de realizar aquele movimento, a não ser por meio de situações especiais, como a utilizada de habilidades ou equipamentos.

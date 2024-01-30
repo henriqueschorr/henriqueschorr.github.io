@@ -23,12 +23,17 @@ Esta seção indica quais partes do corpo seu personagem pode possuir. Este tóp
 ## Sistemas do Corpo
 
 <!-- https://beduka.com/blog/materias/biologia/como-e-dividido-o-corpo-humano/ -->
+
 Assim como as partes do corpo, seu personagem possui sistemas que também são importantes mecanicamente para o jogo. Os possíveis sistemas do corpo são os seguintes:
 
-| Sistema        | Responsabilidade                                                                                                                |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Digestório     | Responsável pela alimentação do seu personagem como um todo.                                                                    |
-| Respiratório   | Responsável pela respiração do seu personagem.                                                                                  |
-| Cardiovascular | Responsável pelo transporte de nutrientes e gases essenciais para todo corpo, através do sangue ou qualquer outro líquido vital |
-| Nervoso        | Age na coordenação funcional dos órgãos e sistemas do organismo, por meio do armazenamento e processamento de informações.      |
-| Reprodutor     | Responsável pela reprodução                                                                                                     |
+| Sistema        | Responsabilidade                                                                                                                 |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Cardiovascular | Responsável pelo transporte de nutrientes e gases essenciais para todo corpo, através do sangue ou qualquer outro líquido vital. |
+| Digestório     | Responsável pela alimentação do seu personagem como um todo.                                                                     |
+| Esquelético    | Composto pelos ossos do corpo.                                                                                                   |
+| Muscular       | Composto pelos músculos do corpo.                                                                                                |
+| Nervoso        | Age na coordenação funcional dos órgãos e sistemas do organismo, por meio do armazenamento e processamento de informações.       |
+| Respiratório   | Responsável pela respiração do seu personagem.                                                                                   |
+| Reprodutor     | Responsável pela reprodução.                                                                                                     |
+
+

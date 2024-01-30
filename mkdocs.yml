@@ -16,25 +16,25 @@ theme:
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
+    - Personagem:
+      - character/index.md
+      - Espécies: character/species.md
+      - Aptidões: character/aptitudes.md
+      - Competências: character/skills.md
+      - Resiliência: character/resilience.md
+      - Anatomia: character/anatomy.md
+      - Rapidez: character/quickness.md
+      - Conhecimento Científico: character/scienceKnowledge.md
+      - Passivas: character/passives.md
+      - Ações, Reações e Habilidades: character/actionsReactions.md
+      - Armamentos e Armaduras: character/weaponArmor.md
+      - Inventário: character/inventory.md          
+      - Sobrevivência: character/survival.md
+      - Aprimoramentos: character/upgrades.md
+      - Nível: character/level.md
+      - Parceiro: character/companion.md
     - Regras:
-      - rules/index.md  
-      - Personagem:
-        - rules/character/index.md
-        - Espécies: rules/character/species.md
-        - Aptidões: rules/character/aptitudes.md
-        - Competências: rules/character/skills.md
-        - Resiliência: rules/character/resilience.md
-        - Anatomia: rules/character/anatomy.md
-        - Rapidez: rules/character/quickness.md
-        - Conhecimento Científico: rules/character/scienceKnowledge.md
-        - Passivas: rules/character/passives.md
-        - Ações, Reações e Habilidades: rules/character/actionsReactions.md
-        - Armamentos e Armaduras: rules/character/weaponArmor.md
-        - Inventário: rules/character/inventory.md          
-        - Sobrevivência: rules/character/survival.md
-        - Aprimoramentos: rules/character/upgrades.md
-        - Nível: rules/character/level.md
-        - Parceiro: rules/character/companion.md
+      - rules/index.md        
       - Jogando:
         - rules/play/index.md
         - Checks e Rolagens: rules/play/checks.md

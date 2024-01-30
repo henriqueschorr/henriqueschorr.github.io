@@ -17,7 +17,7 @@ Caminhando por uma floresta você tenta manter vigília por sinais de perigo, ou
 Geralmente usado com **Atenção**.
 
 ### Ciência
-Ciência abrange qualquer tarefa de criação ou resolução de problemas envolvendo as ciências. Para mais informações veja a sessão [Conhecimento Científico](../../rules/science/knowledge.md) ou o capítulo de [Ciência](../../rules/science/index.md).  
+Ciência abrange qualquer tarefa de criação ou resolução de problemas envolvendo as ciências. Para mais informações veja a sessão [Conhecimento Científico](../rules/science/knowledge.md) ou o capítulo de [Ciência](../rules/science/index.md).  
 Geralmente usado com **Controle** ou **Cérebro**.
 
 ### Interação

@@ -13,8 +13,8 @@ Indica quantos Descansos seu personagem precisa realizar em um intervalo de 24 h
 Indica ambientação geral em que seu personagem está acostumado a habitar. É composta pelos seguintes tópicos:
 
 - Gravidade
-- [Atmosfera](../ambiance/ambiance.md#atmosfera)
-- [Temperaturas](../ambiance/ambiance.md#temperatura)
+- [Atmosfera](../rules/ambiance/ambiance.md#atmosfera)
+- [Temperaturas](../rules/ambiance/ambiance.md#temperatura)
 - Biomas
 
-Para mais informações, veja o capítulo [Ambientação](../ambiance/index.md).
+Para mais informações, veja o capítulo [Ambientação](../rules/ambiance/index.md).

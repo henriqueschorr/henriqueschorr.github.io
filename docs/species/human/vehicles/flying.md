@@ -1,6 +1,6 @@
 ## Planador de Combate
 
-![Planador de Combate](../../../../images/human/glider.jpg){ width="250", align="right" }
+![Planador de Combate](../../../images/human/glider.jpg){ width="250", align="right" }
 
 **AP:** 12 + Nível.  
 **Tamanho:** Médio.  

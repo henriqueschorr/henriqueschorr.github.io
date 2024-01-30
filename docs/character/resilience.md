@@ -16,7 +16,7 @@ Toda espécie possui uma forma de energia que serve como alimento para suas habi
 Algumas criaturas, objetos ou equipamentos podem possuir características que influenciam no nível de dano que recebem dado um tipo de dano. Estes modificadores de dano sempre estarão ligados a um tipo de dano, exemplo: Vulnerabilidade Fogo indica que a criatura possui vulnerabilidade a fogo.
 
 ### Vulnerabilidade
-Você recebe [Dano Dobrado](../../rules/play/damage.md#dano-dobrado). Vulnerabilidade não altera o [Efeito Crítico](../../rules/play/damage.md#tipos-de-dano) do tipo de dano. 
+Você recebe [Dano Dobrado](../rules/play/damage.md#dano-dobrado). Vulnerabilidade não altera o [Efeito Crítico](../rules/play/damage.md#tipos-de-dano) do tipo de dano. 
 Exemplo: Criatura com Vulnerabilidade Corte, sofre dano dobrado de qualquer fonte de dano Corte.
 
 ### Resistência

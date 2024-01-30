@@ -1,1 +1,0 @@
-Alguns personagens terão parceiros, além de seus aliados, que o seguem e realizam suas ações. Estes parceiros podem ser criaturas, animais, como cães, gatos, montarias; ou até construtos como o caso do drone de combate dos humanos engenheiros. Para saber mais regras sobre parceiros, veja o capítulo [Parceiros](../companion.md).

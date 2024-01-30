@@ -1,11 +1,5 @@
 Sentidos definem como seu personagem percebe, sente o mundo a sua volta e tudo o que está ou acontece nele. Todas as espécies e criaturas possuem ao menos um tipo de sentido. Os tipos de sentidos mais básicos são: Visão, Audição, Olfato, Paladar e Tato. Cada um dos sentidos citados anteriormente podem possuir subtipos mais especializados.
 
-## Visão
-Criaturas com visão são capazes de capturar a luz do ambiente de alguma forma e transformá-la em impulsos nervosos para o cérebro, permitindo assim, enxergar o mundo à sua volta. Considere que criaturas com esse tipo de sentido possuem ela no mesmo nível ou bem próxima a dos humanos.
-
-### Visão Térmica
-Uma criatura com visão térmica é capaz de capturar a radiação infravermelha do ambiente, permitindo a ela ver a temperatura das coisas presente no ambiente.
-
 ## Audição
 Criaturas com audição são capazes de capturar ondas de pressão do ar, permitindo-as ouvir os sons do ambiente. Considere que criaturas com esse tipo de sentido possuem ela no mesmo nível ou bem próxima a dos humanos.
 
@@ -29,3 +23,14 @@ Criaturas com senso de tremor são capazes de, por meio da vibração do terreno
 
 ### Eletrorecepção
 Criaturas com eletrorecepção são capazes de sentir impulsos elétricos e de energia presentes no ambiente.
+
+## Visão
+Criaturas com visão são capazes de capturar a luz do ambiente de alguma forma e transformá-la em impulsos nervosos para o cérebro, permitindo assim, enxergar o mundo à sua volta. Considere que criaturas com esse tipo de sentido possuem ela no mesmo nível ou bem próxima a dos humanos.
+
+### Visão Térmica
+Uma criatura com visão térmica é capaz de capturar a radiação infravermelha do ambiente, permitindo a ela ver a temperatura das coisas presente no ambiente.
+
+
+
+
+

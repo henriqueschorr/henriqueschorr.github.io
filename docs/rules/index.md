@@ -4,10 +4,6 @@ title: Regras
 
 Apresentação das regras que regem o jogo Beyond the Horizon (BTH).
 
-[Personagem](./character/index.md)  
-O primeiro passo para você começar a jogar Beyond the Horizon é criar o seu Personagem. Seu personagem seguirá uma arquitetura básica de Atributos, Ações, Reações e outras diversas características. A construção varia bastante de espécie para espécie, esta que define os valores iniciais de seus atributos, Pontos de Vida (HP), Energia (EN), Aprimoramentos, Habilidades, e outros detalhes.  
-Seus atributos são compostos por 6 Aptidões e 7 Competências. Suas aptidões são: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Além do valor atribuído a cada aptidão, você também possuíra um Dado de Aptidão (AD) para cada. Suas competências são: Combate, Infiltração, Mobilidade, Busca, Ciência, Interação e Condução. Para ver quais outras características compõem seu personagem, veja no capítulo próprio.  
-
 [Jogando](./play/index.md)  
 Uma vez que seu personagem esteja pronto, você estará pronto para jogar BTH. O jogo é uma narrativa cooperativa entre os jogadores e o Mestre do Universo (MU). O MU irá colocar seu personagem em algum lugar do universo, descrevendo o que pode ser sentido a sua volta. Você, no papel do seu personagem irá dizer como irá reagir a tudo que o MU lhe impor, assim como os NPCs (personagens controlados pelo MU) irão reagir as suas ações.   
 Algumas ações realizadas por seu personagem ou NPC precisarão ter seu resultado decidido por um Check: você rola um d100, adiciona ou subtrai modificadores baseado no contexto da ação, e então o resultado desse check lhe dirá se sua ação foi realizada com Sucesso ou Falha. Você também pode ter resultados como Sucesso Parcial, Sucesso Crítico ou Falha Crítica. Para mais detalhes, veja o capítulo de [Checks e Rolagens](../rules/play/checks.md).  

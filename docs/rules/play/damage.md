@@ -57,15 +57,16 @@ No universo há diversos tipos de armamentos e habilidades diferentes, o tipo de
 
 | Tipo de Dano | Efeito Crítico                                              | Exemplos                           |
 | ------------ | ----------------------------------------------------------- | ---------------------------------- |
-| Corte        | Dano Dobrado se HP                                          | Lâmina Retrátil, Pétalas de Sangue |
+| Caos         | Descrito no fator causador                                  | Armamentos produzidos com Solarium |
 | Concussão    | Dano Dobrado se AP                                          | Broto: Punhos, Braços-Tentáculos   |
-| Perfuração   | Dano Persistente 2 (Sangramento) 50% do dano original se HP | Pistola, Broto: Espinhos           |
+| Corrosivo    | Dano Dobrado                                                | Florescer, Infectar                |
+| Corte        | Dano Dobrado se HP                                          | Lâmina Retrátil, Pétalas de Sangue |
+| Energia      | Incapacitado (Neural) 2                                     | Lâmina de Energia                  |
 | Fogo         | Dano Persistente 2 (Fogo) 50% do dano original se HP        | Granada Termobárica                |
 | Gelo         | Limitado 2                                                  | Mina de Congelamento               |
-| Corrosivo    | Dano Dobrado                                                | Florescer, Infectar                |
-| Energia      | Incapacitado (Neural) 2                                     | Lâmina de Energia                  |
-| Sensorial    | Descrito no fator causador                                  | Granada de Luz                     |
 | Neural       | Descrito no fator causador                                  | Palavra Final, Sonhos e Pesadelos  |
+| Perfuração   | Dano Persistente 2 (Sangramento) 50% do dano original se HP | Pistola, Broto: Espinhos           |
 | Radiação     | Descrito no fator causador                                  | Objetos radioativos, espaço        |
+| Sensorial    | Descrito no fator causador                                  | Granada de Luz                     |
 | Veneno       | Descrito no fator causador                                  | Glândula de Veneno                 |
-| Caos         | Descrito no fator causador                                  | Armamentos produzidos com Solarium |
+

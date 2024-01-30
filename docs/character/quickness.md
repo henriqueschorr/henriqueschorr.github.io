@@ -2,7 +2,7 @@ Neste capítulo você encontra características do seu personagem que definem o 
 
 ## Movimento
 
-Indica quais tipos de superfícies ou eixo seu personagem é capaz de se movimentar, junto com sua velocidade. O cálculo base para sua velocidade de movimento é apresentado na sessão de [Movimento](../anatomy/movement.md).
+Indica quais tipos de superfícies ou eixo seu personagem é capaz de se movimentar, junto com sua velocidade. O cálculo base para sua velocidade de movimento é apresentado na sessão de [Movimento](../rules/anatomy/movement.md).
 
 ## Iniciativa
 

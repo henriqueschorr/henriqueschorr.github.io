@@ -62,7 +62,7 @@ Pequenos fragmentos interligados se tornam uma lâmina que você pode usar para 
 
 ### Pistola Cinética
 
-![Pistola Cinética](../../../../images/human/kinectGun.jpg){ width="300", align="right" }
+![Pistola Cinética](../../../images/human/kinectGun.jpg){ width="300", align="right" }
 
 Pistola Cinética não usa munição de forma normal, não há um projétil para disparar, em vez disso, ela armazena força cinética produzida por seu movimento, podendo armazenar até 3 por vez. Você recarrega 1 munição toda vez que anda pelo menos 6m com seu planador de combate. Há dois modos de tiro: concentrado e aberto.
 
