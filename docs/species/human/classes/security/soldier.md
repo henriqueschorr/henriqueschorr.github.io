@@ -89,7 +89,7 @@ _Habilidade (Atacar)_ \| _Energia, Ofensivo_
 **Área de Efeito:** Linha Reta ou Cone  
 A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você realizar 3 tiros no intervalo de 1 ação.
 
-- Realize um ataque com seu fuzil de assalto, podendo ser (escolha um):
+- Faça um ataque com seu fuzil de assalto, podendo ser (escolha um):
     - Linha reta acertando todos os 3 tiros em apenas uma criatura.
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
@@ -126,7 +126,7 @@ _Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo_
 **Área de Efeito:** Linha Reta ou Cone  
 A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você realizar 3 tiros no intervalo de 1 ação. Você também impede o movimento de criaturas na área.
 
-- Realize um ataque com seu fuzil de assalto, podendo ser (escolha um):
+- Faça um ataque com seu fuzil de assalto, podendo ser (escolha um):
     - Linha reta acertando todos os 3 tiros em apenas uma criatura.
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
@@ -169,7 +169,7 @@ _Habilidade (Atacar)_ \| _Energia, Ofensivo, Utilidade_
 **Alcance:** Alcance efetivo do armamento  
 A.N.E. modifica uma de suas munições e você dispara com seu fuzil de precisão. O projétil marca o alvo, fazendo com que 2 outros projéteis são disparados do seu inventário automaticamente. O alvo também permanece marcado com uma aura, fazendo ataques a distância serem mais fáceis.
 
-- Faça um ataque normal com seu fuzil de precisão em algum alvo. Caso o ataque seja bem sucedido:
+- Faça um ataque com seu fuzil de precisão contra o alvo. Caso o ataque seja bem sucedido:
     - Calcule o dano normalmente.
     - Escolha 2 Munições quaisquer do seu inventário, estas serão disparadas e acertam automaticamente o alvo do seu ataque. Calcule o dano como se fosse um ataque normal para cada projétil.
     - Ataques a distância contra o alvo atingido são Fácil por 2 turnos.
@@ -182,7 +182,7 @@ _Habilidade (Atacar)_ \| _Energia, Ofensivo_
 **Alcance:** 50m  
 A.N.E. coloca um sinalizador nos 2 próximos projéteis que você irá atirar durante esta ação. Após você realizar os 2 tiros, os projéteis sinalizam o local como marcado. A.N.E. cria uma ligação magnética entre 2 granadas em sua posse e os projéteis atirados, atirando-as e detonando-as automaticamente nos locais marcados.
 
-- Atire duas vezes com seu rifle de assalto e calcule o dano normalmente.
+- Faça 2 ataques com seu rifle de assalto. Calcule o dano normalmente.
 - Escolha 2 granadas que você possua e elas são automaticamente disparadas no local que você atirou (1 granada para cada projétil).
 - Calcule o dano das granadas normalmente.
 

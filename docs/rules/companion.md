@@ -11,7 +11,7 @@ Para comandar seu parceiro, você deve usar uma ação de Interagir - Social (Eq
 O parceiro irá realizar a instrução comandada até que ela seja completada, até você comandar outra ação, ou até se tornar impossível a realização do comando. Caso você use uma habilidade do seu parceiro, ele irá comepletá-la e retornará a sua ação comandada anteriormente.
 
 ## Checks
-Alguns parceiros possuirão seus próprios atributos e então irão utilizar eles para realizar checks como atacar, desviar, etc. Outros parceiros, principalmente construtos feitos pelo seu personagem, irão utilizar seus atributos para realizar os checks. As regras para checks estarão presentes em cada personagem e parceiro.
+Alguns parceiros possuirão seus próprios atributos e então irão utilizar eles para realizar checks como atacar, esquivar, etc. Outros parceiros, principalmente construtos feitos pelo seu personagem, irão utilizar seus atributos para realizar os checks. As regras para checks estarão presentes em cada personagem e parceiro.
 
 ## Apresentação
 Parceiros são apresentados da seguinte forma:

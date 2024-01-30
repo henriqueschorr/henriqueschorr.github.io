@@ -132,6 +132,7 @@ _Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo_
 Seu Drone pula em alguma criatura ou dispositivo e libera uma grande quantidade de energia, causando dano em criaturas, aflições em construtos e desativando dispositivos.
 
 - Drone salta em uma criatura ou dispositivo e libera uma descarga de energia.
+- Este ataque acerta automatimcante, mas o alvo ainda pode Esquivar.
 - Se o alvo é uma criatura:
     - A criatura recebe 2RDA Cérebro + Nível dano energia.
     - Se for um construto, check físico ou Incapacitado 2 (Corpo)
@@ -209,6 +210,7 @@ _Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo, Utilidade_
 **Alcance:** 10m  
 A.N.E cria um link entre seu drone e uma criatura do tipo construto ou dispositivo eletrônico, fazendo-o tomar controle do mesmo.
 
+- Este ataque acerta automaticamente e o alvo não pode esquivar.
 - Criatura alvo deve realizar um check Cérebro:
     - Sucesso: Recebe 2RDA Cérebro + Nível dano energia e fica Debilitado 2 (Neural).
     - Falha: Criatura fica Controlado 3 por você.

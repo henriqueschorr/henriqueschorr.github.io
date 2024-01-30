@@ -151,7 +151,8 @@ _Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo, Suporte, Utilidade_
 A.N.E acelera a cadência do seu lançador de dardos e dispara 3 dardos.
 
 - Escolha 1 a 3 alvos, aliados ou inimigos.
-- Faça o ataque nos alvos escolhidos.
+- Faça um ataque com seu lançador de dardos contra os alvos escolhidos. 
+    - Acerto automático em caso de aliado.
 - Se o dardo acertar um aliado, ele recebe Acelerado 1.
 - Se o dardo acertar um inimigo, ele fica Confuso 1.
 
@@ -175,12 +176,13 @@ A.N.E faz com que seu infusor consuma até 4 tipos de elementos do ambiente ou d
     - Energia: Extingue curtos-circuitos ou superfícies eletrificadas.
     - Ácido: Retira líquidos corrosivos do ambiente.
 - Uma explosão elemental ocorre consecutivamente para cada elemento na área de escolha.
-    - Inimigos devem realizar um check Agilidade.
+- Cada explosão é considerada um ataque e acerta automaticamente.
+    - Inimigos pode Esquivar:
         - Sucesso: recebem apenas metade do dano.
         - Sucesso crítico: não recebem dano algum.
         - Falha: recebem dano total.
         - Falha crítica: recebem o efeito crítico do último elemento liberado.
-    - Cada explosão elemental causa 1VDA Controle + 1RDA Cérebro + Nível de dano do tipo do elemento liberado.
+- Cada explosão elemental causa 1VDA Controle + 1RDA Cérebro + Nível de dano do tipo do elemento liberado.
 
 **Combo**  
 _Gatilho: Aliado cria ou provoca de alguma forma algum dos 4 elementos no ambiente._  

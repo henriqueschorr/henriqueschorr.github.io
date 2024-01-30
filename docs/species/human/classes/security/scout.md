@@ -66,7 +66,7 @@ _Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_
 **Área:** Esfera 4m.  
 A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do impacto, criando uma área que consome e anula qualquer som até o fim da duração desta habilidade.
 
-- Faça um ataque com seu arco composto.
+- Faça um ataque com seu arco composto contra o alvo.
 - Adicione 1RDA dano Energia ao ataque.
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
 
@@ -93,7 +93,7 @@ _Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_
 **Área:** Esfera 4m.  
 A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do impacto, criando uma área que consome e anula qualquer som até o fim da duração desta habilidade, além de atordoar a criatura atingida.
 
-- Faça um ataque com seu arco composto.
+- Faça um ataque com seu arco composto contra o alvo.
 - Adicione 1RDA dano Energia ao seu ataque.
 - Alvo atingido deve realizar um check Físico ou ficar Incapacitado 2 (Corpo)
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
@@ -158,7 +158,7 @@ _Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo_
 **Área:** Esfera 6m.  
 A.N.E. aumenta a tensão de força do seu arco composto e dispara uma flecha com extrema força, capaz de atravessar criaturas e estruturas.
 
-- Faça um ataque com seu arco composto.
+- Faça um ataque com seu arco composto contra o alvo.
 - Este ataque tem dano dobrado.
 - Caso o alvo seja uma estrutura:
     - O ataque atravessa a estrutura se ela tiver até 1m de espessura.

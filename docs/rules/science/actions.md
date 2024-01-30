@@ -17,7 +17,12 @@ Ação utilizada em conjunto com as seguintes ciências:
 | Alta         | 1 hora     | 45 min       | -1 min             | 2                  |
 | Desconhecida | 3 horas    | 3 horas      | -                  | 1                  |
 
-Falha: Você não consegue realizar a ação e perde todos materiais utilizados no processo.
+### Resultados do check
+
+Sucesso: Você consegue construir/criar normalmente, gastando os recursos necessários.
+Sucesso Crítico: Você consegue construir/criar gastando apenas metade de cada recurso (mínimo 1).
+Falha: Você não consegue realizar a ação e perde todos os recursos utilizados no processo. Ou você pode escolher gastar o dobro de recursos para conseguir construir/criar.
+Falha Crítica: Você não consegue realizar a ação e perde todos os recursos utilizados no processo.
 
 ## Desmontar, Destruir ou Separar
 
@@ -28,7 +33,11 @@ Ação utilizada em conjunto com as seguintes ciências:
 - **Biologia**: Carnear, tirar partes de seres vivos, geralmente já mortos
 - **Engenharia**: Desmontar objeto ou material orgânico utilizado em engenho ou outra construção (Agilidade é possível)
 
-Falha: Você não consegue realizar a ação e pode danificar o material em que você estava agindo.
+### Resultados do check
+
+Sucesso ou Sucesso Crítico: Você consegue realizar a ação completamente.
+Falha: Você não consegue realizar a ação e pode tentar mais uma vez. Se falhar a segunda, o item é danificado e se torna inútil.
+Falha Crítica: Você não consegue realizar a ação e o item é danificado e se torna inútil.
 
 Informações de tempo base, mínimo e etc são as mesmas de construir ou criar.
 
@@ -52,7 +61,10 @@ Ação utilizada em conjunto com todas as ciências:
 | Alta         | 30 min     | 20 min       | -1 min             | 2                  |
 | Desconhecida | 1 hora     | 1 hora       | -                  | 1                  |
 
-Falha: Você não consegue realizar a ação e pode acabar desencadeando efeitos negativos. Exemplos:
+### Resultados do check
+
+Sucesso ou Sucesso Crítico: Você consegue realizar a ação normalmente.
+Falha ou Falha Crítica: Você não consegue realizar a ação e pode acabar desencadeando efeitos negativos. Exemplos:
 
 - Criatura sob cirurgia morre
 - Armadilha é ativada automaticamente
