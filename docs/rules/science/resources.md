@@ -1,4 +1,7 @@
-Matéria são os itens, objetos, compostos consumíveis (uso único) necessário para a criação, conserto ou outras ações envolvendo a área da ciência. O tipo de matéria, e a quantidade, estarão explícitos na receita ou ação que você irá realizar, isto é definido pelo MU, algumas receitas já estarão disponíveis em cada livro de Espécie. Para facilitar esta etapa, dividimos a matéria necessária em três tipos:
+Matéria são os itens, objetos, compostos consumíveis (uso único) necessário para a criação, conserto ou outras ações envolvendo a área da ciência. O tipo de matéria, e a quantidade, estarão explícitos na receita ou ação que você irá realizar, isto é definido pelo MU, algumas receitas já estarão disponíveis em cada livro de Espécie. Para facilitar esta etapa, dividimos a matéria necessária nos seguintes tipos:
+
+## Ingrediente
+Consiste em frutas, carnes, grãos, qualquer tipo de alimento que não forme uma refeição completa, mas que serão utilizados para uma.
 
 ## Sucata
 Consiste em pedaços de metal, madeira ou qualquer outro material utilizado para construir ou consertar engenhos, equipamentos mecânicos, eletrônicos e afins. Geralmente usado com checks envolvendo a ciência de Engenharia ou Biologia.

@@ -177,7 +177,7 @@ A.N.E faz com que seu infusor consuma até 4 tipos de elementos do ambiente ou d
     - Ácido: Retira líquidos corrosivos do ambiente.
 - Uma explosão elemental ocorre consecutivamente para cada elemento na área de escolha.
 - Cada explosão é considerada um ataque e acerta automaticamente.
-    - Inimigos pode Esquivar:
+    - Criaturas na área de efeito podem Esquivar mas <ins>não</ins> Defender este ataque.
         - Sucesso: recebem apenas metade do dano.
         - Sucesso crítico: não recebem dano algum.
         - Falha: recebem dano total.

@@ -48,7 +48,7 @@ A.N.E. acelera seu Planador de Combate, fazendo-o voar rapidamente pelo campo de
 - Escolha até 1VDA Condução alvos.
 - Você passa voando por todos eles, faça um ataque com as lâminas do seu planador para cada alvo.
     - Adicione 1RDA Condução ao dano total para cada ataque.
-- Inimigos não podem usar reações contra você durante a movimentação e ataques desta habilidade.
+- Criaturas alvos não podem usar reações contra você durante a movimentação e ataques desta habilidade.
 
 ### Aprimoramento de Aptidão (2)
 
@@ -65,6 +65,7 @@ A.N.E. reestrutura seu planador e faz com que ele dispare a quantidade de muniç
 
 - Defina a quantidade de munições (comum ou avançada) que seu planador irá disparar.
 - O ataque é disparado logo abaixo de você e seu planador.
+- Criaturas na área de efeito podem Esquivar e Defender este ataque.
 - Para cada 10 munições disparadas:
     - Criaturas na área de efeito recebem 3d6 + Nível de dano perfuração caso não desviem e metade deste dano caso desviem.
 
@@ -77,6 +78,7 @@ _Habilidade (Atacar)_ \| _Energia, Ofensivo_
 A.N.E. tensiona as lâminas do seu planador e junta ela com uma extrema força logo a sua frente.  
 
 - Faça um ataque com as lâminas do planador contra o alvo.
+- Criatura alvo pode Esquivar e Defender este ataque.
 - Utilize o dano de uma lâmina e dobre-o para determinar o dano total.
 - Este ataque tem [Perfuração](../../../../rules/play/damage.md#perfuração).
 
@@ -94,6 +96,7 @@ A.N.E. reestrutura seu planador e faz com que ele dispare até 2 explosivos ou a
     - Seus efeitos não são imediatos neste modo.
 - Defina a quantidade de munições (comum ou avançada) que você deseja disparar.
 - O ataque é disparado logo abaixo de você e seu planador.
+- Criaturas na área de efeito podem Esquivar e Defender este ataque, porém ainda são pegas pelos explosivos/armadilhas.
 - Para cada 10 munições disparadas:
     - Criaturas na área de efeito recebem 3d6 + Nível de dano perfuração caso não desviem e metade deste dano caso desviem.
 - Ao final do disparo dos projéteis, os explosivos/armadilhas são automaticamente acionados.
@@ -111,10 +114,11 @@ _Habilidade (Atacar)_ \| _Energia, Ofensivo_
 **Requerimento:** Planador de Combate  
 **Custo:** 1x Célula de Energia  
 **Alcance:** Adjacente  
+**Área de Efeito:** Círculo Adjacente  
 A.N.E. faz seu planador girar no seu próprio eixo de forma veloz, cortanto tudo a sua volta com as lâminas.
 
 - Este ataque acerta automaticamente todas as criaturas adjacentes.
-- As criaturas podem Esquivar.
+- Criaturas na área de efeito podem Esquivar e Defender este ataque.
 - Utilize o dano de uma lâmina e dobre-o para determinar o dano total para cada um dos três ataques.
 
 ### Aprimoramento de Competência (4)
@@ -184,7 +188,8 @@ A.N.E. reorganiza a estrutura do seu planador, deixando o fino e com as lâminas
     - Você pode escolher ir junto com o planador ou não.
     - Inimigos que estavam adjacente durante sua trajetória devem Esquivar ou fica Caído.
 - Faça um ataque com as lâminas do seu planador contra o alvo.
-    - Se o alvo tentar esquivar, este check é Muito Difícil.
+    - Alvo pode Esquivar, porém este check é Muito Difícil.
+    - Alvo <ins>não</ins> pode Defender.
 - Calcule o dano da seguinte maneira:
     - Utilize o dano de uma lâmina e dobre-o.
     - Adicione dano extra considerando as regras de [impacto](../../../../rules/ambiance/mechanics.md#impacto).

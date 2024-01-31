@@ -28,7 +28,7 @@ Resistência (Temperaturas)
 **Carga**  
 Equipamento Acesso Rápido x6  (Porta Armas costas e cintura)  
 Munição x100 (Bolsos)  
-Equipamento x 10 (Mochila Tática)  
+Equipamento x 6 + Refeições x 4 (Mochila Tática)  
 
 **Equipamentos**  
 Lanterna de cabeça  

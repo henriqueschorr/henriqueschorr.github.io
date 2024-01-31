@@ -1,4 +1,4 @@
-Algumas espécies, como os humanos, fazem uso de [Equipamentos](#equipamentos), ferramentas, [Munições](#munições) e [Recursos](#recursos) para suplementar suas ações e ataques. Seu personagem deve ser capaz de carregar estes itens, para isso existe o sistema de inventário informando o quanto de equipamento, munições e recursos seu personagem é capaz de carregar.
+Algumas espécies, como os humanos, fazem uso de [Equipamentos](#equipamentos), ferramentas, [Munições](#munições) e [Recursos](#recursos) para suplementar suas ações e ataques. Seu personagem deve ser capaz de carregar estes itens, para isso existe o sistema de inventário informando o quanto de equipamento, munições e recursos seu personagem é capaz de carregar. Também há a possibilidade do seu personagem carregar refeições prontas para se alimentar ao longo do dia.
 
 ## Sistema de Inventário
 
@@ -21,6 +21,10 @@ Alguns armamentos, principalmente os de ataque a longa distância que disparam p
 | Míssil   | 1 = 4      |
 | Energia  | >=100% = 4 |
 | Químico  | >=1l = 4   |
+
+### Refeições
+
+Refeições são pratos, comidas, qualquer coisa que te alimente em uma refeição necessária do dia. Cada 4 refeições ocupam 1 espaço do inventário.
 
 ### Recursos
 

@@ -93,6 +93,7 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
     - Linha reta acertando todos os 3 tiros em apenas uma criatura.
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
+- Criaturas na área de efeito podem Esquivar e Defender este ataque.
 
 ### Precisão Aleijadora (3) :arrow_forward: :large_orange_diamond:
 
@@ -131,6 +132,7 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
 - Criaturas na área em que você atacou são impedidas de se mover mais próximo a você.
+- Criatura na área de efeito podem Esquivar e Defender, porém ainda sofrem o efeito deste ataque.
 
 ### Aprimoramento de Competência (4)
 
@@ -170,6 +172,7 @@ _Habilidade (Atacar)_ \| _Energia, Ofensivo, Utilidade_
 A.N.E. modifica uma de suas munições e você dispara com seu fuzil de precisão. O projétil marca o alvo, fazendo com que 2 outros projéteis são disparados do seu inventário automaticamente. O alvo também permanece marcado com uma aura, fazendo ataques a distância serem mais fáceis.
 
 - Faça um ataque com seu fuzil de precisão contra o alvo. Caso o ataque seja bem sucedido:
+    - Criatura alvo pode Esquivar e Defender este ataque.
     - Calcule o dano normalmente.
     - Escolha 2 Munições quaisquer do seu inventário, estas serão disparadas e acertam automaticamente o alvo do seu ataque. Calcule o dano como se fosse um ataque normal para cada projétil.
     - Ataques a distância contra o alvo atingido são Fácil por 2 turnos.
@@ -182,7 +185,9 @@ _Habilidade (Atacar)_ \| _Energia, Ofensivo_
 **Alcance:** 50m  
 A.N.E. coloca um sinalizador nos 2 próximos projéteis que você irá atirar durante esta ação. Após você realizar os 2 tiros, os projéteis sinalizam o local como marcado. A.N.E. cria uma ligação magnética entre 2 granadas em sua posse e os projéteis atirados, atirando-as e detonando-as automaticamente nos locais marcados.
 
-- Faça 2 ataques com seu rifle de assalto. Calcule o dano normalmente.
+- Faça 2 ataques com seu rifle de assalto. 
+- Criatura alvo pode Esquivar e Defender este ataque.
+- Calcule o dano normalmente.
 - Escolha 2 granadas que você possua e elas são automaticamente disparadas no local que você atirou (1 granada para cada projétil).
 - Calcule o dano das granadas normalmente.
 

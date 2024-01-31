@@ -69,6 +69,7 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 - Faça um ataque com seu arco composto contra o alvo.
 - Adicione 1RDA dano Energia ao ataque.
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
+- Criatura alvo pode Esquivar e Defender, mas ainda sofre o efeito deste ataque.
 
 **Especial:** Se o ataque acertar uma criatura, a área de silêncio se move junto com a criatura, uma vez que o efeito parte da flecha.
 
@@ -97,6 +98,7 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 - Adicione 1RDA dano Energia ao seu ataque.
 - Alvo atingido deve realizar um check Físico ou ficar Incapacitado 2 (Corpo)
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
+- Criatura alvo pode Esquivar e Defender, mas ainda sofre o efeito deste ataque.
 
 **Especial:** Se o ataque acertar uma criatura, a área de silêncio se move junto com a criatura, uma vez que o efeito parte da flecha.
 
@@ -132,7 +134,7 @@ Você atira a partir da sua mão uma pequena esfera de energia que se prende a u
 - Escolha uma superfície ou criatura até 20m.
 - Você atira uma esfera de energia no alvo escolhido, permitindo você se movimentar toda a distância nesta mesma ação.
 - Este movimento não causa reações em inimigos.
-- Se o alvo escolhido for uma criatura, se você atacar esta criatura logo após realizar esta ação, aplique o seguinte:
+- Se o alvo escolhido for uma criatura, se você atacar e acertar esta criatura logo após realizar esta ação, aplique o seguinte:
     - Adicione 1RDA Físico a mais do tipo de dano original do armamento.
     - O alvo deve realizar um check Físico ou fica Debilitado 1 (Corpo).
 
@@ -159,6 +161,7 @@ _Habilidade (Atacar)_ \| _Controle, Energia, Ofensivo_
 A.N.E. aumenta a tensão de força do seu arco composto e dispara uma flecha com extrema força, capaz de atravessar criaturas e estruturas.
 
 - Faça um ataque com seu arco composto contra o alvo.
+- Criatura alvo pode Esquivar mas <ins>não</ins> Defender este ataque.
 - Este ataque tem dano dobrado.
 - Caso o alvo seja uma estrutura:
     - O ataque atravessa a estrutura se ela tiver até 1m de espessura.
@@ -186,5 +189,7 @@ A.N.E. fragmenta sua lâmina em 6 pedaços separados e, com uma aura magnética 
 - Criaturas adjacentes sofrem 1d4 + (seu nível) dano Corte.
 - Você pode usar uma ação de ataque para lançar até 3 fragmentos.
     - Este ataque é a distância e tem alcance de 20m.
+    - Você pode escolher um alvo separadamente para cada fragmento.
+    - Criatura alvo pode Esquivar e Defender este ataque.
     - O dano base de cada fragmento utiliza um nível a menos do dado de dano da lâmina fragmento. Se, por exemplo, o dado de dano base da lâmina for 1d6, o dano base de cada fragmento será 1d4.
 - Ao fim da duração desta habilidade ou após você atacar com todos os 6 fragmentos, eles retornam a você a lâmina fragmento é reintegrada.

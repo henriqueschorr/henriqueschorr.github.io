@@ -8,18 +8,19 @@ Ao início de cada descanso curto, role os dados abaixo para determinar a quanti
 Seu grupo possui dois descansos curtos em um intervalo de 24 horas, caso um ou mais não seja feito, role a quantidade necessária para suprir ao início de um descanso longo.
 
 1. 1d10 Sucatas
-2. 1d4 Material Químico
-3. 1d4 Material Biológico
-4. 1d4 Material Tecnológico
-5. 1d4 Alimentos
+2. 1d10 Ingredientes
+3. 1d4 Material Químico
+4. 1d4 Material Biológico
+5. 1d4 Material Tecnológico
 6. Role 2x 1d100 para pegar itens abaixo:
 
 | Resultado | Item                               |
 | --------- | ---------------------------------- |
 | 1-20      | Nada                               |
-| 21-40     | 10x Munição Comum                  |
-| 41-60     | 1x Solução Simples                 |
-| 61-80     | 10x Munição Avançada               |
+| 21-30     | 2x Refeições                       |
+| 31-50     | 10x Munição Comum                  |
+| 51-70     | 1x Solução Simples                 |
+| 71-80     | 10x Munição Avançada               |
 | 81-82     | 5x Munição Energia ou Químico      |
 | 83-84     | 1x Solução Elemental               |
 | 85-87     | 1x Granada                         |

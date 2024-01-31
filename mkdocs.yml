@@ -23,13 +23,13 @@ nav:
       - Competências: character/skills.md
       - Resiliência: character/resilience.md
       - Anatomia: character/anatomy.md
+      - Sobrevivência: character/survival.md
       - Rapidez: character/quickness.md
       - Conhecimento Científico: character/scienceKnowledge.md
       - Passivas: character/passives.md
       - Ações, Reações e Habilidades: character/actionsReactions.md
       - Armamentos e Armaduras: character/weaponArmor.md
-      - Inventário: character/inventory.md          
-      - Sobrevivência: character/survival.md
+      - Inventário: character/inventory.md       
       - Aprimoramentos: character/upgrades.md
       - Nível: character/level.md
       - Parceiro: character/companion.md

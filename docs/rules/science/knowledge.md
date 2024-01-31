@@ -13,14 +13,15 @@ Personagens com perícia sobre uma área, ou sobre ciência como um todo, podem 
 ## Áreas de Conhecimento
 As várias áreas de conhecimento classificam e relacionam ações a um ramo da ciência. Um personagem pode ter conhecimento ou perícia em uma área, podendo realizar ações relacionadas a ela, ou possuir conhecimento nenhum, não podendo assim realizar ações relacionadas a esta área.
 
-- **Astronomia**: estudo dos corpos celestes e seus fenômenos, conhecimento do universo.   
-- **Biologia**: estudo de seres vivos e organismos, assim como sua relação ao seu meio.    
-- **Computação**: algoritmos, computadores, interfaces.    
-- **Engenharia**: abrange todas as áreas da engenharia: civil, mecânica, etc.    
-- **Física**: leis matemáticas relacionadas a interações entre matéria, movimento e energia.    
-- **Matemática**: cálculos matemáticos, probabilidade, estatística.    
-- **Planetária**: estudo de biomas, características físicas, biológicas e químicas de planetas.    
-- **Química**: estudo da matéria, suas propriedades, mudanças e reações.    
+- **Astronomia:** estudo dos corpos celestes e seus fenômenos, conhecimento do universo.   
+- **Biologia:** estudo de seres vivos e organismos, assim como sua relação ao seu meio.    
+- **Computação:** algoritmos, computadores, interfaces.    
+- **Culinária:** Produção de refeições, identificação de matérias nocivas ou benéficas a digestão.
+- **Engenharia:** abrange todas as áreas da engenharia: civil, mecânica, etc.    
+- **Física:** leis matemáticas relacionadas a interações entre matéria, movimento e energia.    
+- **Matemática:** cálculos matemáticos, probabilidade, estatística.    
+- **Planetária:** estudo de biomas, características físicas, biológicas e químicas de planetas.    
+- **Química:** estudo da matéria, suas propriedades, mudanças e reações.    
 
 ### Astronomia
 Utilizada ao navegar pelo universo, entender interações entre corpos celestes e seus fenômenos.
@@ -30,6 +31,9 @@ Utilizada ao interagir com organismos, entender biologicamente um ser vivo e sua
 
 ### Computação
 Utilizada ao desenvolver programas, algoritmos ou interagir com interfaces de tecnologia avançada, como por exemplo desbloquear uma porta trancada eletronicamente via hacking.
+
+### Culinária
+Utilizada a identificar possíveis ingredientes para refeições, produção de refeições normais e especiais que lhe concede bônus.
 
 ### Engenharia
 Utilizada ao tentar construir, desmontar ou consertar estruturas, objetos orgânicos ou construtos: Exemplos: criar uma catapulta, consertar o motor de um veículo, criar uma teia de captura com seda.
