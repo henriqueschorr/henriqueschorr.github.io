@@ -4,11 +4,11 @@ Mobilidade e velocidade no campo de batalha. Usa de seu Planador de Combate para
 
 ## Equipamento Inicial
 
-[A.N.E. Leve](../../../human/ane.md), 1x [Pistola Cinética](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Planador de Combate](../../equipment/equipments.md#neurotransmissor), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md).
+[A.N.E. Leve](../../../human/ane.md), 1x [Pistola Cinética](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Planador de Combate](../../transports/flying.md#planador-de-combate), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md).
 
 ## Planador de Combate
 
-O [Planador de Combate](../../vehicles/flying.md#planador-de-combate) é um veículo e equipamento que só você tem conhecimento de como utilizá-lo. Você pode atacar usando os armamentos presentes no planador.
+O [Planador de Combate](../../transports/flying.md#planador-de-combate) é um veículo e equipamento que só você tem conhecimento de como utilizá-lo. Você pode atacar usando os armamentos presentes no planador.
 
 #### Checks
 Todo e qualquer check que você for fazer com seu planador, inclusive caso você ataque usando os armamentos dele, são realizados com Condução & Controle, a não ser que algum efeito específico diga o contrário. Ataques com armas de mão são realizados normalmente, ignorando essa regra.
