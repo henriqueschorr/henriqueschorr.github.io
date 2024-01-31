@@ -1,21 +1,24 @@
-Algumas espécies utilizam veículos ou montarias para se locomover pelos mais diversos biomas. Existem dois tipos
+Algumas espécies utilizam veículos ou montarias para se locomover pelos mais diversos biomas. Existem dois tipos de transporte: Veículo e Montaria. Transportes também terão [marcadores](./tags/transport.md) que principalmente identificam os meios em que pode se locomover.
 
-Existem 3 tipos de veículos e montarias: Terrestre, Aquático e Aéreo. Veículos também são considerados equipamentos, e montarias também são consideradas parceiros.
+## Veículos
 
-## Checks
-Qualquer manobra arriscada ou checks requisitados pelo MU para você conseguir fazer algo com um veículo, é realizado com Condução & Controle. Já para uma montaria, ou seja, uma criatura viva, alguns checks podem ser requisitados utilizando também a competência de Interação e a aptidão de Influência.
+Veículos geralmente são construtos, equipamentos, feitos inteiramente de materiais não orgânicos, mas existem algumas criaturas orgânicas pelo universo que também podem ser consideradas veículos. Alguns veículos como o Planador de Combate dos humanos pode transportar apenas uma pessoa, enquanto algumas naves espaciais podem transportar centenas de milhares de criaturas pelo espaço. Todo check de manobra e manuseio de um veículo será feito com Condução & Controle.
+
+## Montarias
+
+Montarias sempre serão criaturas orgânicas ou construtos racionais que seu personagem andará montado. Montarias também são consideradas [Parceiros](./companion.md). Checks de manobra e manuseio com montarias podem variar entre as competências de Condução e Interação, e, por serem seres racionais, as aptidões de Controle e Influência. Cabe ao seu MU decidir.
 
 ## Apresentação
-Veículos e montarias são apresentados da seguinte forma:
+Transportes são apresentados da seguinte forma:
 
 ### Nome 
-_Marcadores_  
+_Tipo_ | _Marcadores (transporte e criatura caso montaria)_  
 **Aptidões:** Aptidões e seus valores caso possua.  
 **Competências:** Competências e seus valores caso possua.  
 **Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
 **HP:** Quantidade de HP caso possua.  
 **AP:** Quantidade de AP caso possua.  
-**Tamanho:** Tamanho do veículo/montaria.  
+**Tamanho:** Tamanho do transporte.  
 **Sentidos:** Lista de sentidos.  
 **Movimento:** Lista de movimentos e velocidades.  
 **Passivas:** Lista de passivas caso possua.  

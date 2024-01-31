@@ -85,6 +85,7 @@ nav:
         - Espécie e Criaturas: rules/tags/creatures.md
         - Habilidades: rules/tags/abilities.md
         - Armamentos e Equipamentos: rules/tags/weaponEquipment.md
+        - Transporte: rules/tags/transport.md
     - Humanos:
       - Introdução: species/human/introduction.md
       - Características Básicas: species/human/basics.md
@@ -113,8 +114,8 @@ nav:
         - Química: species/human/scienceRecipes/chemistry.md
         - Biologia: species/human/scienceRecipes/biology.md
         - Engenharia: species/human/scienceRecipes/engineering.md
-      - Veículos:
-        - Aéreos: species/human/vehicles/flying.md
+      - Transportes:
+        - Aéreos, Espaciais e Flutuantes: species/human/transports/flying.md
 #   - Hivers:
 #       - Introdução: species/hiver/introduction.md      
 #   - Symbions:

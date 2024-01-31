@@ -2,6 +2,7 @@
 
 ![Planador de Combate](../../../images/human/glider.jpg){ width="250", align="right" }
 
+_Veículo_ | _Flutuante_
 **AP:** 12 + Nível.  
 **Tamanho:** Médio.  
 **Movimento:** Aéreo 10m. Altura de no máximo até 6m normalmente.  
