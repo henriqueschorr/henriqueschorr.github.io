@@ -8,7 +8,8 @@ Qualquer ataque do Batedor é passível da mecânica de Explosão de Dano.
 
 ## Equipamento Inicial
 
-[A.N.E. Leve](../../../human/ane.md), 1x [Arco Composto](../../equipment/weapons.md#armas-brancas), 1x [Lâmina Fragmento](../../equipment/weapons.md#armas-brancas), 2x [Armadilha](../../equipment/weapons.md#armadilhas), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
+[A.N.E. Leve](../../../human/ane.md), 1x [Arco Composto](../../equipment/weapons.md#armas-brancas), 1x [Lâmina Fragmento](../../equipment/weapons.md#armas-brancas), 2x [Armadilha](../../equipment/weapons.md#armadilhas), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).  
+Escolha as armadilhas com que você deseja começar.
 
 ## Ciência: Receitas
 

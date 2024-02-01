@@ -8,7 +8,8 @@ Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil d
 
 ## Equipamento Inicial
 
-[A.N.E. Média](../../../human/ane.md), 1x [Fuzil de Precisão](../../equipment/weapons.md#armas-de-fogo), 1x [Fuzil de Assalto](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 2x [Granadas de Fragmentação](../../equipment/weapons.md#explosivos), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 20x [Munição Avançada](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
+[A.N.E. Média](../../../human/ane.md), 1x [Fuzil de Precisão](../../equipment/weapons.md#armas-de-fogo), 1x [Fuzil de Assalto](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 2x [Granadas](../../equipment/weapons.md#explosivos), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 20x [Munição Avançada](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).  
+Escolha as granadas com que você deseja começar.
 
 ## Ciência: Receitas
 
