@@ -18,6 +18,13 @@ Ignore esta coluna caso a solução esteja presente em um dado infusor.
 **Componentes:** Componentes químicos necessários para produzir esta solução.  
 **Efeito:** Efeito ativo que a solução causa após aplicada.
 
+### Orgânicos e Construtos
+
+Soluções que tenham tipo de consumo Ingestão, Inalação e Aplicação funcionam apenas se:
+
+- A criatura for do tipo orgânica.
+- A criatura tiver 0 de AP no momento. (Essa regra é invalidada pela habilidade de Dardo Perfurador dos Cientistas).
+
 ## Solução Simples
 
 Soluções simples, como o próprio nome já diz, são soluções simples de serem produzidas. Soluções simples tem [Complexidade de criação Baixa](../../../rules/science/actions.md#construir-ou-criar).
