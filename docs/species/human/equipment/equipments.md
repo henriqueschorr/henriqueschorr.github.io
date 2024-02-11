@@ -15,7 +15,7 @@ Dardo com compartimento para uma solução. Apenas Cientistas sabem realizar o m
 
 Equipamento exclusivo dos Engenheiros. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com a forja móvel:
 
-**Criar Item:** Você consegue criar até 5 iten de engenharia do tipo suporte ou armamento & munição por vez.    
+**Criar Item:** Você consegue criar até 5 iten de engenharia do tipo suporte ou armamento e munição por vez.    
 **Aprimorar:** Você consegue criar e aplicar até 1 aprimoramento por vez.  
 
 O tempo de criação ou aprimoração de cada item é informado na [Engenharia](../scienceRecipes/engineering.md).
@@ -58,7 +58,7 @@ O tempo de criação ou aprimoração de cada item é informado na [Química](..
 
 Equipamento exclusivo dos Cientistas. Possui a aparência de uma pequena pistola com diversos componentes. Pode armazenar até 3 dardos infusores que você pode disparar para aplicar soluções em aliados ou inimigos. Você pode realizar a seguinte ação com esse armamento:
 
-**Disparar:** 1 ação. Você lança um dos 3 dardos infusores.  
+**Disparar:** 1 ação. Você lança um dos 3 dardos infusores. 10m de alcance. 
 **Recarregar:** 1 ação. Você recarrega até 3 dardos infusores.
 
 ### Neurotransmissor
