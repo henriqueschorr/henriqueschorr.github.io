@@ -25,7 +25,7 @@ Quase toda aflição causada será acompanhada de um número, indicando quantos 
 
 Caso uma aflição não apresente número, ela deve ser retirada de alguma outra forma. Um exemplo é a aflição Caído, que é retirada no momento que o alvo usar a ação Mover - Levantar.
 
-<!--
+
 ## Especificação
 
 Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações envolvendo algum sentido ou parte do corpo, esta especificidade estará informada entre parênteses ao lado da aflição, por exemplo:
@@ -41,7 +41,7 @@ Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações e
 | Paladar       | Afeta qualquer tipo de paladar.                     |
 | Sentido       | Afeta todos os seus sentidos ao mesmo tempo.        |
 | Tato          | Afeta qualquer tipo de tato.                        |
-| Visão         | Afeta qualquer tipo de visão.                       | -->
+| Visão         | Afeta qualquer tipo de visão.                       |
 
 ### Dano Persistente
 

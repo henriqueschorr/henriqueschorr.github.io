@@ -73,9 +73,9 @@ Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E.
 
 Além disso o neurotransmissor lhe concede **1 AP de resistência mental (RM)**.
 
-## Utilidade Geral
+## Geral
 
-Equipamentos dos mais diversos tipos, utilizados para os mais diversos propósitos.
+Equipamentos dos mais diversos tipos, utilizados para os mais diversos propósitos e que podem ser utilizados por todos.
 
 ### Comunicador
 

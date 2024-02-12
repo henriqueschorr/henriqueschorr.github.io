@@ -28,20 +28,20 @@ Explosivos são armamentos que se utilizam de combustão ou energia para causar 
 
 | Nome                    | Dano                 | Efeito                         | Área      | Check    |
 | ----------------------- | -------------------- | ------------------------------ | --------- | -------- |
-| Granada de Atordoamento | 2RM neural           | Incapacitado 1                 | Esfera 6m | Cérebro  |
+| Granada de Atordoamento | 2RM neural           | Incapacitado 1 (Neural)        | Esfera 6m | Cérebro  |
 | Granada de Fragmentação | 4RF corte/perfuração | -                              | Esfera 6m | Esquivar |
-| Granada de Luz          | 1RM sensorial        | Inapto 1                       | Esfera 8m | Atenção  |
+| Granada de Luz          | 1RM sensorial        | Inapto 1 (Visão)               | Esfera 8m | Atenção  |
 | Granada Termobarica     | 3RF fogo             | Dano Persistente (RF) (Fogo) 2 | Esfera 4m | Físico   |
 
 ## Armadilhas
 
 Armadilhas são armamentos que você posiciona sobre uma superfície e liberam algum efeito e/ou causam dano quando um certo gatilho é satisfeito. Inimigos devem realizar um check de Busca & Atenção para notar a armadilha.
 
-| Nome                 | Dano          | Efeito         | Área      | Gatilho                      |
-| -------------------- | ------------- | -------------- | --------- | ---------------------------- |
-| Mina de Atordoamento | 2RM neural    | Incapacitado 1 | Esfera 4m | Movimento na área de efeito. |
-| Mina de Congelamento | 2RF gelo      | Preso 2        | Esfera 4m | Pressão sobre a mina.        |
-| Mina Trovão          | 2RM sensorial | Inapto 2       | Esfera 6m | Movimento na área de efeito. |
+| Nome                 | Dano          | Efeito                  | Área      | Gatilho                      |
+| -------------------- | ------------- | ----------------------- | --------- | ---------------------------- |
+| Mina de Atordoamento | 2RM neural    | Incapacitado 1 (Neural) | Esfera 4m | Movimento na área de efeito. |
+| Mina de Congelamento | 2RF gelo      | Preso 2                 | Esfera 4m | Pressão sobre a mina.        |
+| Mina Trovão          | 2RM sensorial | Inapto 2 (Audição)      | Esfera 6m | Movimento na área de efeito. |
 
 ## Armas Especiais
 

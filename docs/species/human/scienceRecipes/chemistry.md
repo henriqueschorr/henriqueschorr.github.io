@@ -61,7 +61,7 @@ Soluções avançadas necessitam de mais materiais, tempo e concentração para 
 | Liberador        | Inalação  | 4x Material Químico                        | Remove qualquer aflição.                                                                           |
 | Ritalina         | Ingestão  | 4x Material Químico                        | Incentivado 2.                                                                                     |
 | Overclock        | Inalação  | 3x Material Químico, 2x Material Biológico | Acelerado 2.                                                                                       |
-| Eclipse          | Aplicação | 3x Material Químico, 2x Material Biológico | Incapacitado 2.                                                                                    |
+| Eclipse          | Aplicação | 3x Material Químico, 2x Material Biológico | Incapacitado 2 (Sentidos).                                                                         |
 | Lobotomia        | Aplicação | 3x Material Químico, 2x Material Biológico | Check Cérebro. Falha: Dano Persistente (RM) (Neural) 2. Sucesso: Dano Persistente (RM) (Neural) 1. |
 | Asfalto          | Toque     | 2x Material Químico, 4x Material Biológico | Check Físico ou Preso 2. Inflamável: Dano Persistente (RF) (Fogo) 2. Área esfera 4m.               |
 
