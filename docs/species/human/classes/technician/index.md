@@ -8,7 +8,7 @@ Classe especializada na aplicação das ciências, produção de equipamentos ou
 
 Abaixo você encontra informações gerais sobre cada especialização desta classe.
 
-| Especialização | Aptidões          | Competências     | HP  | AP  |
-| -------------- | ----------------- | ---------------- | --- | --- |
-| Cientista      | Controle, Cérebro | Ciência, Combate | 8   | 6   |
-| Engenheiro     | Controle, Cérebro | Ciência, Combate | 8   | 9   |
+| Especialização | Aptidões          | Competências     | RF + AP | RM + AP |
+| -------------- | ----------------- | ---------------- | ------- | ------- |
+| Cientista      | Controle, Cérebro | Ciência, Combate | 2 + 1   | 2       |
+| Engenheiro     | Controle, Cérebro | Ciência, Combate | 2 + 2   | 2       |

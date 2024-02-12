@@ -68,7 +68,7 @@ _Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_
 A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do impacto, criando uma área que consome e anula qualquer som até o fim da duração desta habilidade.
 
 - Faça um ataque com seu arco composto contra o alvo.
-- Adicione 1RDA dano Energia ao ataque.
+- Adicione 1RF dano Energia ao ataque.
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
 - Criatura alvo pode Esquivar e Defender, mas ainda sofre o efeito deste ataque.
 
@@ -82,7 +82,7 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 **Alvo:** Lâmina Fragmento
 A.N.E. energiza sua lâmina fragmento, causando dano elétrico extra nos seus ataques.
 
-- Adicione 1RDA dano Energia aos seus ataques com a lâmina fragmento.
+- Adicione 1RF dano Energia aos seus ataques com a lâmina fragmento.
 
 ### Flecha Atordoadora (3) :arrow_forward:
 
@@ -96,8 +96,8 @@ _Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_
 A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do impacto, criando uma área que consome e anula qualquer som até o fim da duração desta habilidade, além de atordoar a criatura atingida.
 
 - Faça um ataque com seu arco composto contra o alvo.
-- Adicione 1RDA dano Energia ao seu ataque.
-- Alvo atingido deve realizar um check Físico ou ficar Incapacitado 2 (Corpo)
+- Adicione 1RF dano Energia ao seu ataque.
+- Alvo atingido deve realizar um check Físico ou ficar Incapacitado
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
 - Criatura alvo pode Esquivar e Defender, mas ainda sofre o efeito deste ataque.
 
@@ -112,9 +112,9 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 **Alvo:** Lâmina Fragmento
 A.N.E. energiza sua lâmina fragmento, fazendo os fragmentos vibrarem numa alta frequência e também causando dano elétrico extra nos seus ataques.
 
-- Adicione 1RDA dano Energia aos seus ataques com a lâmina fragmento.
-- Adicione 1RDA dano Corte aos seus ataques com a lâmina fragmento.
-- Se você atingir o HP de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente 2 (Sangramento) 50% do dano original.
+- Adicione 1RF dano Energia aos seus ataques com a lâmina fragmento.
+- Adicione 1RF dano Corte aos seus ataques com a lâmina fragmento.
+- Se você atingir o RF de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente (RF) (Sangramento) 2.
 
 **Combo**  
 _Gatilho: Aliado destrói AP de criatura adjacente a você._  
@@ -136,8 +136,8 @@ Você atira a partir da sua mão uma pequena esfera de energia que se prende a u
 - Você atira uma esfera de energia no alvo escolhido, permitindo você se movimentar toda a distância nesta mesma ação.
 - Este movimento não causa reações em inimigos.
 - Se o alvo escolhido for uma criatura, se você atacar e acertar esta criatura logo após realizar esta ação, aplique o seguinte:
-    - Adicione 1RDA Físico a mais do tipo de dano original do armamento.
-    - O alvo deve realizar um check Físico ou fica Debilitado 1 (Corpo).
+    - Adicione 1RF de dano a mais do tipo de dano original do armamento.
+    - O alvo deve realizar um check Físico ou fica Debilitado 1.
 
 ### Chamariz (4) :arrow_forward: :leftwards_arrow_with_hook:
 
@@ -164,6 +164,7 @@ A.N.E. aumenta a tensão de força do seu arco composto e dispara uma flecha com
 - Faça um ataque com seu arco composto contra o alvo.
 - Criatura alvo pode Esquivar mas <ins>não</ins> Defender este ataque.
 - Este ataque tem dano dobrado.
+- Este ataque tem [Penetração](../../../../rules/play/damage.md#penetração).
 - Caso o alvo seja uma estrutura:
     - O ataque atravessa a estrutura se ela tiver até 1m de espessura.
     - Caso há uma criatura atrás da estrutura até 10m, você pode rolar o check para acertá-la.
@@ -187,10 +188,10 @@ A.N.E. fragmenta sua lâmina em 6 pedaços separados e, com uma aura magnética 
 
 - Você possui Proteção Parcial enquanto houver 5 ou mais fragmentos ao seu redor.
 - Você pode usar a reação Defender enquanto houver 5 ou mais fragmentos ao seu redor.
-- Criaturas adjacentes sofrem 1d4 + (seu nível) dano Corte.
+- Criaturas adjacentes sofrem 1RF dano Corte.
 - Você pode usar uma ação de ataque para lançar até 3 fragmentos.
     - Este ataque é a distância e tem alcance de 20m.
     - Você pode escolher um alvo separadamente para cada fragmento.
     - Criatura alvo pode Esquivar e Defender este ataque.
-    - O dano base de cada fragmento utiliza um nível a menos do dado de dano da lâmina fragmento. Se, por exemplo, o dado de dano base da lâmina for 1d6, o dano base de cada fragmento será 1d4.
+    - Cada fragmento lançado causa 1RF dano corte.
 - Ao fim da duração desta habilidade ou após você atacar com todos os 6 fragmentos, eles retornam a você a lâmina fragmento é reintegrada.

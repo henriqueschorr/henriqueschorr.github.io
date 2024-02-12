@@ -58,7 +58,7 @@ O tempo de criação ou aprimoração de cada item é informado na [Química](..
 
 Equipamento exclusivo dos Cientistas. Possui a aparência de uma pequena pistola com diversos componentes. Pode armazenar até 3 dardos infusores que você pode disparar para aplicar soluções em aliados ou inimigos. Você pode realizar a seguinte ação com esse armamento:
 
-**Disparar:** 1 ação. Você lança um dos 3 dardos infusores. 10m de alcance. 
+**Disparar:** 1 ação. Você lança um dos 3 dardos infusores. 10m de alcance.  
 **Recarregar:** 1 ação. Você recarrega até 3 dardos infusores.
 
 ### Neurotransmissor
@@ -70,6 +70,8 @@ Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E.
 **Analisar Humor:** 1 ação. Você consegue perceber de maneira superficial o humor de uma criatura: Amigável, Indiferente, Hostil, Nervosa, Tranquila.
 
 **Analisar Linguagem:** 1 ação. Através de uma análise da entonação, movimentação e maneirismos de uma criatura de linguagem desconhecida, você consegue formar uma base crua dela. Você entende de maneira geral o contexto da mensagem que a criatura está tentando lhe passar.
+
+Além disso o neurotransmissor lhe concede **1 AP para resistência mental (RM)**.
 
 ## Suporte
 

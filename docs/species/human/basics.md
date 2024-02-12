@@ -7,8 +7,8 @@ Humanos começam com todos os atributos (aptidões e competências) em 30 pontos
 ## Resiliência
 Abaixo você encontra informações sobre a resiliência dos humanos.
 
-### Pontos de Vida (HP)
-Humanos começam com 8 de HP.
+### Resistências (RF e RM)
+Humanos começam com 2RF e 2RM.
 
 ### Energia (EN)
 Humanos utilizam Células de Energia presentes na A.N.E. como EN.

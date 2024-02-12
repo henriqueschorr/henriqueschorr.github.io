@@ -6,7 +6,7 @@ Benefícios são condições em que seu personagem se encontra e lhe dão certas
 | Camuflado   | Movendo-se: Checks de Infiltração são Fácil e checks de Busca contra você são Difícil.<br>Parado: Checks de Infiltração são Muito Fácil e checks de Busca contra você são Muito Difícil. |
 | Incentivado | Ações e Reações são Fácil.                                                                                                                                                               |
 | Inspirado   | Ações e Reações são Muito Fácil.                                                                                                                                                         |
-| Resistência  | Você impede o próximo 1 de dano na resistência alvo (RF ou RM). Este benefício terá indicado entre parênteses o tipo de dano que resiste (Corte, Perfuração, etc).                       |
+| Resistência  | Você impede 1 de dano na resistência alvo (RF ou RM).                       |
 
 ## Duração
 

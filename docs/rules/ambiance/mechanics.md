@@ -13,11 +13,11 @@ Quando objetos ou criaturas caem em cima de você, você também sofre dano de i
 
 | Tamanho   | Dano |
 | --------- | ---- |
-| Minúsculo | 1d6  |
-| Pequeno   | 2d6  |
-| Médio     | 3d6  |
-| Grande    | 4d6  |
-| Gigante   | 6d6  |
-| Colossal  | 10d6 |
+| Minúsculo | 1RF  |
+| Pequeno   | 1RF  |
+| Médio     | 2RF  |
+| Grande    | 2RF  |
+| Gigante   | 5RF  |
+| Colossal  | 8RF |
 
 
