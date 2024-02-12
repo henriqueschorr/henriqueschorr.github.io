@@ -21,8 +21,8 @@ _Marcadores_
 **Aptidões:** Aptidões e seus valores caso possua.  
 **Competências:** Competências e seus valores caso possua.  
 **Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
-**HP:** Quantidade de HP caso possua.  
-**AP:** Quantidade de AP caso possua.  
+**RF:** Quantidade de RF.  
+**RM:** Quantidade de RM caso possua.  
 **Tamanho:** Tamanho do parceiro.  
 **Sentidos:** Lista de sentidos.  
 **Movimento:** Lista de movimentos e velocidades.

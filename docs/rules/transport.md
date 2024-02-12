@@ -16,8 +16,7 @@ _Tipo_ | _Marcadores (transporte e criatura caso montaria)_
 **Aptidões:** Aptidões e seus valores caso possua.  
 **Competências:** Competências e seus valores caso possua.  
 **Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
-**HP:** Quantidade de HP caso possua.  
-**AP:** Quantidade de AP caso possua.  
+**RF:** Quantidade de RF.  
 **Tamanho:** Tamanho do transporte.  
 **Sentidos:** Lista de sentidos.  
 **Movimento:** Lista de movimentos e velocidades.  

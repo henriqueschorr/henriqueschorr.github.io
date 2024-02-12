@@ -2,16 +2,16 @@ Ações definem o que você pode fazer durante seu Turno. Em geral, você pode r
 
 ## Visão Geral
 
-| Ação          | Custo | Detalhes                                                                                                                                                                                                                                                                                                                            |
-| ------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Mover](#mover)     | 1     | Caminhar, Abaixar, Levantar, Saltar, Escalar, Nadar, Cavar, Voar.                                                                                                                                                                                                                                                                   |
-| [Manobra](#manobra)   | 1     | Agarrar, Puxar, Empurrar, Derrubar, Desarmar, Libertar.                                                                                                                                                                                                                                                                             |
-| [Interagir](#interagir) | Varia | **Social**: Interagir, comunicar com outros personagens, criaturas, NPCs.<br>**Ambiente**: Interagir com ambiente, como jogar areia em alguém, acionar uma alavanca.<br>**Equipamento**: Interagir com algum objeto em sua posse, trocar de arma, aplicar med-gel, recarregar.<br>**Ajudar**: Ajude um aliado a performar uma ação. |
-| [Preparar](#preparar)  | 1     | Escolha alguma outra ação e aja após um gatilho definido.                                                                                                                                                                                                                                                                           |
-| [Procurar](#procurar)  | 1     | Procure por um objeto ou criatura.                                                                                                                                                                                                                                                                                                  |
-| [Atacar](#atacar)    | Varia | Atacar com algum armamento.                                                                                                                                                                                                                                                                                                         |
-| [Ciência](#ciência)   | Varia | Realizar cálculos, performar cirurgia, construir objeto, consertar veículo. Qualquer ação envolvendo a competência de Ciência e conhecimento sobre as áreas científicas.                                                                                                                                                            |
-| [Habilidade](#habilidade)    | Varia | Usar alguma habilidade do seu personagem.                                                                                                                                                                                                                                                                                           |
+| Ação                      | Custo | Detalhes                                                                                                                                                                                                                                                                                                                            |
+| ------------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mover](#mover)           | 1     | Caminhar, Abaixar, Levantar, Saltar, Escalar, Nadar, Cavar, Voar.                                                                                                                                                                                                                                                                   |
+| [Manobra](#manobra)       | 1     | Agarrar, Puxar, Empurrar, Derrubar, Desarmar, Libertar.                                                                                                                                                                                                                                                                             |
+| [Interagir](#interagir)   | Varia | **Social**: Interagir, comunicar com outros personagens, criaturas, NPCs.<br>**Ambiente**: Interagir com ambiente, como jogar areia em alguém, acionar uma alavanca.<br>**Equipamento**: Interagir com algum objeto em sua posse, trocar de arma, aplicar med-gel, recarregar.<br>**Ajudar**: Ajude um aliado a performar uma ação. |
+| [Preparar](#preparar)     | 1     | Escolha alguma outra ação e aja após um gatilho definido.                                                                                                                                                                                                                                                                           |
+| [Procurar](#procurar)     | 1     | Procure por um objeto ou criatura.                                                                                                                                                                                                                                                                                                  |
+| [Atacar](#atacar)         | Varia | Atacar com algum armamento.                                                                                                                                                                                                                                                                                                         |
+| [Ciência](#ciência)       | Varia | Realizar cálculos, performar cirurgia, construir objeto, consertar veículo. Qualquer ação envolvendo a competência de Ciência e conhecimento sobre as áreas científicas.                                                                                                                                                            |
+| [Habilidade](#habilidade) | Varia | Usar alguma habilidade do seu personagem.                                                                                                                                                                                                                                                                                           |
 
 ## Mover
 
@@ -101,7 +101,7 @@ Quando você deseja agir somente quando certa situação escolhida acontece na r
 
 ## Atacar
 
-Ação mais comum a se usar durante um combate. Você ataca alguma criatura ou outro alvo qualquer com algum armamento. Geralmente usado com Combate & Físico/Agilidade.
+Ação mais comum a se usar durante um combate. Você ataca alguma criatura ou outro alvo qualquer com algum armamento. Geralmente usado com Combate & Físico/Agilidade/Controle.
 
 ## Ciência
 
@@ -109,4 +109,4 @@ Realiza alguma ação relacionada às ciências, como por exemplo criar uma solu
 
 ## Habilidade 
 
-Ação especial poderosa exclusiva de seu personagem, geralmente consome EN para alimentá-la.
+Ação especial poderosa exclusiva da sua espécie, geralmente consome EN para alimentá-la.

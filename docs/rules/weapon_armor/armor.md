@@ -22,7 +22,7 @@ Seu personagem possui algum exoesqueleto ou camada de pele ou outro material bio
 Indica os APs que esta armadura concede ao seu personagem.
 
 #### Resiliência
-Algumas armaduras podem conceder resistências ou imunidades ao seu personagem.
+Algumas armaduras podem conceder imunidades ao seu personagem.
 
 #### Retribuição
 Algumas armaduras possuem formas de retribuir automaticamente uma ação inimiga, causando dano ou outro efeito qualquer no atacante.
