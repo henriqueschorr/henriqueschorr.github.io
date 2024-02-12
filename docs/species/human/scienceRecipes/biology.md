@@ -1,5 +1,5 @@
 Abaixo você encontra todas os produtos que humanos podem produzir na área da biologia.  
-Todas os itens que indicarem RDA ou VDA, considere o RDA/VDA da pessoa que o produziu, a não ser que diga o contrário. Considere o RDA/VDA atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
+Todas os itens que indicarem RAD ou VAD, considere o RAD/VAD da pessoa que o produziu, a não ser que diga o contrário. Considere o RAD/VAD atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
 
 ## Suporte
 
@@ -7,8 +7,8 @@ Itens de suporte que você pode criar e são usados para curar, neutralizar ou g
 
 | Solução             | Complexidade                                                  | Aplicação | Receita                        | Efeito                                                                        |
 | ------------------- | ------------------------------------------------------------- | --------- | ------------------------------ | ----------------------------------------------------------------------------- |
-| Kit Médico Simples  | [Baixa](../../../rules/science/actions.md#construir-ou-criar) | 5 min.    | 1x Sucata, 1x Med-Gel          | Estabiliza criaturas Morte, retira aflições, cura 1RF para cada 3VDA Cérebro. |
-| Kit Médico Avançado | [Média](../../../rules/science/actions.md#construir-ou-criar) | 10 min.   | 2x Sucata, 1x Med-Gel Avançado | Estabiliza criaturas Morte, retira aflições, cura 2RF para cada 3VDA Cérebro. |
+| Kit Médico Simples  | [Baixa](../../../rules/science/actions.md#construir-ou-criar) | 5 min.    | 1x Sucata, 1x Med-Gel          | Estabiliza criaturas Morte, retira aflições, cura 1RF para cada 3VAD Cérebro. |
+| Kit Médico Avançado | [Média](../../../rules/science/actions.md#construir-ou-criar) | 10 min.   | 2x Sucata, 1x Med-Gel Avançado | Estabiliza criaturas Morte, retira aflições, cura 2RF para cada 3VAD Cérebro. |
 
 ## Aprimoramentos de Corpo
 

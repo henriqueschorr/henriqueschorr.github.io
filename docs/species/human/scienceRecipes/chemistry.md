@@ -1,5 +1,5 @@
 Abaixo você encontra todas as soluções que humanos podem produzir na área da química. Esta área é dominada pelos Cientistas, ainda mais possuindo seu laboratório móvel que os permite produzir as soluções em qualquer momento e local.  
-Todas os itens que indicarem RDA ou VDA, considere o RDA/VDA da pessoa que o produziu, a não ser que diga o contrário. Considere o RDA/VDA atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
+Todas os itens que indicarem RAD ou VAD, considere o RAD/VAD da pessoa que o produziu, a não ser que diga o contrário. Considere o RAD/VAD atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
 
 ### Leitura das Tabelas
 
@@ -31,8 +31,8 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 
 | Receita        | Consumo   | Componentes                                | Efeito                                                                                                                        |
 | -------------- | --------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Med-Gel        | Ingestão  | 2x Material Químico                        | Cura 1RF para cada 3VDA Cérebro.                                                                                              |
-| Calmante       | Ingestão  | 2x Material Químico                        | Cura 1RM para cada 3VDA Cérebro.                                                                                              |
+| Med-Gel        | Ingestão  | 2x Material Químico                        | Cura 1RF para cada 3VAD Cérebro.                                                                                              |
+| Calmante       | Ingestão  | 2x Material Químico                        | Cura 1RM para cada 3VAD Cérebro.                                                                                              |
 | Neutralizador  | Ingestão  | 1x Material Químico, 1x Material Biológico | Neutraliza qualquer veneno.                                                                                                   |
 | Essência Podre | Inalação  | 1x Material Químico, 1x Material Biológico | Check Físico. Falha: Enjoado 2. Sucesso: Enjoado 1.                                                                           |
 | Hemofólico     | Aplicação | 2x Material Químico                        | Check Físico. Recebe 1RF dano extra para cada ataque que a criatura alvo receber. Falha: Dura 3 turnos. Sucesso: Dura 1 turno |
@@ -44,10 +44,10 @@ Soluções elementais liberam elementos na área, causando dano no tipo do eleme
 
 | Receita    | Consumo | Receita             | Efeito                                                                                        |
 | ---------- | ------- | ------------------- | --------------------------------------------------------------------------------------------- |
-| Fogo       | Toque   | 3x Material Químico | 2RF dano fogo para cada 3VDA Cérebro. Área esfera 4m.                                         |
-| Gelo       | Toque   | 3x Material Químico | 2RF dano gelo para cada 3VDA Cérebro. Área esfera 4m.                                         |
+| Fogo       | Toque   | 3x Material Químico | 2RF dano fogo para cada 3VAD Cérebro. Área esfera 4m.                                         |
+| Gelo       | Toque   | 3x Material Químico | 2RF dano gelo para cada 3VAD Cérebro. Área esfera 4m.                                         |
 | Escorregão | Toque   | 3x Material Químico | Check Agilidade ou Caído. Área esfera 4m.                                                     |
-| Ácido      | Toque   | 3x Material Químico | 2RF dano corrosivo para cada 3VDA Cérebro. Área esfera 4m.                                    |
+| Ácido      | Toque   | 3x Material Químico | 2RF dano corrosivo para cada 3VAD Cérebro. Área esfera 4m.                                    |
 | Parede     | Toque   | 3x Material Químico | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 AP de RF. |
 
 ## Solução Avançada
@@ -56,8 +56,8 @@ Soluções avançadas necessitam de mais materiais, tempo e concentração para 
 
 | Receita          | Consumo   | Componentes                                | Efeito                                                                                             |
 | ---------------- | --------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| Med-Gel Avançado | Ingestão  | 3x Material Químico                        | Cura 2RF para cada 3VDA Cérebro.                                                                   |
-| Calmante         | Ingestão  | 2x Material Químico                        | Cura 2RM para cada 3VDA Cérebro.                                                                   |
+| Med-Gel Avançado | Ingestão  | 3x Material Químico                        | Cura 2RF para cada 3VAD Cérebro.                                                                   |
+| Calmante         | Ingestão  | 2x Material Químico                        | Cura 2RM para cada 3VAD Cérebro.                                                                   |
 | Liberador        | Inalação  | 4x Material Químico                        | Remove qualquer aflição.                                                                           |
 | Ritalina         | Ingestão  | 4x Material Químico                        | Incentivado 2.                                                                                     |
 | Overclock        | Inalação  | 3x Material Químico, 2x Material Biológico | Acelerado 2.                                                                                       |
@@ -71,4 +71,4 @@ Soluções extremamente raras que necessitam de recursos difíceis de se obter. 
 
 | Receita          | Consumo | Componentes                                                          | Efeito                                                                                                                                   |
 | ---------------- | ------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Evento Horizonte | Toque   | 1x Elemento Radioativo + 2x Material Químico + 2x Material Biológico | 6RF dano radioativo para cada 3VDA Cérebro. Puxa criaturas para o centro. Check Físico, sucesso: Caído, falha: Inapto 2. Área esfera 4m. |
+| Evento Horizonte | Toque   | 1x Elemento Radioativo + 2x Material Químico + 2x Material Biológico | 6RF dano radioativo para cada 3VAD Cérebro. Puxa criaturas para o centro. Check Físico, sucesso: Caído, falha: Inapto 2. Área esfera 4m. |

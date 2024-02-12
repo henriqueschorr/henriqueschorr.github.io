@@ -20,9 +20,9 @@ Todo e qualquer check que você for fazer com seu planador, inclusive caso você
 | ----- | ----------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Rastro de Sangue |
 | 2     | Chuva Balística + Mandíbula                                                   |
-| 3     | Atributos + (Chuva Explosiva \| Giro Mortal)                              |
+| 3     | Atributos + Resiliência + (Chuva Explosiva \| Giro Mortal)                    |
 | 4     | Competência + Abdução + Defletor                                              |
-| 5     | Atributos + (Integração \| Canhão Yamato)                                     |
+| 5     | Atributos + Resiliência + (Integração \| Canhão Yamato)                       |
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -46,7 +46,7 @@ _Habilidade (Mover, Atacar)_ \| _Ofensivo, Utilidade, Energia_
 **Alcance:** 30m  
 A.N.E. acelera seu Planador de Combate, fazendo-o voar rapidamente pelo campo de batalha e acertando alvos sem dá-los uma possibilidade de reação.
 
-- Escolha até 1VDA Condução alvos.
+- Escolha até 1VAD Condução alvos.
 - Você passa voando por todos eles, faça um ataque com as lâminas do seu planador para cada alvo.
     - Este ataque causa Dano Persistente (RF) (Sangramento) 1.
 - Criaturas alvos não podem usar reações contra você durante a movimentação e ataques desta habilidade.
@@ -82,6 +82,9 @@ A.N.E. tensiona as lâminas do seu planador e junta ela com uma extrema força l
 - Criatura alvo pode Esquivar e Defender este ataque.
 - Utilize o dano de uma lâmina e dobre-o para determinar o dano total.
 - Este ataque tem [Penetração](../../../../rules/play/damage.md#penetração).
+
+### Resiliência (3, 5)
+Você recebe 1RF e 1RM a mais.
 
 ### Chuva Explosiva (3) :fast_forward: :large_orange_diamond: 
 

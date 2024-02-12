@@ -50,10 +50,6 @@ Informa o alcance desta habilidade, podendo ser Adjacente ou metros de distânci
 
 Demonstra quantos metros são atingidos por esta habilidade, e ainda o formato da area de efeito: Linha Vertical, Linha Horizontal, Cone ou Esfera.
 
-#### Dano ou Dano Extra
-
-Caso a habilidade seja um ataque que cause dano ou lhê conceda dano extra, essa informação estará descrita aqui.
-
 #### Descrição
 
 Esta seção descreve os efeitos e/ou benefícios ao usar esta habilidades. Também explica quais checks você e/ou o alvo precisam rolar, assim como dano e aflições causadas caso válidas.

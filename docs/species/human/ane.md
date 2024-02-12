@@ -19,6 +19,10 @@ Média: 2
 Média-Pesada: 3  
 Pesada: 5    
 
+**Resistências**  
+Radiação  
+Temperaturas    
+
 **Energia (EN)**  
 2x Células de Energia (3x se Engenheiro)
 

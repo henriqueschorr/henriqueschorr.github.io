@@ -25,11 +25,11 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ----- | ------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Legenda: Orgânicos |
 | 2     | Aptidão + Dardo Perfurador + Infusor de Projétil                                |
-| 3     | Atributos + (Dardo Liberador \| Infusor de Armadura)                            |
+| 3     | Atributos + Resiliência + (Dardo Liberador \| Infusor de Armadura)              |
 | 4     | Competência + Potencializador Químico + Redoma Protetora                        |
-| 5     | Atributos + (Histeria \| Caos)                                                  |
+| 5     | Atributos + Resiliência + (Histeria \| Caos)                                    |
 
-### Aprimoramento de Atributos (1)
+### Aprimoramento de Atributos (1, 3, 5)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
@@ -81,6 +81,9 @@ A.N.E faz com que seu infusor seja capaz de infundir armamentos do tipo equipame
 
 - Escolha um armamento do tipo equipamento que lança projéteis.
 - Por 2 turnos todos os projéteis lançados por este armamento estarão infudidos.
+
+### Resiliência (3, 5)
+Você recebe 1RF e 1RM a mais.
 
 ### Dardo Liberador (3) :arrow_forward:
 

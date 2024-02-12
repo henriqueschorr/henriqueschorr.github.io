@@ -28,11 +28,11 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ----- | ------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada |
 | 2     | Aptidão + Precisão + Barragem de Tiros                                          |
-| 3     | Atributos + (Precisão Aleijadora \| Barragem Supressora)                        |
+| 3     | Atributos + Resiliência + (Precisão Aleijadora \| Barragem Supressora)          |
 | 4     | Competência + Recarga Magnética + Barricada Individual                          |
-| 5     | Atributos + (Tiro Marcador \| Tiro Granadeiro)                                  |
+| 5     | Atributos + Resiliência + (Tiro Marcador \| Tiro Granadeiro)                    |
 
-### Aprimoramento de Atributos (1)
+### Aprimoramento de Atributos (1, 3, 5)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
@@ -94,6 +94,9 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
 - Criaturas na área de efeito podem Esquivar e Defender este ataque.
+
+### Resiliência (3, 5)
+Você recebe 1RF e 1RM a mais.
 
 ### Precisão Aleijadora (3) :arrow_forward: :large_orange_diamond:
 

@@ -27,11 +27,11 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ----- | ---------------------------------------------------------------------- |
 | 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem |
 | 2     | Aptidão + Flecha Silenciadora + Lâmina Elétrica                        |
-| 3     | Atributos + (Flecha Atordoadora \| Serra Elétrica)                     |
+| 3     | Atributos + Resiliência + (Flecha Atordoadora \| Serra Elétrica)       |
 | 4     | Competência + Gancho Magnético + Chamariz                              |
-| 5     | Atributos + (Flecha Arpão \| Nuvem de Lâminas)                         |
+| 5     | Atributos + Resiliência + (Flecha Arpão \| Nuvem de Lâminas)           |
 
-### Aprimoramento de Atributos (1)
+### Aprimoramento de Atributos (1, 3, 5)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
@@ -84,6 +84,9 @@ A.N.E. energiza sua lâmina fragmento, causando dano elétrico extra nos seus at
 
 - Adicione 1RF dano Energia aos seus ataques com a lâmina fragmento.
 
+### Resiliência (3, 5)
+Você recebe 1RF e 1RM a mais.
+
 ### Flecha Atordoadora (3) :arrow_forward:
 
 _Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_  
@@ -135,9 +138,9 @@ Você atira a partir da sua mão uma pequena esfera de energia que se prende a u
 - Escolha uma superfície ou criatura até 20m.
 - Você atira uma esfera de energia no alvo escolhido, permitindo você se movimentar toda a distância nesta mesma ação.
 - Este movimento não causa reações em inimigos.
-- Se o alvo escolhido for uma criatura, se você atacar e acertar esta criatura logo após realizar esta ação, aplique o seguinte:
+<!-- - Se o alvo escolhido for uma criatura, se você atacar e acertar esta criatura logo após realizar esta ação, aplique o seguinte:
     - Adicione 1RF de dano a mais do tipo de dano original do armamento.
-    - O alvo deve realizar um check Físico ou fica Debilitado 1.
+    - O alvo deve realizar um check Físico ou fica Debilitado 1. -->
 
 ### Chamariz (4) :arrow_forward: :leftwards_arrow_with_hook:
 

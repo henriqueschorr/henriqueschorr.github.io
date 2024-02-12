@@ -87,4 +87,4 @@ Emite luz forte em área de 4m e luz fraca em uma área de 8m.
 
 ### Monitor de Informações
 
-Interface que demonstra informações gerais sobre seu corpo (HP, AP, etc) e equipamentos em posse (quantidade munição, recursos, etc).
+Interface que demonstra informações gerais sobre seu corpo (RF, RM, etc) e equipamentos em posse (quantidade munição, recursos, etc).

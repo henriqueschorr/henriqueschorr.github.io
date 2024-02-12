@@ -1,5 +1,5 @@
 Abaixo você encontra todos os itens que humanos podem produzir na área da engenharia. Esta área é dominada pelos Engenheiros, ainda mais possuindo sua forja móvel que os permite produzir os itens em qualquer momento e local.  
-Todas os itens que indicarem RDA ou VDA, considere o RDA/VDA da pessoa que o produziu, a não ser que diga o contrário. Considere o RDA/VDA atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
+Todas os itens que indicarem RAD ou VAD, considere o RAD/VAD da pessoa que o produziu, a não ser que diga o contrário. Considere o RAD/VAD atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
 
 ### Leitura das Tabelas
 
@@ -19,8 +19,8 @@ Itens de suporte que você pode criar ou implementar e concedem bônus a você o
 
 | Receita           | Alvo | Complexidade | Componentes | Efeito                                     |
 | ----------------- | ---- | ------------ | ----------- | ------------------------------------------ |
-| Nano-Fix Simples  | -    | Baixa        | 3x Sucata   | Recupera 1AP de RF para cada 3VDA Cérebro. |
-| Nano-Fix Avançado | -    | Média        | 5x Sucata   | Recupera 2AP de RF para cada 3VDA Cérebro. |
+| Nano-Fix Simples  | -    | Baixa        | 3x Sucata   | Recupera 1AP de RF para cada 3VAD Cérebro. |
+| Nano-Fix Avançado | -    | Média        | 5x Sucata   | Recupera 2AP de RF para cada 3VAD Cérebro. |
 
 ## Armamentos e Munições
 
@@ -75,7 +75,7 @@ Todos os aprimoramentos de drone III possuem [complexidade Alta](../../../rules/
 | Pulso P.E.M          | 5x Sucata, 5x Material Tecnológico, 2x Material Químico | Sobrecarga Vampírica                     | Ao usar a habilidade de Drone: Sobrecarga, a habilidade tem área de efeito de 4m.                                                                                                                                                                          |
 | Sobrecarga Vampírica | 5x Sucata, 5x Material Tecnológico, 3x Material Químico | Pulso P.E.M                              | Ao usar a habilidade de Drone: Sobrecarga, em vez de realizar uma descarga de energia, o drone suga a energia das criaturas. A habilidade não causa mais dano, porém o efeito é aumentado para Incapacitado 4 e você ou algum aliado recebe 2 EN de volta. |
 | Tempestade Magnética | 5x Sucata, 5x Material Tecnológico, 5x Material Químico | -                                        | Ao usar a habilidade de Drone: Bomba Magnética, a explosão causa 2RF dano corte extra, independente do numero de fragmentos.                                                                                                                               |
-| Multi Processadores  | 5x Sucata, 8x Material Tecnológico, 3x Material Químico | -                                        | Ao usar a habilidade de Drone: Parasita, você pode tomar controle de (1VDA Cérebro / 2) alvos em vez de apenas 1 alvo.                                                                                                                                     |
+| Multi Processadores  | 5x Sucata, 8x Material Tecnológico, 3x Material Químico | -                                        | Ao usar a habilidade de Drone: Parasita, você pode tomar controle de (1VAD Cérebro / 2) alvos em vez de apenas 1 alvo.                                                                                                                                     |
 
 ## Aprimoramentos de Equipamentos I
 
@@ -97,7 +97,7 @@ Todos os aprimoramentos de equipamentos II possuem [complexidade Alta](../../../
 | Fio Etéreo        | Armas Brancas de alcance adjacente                   | 1x Material Raro, 2x Material Químico                                                 | Todo ataque: check Físico ou alvo Dano Persistente (RF) (Sangramento) 2.                                                        |
 | Arpão Perfurante  | Arco Composto                                        | 1x Material Raro, 2x Material Tecnológico                                             | Armamento recebe o marcador Penetração para sempre.                                                                             |
 | Impacto Explosivo | Armas de Fogo que usam munição comum ou avançada     | 1x Material Radioativo, 2x Material Tecnológico                                       | Todos os ataques causam 1RF da corte extra.                                                           |
-| Sistema Lázarus   | Armadura do tipo equipamento                         | 2x Sucata, 3x Material Tecnológico, 3x Material Químico                               | Quando o usuário da armadura chegar a 0 RF, ele volta a vida com 1VDA Cérebro (seu) de RF. Efeito possível apenas 1x a cada 24 horas. |
+| Sistema Lázarus   | Armadura do tipo equipamento                         | 2x Sucata, 3x Material Tecnológico, 3x Material Químico                               | Quando o usuário da armadura chegar a 0 RF, ele volta a vida com 1VAD Cérebro (seu) de RF. Efeito possível apenas 1x a cada 24 horas. |
 | Especialização    | Armamentos ou equipamentos específicos de personagem | 1x Material Raro, 2x Material Tecnológico, 1x Material Químico, 1x Material Biológico | Aprimora armamento ou equipamento especial de um personagem. Veja uma lista abaixo dos efeitos específicos.                     |
 
 ### Lâmina Fragmento: Fragmentação Extra

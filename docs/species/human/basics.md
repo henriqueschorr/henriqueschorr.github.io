@@ -50,6 +50,19 @@ Humanos precisam realizar 4 refeições a cada 24 horas. Sua dieta é bastante v
 ### Descanso
 Humanos necessitam de ao menos um descanso curto e um descanso longo a cada 24 horas.
 
+#### Descanso Curto
+
+- Recupera todo seu RM.
+- Recupera metade de seu AP provido pela A.N.E.
+- Recupera todo seu EN.
+
+#### Descanso Longo
+
+- Recupera metade de seu RF. Arredonde para baixo.
+- Recupera todo seu RM.
+- Recupera todo seu AP provido pela A.N.E.
+- Recupera todo seu EN.
+
 ### Ambientação
 Humanos estão acostumados a viverem em diversos climas, porém todos muito similares com o do planeta terra.
 

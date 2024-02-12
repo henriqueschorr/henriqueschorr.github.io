@@ -32,11 +32,11 @@ Todo e qualquer check que seu drone precisar fazer, seja ele para esquivar, atac
 | ----- | --------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Legenda: Construtos |
 | 2     | Aptidão + Drone: Torre + Drone: Laser                                             |
-| 3     | Atributos + (Drone: Morteiro \| Drone: Sobrecarga)                                |
+| 3     | Atributos + Resiliência + (Drone: Morteiro \| Drone: Sobrecarga)                  |
 | 4     | Competência + Reforge + Drone: Escudo                                             |
-| 5     | Atributos + (Drone: Bomba Magnética \| Drone: Parasita)                           |
+| 5     | Atributos + Resiliência + (Drone: Bomba Magnética \| Drone: Parasita)             |
 
-### Aprimoramento de Atributos (1)
+### Aprimoramento de Atributos (1, 3, 5)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
@@ -105,6 +105,9 @@ A.N.E transforma a energia do drone em projéteis de laser, causando dano de ene
 - Drone não consome munição.
 - Os ataques do drone causam 1RM dano a mais.
 - O dano total é convertido para o tipo energia.
+
+### Resiliência (3, 5)
+Você recebe 1RF e 1RM a mais.
 
 ### Drone: Morteiro (3) :arrow_forward:
 
