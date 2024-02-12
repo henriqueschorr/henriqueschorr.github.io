@@ -7,8 +7,8 @@ Itens de suporte que você pode criar e são usados para curar, neutralizar ou g
 
 | Solução             | Complexidade                                                  | Aplicação | Receita                        | Efeito                                                                        |
 | ------------------- | ------------------------------------------------------------- | --------- | ------------------------------ | ----------------------------------------------------------------------------- |
-| Kit Médico Simples  | [Baixa](../../../rules/science/actions.md#construir-ou-criar) | 5 min.    | 1x Sucata, 1x Med-Gel          | Estabiliza criaturas Morte, retira aflições, Cura 1VDA Cérebro + Nível de HP. |
-| Kit Médico Avançado | [Média](../../../rules/science/actions.md#construir-ou-criar) | 10 min.   | 2x Sucata, 1x Med-Gel Avançado | Estabiliza criaturas Morte, retira aflições, Cura 2VDA Cérebro + Nível de HP. |
+| Kit Médico Simples  | [Baixa](../../../rules/science/actions.md#construir-ou-criar) | 5 min.    | 1x Sucata, 1x Med-Gel          | Estabiliza criaturas Morte, retira aflições, cura 1RF para cada 3VDA Cérebro. |
+| Kit Médico Avançado | [Média](../../../rules/science/actions.md#construir-ou-criar) | 10 min.   | 2x Sucata, 1x Med-Gel Avançado | Estabiliza criaturas Morte, retira aflições, cura 2RF para cada 3VDA Cérebro. |
 
 ## Aprimoramentos de Corpo
 

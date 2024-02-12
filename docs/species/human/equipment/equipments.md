@@ -15,8 +15,8 @@ Dardo com compartimento para uma solução. Apenas Cientistas sabem realizar o m
 
 Equipamento exclusivo dos Engenheiros. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com a forja móvel:
 
-**Criar Item:** Você consegue criar até 5 iten de engenharia do tipo suporte ou armamento e munição por vez.    
-**Aprimorar:** Você consegue criar e aplicar até 1 aprimoramento por vez.  
+**Criar Item:** Você consegue criar até 5 iten de engenharia do tipo suporte ou armamento e munição por vez.  
+**Aprimorar:** Você consegue criar e aplicar até 1 aprimoramento por vez.
 
 O tempo de criação ou aprimoração de cada item é informado na [Engenharia](../scienceRecipes/engineering.md).
 
@@ -30,7 +30,7 @@ Você pode realizar as seguintes ações com um infusor:
 **Carregar:** 1 ação. Você carrega uma das suas soluções no seu infusor.  
 **Absorver:** 1 ação. Você absorve um elemento químico do ambiente para seu infusor.  
 **Infundir:** 1 ação. Você infunde algum elemento químico em uma lâmina ou qualquer outro armamento de alcance adjacente. Armamento deve ser do tipo equipamento.  
-Armamentos infundidos causam 1d4 a mais do tipo do elemento por 2 turnos.
+Armamentos infundidos causam 1RF dano a mais do tipo do elemento por 2 turnos.
 
 Você pode absorver ou carregar os seguintes:
 
@@ -71,16 +71,7 @@ Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E.
 
 **Analisar Linguagem:** 1 ação. Através de uma análise da entonação, movimentação e maneirismos de uma criatura de linguagem desconhecida, você consegue formar uma base crua dela. Você entende de maneira geral o contexto da mensagem que a criatura está tentando lhe passar.
 
-Além disso o neurotransmissor lhe concede **1 AP para resistência mental (RM)**.
-
-## Suporte
-
-Equipamentos voltados ao suporte dos seus aliados, geralmente trazendo condições benéficas ou atendimento médico. Você pode utilizar apenas em criaturas orgânicas.
-
-| Equipamento         | Tempo de Aplicação | Resultado                                                                                  |
-| ------------------- | ------------------ | ------------------------------------------------------------------------------------------ |
-| Kit Médico Simples  | 10 min.            | Retira Morte, retira Dano Persistente, cura VDA Cérebro + Nível de HP                      |
-| Kit Médico Avançado | 10 min.            | Retira Morte, retira Dano Persistente, neutraliza venenos, cura 2VDA Cérebro + Nível de HP |
+Além disso o neurotransmissor lhe concede **1 AP de resistência mental (RM)**.
 
 ## Utilidade Geral
 

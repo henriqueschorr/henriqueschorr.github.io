@@ -2,7 +2,7 @@ Abaixo você encontra regras gerais sobre perigos e outras situações que podem
 
 ## Queda
 
-- Você sofre 1d6 de dano de concussão para cada 3 metros de queda
+- Você sofre 1RF dano concussão para cada 3 metros de queda
 
 ## Impacto 
 

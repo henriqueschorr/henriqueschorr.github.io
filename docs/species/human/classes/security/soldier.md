@@ -72,9 +72,8 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 **Alcance:** Alcance efetivo do armamento  
 A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornando-o mais certeiro.
 
-- Adicione 1RDA ao dano causado com fuzil de precisão.
-- Seus ataques ganham [Perfuração](../../../../rules/tags/weaponEquipment.md#perfuração).
-- Seus ataques são passível de Explosão de Dano.
+- Adicione 1RF ao dano causado com fuzil de precisão.
+- Seus ataques ganham [Penetração](../../../../rules/tags/weaponEquipment.md#penetração).
 
 **Combo**  
 _Gatilho: Criatura tem Ponto Fraco exposto._  
@@ -106,9 +105,8 @@ _Habilidade (Interagir - Equipamento)_ \| _Controle, Energia, Utilidade_
 **Alcance:** Alcance efetivo do armamento  
 A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornando-o mais certeiro. você também acerta partes sensíveis do corpo de uma criatura, podendo causar aflições, se possível.
 
-- Adicione 1RDA ao dano causado com fuzil de precisão.
-- Divida o dano igualmente entre AP e HP do alvo caso seja possível.
-- Ataques até o fim do efeito desta habilidade são passível de Explosão de Dano.
+- Adicione 1RF ao dano causado com fuzil de precisão.
+- Seus ataques ganham [Penetração](../../../../rules/tags/weaponEquipment.md#penetração).
 - No seu primeiro ataque durante esta habilidade, aplique uma das 3 aflições abaixo, a sua escolha:
     - Caído: Check Físico ou Agilidade.
     - Debilitado 1: Check Físico.
@@ -157,11 +155,11 @@ _Habilidade (Interagir - Equipamento)_ \| _Defensivo, Energia, Utilidade_
 **Alvo:** Si  
 A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frente, ela move junto com você. A barricada lhe protege de ataques a distância e potencializa seus tiros.
 
-- Ataques a distância contra você são desacelerados e causam metade do dano.
+- Ataques a distância contra você são desacelerados e causam 1RF a menos.
     - Somente para ataques que causam dano Corte, Perfuração ou Concussão.
     - Somente se o ataque vem da sua frente.
 - Seus projéteis são carregados por energia no momento que passam pela barricada.
-    - Adicione 1d4 de dano de Energia para seus ataques a distância.
+    - Adicione 1RF dano Energia para seus ataques a distância.
 
 ### Tiro Marcador (5) :fast_forward:
 

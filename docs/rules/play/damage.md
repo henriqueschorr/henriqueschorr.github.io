@@ -2,7 +2,21 @@ Ao longo da aventura você se encontrará diante de criaturas hostis onde o comb
 
 ## Dano
 
-Todo dano é causado em alguma das resistências, RF ou RM, ou diretamente em sua EN. Você pode possuir pontos de AP em RF ou RM, barrando assim uma certa quantidade de dano antes dele ser subtraído de suas resistências.
+Todo dano é causado em alguma das resistências, física (RF) ou mental (RM), ou diretamente em sua EN. Se você possui AP para uma ou ambas resistência, o dano é primeiramente subtraído do AP, a não ser que alguma situação diga o contrário.  
+Seus armamentos geralmente possuirão dano físico, mas você causará mais dano assim que alcançar alguns valores em suas aptidões. Esse dano extra vale apenas para os armamentos que se utilizam desta aptidão para realizar o check de ataque.
+
+_**Exemplo:**Mari'Jonna possui 80 pontos em Físico e 60 pontos em Controle._
+
+- _Ela resolve fazer um ataque a distância, que utiliza a aptidão de controle._
+- _Seu ataque causa 1RF de dano.
+- _Mari'Jonna adiciona 1RF de dano extra, pois seu ataque considera os 60 pontos em controle._
+- _O dano total do ataque será 2RF._
+
+| Valor | Dano Adicional |
+| ----- | -------------- |
+| 60    | +1             |
+| 80    | +1             |
+| 100   | +1             |
 
 ## Dano Múltiplo
 
@@ -52,11 +66,11 @@ No universo há diversos tipos de armamentos e habilidades diferentes, o tipo de
 | Concussão    | Dano Dobrado se AP         | Broto: Punhos, Braços-Tentáculos   |
 | Corrosivo    | Dano Dobrado               | Florescer, Infectar                |
 | Corte        | Dano Dobrado se não AP     | Lâmina Retrátil, Pétalas de Sangue |
-| Energia      | Incapacitado 2             | Lâmina de Energia                  |
-| Fogo         | Dano Persistente 2         | Granada Termobárica                |
+| Energia      | Desconectado 2             | Lâmina de Energia                  |
+| Fogo         | Dano Persistente (RF) 2    | Granada Termobárica                |
 | Gelo         | Limitado 2                 | Mina de Congelamento               |
 | Neural       | Incapacitado 2             | Palavra Final, Sonhos e Pesadelos  |
 | Perfuração   | Penetração                 | Pistola, Broto: Espinhos           |
-| Radiação     | Dano Persistente 2         | Objetos radioativos, espaço        |
+| Radiação     | Dano Persistente (RF) 2    | Objetos radioativos, espaço        |
 | Sensorial    | Inapto 2                   | Granada de Luz                     |
 | Veneno       | Descrito no fator causador | Glândula de Veneno                 |

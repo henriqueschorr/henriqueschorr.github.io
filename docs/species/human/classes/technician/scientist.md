@@ -69,7 +69,7 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 A.N.E faz com que seus dardos lançados saem com extrema velocidade de rotação, aumentando seu alcance e ignorando armaduras.
 
 - Seu lançador de dardos tem alcance aumentado para 20m.
-- Seu lançador de dardos ignora AP, acertando HP diretamente.
+- Seu lançador de dardos ignora AP, acertando RF diretamente.
 
 ### Infusor de Projétil (2) :arrow_forward:
 
@@ -103,7 +103,7 @@ A.N.E faz com que seu infusor seja capaz de infundir armaduras do tipo equipamen
 - Escolha uma armadura do tipo equipamento ou um construto para ser o alvo.
 - Caso você escolha um aliado:
     - Todas as criaturas adjacentes ao aliado recebem dano do efeito de infusão.
-    - Aliado ganha Resistência ao tipo de dano.
+    - Aliado ganha Resistência 2 ao tipo de dano.
 - Caso você escolha um inimigo:
     - O inimigo recebe dano do efeito de infusão.
 
@@ -178,11 +178,12 @@ A.N.E faz com que seu infusor consuma até 4 tipos de elementos do ambiente ou d
 - Uma explosão elemental ocorre consecutivamente para cada elemento na área de escolha.
 - Cada explosão é considerada um ataque e acerta automaticamente.
     - Criaturas na área de efeito podem Esquivar mas <ins>não</ins> Defender este ataque.
-        - Sucesso: recebem apenas metade do dano.
+        - Sucesso: recebem 2RF de dano a menos.
         - Sucesso crítico: não recebem dano algum.
         - Falha: recebem dano total.
         - Falha crítica: recebem o efeito crítico do último elemento liberado.
-- Cada explosão elemental causa 1VDA Controle + 1RDA Cérebro + Nível de dano do tipo do elemento liberado.
+- Cada explosão elemental causa 1RF dano do tipo do elemento liberado.
+- Este ataque considera a regra de dano extra: aptidão atrelada é Cérebro.
 
 **Combo**  
 _Gatilho: Aliado cria ou provoca de alguma forma algum dos 4 elementos no ambiente._  

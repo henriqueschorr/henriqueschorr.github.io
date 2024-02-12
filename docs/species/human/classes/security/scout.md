@@ -4,7 +4,7 @@ Esta é a Especialização ideal para quem gosta de se esgueirar pelas linhas in
 
 ## Passiva: Golpe Letal
 
-Qualquer ataque do Batedor é passível da mecânica de Explosão de Dano.
+Sucessos críticos em checks de ataque causam Explosão de Dano.
 
 ## Equipamento Inicial
 
