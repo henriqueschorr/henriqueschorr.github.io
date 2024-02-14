@@ -110,4 +110,4 @@ Ao usar o tiro aberto da pistola cinética, inimigos em uma área de 6m devem fa
 
 ### Planador de Combate: Controle Remoto
 
-Piloto consegue controlar remotamente o planador de combate, podendo comandar ataques com os armamentos presentes nele. Trate-o como um [Parceiro](../../../rules/companion.md).
+Piloto consegue controlar remotamente o planador de combate, podendo comandar ataques com os armamentos presentes nele. Trate-o como um [Parceiro](../../../rules/partner.md).

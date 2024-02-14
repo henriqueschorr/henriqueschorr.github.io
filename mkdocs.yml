@@ -32,7 +32,7 @@ nav:
       - Inventário: character/inventory.md       
       - Aprimoramentos: character/upgrades.md
       - Nível: character/level.md
-      - Parceiro: character/companion.md
+      - Parceiro: character/partner.md
       - Transporte: character/transport.md
     - Regras:
       - rules/index.md        
@@ -78,7 +78,7 @@ nav:
         - Fenômenos Naturais: rules/ambiance/ambiance.md
         - Mecânicas Bases: rules/ambiance/mechanics.md
       - Criaturas: rules/creatures.md
-      - Parceiros: rules/companion.md
+      - Parceiros: rules/partner.md
       - Transporte: rules/transport.md
       - Marcadores:
         - rules/tags/index.md
@@ -108,7 +108,7 @@ nav:
         - species/human/equipment/index.md
         - Armamentos: species/human/equipment/weapons.md
         - Equipamentos: species/human/equipment/equipments.md
-      - Parceiros: species/human/companion.md
+      - Parceiros: species/human/partner.md
       - Ciência Receitas:
         - species/human/scienceRecipes/index.md
         - Química: species/human/scienceRecipes/chemistry.md

@@ -50,5 +50,5 @@ Apresenta os aprimoramentos que você adquiriu ao decorrer dos níveis.
 [Nível](./level.md)  
 Indica o nível, de 1 a 5, em que seu personagem se encontra.
 
-[Parceiro](./companion.md)
+[Parceiro](./partner.md)
 Apresenta regras sobre parceiros, que são criaturas, animais ou construtos que seu personagem possua e obedece seus comandos.

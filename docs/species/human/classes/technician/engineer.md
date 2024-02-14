@@ -4,7 +4,7 @@ Especializado em tarefas envolvendo as ciências de Química e Biologia, como po
 
 ## Equipamento Inicial
 
-[A.N.E. Média](../../../human/ane.md), [Espingarda](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Drone de Combate](../../companion.md#drone-de-combate), 1x [Forja Móvel](../../equipment/equipments.md#forja-móvel), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
+[A.N.E. Média](../../../human/ane.md), [Espingarda](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Drone de Combate](../../partner.md#drone-de-combate), 1x [Forja Móvel](../../equipment/equipments.md#forja-móvel), 20x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).
 
 ## Ciência: Receitas
 
@@ -20,7 +20,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Drone de Combate
 
-O [Drone de Combate](../../companion.md#drone-de-combate) é um construto parceiro e aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. Para mais informações sobre parceiros, visite o capítulo [Parceiros](../../../../rules/companion.md).  
+O [Drone de Combate](../../partner.md#drone-de-combate) é um construto parceiro e aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. Para mais informações sobre parceiros, visite o capítulo [Parceiros](../../../../rules/partner.md).  
 Considere sua aptidão de Cérebro para fins de dano extra.
 
 #### Checks

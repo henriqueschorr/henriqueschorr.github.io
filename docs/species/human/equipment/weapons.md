@@ -17,7 +17,7 @@ Armas de fogo são armamentos que necessitam de alguma forma de combustão ou ex
 
 | Nome              | Dano           | Alcance     | Capacidade | Marcadores                                           |
 | ----------------- | -------------- | ----------- | :--------: | ---------------------------------------------------- |
-| Espingarda        | 2RF perfuração | 10m (50m)   |     12     | 2-mão, Munição (Comum), Penetração (10m), Recarregar |
+| Espingarda        | 2RF perfuração | 10m (50m)   |     4      | 2-mão, Munição (Comum), Penetração (10m), Recarregar |
 | Fuzil de Assalto  | 1RF perfuração | 300m (600m) |     30     | 2-mão, Contínuo, Munição (Comum), Recarregar         |
 | Fuzil de Precisão | 2RF perfuração | 500m (1km)  |     2      | 2-mão, Munição (Avançada), Recarregar                |
 | Pistola           | 1RF perfuração | 50m (300m)  |     12     | Munição (Comum), Recarregar                          |
