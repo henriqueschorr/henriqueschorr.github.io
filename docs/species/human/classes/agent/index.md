@@ -8,8 +8,8 @@ Classe composta por agentes gerais, que efetuam papéis mais voltados ao funcion
 
 Abaixo você encontra informações gerais sobre cada especialização desta classe.
 
-| Especialização | Aptidões                  | Competências              | RF + AP | RM + AP |
+| Especialização | Aptidões                  | Competências              | RF      | RM      |
 | -------------- | ------------------------- | ------------------------- | ------- | ------- |
-| Capitão        | Atenção, Influência       | Interação, Busca, Combate | 2 + 1   | 2 + 1   |
-| Piloto         | Controle, Agilidade       | Condução, Combate         | 2 + 1   | 2       |
-| Chef           | Físico, Controle, Atenção | Combate, Busca            | 2 + 2   | 2       |
+| Capitão        | Atenção, Influência       | Interação, Busca, Combate | 1AP 2RF | 1AP 2RM |
+| Piloto         | Controle, Agilidade       | Condução, Combate         | 1AP 2RF | 2RM     |
+| Chef           | Físico, Controle, Atenção | Combate, Busca            | 2AP 2RF | 2RM     |

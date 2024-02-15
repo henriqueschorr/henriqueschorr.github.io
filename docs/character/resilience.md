@@ -1,10 +1,10 @@
 Resiliência representa um conjunto de características que identificam o quanto seu personagem consegue suportar de punição e o quanto ele é capaz de realizar Habilidades.
 
-## Resistência Física (RF)
+## Resiliência Física (RF)
 Pontos Físicos representam o quanto seu corpo pode sofrer de dano antes de ficar inconsciente ou morrer. Sua espécie define quantos pontos físicos você começa no nível 1. Você pode receber pontos adicionais através de aprimoramentos ou do seu AD de aptidão Físico.  
 **Adicional AD Físico:** VAD Físico / 3. Arredonde para baixo.
 
-## Resistência Mental (RM)
+## Resiliência Mental (RM)
 Pontos Mentais representam o quanto seu sistema nervoso, sua mente, ou ainda seu circuito eletrônico pode sofrer até você ficar inconsciente ou morrer. Sua espécie define quantos pontos mentais você começa no nível 1. Você pode receber pontos adicionais através de aprimoramentos ou do seu AD de aptidão Cérebro.  
 **Adicional AD Cérebro:** VAD Cérebro / 3. Arredonde para baixo.
 

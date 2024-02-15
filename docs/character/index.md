@@ -4,7 +4,7 @@ title: Personagem
 
 ![Personagem](../images/character.jpg){ width="300", align="right" }
 
-O primeiro passo para você começar a jogar Beyond the Horizon é criar o seu Personagem. Seu personagem seguirá uma arquitetura básica de Atributos, Ações, Reações e outras diversas características. A construção varia bastante de espécie para espécie, esta que define os valores iniciais de seus atributos, Resistência Física (RF), Resistência Mental (RM), Energia (EN), Aprimoramentos, Habilidades, e outros detalhes.  
+O primeiro passo para você começar a jogar Beyond the Horizon é criar o seu Personagem. Seu personagem seguirá uma arquitetura básica de Atributos, Ações, Reações e outras diversas características. A construção varia bastante de espécie para espécie, esta que define os valores iniciais de seus atributos, Resiliência Física (RF), Resiliência Mental (RM), Energia (EN), Aprimoramentos, Habilidades, e outros detalhes.  
 Seus atributos são compostos por 6 Aptidões e 7 Competências. Suas aptidões são: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Além do valor atribuído a cada aptidão, você também possuíra um Dado de Aptidão (AD) para cada.   
 Suas competências são: Combate, Infiltração, Mobilidade, Busca, Ciência, Interação e Condução. Para ver quais outras características compõem seu personagem, veja no capítulo próprio.  
 

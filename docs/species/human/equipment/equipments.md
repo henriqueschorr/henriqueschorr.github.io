@@ -71,7 +71,7 @@ Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E.
 
 **Analisar Linguagem:** 1 ação. Através de uma análise da entonação, movimentação e maneirismos de uma criatura de linguagem desconhecida, você consegue formar uma base crua dela. Você entende de maneira geral o contexto da mensagem que a criatura está tentando lhe passar.
 
-Além disso o neurotransmissor lhe concede **1 AP de resistência mental (RM)**.
+Além disso o neurotransmissor lhe concede **1 AP de Resiliência Mental (RM)**.
 
 ## Geral
 
