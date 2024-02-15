@@ -13,11 +13,13 @@ A.N.E. se estende aos seus armamentos e equipamentos, melhorando-os e dando fun�
 _Equipamento_
 
 **Pontos de Armadura (AP)**  
-Os pontos de armadura da A.N.E. são concedidos a Resiliência Física (RF).
+Os pontos de armadura da A.N.E. são concedidos a Resiliência Física (RF).  
 Leve: 1   
 Média: 2  
 Média-Pesada: 3  
 Pesada: 5    
+
+Técnicos recebem 1AP em Resiliência Mental (RM).
 
 **Resistências**  
 Radiação  
