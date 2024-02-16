@@ -21,7 +21,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 ## Drone de Combate
 
 O [Drone de Combate](../../partner.md#drone-de-combate) é um construto parceiro e aliado seu e que obedece somente a você. Ele nunca age por conta própria, mas você pode comandá-lo a fazer uma ação geral e ele irá fazê-la até que concluca ou não seja mais possível. Para mais informações sobre parceiros, visite o capítulo [Parceiros](../../../../rules/partner.md).  
-Considere sua aptidão de Cérebro para fins de dano extra.
+Considere sua aptidão de Cérebro para fins de dano extra e adicional.
 
 #### Checks
 Todo e qualquer check que seu drone precisar fazer, seja ele para esquivar, atacar, resistir a algum efeito, etc, é realizado por você, a capacidade de sucesso dele é determinada pelo quão bem você o construiu e programou. Caso seja necessário um check de competência, você usa Ciência. As aptidões relacionadas as ações do seu drone são a de Cérebro e Controle, a sua escolha. 
@@ -103,8 +103,8 @@ A.N.E transforma a energia do drone em projéteis de laser, causando dano de ene
 
 - O armamento do drone dispara lasers em vez da munição normal.
 - Drone não consome munição.
-- Os ataques do drone causam 1RM dano a mais.
-- O dano total é convertido para o tipo energia.
+- Os ataques do drone causam 1RM dano extra.
+- O tipo do dano é convertido para o tipo energia.
 
 ### Resiliência (3, 5)
 Você recebe 1RF e 1RM a mais.

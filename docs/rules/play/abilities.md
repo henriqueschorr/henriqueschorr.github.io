@@ -77,7 +77,6 @@ _Marcadores_
 **Alvo:** Alvo da habilidade  
 **Alcance:** Alcance efetivo  
 **Área de Efeito:** Área de efeito  
-**Dano ou Dano Extra:** Dano ou dano extra
 Descrição sobre a habilidade.
 
 - Passo 1 da habilidade.

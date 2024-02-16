@@ -9,7 +9,7 @@ Mobilidade e velocidade no campo de batalha. Usa de seu Planador de Combate para
 ## Planador de Combate
 
 O [Planador de Combate](../../transports/flying.md#planador-de-combate) é um veículo e equipamento que só você tem conhecimento de como utilizá-lo. Você pode atacar usando os armamentos presentes no planador.  
-Considere sua aptidão de Controle para fins de dano extra.
+Considere sua aptidão de Controle para fins de dano extra ou adicional.
 
 #### Checks
 Todo e qualquer check que você for fazer com seu planador, inclusive caso você ataque usando os armamentos dele, são realizados com Condução & Controle, a não ser que algum efeito específico diga o contrário. Ataques com armas de mão são realizados normalmente, ignorando essa regra.
@@ -68,7 +68,7 @@ A.N.E. reestrutura seu planador e faz com que ele dispare a quantidade de muniç
 - O ataque é disparado logo abaixo de você e seu planador.
 - Criaturas na área de efeito podem Esquivar e Defender este ataque.
 - Para cada 10 munições disparadas:
-    - Criaturas na área de efeito recebem 2RF dano perfuração caso não desviem e 1RF dano perfuração caso desviem.
+    - Criaturas na área de efeito recebem 3RF dano perfuração caso não desviem e 1RF dano perfuração caso desviem.
 
 ### Madíbula (2) :arrow_forward:
 
@@ -102,7 +102,7 @@ A.N.E. reestrutura seu planador e faz com que ele dispare até 2 explosivos ou a
 - O ataque é disparado logo abaixo de você e seu planador.
 - Criaturas na área de efeito podem Esquivar e Defender este ataque, porém ainda são pegas pelos explosivos/armadilhas.
 - Para cada 10 munições disparadas:
-    - Criaturas na área de efeito recebem 2RF dano perfuração caso não desviem e 1RF dano perfuração caso desviem.
+    - Criaturas na área de efeito recebem 3RF dano perfuração caso não desviem e 1RF dano perfuração caso desviem.
 - Ao final do disparo dos projéteis, os explosivos/armadilhas são automaticamente acionados.
 
 **Combo**  
@@ -176,7 +176,7 @@ A.N.E. desmonta seu planador e o integra junto a sua armadura, tornando você, A
 - As seguintes habilidades são modificadas:
     - Rastro de Sangue: +2 alvos.
     - Chuva Balística e Chuva Explosiva: Você pode usar essa habilidade diretamente na sua frente em vez de abaixo.
-    - Giro Mortal: As lâminas giram em torno do seu braço parecendo uma furadeira, o tipo de dano se torna perfuração e o ataque tem [Penetração](../../../../rules/play/damage.md#penetração).
+    - Giro Mortal: As lâminas giram em torno do seu braço parecendo uma furadeira, o tipo de dano se torna perfuração e o ataque tem [Penetração](../../../../rules/play/damage.md#penetração) e [Explosão de Dano](../../../../rules/play/damage.md#explosão-de-dano). Você acerta apenas um alvo.
     - Abdução: Você pode jogar o alvo longe ao custo de 1 ação, siga as regras de [impacto](../../../../rules/ambiance/mechanics.md#impacto).
 
 ### Canhão Yamato (5) :arrows_counterclockwise: :large_orange_diamond:

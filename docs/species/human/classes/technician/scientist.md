@@ -181,12 +181,12 @@ A.N.E faz com que seu infusor consuma até 4 tipos de elementos do ambiente ou d
 - Uma explosão elemental ocorre consecutivamente para cada elemento na área de escolha.
 - Cada explosão é considerada um ataque e acerta automaticamente.
     - Criaturas na área de efeito podem Esquivar mas <ins>não</ins> Defender este ataque.
-        - Sucesso: recebem 2RF de dano a menos.
+        - Sucesso: recebe metade do dano total, no mínimo 1.
         - Sucesso crítico: não recebem dano algum.
         - Falha: recebem dano total.
         - Falha crítica: recebem o efeito crítico do último elemento liberado.
-- Cada explosão elemental causa 1RF dano do tipo do elemento liberado.
-- Este ataque considera a regra de dano extra: aptidão atrelada é Cérebro.
+- Cada explosão elemental causa 2RF dano do tipo do elemento liberado.
+- Este ataque considera a regra de [dano adicional da aptião de cérebro](../../../../rules/play/damage.md#dano-adicional-por-aptidão).
 
 **Combo**  
 _Gatilho: Aliado cria ou provoca de alguma forma algum dos 4 elementos no ambiente._  

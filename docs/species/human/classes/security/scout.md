@@ -4,7 +4,7 @@ Esta é a Especialização ideal para quem gosta de se esgueirar pelas linhas in
 
 ## Passiva: Golpe Letal
 
-Sucessos críticos em checks de ataque causam Explosão de Dano.
+Sucessos críticos em checks de ataque causam [Explosão de Dano](../../../../rules/play/damage.md#explosão-de-dano).
 
 ## Equipamento Inicial
 
@@ -68,7 +68,7 @@ _Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_
 A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do impacto, criando uma área que consome e anula qualquer som até o fim da duração desta habilidade.
 
 - Faça um ataque com seu arco composto contra o alvo.
-- Adicione 1RF dano Energia ao ataque.
+- Adicione 1RF dano energia extra ao ataque.
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
 - Criatura alvo pode Esquivar e Defender, mas ainda sofre o efeito deste ataque.
 
@@ -82,7 +82,7 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 **Alvo:** Lâmina Fragmento
 A.N.E. energiza sua lâmina fragmento, causando dano elétrico extra nos seus ataques.
 
-- Adicione 1RF dano Energia aos seus ataques com a lâmina fragmento.
+- Adicione 1RF dano energia extra aos seus ataques com a lâmina fragmento.
 
 ### Resiliência (3, 5)
 Você recebe 1RF e 1RM a mais.
@@ -99,7 +99,7 @@ _Habilidade (Atacar)_ \| _Energia, Controle, Ofensivo_
 A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do impacto, criando uma área que consome e anula qualquer som até o fim da duração desta habilidade, além de atordoar a criatura atingida.
 
 - Faça um ataque com seu arco composto contra o alvo.
-- Adicione 1RF dano Energia ao seu ataque.
+- Adicione 1RF dano energia extra ao seu ataque.
 - Alvo atingido deve realizar um check Físico ou ficar Incapacitado
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
 - Criatura alvo pode Esquivar e Defender, mas ainda sofre o efeito deste ataque.
@@ -115,8 +115,8 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 **Alvo:** Lâmina Fragmento
 A.N.E. energiza sua lâmina fragmento, fazendo os fragmentos vibrarem numa alta frequência e também causando dano elétrico extra nos seus ataques.
 
-- Adicione 1RF dano Energia aos seus ataques com a lâmina fragmento.
-- Adicione 1RF dano Corte aos seus ataques com a lâmina fragmento.
+- Adicione 1RF dano energia extra aos seus ataques com a lâmina fragmento.
+- Adicione 1RF dano corte extra aos seus ataques com a lâmina fragmento.
 - Se você atingir o RF de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente (RF) (Sangramento) 2.
 
 **Combo**  
@@ -166,7 +166,7 @@ A.N.E. aumenta a tensão de força do seu arco composto e dispara uma flecha com
 
 - Faça um ataque com seu arco composto contra o alvo.
 - Criatura alvo pode Esquivar mas <ins>não</ins> Defender este ataque.
-- Este ataque tem dano dobrado.
+- Este ataque tem [Explosão de Dano](../../../../rules/play/damage.md#explosão-de-dano).
 - Este ataque tem [Penetração](../../../../rules/play/damage.md#penetração).
 - Caso o alvo seja uma estrutura:
     - O ataque atravessa a estrutura se ela tiver até 1m de espessura.

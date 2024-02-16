@@ -30,7 +30,7 @@ Você pode realizar as seguintes ações com um infusor:
 **Carregar:** 1 ação. Você carrega uma das suas soluções no seu infusor.  
 **Absorver:** 1 ação. Você absorve um elemento químico do ambiente para seu infusor.  
 **Infundir:** 1 ação. Você infunde algum elemento químico em uma lâmina ou qualquer outro armamento de alcance adjacente. Armamento deve ser do tipo equipamento.  
-Armamentos infundidos causam 1RF dano a mais do tipo do elemento por 2 turnos.
+Armamentos infundidos causam 1RF dano extra do tipo do elemento por 2 turnos.
 
 Você pode absorver ou carregar os seguintes:
 

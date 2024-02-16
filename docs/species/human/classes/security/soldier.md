@@ -72,7 +72,7 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 **Alcance:** Alcance efetivo do armamento  
 A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornando-o mais certeiro.
 
-- Adicione 1RF ao dano causado com fuzil de precisão.
+- Adicione 1RF ao dano extra causado com fuzil de precisão.
 - Seus ataques ganham [Penetração](../../../../rules/tags/weaponEquipment.md#penetração).
 
 **Combo**  
@@ -108,7 +108,7 @@ _Habilidade (Interagir - Equipamento)_ \| _Controle, Energia, Utilidade_
 **Alcance:** Alcance efetivo do armamento  
 A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornando-o mais certeiro. você também acerta partes sensíveis do corpo de uma criatura, podendo causar aflições, se possível.
 
-- Adicione 1RF ao dano causado com fuzil de precisão.
+- Adicione 1RF ao dano extra causado com fuzil de precisão.
 - Seus ataques ganham [Penetração](../../../../rules/tags/weaponEquipment.md#penetração).
 - No seu primeiro ataque durante esta habilidade, aplique uma das 3 aflições abaixo, a sua escolha:
     - Caído: Check Físico ou Agilidade.
@@ -162,7 +162,7 @@ A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frent
     - Somente para ataques que causam dano Corte, Perfuração ou Concussão.
     - Somente se o ataque vem da sua frente.
 - Seus projéteis são carregados por energia no momento que passam pela barricada.
-    - Adicione 1RF dano Energia para seus ataques a distância.
+    - Adicione 1RF dano energia extra para seus ataques a distância.
 
 ### Tiro Marcador (5) :fast_forward:
 

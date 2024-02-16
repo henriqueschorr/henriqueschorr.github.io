@@ -33,7 +33,8 @@ _**Exemplo:** Remella possui valor 50 em Combate e ataca novamente com seu arco 
 - *Por serem números iguais e abaixo do valor necessário (50), o ataque é um sucesso crítico.*  
 - *Por ser um ataque e o tipo de dano da flecha é perfuração, o inimigo recebe a aflição Dano Persistente.*
 
-Sucesso Crítico também acontece quando você tira 1 no d100. Se o check for para um ataque, este ataque também recebe [Dano Dobrado](./damage.md#dano-dobrado) além do efeito crítico do tipo de dano.
+### Super Sucesso Crítico
+Super Sucesso Crítico acontece quando você tira 1 no d100. Se o check for para um ataque, você dobra o <ins>dano total</ins> do ataque, inclusive danos extras.
 
 ### Falha Crítica
 Segue a mesma lógica do sucesso crítico, porém acontece quando o valor igual tirado é acima do valor necessário para sucesso, ou quando você tira 100 no d100. Efeitos extras acontecem somente se explícito na descrição ou caso o MU ache necessário a punição.

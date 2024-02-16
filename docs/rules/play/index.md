@@ -32,7 +32,7 @@ Apresenta detalhes e características de apresentação de habilidades, explican
 Apresenta as possibilidades de alcance e seus detalhes, também indica como funciona as áreas de efeito no board, sendo tiles ou hexes.
 
 [Dano](./damage.md)  
-Apresenta regras de como calcular o dano de seus ataques, além de regras especiais como dano múltiplo, explosão de dano, dano dobrado, ponto fraco e ao final, uma lista dos tipos de dano e seus efeitos críticos.
+Apresenta regras de como calcular o dano de seus ataques, além de regras especiais como dano múltiplo, explosão de dano, dano dobrado, penetração, ponto fraco e ao final, uma lista dos tipos de dano e seus efeitos críticos.
 
 [Combo](./combo.md)  
 Apresenta as regras de combo, habilidades especiais que seus personagem podem usar em conjunto a qualquer ao preço de pontos de combo. Também descreve o que é um gatilho.

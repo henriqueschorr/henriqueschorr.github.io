@@ -199,9 +199,8 @@ Você toma nota de tudo ao seu redor, ambiente, armadilhas, criaturas, etc. Voc�
 - Você diz 1 ação para cada aliado executar no mesmo momento.
   - A ação executada pelo aliado é Fácil.
 - No próximo turno de cada aliado, o aliado pode realizar uma das ações a sua escolha como Muito Fácil.
-- Todos os ataques dos aliados são passíveis de Explosão de Dano.
-- Todo o dano causado por um aliado causa 1RM dano neural a mais.
-- Toda cura causada por um aliado cura 1RM a mais.
+- Todo o dano causado por um aliado causa 1RM dano neural extra.
+- Toda cura realizada por um aliado cura 1RM a mais, mesmo que a cura fosse para RF.
 - Inimigos atingidos por você ou seus aliados ficam Debilitados 1.
 
 ### Palavra Final (5) :fast_forward:

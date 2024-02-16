@@ -2,15 +2,24 @@ Ao longo da aventura você se encontrará diante de criaturas hostis onde o comb
 
 ## Dano
 
-Todo dano é causado em alguma das resistências, física (RF) ou mental (RM), ou diretamente em sua EN. Se você possui AP para uma ou ambas resistência, o dano é primeiramente subtraído do AP, a não ser que alguma situação diga o contrário.  
-Seus armamentos geralmente possuirão dano físico, mas você causará mais dano assim que alcançar alguns valores em suas aptidões. Esse dano extra vale apenas para os armamentos que se utilizam desta aptidão para realizar o check de ataque.
+Todo dano é causado em alguma das resistências, física (RF) ou mental (RM), ou diretamente em sua EN. Se você possui AP para uma ou ambas resistências, o dano é primeiramente subtraído do AP, a não ser que alguma situação diga o contrário.  
+
+_**Exemplo:**Remella realiza um ataque de 3RF em uma criatura que possui 2AP:4RF._
+
+- _O dano total do ataque de Remella é 3RF._
+- _Como a criatura possui 2AP, 2 de dano será subtraído primeiramente de seu AP.
+- _O dano restante, que é 1, será subtraído diretamente do RF da criatura._
+- _Criatura possui 3RF restantes._
+
+## Dano Adicional por Aptidão
+Seus armamentos geralmente possuirão danos fixos, mas você causará mais dano assim que alcançar alguns valores em suas aptidões.  
+Tenha em mente que Dano Adicional é diferente de Dano Extra, e sim, dano adicional é considerado para a mecânica de Dano Dobrado.
 
 _**Exemplo:**Mari'Jonna possui 80 pontos em Físico e 60 pontos em Controle._
 
-- _Ela resolve fazer um ataque a distância, que utiliza a aptidão de controle._
-- _Seu ataque causa 1RF de dano.
-- _Mari'Jonna adiciona 1RF de dano extra, pois seu ataque considera os 60 pontos em controle._
-- _O dano total do ataque será 2RF._
+- _Ela resolve fazer um ataque a distância que causa 2RF._
+- _Seu ataque utiliza a aptidão de controle, que com o valor de 60, possui 1 de dano adicional._
+- _Seu ataque causa 3RF de dano._
 
 | Valor | Dano Adicional |
 | ----- | -------------- |
@@ -24,37 +33,66 @@ Alguns armamentos ou habilidades mais avançadas podem ter mais de um tipo de da
 
 ## Explosão de Dano
 
-A explosão de dano pode acontecer durante [Ações Surpresas](./situationalModifiers.md#ação-surpresa) ou caso algum armamento, habilidade ou outro efeito informa o mesmo.  
-Quando um ataque seu possui explosão de dano, você adiciona 1 de dano a resistência alvo (RF ou RM) ou EN.
+A explosão de dano pode acontecer durante [Ações Surpresas](./situationalModifiers.md#ação-surpresa) ou caso algum armamento, habilidade ou outro efeito informe o mesmo.  
+Quando um ataque seu possui explosão de dano, você causa 1RDA da aptitude usada no ataque como <ins>dano extra</ins>.  
+Caso você tire o valor máximo do seu RDA, você rola novamente e acrescenta ainda mais o valor como dano extra. Esse efeito pode se repetir infinitamente, até você tirar um valor que seja menor que seu valor máximo de RDA.  
 
-_**Exemplo:** Remella está em furtividade e decide atacar uma criatura, sendo assim, um ataque surpresa e possuindo explosão de dano_.
+_**Exemplo:** Remella está em furtividade e decide atacar uma criatura, sendo assim, um ataque surpresa que possui explosão de dano_.
 
 - _Remella ataca a distância com seu arco que tem dano base 2RF._
-- _Remella adiciona 1RF ao seu dano por possuir explosão de dano._
-- _Dano total: 3RF_
+- _Remella tem explosão de dano e tem 1d4 como seu RDA da aptitude de controle._
+- _Remella joga o dado e tira 4!_
+- _Sendo 4 o valor máximo de seu RDA, ele joga novamente, rolando agora um 2._
+- _Ao final das rolagens, Remella possui 6 de dano extra._
+- _Dano total: 8RF_
+
+### Múltiplas Instâncias de Explosão de Dano
+
+Múltiplas instâncias de Explosão de dano são somatórias, ou seja, se você tem explosão de dano por ataque surpresa e ponto fraco, você rola seu RDA no mínimo 2 vezes.
 
 ## Dano Dobrado
 
-Algumas situações, como tirar 1 no d100 do check de ataque, podem fazer seu ataque ter dano dobrado. Para dobrar o dano, você dobra o dano total do seu ataque.
+Algumas situações, como tirar acerto crítico em um ataque com dano corte, podem fazer seu ataque ter dano dobrado.   
+Para dobrar o dano, você dobra o dano total do seu ataque, menos fontes de <ins>dano extra</ins>.  
+Tenha em mente que fontes de <ins>dano adicional</ins> ainda são consideradas para o dano dobrado.  
 
-_**Exemplo:** Remella tira 1 no check do seu ataque, causando assim dano dobrado no inimigo._
+_**Exemplo 1:** Remella tira 33 no check do seu ataque com um armento que causa dano do tipo corte, causando assim dano dobrado no inimigo._
 
-- _Remella ataca a distância com seu arco que tem dano base 2PF._
-- _Como Remlla tirou 1 no check do seu ataque, seu dano é dobrado._
-- _Dano total: 4RF_
+- _Remella ataca a distância com seu arco que tem dano base 2RF._
+- _Dano total dobrado: 4RF_
 
-### Explosão de Dano x Dano Dobrado
+_**Exemplo 2:** Remella tira 33 no check do seu ataque com um armento que causa dano do tipo corte, causando assim dano dobrado no inimigo._
 
-Quando algum ataque é passível de ambos os bônus, explosão de dano ocorre após o dano dobrado, adicionando assim apenas 1 instância de dano a resistência alvo.
+- _Remella ataca a distância com seu arco que tem dano base 2RF._
+- _Remella tem 60 na aptidude de controle, concedendo assim 1 de dano adicional ao seu ataque.
+- _Dano com dano adiciona: 3RF._
+- _Dano total dobrado: 6RF_
 
-### Penetração
+_**Exemplo 2:** Remella tira 33 no check do seu ataque com um armento que causa dano do tipo corte, causando assim dano dobrado no inimigo._
 
-Ataques com penetração causam 1 dano extra no AP da restiência alvo (RF ou RM), caso a criatura possua AP.
+- _Remella ataca a distância com seu arco que tem dano base 2RF._
+- _Remella estava em furtividade e seu ataque é surpresa, possuindo assim Explosão de Dano._
+- _Explosão de dano lhe concede 1 de dano extra._
+- _Dano dobrado: 4RF_
+- _Dano total com dano extra: 5RF_
+
+### Múltiplas Instâncias de Dano Dobrado
+
+Múltiplas instâncias de dano dobrado <ins>não</ins> são somatórias.
+
+## Penetração
+
+Ataques com penetração causam 1 de dano extra no AP da resiliência alvo (RF ou RM), caso a criatura possua AP.
+
+### Múltiplas Instâncias de Penetração
+
+Múltiplas instâncias de penetração são somatórias. Você causa 1 de dano extra ao AP para cada instância de penetração.
 
 ## Ponto Fraco
 
 Criaturas ou você podem ter seus pontos fracos expostos através de alguma habilidade ou equipamento, como por exemplo a habilidade de Legenda: Orgânicos do humano cientista. Pontos fracos não precisam ser necessariamente especificados, pode ser um ponto fraco genérico qualquer.  
-Quando alguém ataca pela primeira vez uma criatura que tenha ponto fraco especificado, o dano é dobrado e possui explosão de dano. O ponto fraco "some" após a criatura sofrer o primeiro ataque e se torna indisponível pelas próximas 24 horas.
+Quando alguém ataca pela primeira vez uma criatura que tenha ponto fraco especificado, seu ataque tem Explosão de Dano.  
+O ponto fraco "some" após a criatura sofrer o primeiro ataque e se torna indisponível pelas próximas 24 horas.
 
 ## Tipos de dano
 
