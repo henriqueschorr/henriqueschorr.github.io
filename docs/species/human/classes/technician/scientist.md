@@ -106,7 +106,7 @@ A.N.E faz com que seu infusor seja capaz de infundir armaduras do tipo equipamen
 - Escolha uma armadura do tipo equipamento ou um construto para ser o alvo.
 - Caso você escolha um aliado:
     - Todas as criaturas adjacentes ao aliado recebem dano do efeito de infusão.
-    - Aliado ganha Resistência 2 ao tipo de dano.
+    - Aliado ganha Resistência 2 ao tipo de dano infudido.
 - Caso você escolha um inimigo:
     - O inimigo recebe dano do efeito de infusão.
 
@@ -157,7 +157,7 @@ A.N.E acelera a cadência do seu lançador de dardos e dispara 3 dardos.
 - Faça um ataque com seu lançador de dardos contra os alvos escolhidos. 
     - Acerto automático em caso de aliado.
 - Se o dardo acertar um aliado, ele recebe Acelerado 1.
-- Se o dardo acertar um inimigo, ele fica Confuso 1.
+- Se o dardo acertar um inimigo, ele fica Confuso 1 (Neural).
 
 ### Caos (5) :arrows_counterclockwise: :large_orange_diamond:
 

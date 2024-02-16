@@ -18,7 +18,7 @@ Parte do grupo de atributos do seu personagem. Identifica características físi
 Parte do grupo de atributos do seu personagem. Representa o quão bom você é para realizar ações.
 
 [Resiliência](./resilience.md)  
-Apresenta suas resistências (RF e RM), Pontos de Armadura (AP), Energia (EN) vulnerabilidades, resistência e imunidades.
+Apresenta suas resiliências físicas e mentais (RF e RM), Pontos de Armadura (AP), Energia (EN) vulnerabilidades, resistência e imunidades.
 
 [Anatomia](./anatomy.md)  
 Apresenta seu tamanho, sentidos, partes e sistemas do corpo.  

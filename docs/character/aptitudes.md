@@ -2,9 +2,9 @@ Você possui 5 aptidões, sendo elas definições de suas características físi
 
 ### Físico
 
-Força bruta, vigor e tenacidade. Físico representa força muscular e resistência. Quanto você pode levantar, carregar, golpear e quanta punição física pode suportar é determinado por esta aptidão. Indicado para quem deseja ser a linha de frente em um combate, encarando os inimigos cara a cara.  
+Força bruta, vigor e tenacidade. Físico representa força muscular e resiliência. Quanto você pode levantar, carregar, golpear e quanta punição física pode suportar é determinado por esta aptidão. Indicado para quem deseja ser a linha de frente em um combate, encarando os inimigos cara a cara.  
 **Checks:** Combate adjacente (corpo-a-corpo) com armas pesadas ou a distância (situacional), mover ou destruir objetos, saltar, resistir venenos ou outras punições ao corpo.  
-**Determina:** [Pontos Físicos (PF))](./resilience.md#pontos-físicos-pf) e [distância de salto](../rules/play/actions.md#mover).
+**Determina:** [Resiliência Física(RF))](./resilience.md#resiliência-física-rf) e [distância de salto](../rules/play/actions.md#mover).
 
 ### Agilidade
 
@@ -28,7 +28,7 @@ Atenção mede sua percepção geral e representa os sentidos, bem como o talent
 
 Cérebro indica inteligência, lógica, conhecimento. Também pode ser usado para determinar o quão boa é sua memória.  
 **Checks**: Resolver enigmas, cálculos, solucionar problemas, criar ou consertar algo que envolva engenharia, ou tecnologia, identificar algo novo, testes de memória.  
-**Determina**: [Pontos Mentais (PM)](./resilience.md#pontos-mentais-pm) e [Receitas](./scienceKnowledge.md#receitas).
+**Determina**: [Resiliência Mental](./resilience.md#resiliência-mental-rm) e [Receitas](./scienceKnowledge.md#receitas).
 
 ### Influência
 

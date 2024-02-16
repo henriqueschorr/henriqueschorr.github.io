@@ -31,7 +31,7 @@ Explosivos são armamentos que se utilizam de combustão ou energia para causar 
 | Granada de Atordoamento | 2RM neural           | Incapacitado 1 (Neural)        | Esfera 6m | Cérebro  |
 | Granada de Fragmentação | 4RF corte/perfuração | -                              | Esfera 6m | Esquivar |
 | Granada de Luz          | 1RM sensorial        | Inapto 1 (Visão)               | Esfera 8m | Atenção  |
-| Granada Termobarica     | 3RF fogo             | Dano Persistente (RF) (Fogo) 2 | Esfera 4m | Físico   |
+| Granada Termobarica     | 3RF fogo             | Dano Persistente 2 (RF) (Fogo) | Esfera 4m | Físico   |
 
 ## Armadilhas
 

@@ -2,16 +2,17 @@ Ao longo da aventura você se encontrará diante de criaturas hostis onde o comb
 
 ## Dano
 
-Todo dano é causado em alguma das resistências, física (RF) ou mental (RM), ou diretamente em sua EN. Se você possui AP para uma ou ambas resistências, o dano é primeiramente subtraído do AP, a não ser que alguma situação diga o contrário.  
+Todo dano é causado em alguma das resiliências, física (RF) ou mental (RM), ou diretamente em sua EN. Se você possui AP para uma ou ambas resiliências, o dano é primeiramente subtraído do AP, a não ser que alguma situação diga o contrário.
 
 _**Exemplo:**Remella realiza um ataque de 3RF em uma criatura que possui 2AP:4RF._
 
 - _O dano total do ataque de Remella é 3RF._
-- _Como a criatura possui 2AP, 2 de dano será subtraído primeiramente de seu AP.
+- \_Como a criatura possui 2AP, 2 de dano será subtraído primeiramente de seu AP.
 - _O dano restante, que é 1, será subtraído diretamente do RF da criatura._
 - _Criatura possui 3RF restantes._
 
 ## Dano Adicional por Aptidão
+
 Seus armamentos geralmente possuirão danos fixos, mas você causará mais dano assim que alcançar alguns valores em suas aptidões.  
 Tenha em mente que Dano Adicional é diferente de Dano Extra, e sim, dano adicional é considerado para a mecânica de Dano Dobrado.
 
@@ -35,7 +36,7 @@ Alguns armamentos ou habilidades mais avançadas podem ter mais de um tipo de da
 
 A explosão de dano pode acontecer durante [Ações Surpresas](./situationalModifiers.md#ação-surpresa) ou caso algum armamento, habilidade ou outro efeito informe o mesmo.  
 Quando um ataque seu possui explosão de dano, você causa 1RDA da aptitude usada no ataque como <ins>dano extra</ins>.  
-Caso você tire o valor máximo do seu RDA, você rola novamente e acrescenta ainda mais o valor como dano extra. Esse efeito pode se repetir infinitamente, até você tirar um valor que seja menor que seu valor máximo de RDA.  
+Caso você tire o valor máximo do seu RDA, você rola novamente e acrescenta ainda mais o valor como dano extra. Esse efeito pode se repetir infinitamente, até você tirar um valor que seja menor que seu valor máximo de RDA.
 
 _**Exemplo:** Remella está em furtividade e decide atacar uma criatura, sendo assim, um ataque surpresa que possui explosão de dano_.
 
@@ -52,9 +53,9 @@ Múltiplas instâncias de Explosão de dano são somatórias, ou seja, se você 
 
 ## Dano Dobrado
 
-Algumas situações, como tirar acerto crítico em um ataque com dano corte, podem fazer seu ataque ter dano dobrado.   
+Algumas situações, como tirar acerto crítico em um ataque com dano corte, podem fazer seu ataque ter dano dobrado.  
 Para dobrar o dano, você dobra o dano total do seu ataque, menos fontes de <ins>dano extra</ins>.  
-Tenha em mente que fontes de <ins>dano adicional</ins> ainda são consideradas para o dano dobrado.  
+Tenha em mente que fontes de <ins>dano adicional</ins> ainda são consideradas para o dano dobrado.
 
 _**Exemplo 1:** Remella tira 33 no check do seu ataque com um armento que causa dano do tipo corte, causando assim dano dobrado no inimigo._
 
@@ -64,7 +65,7 @@ _**Exemplo 1:** Remella tira 33 no check do seu ataque com um armento que causa 
 _**Exemplo 2:** Remella tira 33 no check do seu ataque com um armento que causa dano do tipo corte, causando assim dano dobrado no inimigo._
 
 - _Remella ataca a distância com seu arco que tem dano base 2RF._
-- _Remella tem 60 na aptidude de controle, concedendo assim 1 de dano adicional ao seu ataque.
+- \_Remella tem 60 na aptidude de controle, concedendo assim 1 de dano adicional ao seu ataque.
 - _Dano com dano adiciona: 3RF._
 - _Dano total dobrado: 6RF_
 
@@ -72,9 +73,9 @@ _**Exemplo 2:** Remella tira 33 no check do seu ataque com um armento que causa 
 
 - _Remella ataca a distância com seu arco que tem dano base 2RF._
 - _Remella estava em furtividade e seu ataque é surpresa, possuindo assim Explosão de Dano._
-- _Explosão de dano lhe concede 1 de dano extra._
+- _Ele rola seu RDA de controle e tira 3, possuindo assim 3 de dano extra da explosão de dano._
 - _Dano dobrado: 4RF_
-- _Dano total com dano extra: 5RF_
+- _Dano total com dano extra: 7RF_
 
 ### Múltiplas Instâncias de Dano Dobrado
 
@@ -98,17 +99,17 @@ O ponto fraco "some" após a criatura sofrer o primeiro ataque e se torna indisp
 
 No universo há diversos tipos de armamentos e habilidades diferentes, o tipo de dano aplicado não poderia ser diferente. Abaixo você encontra todos os tipos de dano e o efeito causado caso você tenha um Sucesso Crítico durante o ataque, além de alguns exemplos do que pode causar este dano.
 
-| Tipo de Dano | Efeito Crítico             | Exemplos                           |
-| ------------ | -------------------------- | ---------------------------------- |
-| Caos         | Descrito no fator causador | Armamentos produzidos com Solarium |
-| Concussão    | Dano Dobrado se AP         | Broto: Punhos, Braços-Tentáculos   |
-| Corrosivo    | Dano Dobrado               | Florescer, Infectar                |
-| Corte        | Dano Dobrado se não AP     | Lâmina Retrátil, Pétalas de Sangue |
-| Energia      | Desconectado 2             | Lâmina de Energia                  |
-| Fogo         | Dano Persistente (RF) 2    | Granada Termobárica                |
-| Gelo         | Limitado 2                 | Mina de Congelamento               |
-| Neural       | Incapacitado 2             | Palavra Final, Sonhos e Pesadelos  |
-| Perfuração   | Penetração                 | Pistola, Broto: Espinhos           |
-| Radiação     | Dano Persistente (RF) 2    | Objetos radioativos, espaço        |
-| Sensorial    | Inapto 2                   | Granada de Luz                     |
-| Veneno       | Descrito no fator causador | Glândula de Veneno                 |
+| Tipo de Dano | Efeito Crítico                     | Exemplos                           |
+| ------------ | ---------------------------------- | ---------------------------------- |
+| Caos         | Descrito no fator causador         | Armamentos produzidos com Solarium |
+| Concussão    | Dano Dobrado se AP                 | Broto: Punhos, Braços-Tentáculos   |
+| Corrosivo    | Dano Dobrado                       | Florescer, Infectar                |
+| Corte        | Dano Dobrado se não AP             | Lâmina Retrátil, Pétalas de Sangue |
+| Energia      | Desconectado 2                     | Lâmina de Energia                  |
+| Fogo         | Dano Persistente 2 (RF) (Fogo)     | Granada Termobárica                |
+| Gelo         | Limitado 2 (Corpo)                 | Mina de Congelamento               |
+| Neural       | Incapacitado 2 (Neural)            | Palavra Final, Sonhos e Pesadelos  |
+| Perfuração   | Penetração                         | Pistola, Broto: Espinhos           |
+| Radiação     | Dano Persistente 2 (RF) (Radiação) | Objetos radioativos, espaço        |
+| Sensorial    | Inapto 2 (Sentido)                 | Granada de Luz                     |
+| Veneno       | Descrito no fator causador         | Glândula de Veneno                 |

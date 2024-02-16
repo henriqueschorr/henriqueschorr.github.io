@@ -10,19 +10,19 @@ Atmosfera bem parecida com a da Terra, capaz de sustentar a maior parte da vida.
 
 Atmosfera mais espessa, com maior quantidade de composto químicos e pressão.
 
-- A partir de 1 hora você fica Debilitado.
-- A partir de 2 horas você fica Enjoado e Debilitado.
-- A partir de 3 horas você fica Enjoado e Inapto.
-- A partir de 5 horas você fica Incapacitado.
+- A partir de 1 hora você fica Debilitado (Corpo).
+- A partir de 2 horas você fica Enjoado e Debilitado (Corpo).
+- A partir de 3 horas você fica Enjoado e Inapto (Corpo).
+- A partir de 5 horas você fica Incapacitado (Corpo).
 
 ### Rarefeita
 
 Composição baixa de químicos essenciais para a vida.
 
-- A partir de 1 hora você fica Debilitado.
-- A partir de 2 horas você fica Limitado e Debilitado.
-- A partir de 3 horas você fica Limitado e Inapto.
-- A partir de 5 horas você fica Incapacitado.
+- A partir de 1 hora você fica Debilitado (Corpo).
+- A partir de 2 horas você fica Limitado (Corpo) e Debilitado (Corpo).
+- A partir de 3 horas você fica Limitado (Corpo) e Inapto (Corpo).
+- A partir de 5 horas você fica Incapacitado (Corpo).
 
 ### Tóxica
 

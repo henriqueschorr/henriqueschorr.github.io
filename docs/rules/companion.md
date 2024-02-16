@@ -20,9 +20,9 @@ Parceiros são apresentados da seguinte forma:
 _Marcadores_  
 **Aptidões:** Aptidões e seus valores caso possua.  
 **Competências:** Competências e seus valores caso possua.  
-**Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
 **RF:** Quantidade de RF.  
 **RM:** Quantidade de RM caso possua.  
+**Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
 **Tamanho:** Tamanho do parceiro.  
 **Sentidos:** Lista de sentidos.  
 **Movimento:** Lista de movimentos e velocidades.

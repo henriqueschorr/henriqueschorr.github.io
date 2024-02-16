@@ -192,7 +192,7 @@ A.N.E transforma seu drone em um potente imã, puxando qualquer metal na região
         - Jogue 1d10 para determinar a quantidade
     - Inclui armamentos do tipo equipamento e feitos de metal
         - Inimigos devem realizar um check físico ou controle. Falha: Desarmados
-- Drone recebe 1 AP para cada material integrado.
+- Drone recebe 1 AP:RF para cada material integrado.
 - Drone pode expelir os materiais integrados com uma enorme força (custo de 2 ações).
     - Esse ataque causa 1RF dano concussão para cada material expelido.
 - Ao final da duração dessa habilidade, os materiais são simplesmentes jogados no chão.
@@ -217,5 +217,5 @@ A.N.E cria um link entre seu drone e uma criatura do tipo construto ou dispositi
 - Este ataque acerta automaticamente e o alvo <ins>não</ins> pode Esquivar ou Defender.
 - Criatura alvo deve realizar um check Cérebro:
     - Sucesso: Recebe 2RM dano energia e fica Desconectado 2.
-    - Falha: Criatura fica Controlado 3 por você.
-        - Em qualquer momento, até o fim de Controlado, você pode comandar a criatura a ficar Incapacitado 2.
+    - Falha: Criatura fica Controlado 3 (Neural) por você.
+        - Em qualquer momento, até o fim de Controlado, você pode comandar a criatura a ficar Incapacitado 2 (Neural).

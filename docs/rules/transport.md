@@ -15,8 +15,8 @@ Transportes são apresentados da seguinte forma:
 _Tipo_ | _Marcadores (transporte e criatura caso montaria)_  
 **Aptidões:** Aptidões e seus valores caso possua.  
 **Competências:** Competências e seus valores caso possua.  
-**Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
 **RF:** Quantidade de RF.  
+**Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
 **Tamanho:** Tamanho do transporte.  
 **Sentidos:** Lista de sentidos.  
 **Movimento:** Lista de movimentos e velocidades.  

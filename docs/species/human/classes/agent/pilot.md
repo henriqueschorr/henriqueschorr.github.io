@@ -48,7 +48,7 @@ A.N.E. acelera seu Planador de Combate, fazendo-o voar rapidamente pelo campo de
 
 - Escolha até 1VAD Condução alvos.
 - Você passa voando por todos eles, faça um ataque com as lâminas do seu planador para cada alvo.
-    - Este ataque causa Dano Persistente (RF) (Sangramento) 1.
+    - Este ataque causa Dano Persistente 2 (RF) (Sangramento).
 - Criaturas alvos não podem usar reações contra você durante a movimentação e ataques desta habilidade.
 
 ### Aprimoramento de Aptidão (2)
@@ -169,7 +169,7 @@ _Habilidade (Interação - Equipamento)_ \| _Defensivo, Energia, Utilidade_
 A.N.E. desmonta seu planador e o integra junto a sua armadura, tornando você, A.N.E. e o planador, um.
 
 - Seu Movimento se torna o mesmo do planador.
-- Você recebe AP para RF igual ao do planador.
+- Você recebe AP:RF igual ao do planador.
     - Seu planador volta ao normal quando seu AP chega a 0.
 - Os propulsores do planador ficam em suas costas, enquanto as lâminas em um de seus braços e o armamento em outro.
 - Você usa as seguintes habilidades normalmente: Defletor e Mandíbula.
@@ -201,7 +201,7 @@ A.N.E. reorganiza a estrutura do seu planador, deixando o fino e com as lâminas
 - O alvo então é lançado a uma distância de 8m.
 - Caso o alvo esteja a uma distância de até 6m de uma estrutura, você o perfura e prende-o contra a estrutura. 
     - Ele está preso até você escolher soltar.
-    - Ele sofre Dano Persistente (RF) (Sangramento) 2.
+    - Ele sofre Dano Persistente 2 (RF) (Sangramento).
 
 **Combo**  
 _Gatilho: Criatura é empurrada próxima a estrutura ou aliado cria estrutura próxima a criatura._  

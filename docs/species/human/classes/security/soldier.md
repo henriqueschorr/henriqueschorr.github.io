@@ -112,7 +112,7 @@ A.N.E. aprimora temporariamente a estabilidade do seu fuzil de precisão, tornan
 - Seus ataques ganham [Penetração](../../../../rules/tags/weaponEquipment.md#penetração).
 - No seu primeiro ataque durante esta habilidade, aplique uma das 3 aflições abaixo, a sua escolha:
     - Caído: Check Físico ou Agilidade.
-    - Debilitado 1: Check Físico.
+    - Debilitado 1 (Corpo): Check Físico.
     - Desarmado: Check Físico ou Agilidade.
 
 **Combo**  

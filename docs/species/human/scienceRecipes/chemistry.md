@@ -48,7 +48,7 @@ Soluções elementais liberam elementos na área, causando dano no tipo do eleme
 | Gelo       | Toque   | 3x Material Químico | 2RF dano gelo para cada 3VAD Cérebro. Área esfera 4m.                                         |
 | Escorregão | Toque   | 3x Material Químico | Check Agilidade ou Caído. Área esfera 4m.                                                     |
 | Ácido      | Toque   | 3x Material Químico | 2RF dano corrosivo para cada 3VAD Cérebro. Área esfera 4m.                                    |
-| Parede     | Toque   | 3x Material Químico | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 AP de RF. |
+| Parede     | Toque   | 3x Material Químico | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 AP:RF. |
 
 ## Solução Avançada
 
@@ -62,8 +62,8 @@ Soluções avançadas necessitam de mais materiais, tempo e concentração para 
 | Ritalina         | Ingestão  | 4x Material Químico                        | Incentivado 2.                                                                                     |
 | Overclock        | Inalação  | 3x Material Químico, 2x Material Biológico | Acelerado 2.                                                                                       |
 | Eclipse          | Aplicação | 3x Material Químico, 2x Material Biológico | Incapacitado 2 (Sentidos).                                                                         |
-| Lobotomia        | Aplicação | 3x Material Químico, 2x Material Biológico | Check Cérebro. Falha: Dano Persistente (RM) (Neural) 2. Sucesso: Dano Persistente (RM) (Neural) 1. |
-| Asfalto          | Toque     | 2x Material Químico, 4x Material Biológico | Check Físico ou Preso 2. Inflamável: Dano Persistente (RF) (Fogo) 2. Área esfera 4m.               |
+| Lobotomia        | Aplicação | 3x Material Químico, 2x Material Biológico | Check Cérebro. Falha: Dano Persistente 2 (RM) (Neural). Sucesso: Dano Persistente 1 (RM) (Neural). |
+| Asfalto          | Toque     | 2x Material Químico, 4x Material Biológico | Check Físico ou Preso 2. Inflamável: Dano Persistente 2 (RF) (Fogo). Área esfera 4m.               |
 
 ## Solução Especial
 

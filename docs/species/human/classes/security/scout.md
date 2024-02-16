@@ -100,7 +100,7 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 
 - Faça um ataque com seu arco composto contra o alvo.
 - Adicione 1RF dano energia extra ao seu ataque.
-- Alvo atingido deve realizar um check Físico ou ficar Incapacitado
+- Alvo atingido deve realizar um check Físico ou ficar Incapacitado (Neural).
 - Todos numa área de 4m do impacto da flecha estão silenciados até a duração desta habilidade, mesmo que você erre o ataque.
 - Criatura alvo pode Esquivar e Defender, mas ainda sofre o efeito deste ataque.
 
@@ -117,7 +117,7 @@ A.N.E. energiza sua lâmina fragmento, fazendo os fragmentos vibrarem numa alta 
 
 - Adicione 1RF dano energia extra aos seus ataques com a lâmina fragmento.
 - Adicione 1RF dano corte extra aos seus ataques com a lâmina fragmento.
-- Se você atingir o RF de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente (RF) (Sangramento) 2.
+- Se você atingir o RF de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente 2 (RF) (Sangramento).
 
 **Combo**  
 _Gatilho: Aliado destrói AP de criatura adjacente a você._  

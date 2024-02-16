@@ -161,13 +161,13 @@ _Habilidade (Interagir - Social, Equipamento, Ajudar)_ \| _Energia, Suporte, Uti
 Você conecta seu cérebro aos seus demais aliados, podendo acessar informações sobre seu estado de saúde, e até menos acionar habilidades por eles.
 
 - Você sabe toda e qualquer informação de saúde de seus aliados
-  - RF, RM e EN
-  - Aflições e Benefícios
-  - Venenos, doenças e outros malfeitores que possam estar percorrendo seu corpo
+    - RF, RM e EN
+    - Aflições e Benefícios
+    - Venenos, doenças e outros malfeitores que possam estar percorrendo seu corpo
 - Você pode enviar um comando para o cérebro do aliado, fazendo-o utilizar alguma habilidade no momento, desde que esta tenha custo 1 em ação.
-  - O aliado deve permitir o acionamento da habilidade.
-    - O aliado não tem escolha caso esteja Incapacitado ou inconsciente.
-  - Caso a habilidade consuma algum recurso, seu aliado irá pagar o custo.
+    - O aliado deve permitir o acionamento da habilidade.
+        - O aliado não tem escolha caso esteja Incapacitado ou inconsciente.
+    - Caso a habilidade consuma algum recurso, seu aliado irá pagar o custo.
 
 ### Proteção Neural (4) :arrow_forward: :large_orange_diamond:
 
@@ -180,7 +180,7 @@ _Habilidade (Proteger)_ \| _Defensivo, Energia, Suporte_
 Você libera uma onda de energia que atua diretamente no cérebro de seus aliados, recuperando e protegendo-os de danos mentais.
 
 - Recupera 1RM seu e de todos seus aliados.
-- Garante Resistência (RM) 2.
+- Garante Resistência 2 (RM) de qualquer fonte de dano.
 
 **Combo**  
 _Gatilho: Aliado sofre da aflição Controlado._  
@@ -197,11 +197,11 @@ _Habilidade (Proteger)_ \| _Energia, Suporte, Utilidade_
 Você toma nota de tudo ao seu redor, ambiente, armadilhas, criaturas, etc. Você age e instrui seus aliados rapidamente, fazendo-os executar tarefas rapidamente e facilmente, além de deixar seus inimigos debilitados.
 
 - Você diz 1 ação para cada aliado executar no mesmo momento.
-  - A ação executada pelo aliado é Fácil.
+    - A ação executada pelo aliado é Fácil.
 - No próximo turno de cada aliado, o aliado pode realizar uma das ações a sua escolha como Muito Fácil.
 - Todo o dano causado por um aliado causa 1RM dano neural extra.
 - Toda cura realizada por um aliado cura 1RM a mais, mesmo que a cura fosse para RF.
-- Inimigos atingidos por você ou seus aliados ficam Debilitados 1.
+- Inimigos atingidos por você ou seus aliados ficam Debilitados 1 (Neural).
 
 ### Palavra Final (5) :fast_forward:
 
@@ -215,15 +215,15 @@ Você diz apenas uma palavra, esta palavra ecoa por toda a distância e se torna
 
 - Você deve escolher se quer afetar aliados, inimigos ou ambos.
 - Você fala uma das seguintes palavras:
-  - Parem.
-  - Paz.
-  - Caos.
-  - Morram.
+    - Parem.
+    - Paz.
+    - Caos.
+    - Morram.
 - Todos os alvos devem realizar um check Interação. Abaixo você vê uma descrição do que cada resultado do check causa.
 
 **Parem**.  
 Falha: Criatura afetada fica congelada no local em que estava quando esta habilidade foi usada, podendo apenas realizar ações relacionadas à comunicação.  
-Sucesso: Criatura fica Limitado 2.
+Sucesso: Criatura fica Limitado 2 (Neural).
 
 **Paz**.  
 Falha: Criatura afetada não possui desejo algum de causar atos maléficos contra outras criaturas, se tornando extremamente dócil e aberta a interações amigáveis.  
@@ -232,11 +232,11 @@ Caso a criatura tenha armamento do tipo natural, neste caso ela também é afeta
 
 **Caos**.  
 Falha: Criatura afetada se volta contra seus aliados e realiza ações hostis somente contra eles até o fim da duração desta habilidade.  
-Sucesso: Criatura afetada fica Confuso 2.
+Sucesso: Criatura afetada fica Confuso 2 (Neural).
 
 **Morram**.  
-Falha: Criatura afetada recebe Dano Persistente (RM) 2.  
-Sucesso: Criatura afetada fica Medo 2.
+Falha: Criatura afetada recebe Dano Persistente 2 (RM) (Neural).  
+Sucesso: Criatura afetada fica Medo 2 (Neural).
 
 ## Checkpoints
 
