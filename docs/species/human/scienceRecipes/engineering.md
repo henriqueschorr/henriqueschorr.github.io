@@ -15,7 +15,7 @@ Abaixo você encontra o que cada uma das colunas representa.
 
 ## Suporte
 
-Itens de suporte que você pode criar ou implementar e concedem bônus a você ou seus aliados.
+Itens de suporte que você pode criar ou implementar e concedem bônus a você ou seus aliados. Os itens descritos abaixo ocupam 1 espaço de inventário de equipamento cada.
 
 | Receita           | Alvo | Complexidade | Componentes | Efeito                                     |
 | ----------------- | ---- | ------------ | ----------- | ------------------------------------------ |
@@ -24,7 +24,9 @@ Itens de suporte que você pode criar ou implementar e concedem bônus a você o
 
 ## Armamentos e Munições
 
-Você pode fabricar munições, explosivos e armadilhas. A [complexidade](../../../rules/science/actions.md#construir-ou-criar) varia entre os itens.
+Você pode fabricar munições, explosivos e armadilhas. A [complexidade](../../../rules/science/actions.md#construir-ou-criar) varia entre os itens.  
+Munições ocupam espaço de munições de inventário de acordo com a tabela encontrada neste [link](../../../rules/inventory.md#munições).  
+Granadas e Minas ocupam 1 espaço de inventário de equipamento cada.
 
 | Receita                 | Complexidade | Componentes                                              | Quantidade |
 | ----------------------- | ------------ | -------------------------------------------------------- | :--------: |

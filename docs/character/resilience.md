@@ -26,9 +26,9 @@ Você recebe [Dano Dobrado](../rules/play/damage.md#dano-dobrado). Vulnerabilida
 Exemplo: Criatura com Vulnerabilidade Corte, sofre dano dobrado de qualquer fonte de dano Corte.
 
 ### Resistência
-Você recebe 1 a menos de dano do tipo de resistência que você possui. Resistência não altera o Efeito Crítico do tipo de dano. 
-Exemplo: Criatura com Resistência Fogo sofre 1 de dano a menos de qualquer fonte de dano Fogo, porém ainda sofre dano normal do Dano Persistente (Fogo).
+Você recebe metade do dano, arredondando para baixo, do tipo de resistência que você possui. Resistência não altera o Efeito Crítico do tipo de dano. 
+Exemplo: Criatura com Resistência Fogo sofre metade do dano de qualquer fonte de dano Fogo, porém ainda sofre dano normal do Dano Persistente (Fogo).
 
 ### Imunidade
 Você não sofre dano e também não é afetado pelo Efeito Crítico do tipo de dano.
-Exemplo: Criatura com Imunidade Perfuração não sofre dano de qualquer fonte de dano Perfuração e também é imune a condição Sangrando.
+Exemplo: Criatura com Imunidade Perfuração não sofre dano de qualquer fonte de dano Perfuração e também é imune a aflição Sangrando aplicada através do efeito crítico.

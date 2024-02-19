@@ -117,6 +117,7 @@ nav:
         - Engenharia: species/human/scienceRecipes/engineering.md
       - Transportes:
         - Aéreos, Espaciais e Flutuantes: species/human/transports/flying.md
+      - Loot: species/human/loot.md  
 #   - Hivers:
 #       - Introdução: species/hiver/introduction.md      
 #   - Symbions:

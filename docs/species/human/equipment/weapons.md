@@ -1,6 +1,6 @@
 Todos os armamentos dos humanos são equipamentos por padrão. Alguns armamentos podem ter funções extras além de apenas causar dano no inimigo, como no caso do lançador de dardos, que lança dardos infusores de solução.  
 Qualquer arma que tenha alcance diferente de adjacente usa automaticamente a aptidão de controle, a não ser que tenha o marcador Versátil, que então indicará qual outro atributo pode ser usado.  
-Qualquer armamento da lista abaixo ocupa 1 no espaço de inventário do seu personagem.
+Qualquer armamento da lista abaixo ocupa 1 espaço de inventário de equipamento do seu personagem.
 
 ## Armas Brancas
 

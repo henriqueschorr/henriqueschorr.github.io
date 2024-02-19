@@ -7,7 +7,7 @@ Humanos começam com todos os atributos (aptidões e competências) em 30 pontos
 ## Resiliência
 Abaixo você encontra informações sobre a resiliência dos humanos.
 
-### Resistências (RF e RM)
+### Resiliências (RF e RM)
 Humanos começam com 2RF e 2RM.
 
 ### Energia (EN)

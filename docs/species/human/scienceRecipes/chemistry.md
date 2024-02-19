@@ -1,5 +1,6 @@
 Abaixo você encontra todas as soluções que humanos podem produzir na área da química. Esta área é dominada pelos Cientistas, ainda mais possuindo seu laboratório móvel que os permite produzir as soluções em qualquer momento e local.  
-Todas os itens que indicarem RAD ou VAD, considere o RAD/VAD da pessoa que o produziu, a não ser que diga o contrário. Considere o RAD/VAD atual do personagem, mesmo que a solução tenha feito em níveis anteriores.
+Todas os itens que indicarem RAD ou VAD, considere o RAD/VAD da pessoa que o produziu, a não ser que diga o contrário. Considere o RAD/VAD atual do personagem, mesmo que a solução tenha feito em níveis anteriores.  
+Todos os itens descritos neste capítulo ocupam 1 espaço de inventário de equipamento cada.
 
 ### Leitura das Tabelas
 

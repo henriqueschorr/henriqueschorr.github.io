@@ -3,7 +3,7 @@ Todas os itens que indicarem RAD ou VAD, considere o RAD/VAD da pessoa que o pro
 
 ## Suporte
 
-Itens de suporte que você pode criar e são usados para curar, neutralizar ou garantir outros benefícios.
+Itens de suporte que você pode criar e são usados para curar, neutralizar ou garantir outros benefícios. Os itens descritos abaixo ocupam 1 espaço de inventário de equipamento cada.
 
 | Item                | Complexidade                                                  | Aplicação | Receita                        | Efeito                                                                        |
 | ------------------- | ------------------------------------------------------------- | --------- | ------------------------------ | ----------------------------------------------------------------------------- |
