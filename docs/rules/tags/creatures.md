@@ -21,6 +21,9 @@ Criaturas humanoid possuem estrutura física muito parecida com os humanos, ou s
 #### Insectoid
 Insectoid são criaturas iguais ou semelhantes aos insetos presentes na terra. Este marcador também identifica que a criatura é de natureza Orgânica.
 
+#### Furioso
+Uma criatura furiosa é extremament hostil, procurando sempre defender seu território, sua vida ou de outros através da violência. Uma criatura furiosa não fica morrendo quando chega a 0 RM, em vez disso ela entra em estado de fúria e fica Confusa. Mais detalhes no capítulo de [Morte](../play/death.md#morte-mental).
+
 #### Orgânico
 Criaturas orgânicas têm seu corpo feito por materiais orgânicos, como pele, ossos, carne, órgãos, etc.
 
