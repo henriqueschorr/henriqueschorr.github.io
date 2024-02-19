@@ -3,11 +3,14 @@ Marcadores de espécie ou criaturas identificam características físicas, biol�
 #### Construto
 Construto são criaturas que têm seu corpo inteiramente ou quase inteiramente feito por materiais inorgânicos, como por exemplo aço, madeira ou qualquer tipo de mineral.
 
+#### Construto-Energia
+Criatura é um construto que usa energia, elétrica ou parecida, como força de vida.
+
 #### Elemental
 Criaturas elementais são inteiramente feitas por um dos quatro tipos de elemento ou suas variações: terra, água, ar, fogo.
 
 #### Energia
-Criatura é um robô ou algum outro tipo de criatura que usa energia como força de vida.
+Criatura não-construto que usa energia, elétrica ou parecida, como força de vida.
 
 #### Fungo
 Fungo são criaturas que se assemelham aos fungos da terra, como por exemplo o mofo e cogumelos. Este marcador também identifica que a criatura é de natureza Orgânica.
@@ -20,6 +23,9 @@ Criaturas humanoid possuem estrutura física muito parecida com os humanos, ou s
 
 #### Insectoid
 Insectoid são criaturas iguais ou semelhantes aos insetos presentes na terra. Este marcador também identifica que a criatura é de natureza Orgânica.
+
+#### Furioso
+Uma criatura furiosa é extremament hostil, procurando sempre defender seu território, sua vida ou de outros através da violência. Uma criatura furiosa não fica morrendo quando chega a 0 RM, em vez disso ela entra em estado de fúria e fica Confusa. Mais detalhes no capítulo de [Morte](../play/death.md#morte-mental).
 
 #### Orgânico
 Criaturas orgânicas têm seu corpo feito por materiais orgânicos, como pele, ossos, carne, órgãos, etc.

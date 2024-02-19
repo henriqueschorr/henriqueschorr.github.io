@@ -7,7 +7,7 @@ O primeiro passo de um encontro é saber se você surpreendeu o inimigo. Você s
 Após definir e executar a rodada surpresa, caso ela aconteça, a Iniciativa é rolada para definir a ordem de turno durante uma rodada.
 
 ### Iniciativa
-A definição de Iniciativa se dá por uma rolagem de um d20 + VDA Atenção. Exemplificando, se você tem 1d6 de DA Atenção, sua Iniciativa se dá como a seguir: d20 + 6.  
+A definição de Iniciativa se dá por uma rolagem de um d20 + VAD Atenção. Exemplificando, se você tem 1d6 de DA Atenção, sua Iniciativa se dá como a seguir: d20 + 6.  
 A rodada então é definida do valor maior ao menor de iniciativa, onde os envolvidos com maior valor de Iniciativa agem primeiro.
 
 ## Turno

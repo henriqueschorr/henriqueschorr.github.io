@@ -17,7 +17,9 @@ Quase todo armamento com ataque a distância terá dois valores de alcance, o al
 ## Área de Efeito
 Ações, reações, habilidades, equipamentos ou armamentos podem causar dano e efeito em área. As áreas de efeito possíveis estão apresentadas abaixo.
 
-**Linha Reta**  
+**Linha Reta Vertical**  
+**Linha Reta Horizontal**  
 **Cone**  
 **Esfera**  
+**Círculo**
 

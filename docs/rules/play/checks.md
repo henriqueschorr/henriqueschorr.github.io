@@ -2,7 +2,7 @@ Quase sempre que você for realizar uma ação, reação ou habilidade, você se
 
 _**Exemplo:** Remella possui os seguintes valores de atributos:_  
 - _Aptitude - Controle: 40_  
-- _AD Controle: 1d4 (VAD = -4)_  
+- _AD Controle: 1d4 (VAD = 4)_  
 - _Competência - Combate: 50_  <BR><BR>
 _Ao avistar um inimigo, Remella atira com seu arco e flecha._  
 - _Por ser uma ação de ataque, a competência usada para o check será Combate._ 
@@ -29,11 +29,12 @@ Dependendo do valor tirado no check (d100), o resultado da sua ação pode ser c
 ### Sucesso Crítico
 Quando você tira números iguais no d100 e igual ou abaixo ao valor necessário, seu check é um sucesso crítico. Sucessos críticos podem ter efeitos adicionais, como por exemplo, durante um ataque, o tipo de dano da arma/habilidade causa efeitos adicionais. Mais informações na seção [Tipos de Dano](./damage.md#tipos-de-dano).
 
-***Exemplo:** Remella possui valor 50 em Combate e ataca novamente com seu arco um inimigo, tirando 33 no check.*  
+_**Exemplo:** Remella possui valor 50 em Combate e ataca novamente com seu arco um inimigo, tirando 33 no check._
 - *Por serem números iguais e abaixo do valor necessário (50), o ataque é um sucesso crítico.*  
 - *Por ser um ataque e o tipo de dano da flecha é perfuração, o inimigo recebe a aflição Dano Persistente.*
 
-Sucesso Crítico também acontece quando você tira 1 no d100. Se o check for para um ataque, este ataque também recebe [Dano Dobrado](./damage.md#dano-dobrado).
+### Super Sucesso Crítico
+Super Sucesso Crítico acontece quando você tira 1 no d100. Se o check for para um ataque, você dobra o <ins>dano total</ins> do ataque, inclusive danos extras.
 
 ### Falha Crítica
 Segue a mesma lógica do sucesso crítico, porém acontece quando o valor igual tirado é acima do valor necessário para sucesso, ou quando você tira 100 no d100. Efeitos extras acontecem somente se explícito na descrição ou caso o MU ache necessário a punição.
@@ -45,14 +46,14 @@ Fatores externos e condições podem influenciar como seu personagem realiza uma
 | ------------- | ---------- | ---------------------------- | ---------- | ----------- |
 | Desvantagem   | Check + 10 | Valor da aptidão/competência | Check - 10 | Vantagem    |
 
-***Exemplo 1:** Remella está em um terreno alto e atirando com seu arco em um inimigo. O fato de estar em terreno alto torna o check Fácil. Remella agora rola seu check (1d100) e antes de usar seu AD auxiliar, subtrai 10 do valor do check.*
+_**Exemplo 1:** Remella está em um terreno alto e atirando com seu arco em um inimigo. O fato de estar em terreno alto torna o check Fácil. Remella agora rola seu check (1d100) e antes de usar seu AD auxiliar, subtrai 10 do valor do check._
 
-***Exemplo 2:** Remella está numa ventania e tenta atirar com seu arco em um inimigo. A ventania torna este check Difícil. Remella agora rola seu check (1d100) e antes de usar seu AD auxiliar, adiciona 10 ao valor do check.*
+_**Exemplo 2:** Remella está numa ventania e tenta atirar com seu arco em um inimigo. A ventania torna este check Difícil. Remella agora rola seu check (1d100) e antes de usar seu AD auxiliar, adiciona 10 ao valor do check._
 
 ### Dificuldades Múltiplas
 Durante o jogo pode haver múltiplas condições e efeitos alterando a dificuldade de um check. 
 
-***Exemplo:** Remella está em terreno alto atirando com seu arco em um inimigo, tornando o check Fácil; porém Remella também está exausto, tornando o check Muito Difícil.*
+_**Exemplo:** Remella está em terreno alto atirando com seu arco em um inimigo, tornando o check Fácil; porém Remella também está exausto, tornando o check Muito Difícil._
 
 Então como será realizado o check acima? Abaixo você encontra as regras para realizar checks considerando múltiplas dificuldades.
 

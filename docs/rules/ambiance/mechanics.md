@@ -2,22 +2,20 @@ Abaixo você encontra regras gerais sobre perigos e outras situações que podem
 
 ## Queda
 
-- Você sofre 1d6 de dano de concussão para cada 3 metros de queda
+- Você sofre 1RF dano concussão para cada 3 metros de queda
 
 ## Impacto 
 
-Quando objetos ou criaturas caem em cima de você, você também sofre dano de impacto. O dano é baseado no tamanho do objeto/criatura e na distância percorrida.
+Quando objetos ou criaturas caem em cima de você, ou caso você seja lançado contra uma estrutura ou criatura, você também sofre dano de impacto. O dano é baseado no tamanho do objeto/criatura e na distância percorrida.
 
-- Divida o dano pela metade caso a distância seja menor que 10 metros
-- Dobre o dano caso a distância seja maior que 30 metros
+- Você sofre o valor de dano para cada 3 metros percorridos até o impacto.
+- Dobre o dano caso a distância seja maior que 30 metros.
 
 | Tamanho   | Dano |
 | --------- | ---- |
-| Minúsculo | 1d6  |
-| Pequeno   | 2d6  |
-| Médio     | 3d6  |
-| Grande    | 4d6  |
-| Gigante   | 6d6  |
-| Colossal  | 10d6 |
-
-
+| Minúsculo | 1RF  |
+| Pequeno   | 1RF  |
+| Médio     | 2RF  |
+| Grande    | 2RF  |
+| Gigante   | 5RF  |
+| Colossal  | 8RF  |

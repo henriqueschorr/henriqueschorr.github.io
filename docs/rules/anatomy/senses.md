@@ -18,8 +18,8 @@ Criaturas com paladar são capazes de sentir o gosto, sabor de algo que digere o
 ## Tato
 Criaturas com tato são capazes de, ao tocar algo com seu corpo, perceberem textura, temperatura, localização espacial de seu corpo e dor. Considere que criaturas com esse tipo de sentido possuem ela no mesmo nível ou bem próxima a dos humanos.
 
-### Senso de Tremor
-Criaturas com senso de tremor são capazes de, por meio da vibração do terreno que outras criaturas fazem ao se mover, ter conhecimento da localização delas.
+### Vibração
+Criatura consegue sentir em seu corpo a vibração do terreno e seu ambiente, conseguindo montar uma identificar movimentos e localização de criaturas.
 
 ### Eletrorecepção
 Criaturas com eletrorecepção são capazes de sentir impulsos elétricos e de energia presentes no ambiente.

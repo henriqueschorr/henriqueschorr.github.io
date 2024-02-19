@@ -21,8 +21,8 @@ Armamento/equipamento tem características especiais, estas estarão informadas.
 #### Munição
 Define o tipo de munição, projétil que o armamento/equipamento atira: Comum, Avançada, Míssil, Energia ou Químico.
 
-#### Perfuração
-Se uma criatura possui AP e HP, dano total é causado no AP e 50% de dano extra é causado no HP.
+#### Penetração
+Indica que o equipamento causa [Penetração](../play/damage.md#penetração) em todos seus ataques.
 
 #### Recarregar
 Indica que após o armamento/equipamento atingir sua capacidade, quantidade de munição gasta, deve ser realizada uma ação de Recarregar para poder ser utilizado novamente.

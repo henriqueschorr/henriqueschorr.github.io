@@ -6,7 +6,7 @@ Equipamento exclusivo dos Engenheiros, também considerado um armamento. Possui 
 
 ![Drone de Combate](../../images/human/combat_drone.jpg){ width="400", align="right" }
 
-**AP:** 12 + VDA Cérebro + Nível.  
+**RF:** 4 AP (+1AP no nível 3, +2AP no nível 5, +1AP se você tiver 50 em Cérebro).  
 **Tamanho:** Pequeno.    
 **Sentidos:** Visão, Audição, Tato.    
 **Movimento:** Terrestre 6m.    
@@ -19,8 +19,8 @@ Equipamento exclusivo dos Engenheiros, também considerado um armamento. Possui 
 
 | Nome          | Dano           | Alcance   | Marcadores                                       |
 | ------------- | -------------- | --------- | ------------------------------------------------ |
-| Pé-perfurador | 1d4 perfuração | Adjacente | Acesso Rápido, Seguro                            |
-| Rifle Montado | 1d6 perfuração | 20m (50m) | Acesso Rápido, Especial, Munição (Comum), Seguro |
+| Pé-perfurador | 1RF perfuração | Adjacente | Acesso Rápido, Seguro                            |
+| Rifle Montado | 1RF perfuração | 20m (50m) | Acesso Rápido, Especial, Munição (Comum), Seguro |
 
 ##### Rifle Montado
 O Drone de combate pode carregar até 50 munições, seu rifle montado tem acesso a munição completa, não sendo necessário intervalos de recarregamento. Você deve gastar 1 ação Recarregar caso queira colocar mais munições em seu drone de combate.

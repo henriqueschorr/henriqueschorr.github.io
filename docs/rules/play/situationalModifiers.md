@@ -41,7 +41,7 @@ Uma Disputa acontece quando uma criatura reage a uma ação sua, como exemplo qu
 
 As consequências de ser parcialmente ou totalmente sucedido estarão descritas em cada ação/reação.
 
-#### Patrulha e Vigia
+<!-- #### Patrulha e Vigia
 
 Caso há criaturas ou sensores/equipamentos fazendo patrulha ou vigia no ambiente que você esteja tentando infiltrar, uma Disputa acontece entre vocês:
 
@@ -52,7 +52,7 @@ Os possíveis resultados e efeitos podem acontecer:
 
 - **Sucesso Total:** Você consegue se infiltrar sem ser percebido.
 - **Sucesso Parcial:** O patrulheiro/vigia possui uma ideia geral da presença de alguém e uma localização geral.
-- **Falha:** O patrulheiro/vigia tem ideia da sua presença e sabem sua localização caso tenham linha de visão direta para você.
+- **Falha:** O patrulheiro/vigia tem ideia da sua presença e sabem sua localização caso tenham linha de visão direta para você. -->
 
 ### Proteção
 

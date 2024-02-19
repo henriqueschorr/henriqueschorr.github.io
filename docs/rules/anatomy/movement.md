@@ -15,9 +15,9 @@ Indica quais tipos de superfícies ou eixo seu personagem é capaz de se movimen
 ### Velocidade
 
 Velocidade demonstra quantos metros você pode se movimentar durante uma ação Mover em um turno (6s).
-**Cálculo base: Velocidade Base Espécie + (VDA Agilidade / 2)**
+**Cálculo base: Velocidade Base Espécie + (VAD Agilidade / 2)**
 
-| Agilidade | VDA Agilidade | Velocidade Adicional |
+| Agilidade | VAD Agilidade | Velocidade Adicional |
 | --------- | :-----------: | :------------------: |
 | < 40      |       -       |          -           |
 | 40 - 49   |      d4       |          2           |
@@ -30,4 +30,4 @@ Velocidade demonstra quantos metros você pode se movimentar durante uma ação 
 ### Velocidade Limitada
 
 Seu personagem às vezes pode realizar alguns tipos de movimentos, porém de forma limitada. Por exemplo, os humanos podem escalar ou nadar, mas não tão naturalmente como aranhas ou peixes. Para isso, existe a velocidade limitada.
-**Cálculo base: (Velocidade Base Espécie + VDA Agilidade ) / 5**
+**Cálculo base: (Velocidade Base Espécie + VAD Agilidade ) / 5**
