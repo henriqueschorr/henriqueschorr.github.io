@@ -8,7 +8,8 @@ Mobilidade e velocidade no campo de batalha. Usa de seu Planador de Combate para
 
 ## Planador de Combate
 
-O [Planador de Combate](../../transports/flying.md#planador-de-combate) é um veículo e equipamento que só você tem conhecimento de como utilizá-lo. Você pode atacar usando os armamentos presentes no planador.
+O [Planador de Combate](../../transports/flying.md#planador-de-combate) é um veículo e equipamento que só você tem conhecimento de como utilizá-lo. Você pode atacar usando os armamentos presentes no planador.  
+Considere sua aptidão de Controle para fins de dano extra ou adicional.
 
 #### Checks
 Todo e qualquer check que você for fazer com seu planador, inclusive caso você ataque usando os armamentos dele, são realizados com Condução & Controle, a não ser que algum efeito específico diga o contrário. Ataques com armas de mão são realizados normalmente, ignorando essa regra.
@@ -19,9 +20,9 @@ Todo e qualquer check que você for fazer com seu planador, inclusive caso você
 | ----- | ----------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Rastro de Sangue |
 | 2     | Chuva Balística + Mandíbula                                                   |
-| 3     | Atributos + (Chuva Explosiva \| Giro Mortal)                              |
+| 3     | Atributos + Resiliência + (Chuva Explosiva \| Giro Mortal)                    |
 | 4     | Competência + Abdução + Defletor                                              |
-| 5     | Atributos + (Integração \| Canhão Yamato)                                     |
+| 5     | Atributos + Resiliência + (Integração \| Canhão Yamato)                       |
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -45,9 +46,9 @@ _Habilidade (Mover, Atacar)_ \| _Ofensivo, Utilidade, Energia_
 **Alcance:** 30m  
 A.N.E. acelera seu Planador de Combate, fazendo-o voar rapidamente pelo campo de batalha e acertando alvos sem dá-los uma possibilidade de reação.
 
-- Escolha até 1VDA Condução alvos.
+- Escolha até 1VAD Condução alvos.
 - Você passa voando por todos eles, faça um ataque com as lâminas do seu planador para cada alvo.
-    - Adicione 1RDA Condução ao dano total para cada ataque.
+    - Este ataque causa Dano Persistente 2 (RF) (Sangramento).
 - Criaturas alvos não podem usar reações contra você durante a movimentação e ataques desta habilidade.
 
 ### Aprimoramento de Aptidão (2)
@@ -67,7 +68,7 @@ A.N.E. reestrutura seu planador e faz com que ele dispare a quantidade de muniç
 - O ataque é disparado logo abaixo de você e seu planador.
 - Criaturas na área de efeito podem Esquivar e Defender este ataque.
 - Para cada 10 munições disparadas:
-    - Criaturas na área de efeito recebem 3d6 + Nível de dano perfuração caso não desviem e metade deste dano caso desviem.
+    - Criaturas na área de efeito recebem 3RF dano perfuração caso não desviem e 1RF dano perfuração caso desviem.
 
 ### Madíbula (2) :arrow_forward:
 
@@ -80,7 +81,10 @@ A.N.E. tensiona as lâminas do seu planador e junta ela com uma extrema força l
 - Faça um ataque com as lâminas do planador contra o alvo.
 - Criatura alvo pode Esquivar e Defender este ataque.
 - Utilize o dano de uma lâmina e dobre-o para determinar o dano total.
-- Este ataque tem [Perfuração](../../../../rules/play/damage.md#perfuração).
+- Este ataque tem [Penetração](../../../../rules/play/damage.md#penetração).
+
+### Resiliência (3, 5)
+Você recebe 1RF e 1RM a mais.
 
 ### Chuva Explosiva (3) :fast_forward: :large_orange_diamond: 
 
@@ -98,7 +102,7 @@ A.N.E. reestrutura seu planador e faz com que ele dispare até 2 explosivos ou a
 - O ataque é disparado logo abaixo de você e seu planador.
 - Criaturas na área de efeito podem Esquivar e Defender este ataque, porém ainda são pegas pelos explosivos/armadilhas.
 - Para cada 10 munições disparadas:
-    - Criaturas na área de efeito recebem 3d6 + Nível de dano perfuração caso não desviem e metade deste dano caso desviem.
+    - Criaturas na área de efeito recebem 3RF dano perfuração caso não desviem e 1RF dano perfuração caso desviem.
 - Ao final do disparo dos projéteis, os explosivos/armadilhas são automaticamente acionados.
 
 **Combo**  
@@ -119,7 +123,7 @@ A.N.E. faz seu planador girar no seu próprio eixo de forma veloz, cortanto tudo
 
 - Este ataque acerta automaticamente todas as criaturas adjacentes.
 - Criaturas na área de efeito podem Esquivar e Defender este ataque.
-- Utilize o dano de uma lâmina e dobre-o para determinar o dano total para cada um dos três ataques.
+- Utilize o dano de uma lâmina e dobre-o para determinar o dano total para cada cada criatura atingida.
 
 ### Aprimoramento de Competência (4)
 
@@ -165,14 +169,14 @@ _Habilidade (Interação - Equipamento)_ \| _Defensivo, Energia, Utilidade_
 A.N.E. desmonta seu planador e o integra junto a sua armadura, tornando você, A.N.E. e o planador, um.
 
 - Seu Movimento se torna o mesmo do planador.
-- Você recebe AP igual ao do planador.
+- Você recebe AP:RF igual ao do planador.
     - Seu planador volta ao normal quando seu AP chega a 0.
 - Os propulsores do planador ficam em suas costas, enquanto as lâminas em um de seus braços e o armamento em outro.
 - Você usa as seguintes habilidades normalmente: Defletor e Mandíbula.
 - As seguintes habilidades são modificadas:
     - Rastro de Sangue: +2 alvos.
     - Chuva Balística e Chuva Explosiva: Você pode usar essa habilidade diretamente na sua frente em vez de abaixo.
-    - Giro Mortal: As lâminas giram em torno do seu braço parecendo uma furadeira, o tipo de dano se torna perfurante e o ataque tem [Perfuração](../../../../rules/play/damage.md#perfuração).
+    - Giro Mortal: As lâminas giram em torno do seu braço parecendo uma furadeira, o tipo de dano se torna perfuração e o ataque tem [Penetração](../../../../rules/play/damage.md#penetração) e [Explosão de Dano](../../../../rules/play/damage.md#explosão-de-dano). Você acerta apenas um alvo.
     - Abdução: Você pode jogar o alvo longe ao custo de 1 ação, siga as regras de [impacto](../../../../rules/ambiance/mechanics.md#impacto).
 
 ### Canhão Yamato (5) :arrows_counterclockwise: :large_orange_diamond:
@@ -193,11 +197,11 @@ A.N.E. reorganiza a estrutura do seu planador, deixando o fino e com as lâminas
 - Calcule o dano da seguinte maneira:
     - Utilize o dano de uma lâmina e dobre-o.
     - Adicione dano extra considerando as regras de [impacto](../../../../rules/ambiance/mechanics.md#impacto).
-    - Este ataque tem [Perfuração](../../../../rules/play/damage.md#perfuração).
+    - Este ataque tem [Penetração](../../../../rules/play/damage.md#penetração).
 - O alvo então é lançado a uma distância de 8m.
 - Caso o alvo esteja a uma distância de até 6m de uma estrutura, você o perfura e prende-o contra a estrutura. 
     - Ele está preso até você escolher soltar.
-    - Ele sofre Dano Persistente 1 (Sangramento) 50% do dano original.
+    - Ele sofre Dano Persistente 2 (RF) (Sangramento).
 
 **Combo**  
 _Gatilho: Criatura é empurrada próxima a estrutura ou aliado cria estrutura próxima a criatura._  

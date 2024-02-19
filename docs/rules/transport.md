@@ -6,7 +6,7 @@ Veículos geralmente são construtos, equipamentos, feitos inteiramente de mater
 
 ## Montarias
 
-Montarias sempre serão criaturas orgânicas ou construtos racionais que seu personagem andará montado. Montarias também são consideradas [Parceiros](./companion.md). Checks de manobra e manuseio com montarias podem variar entre as competências de Condução e Interação, e, por serem seres racionais, as aptidões de Controle e Influência. Cabe ao seu MU decidir.
+Montarias sempre serão criaturas orgânicas ou construtos racionais que seu personagem andará montado. Montarias também são consideradas [Parceiros](./partner.md). Checks de manobra e manuseio com montarias podem variar entre as competências de Condução e Interação, e, por serem seres racionais, as aptidões de Controle e Influência. Cabe ao seu MU decidir.
 
 ## Apresentação
 Transportes são apresentados da seguinte forma:
@@ -15,9 +15,8 @@ Transportes são apresentados da seguinte forma:
 _Tipo_ | _Marcadores (transporte e criatura caso montaria)_  
 **Aptidões:** Aptidões e seus valores caso possua.  
 **Competências:** Competências e seus valores caso possua.  
+**RF:** Quantidade de RF.  
 **Resiliência:** Informa resistências, imunidades e vulnerabilidades.  
-**HP:** Quantidade de HP caso possua.  
-**AP:** Quantidade de AP caso possua.  
 **Tamanho:** Tamanho do transporte.  
 **Sentidos:** Lista de sentidos.  
 **Movimento:** Lista de movimentos e velocidades.  

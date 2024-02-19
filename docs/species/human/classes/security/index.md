@@ -8,8 +8,8 @@ Classe responsável pela segurança de todos os outros integrantes da equipe. Es
 
 Abaixo você encontra informações gerais sobre cada especialização desta classe.
 
-| Especialização | Aptidões            | Competências                     | HP  | AP  |
-| -------------- | ------------------- | -------------------------------- | --- | --- |
-| Soldado        | Controle            | Combate                          | 8   | 9   |
-| Batedor        | Controle, Agilidade | Combate, Infiltração, Mobilidade | 8   | 6   |
-| Brutamonte     | Físico              | Combate                          | 8   | 13  |
+| Especialização | Aptidões            | Competências                     | RF      | RM  |
+| -------------- | ------------------- | -------------------------------- | ------- | --- |
+| Soldado        | Controle            | Combate                          | 2AP 2RF | 2RM |
+| Batedor        | Controle, Agilidade | Combate, Infiltração, Mobilidade | 1AP 2RF | 2RM |
+| Brutamonte     | Físico              | Combate                          | 4AP 2RF | 2RM |

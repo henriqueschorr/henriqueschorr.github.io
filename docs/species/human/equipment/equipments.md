@@ -15,8 +15,8 @@ Dardo com compartimento para uma solução. Apenas Cientistas sabem realizar o m
 
 Equipamento exclusivo dos Engenheiros. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com a forja móvel:
 
-**Criar Item:** Você consegue criar até 5 iten de engenharia do tipo suporte ou armamento e munição por vez.    
-**Aprimorar:** Você consegue criar e aplicar até 1 aprimoramento por vez.  
+**Criar Item:** Você consegue criar até 5 iten de engenharia do tipo suporte ou armamento e munição por vez.  
+**Aprimorar:** Você consegue criar e aplicar até 1 aprimoramento por vez.
 
 O tempo de criação ou aprimoração de cada item é informado na [Engenharia](../scienceRecipes/engineering.md).
 
@@ -30,7 +30,7 @@ Você pode realizar as seguintes ações com um infusor:
 **Carregar:** 1 ação. Você carrega uma das suas soluções no seu infusor.  
 **Absorver:** 1 ação. Você absorve um elemento químico do ambiente para seu infusor.  
 **Infundir:** 1 ação. Você infunde algum elemento químico em uma lâmina ou qualquer outro armamento de alcance adjacente. Armamento deve ser do tipo equipamento.  
-Armamentos infundidos causam 1d4 a mais do tipo do elemento por 2 turnos.
+Armamentos infundidos causam 1RF dano extra do tipo do elemento por 2 turnos.
 
 Você pode absorver ou carregar os seguintes:
 
@@ -58,7 +58,7 @@ O tempo de criação ou aprimoração de cada item é informado na [Química](..
 
 Equipamento exclusivo dos Cientistas. Possui a aparência de uma pequena pistola com diversos componentes. Pode armazenar até 3 dardos infusores que você pode disparar para aplicar soluções em aliados ou inimigos. Você pode realizar a seguinte ação com esse armamento:
 
-**Disparar:** 1 ação. Você lança um dos 3 dardos infusores. 10m de alcance. 
+**Disparar:** 1 ação. Você lança um dos 3 dardos infusores. 10m de alcance.  
 **Recarregar:** 1 ação. Você recarrega até 3 dardos infusores.
 
 ### Neurotransmissor
@@ -71,18 +71,11 @@ Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E.
 
 **Analisar Linguagem:** 1 ação. Através de uma análise da entonação, movimentação e maneirismos de uma criatura de linguagem desconhecida, você consegue formar uma base crua dela. Você entende de maneira geral o contexto da mensagem que a criatura está tentando lhe passar.
 
-## Suporte
+Além disso o neurotransmissor lhe concede **1 AP:RM**.
 
-Equipamentos voltados ao suporte dos seus aliados, geralmente trazendo condições benéficas ou atendimento médico. Você pode utilizar apenas em criaturas orgânicas.
+## Geral
 
-| Equipamento         | Tempo de Aplicação | Resultado                                                                                  |
-| ------------------- | ------------------ | ------------------------------------------------------------------------------------------ |
-| Kit Médico Simples  | 10 min.            | Retira Morte, retira Dano Persistente, cura VDA Cérebro + Nível de HP                      |
-| Kit Médico Avançado | 10 min.            | Retira Morte, retira Dano Persistente, neutraliza venenos, cura 2VDA Cérebro + Nível de HP |
-
-## Utilidade Geral
-
-Equipamentos dos mais diversos tipos, utilizados para os mais diversos propósitos.
+Equipamentos dos mais diversos tipos, utilizados para os mais diversos propósitos e que podem ser utilizados por todos.
 
 ### Comunicador
 
@@ -94,4 +87,4 @@ Emite luz forte em área de 4m e luz fraca em uma área de 8m.
 
 ### Monitor de Informações
 
-Interface que demonstra informações gerais sobre seu corpo (HP, AP, etc) e equipamentos em posse (quantidade munição, recursos, etc).
+Interface que demonstra informações gerais sobre seu corpo (RF, RM, etc) e equipamentos em posse (quantidade munição, recursos, etc).

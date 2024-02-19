@@ -25,11 +25,11 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ----- | ------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Legenda: Orgânicos |
 | 2     | Aptidão + Dardo Perfurador + Infusor de Projétil                                |
-| 3     | Atributos + (Dardo Liberador \| Infusor de Armadura)                            |
+| 3     | Atributos + Resiliência + (Dardo Liberador \| Infusor de Armadura)              |
 | 4     | Competência + Potencializador Químico + Redoma Protetora                        |
-| 5     | Atributos + (Histeria \| Caos)                                                  |
+| 5     | Atributos + Resiliência + (Histeria \| Caos)                                    |
 
-### Aprimoramento de Atributos (1)
+### Aprimoramento de Atributos (1, 3, 5)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
@@ -69,7 +69,7 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 A.N.E faz com que seus dardos lançados saem com extrema velocidade de rotação, aumentando seu alcance e ignorando armaduras.
 
 - Seu lançador de dardos tem alcance aumentado para 20m.
-- Seu lançador de dardos ignora AP, acertando HP diretamente.
+- Seu lançador de dardos ignora AP, acertando RF diretamente.
 
 ### Infusor de Projétil (2) :arrow_forward:
 
@@ -81,6 +81,9 @@ A.N.E faz com que seu infusor seja capaz de infundir armamentos do tipo equipame
 
 - Escolha um armamento do tipo equipamento que lança projéteis.
 - Por 2 turnos todos os projéteis lançados por este armamento estarão infudidos.
+
+### Resiliência (3, 5)
+Você recebe 1RF e 1RM a mais.
 
 ### Dardo Liberador (3) :arrow_forward:
 
@@ -103,7 +106,7 @@ A.N.E faz com que seu infusor seja capaz de infundir armaduras do tipo equipamen
 - Escolha uma armadura do tipo equipamento ou um construto para ser o alvo.
 - Caso você escolha um aliado:
     - Todas as criaturas adjacentes ao aliado recebem dano do efeito de infusão.
-    - Aliado ganha Resistência ao tipo de dano.
+    - Aliado ganha Resistência 2 ao tipo de dano infudido.
 - Caso você escolha um inimigo:
     - O inimigo recebe dano do efeito de infusão.
 
@@ -154,7 +157,7 @@ A.N.E acelera a cadência do seu lançador de dardos e dispara 3 dardos.
 - Faça um ataque com seu lançador de dardos contra os alvos escolhidos. 
     - Acerto automático em caso de aliado.
 - Se o dardo acertar um aliado, ele recebe Acelerado 1.
-- Se o dardo acertar um inimigo, ele fica Confuso 1.
+- Se o dardo acertar um inimigo, ele fica Confuso 1 (Neural).
 
 ### Caos (5) :arrows_counterclockwise: :large_orange_diamond:
 
@@ -178,11 +181,12 @@ A.N.E faz com que seu infusor consuma até 4 tipos de elementos do ambiente ou d
 - Uma explosão elemental ocorre consecutivamente para cada elemento na área de escolha.
 - Cada explosão é considerada um ataque e acerta automaticamente.
     - Criaturas na área de efeito podem Esquivar mas <ins>não</ins> Defender este ataque.
-        - Sucesso: recebem apenas metade do dano.
+        - Sucesso: recebe metade do dano total, no mínimo 1.
         - Sucesso crítico: não recebem dano algum.
         - Falha: recebem dano total.
         - Falha crítica: recebem o efeito crítico do último elemento liberado.
-- Cada explosão elemental causa 1VDA Controle + 1RDA Cérebro + Nível de dano do tipo do elemento liberado.
+- Cada explosão elemental causa 2RF dano do tipo do elemento liberado.
+- Este ataque considera a regra de [dano adicional da aptião de cérebro](../../../../rules/play/damage.md#dano-adicional-por-aptidão).
 
 **Combo**  
 _Gatilho: Aliado cria ou provoca de alguma forma algum dos 4 elementos no ambiente._  

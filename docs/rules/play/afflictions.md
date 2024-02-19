@@ -20,13 +20,13 @@ Aflições são condições em que seu personagem se encontra e lhe dão certas 
 
 Quase toda aflição causada será acompanhada de um número, indicando quantos turnos a aflição terá efeito, o efeito acaba sempre no final do turno do alvo da aflição, por exemplo:
 
-**_Exemplo:_** _Remella aplica, em seu ataque, a aflição **Debilitado 2** em seu oponente. O alvo atingido está Debilitado por 2 turnos, ou seja, a aflição acabará ao fim do segundo turno do alvo._
+**_Exemplo:_** _Remella aplica em seu ataque a aflição **Debilitado 2** em seu oponente. O alvo atingido está Debilitado por 2 turnos, ou seja, a aflição acabará ao fim do segundo turno do alvo._
 
 Caso uma aflição não apresente número, ela deve ser retirada de alguma outra forma. Um exemplo é a aflição Caído, que é retirada no momento que o alvo usar a ação Mover - Levantar.
 
 ## Especificação
 
-Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações envolvendo algum sentido ou parte do corpo, esta especificidade estará informada entre parênteses ao lado da aflição, por exemplo:
+Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações envolvendo algum sentido ou parte do corpo, esta especificidade estará informada entre parênteses ao lado da aflição.
 
 **_Exemplo:_** _Mari'Jonna aplica, em seu ataque, a aflição **Debilitado 2 (visão)** em seu oponente. Sempre que o alvo executar alguma ação ou reação envolvendo visão nos próximos 2 turnos, esta será considerada Debilitada._
 
@@ -41,14 +41,17 @@ Algumas vezes a aflição aplicada tem efeito apenas para ações ou reações e
 | Tato          | Afeta qualquer tipo de tato.                        |
 | Visão         | Afeta qualquer tipo de visão.                       |
 
+Esta especificação serve para evitar que alguma criatura seja afetada por uma aflição que não seja possível, por exemplo, uma criatura sem visão não será afetada por uma aflição que tenha especifidade de visão.
+
 ### Dano Persistente
 
-Dano persistente virá com uma especificação diferente dos demais tipos de aflição.
+Dano persistente virá com uma especificação especial entre parênteses, indicando seu tipo e como pode ser retirado antes do fim de seu efeito.
 
 | Especificação | Detalhes                                                                                                     |
 | ------------- | ------------------------------------------------------------------------------------------------------------ |
-| Sangramento   | Você recebe dano sem tipo. Você deve estancar o sangramento para ele parar.                                  |
 | Fogo          | Você recebe dano do tipo fogo. Você deve apagar o fogo, como por exemplo mergulhar em água.                  |
 | Gelo          | Você recebe dano do tipo gelo. Você deve se aquecer para parar este dano.                                    |
 | Neural        | Você sofre dano do tipo neural. Varia muito a forma de parar este dano.                                      |
+| Radiação      | Voc sofre dano do tipo radiação. Varia muito a forma de parar este dano.                                     |
+| Sangramento   | Você recebe dano sem tipo. Você deve estancar o sangramento para ele parar.                                  |
 | Veneno        | Você sofre dano do tipo veneno. Você deve neutralizar ou retirar o veneno do seu corpo para parar este dano. |

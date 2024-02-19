@@ -7,9 +7,9 @@ Indica quais tipos de superfícies ou eixo seu personagem é capaz de se movimen
 ## Iniciativa
 
 Iniciativa define o quão rápido seu personagem reage a uma situação. Geralmente é utilizada ao começo de Encontros e combates para definir a ordem de turno durante a rodada.  
-**Cálculo base: VDA Atenção / 2**
+**Cálculo base: VAD Atenção / 2**
 
-| Atenção  | VDA Atenção | Iniciativa |
+| Atenção  | VAD Atenção | Iniciativa |
 | -------- | :---------: | :--------: |
 | < 40     |      -      |     -      |
 | 40 - 49  |     d4      |     2      |

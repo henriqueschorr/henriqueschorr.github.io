@@ -30,7 +30,7 @@ Apresenta regras sobre a ambienteção do jogo, assim como as mecânicas de fen�
 [Criaturas](./creatures.md)  
 Apresenta regras sobre criaturas que não sejam seus personagens.  
 
-[Parceiros](./companion.md)  
+[Parceiros](./partner.md)  
 Apresenta regras de parceiros, estes que são criaturas, animais ou construtos que seu personagem pode ter e comandar.  
 
 [Marcadores](./tags/index.md)  
