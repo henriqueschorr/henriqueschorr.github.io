@@ -34,6 +34,6 @@ Indica a quantidade de reações que seu personagem possui por turno, podendo se
 | 80 - 89   |           3           |
 | 90 - 100  |           4           |
 
-## Alerta
+<!-- ## Alerta
 
-Indica o seu nível de alarme quanto a criaturas furtivas. Quanto maior seu nível de alerta, menor o valor. Para mais informações sobre, veja o capítulo [Furtividade e Vigia](../rules/play/stealth.md#alerta).
+Indica o seu nível de alarme quanto a criaturas furtivas. Quanto maior seu nível de alerta, menor o valor. Para mais informações sobre, veja o capítulo [Furtividade e Vigia](../rules/play/stealth.md#alerta). -->

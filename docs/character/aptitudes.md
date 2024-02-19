@@ -22,7 +22,7 @@ Indicado para quem quer jogar na retaguarda usando equipamentos ou habilidades a
 
 Atenção mede sua percepção geral e representa os sentidos, bem como o talento para capturar detalhes. Também determina o quão rápido você consegue agir em combate.  
 **Checks**: Localizar armadilhas e criaturas e identificar detalhes.  
-**Determina**: [Iniciativa](./quickness.md#iniciativa) e [Alerta](./quickness.md#alerta).
+**Determina**: [Iniciativa](./quickness.md#iniciativa) e Alerta (TBD).
 
 ### Cérebro
 
