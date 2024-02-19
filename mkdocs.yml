@@ -91,6 +91,7 @@ nav:
     - Humanos:
       - Introdução: species/human/introduction.md
       - Características Básicas: species/human/basics.md
+      - Progressão: species/human/progression.md
       - A.N.E.: species/human/ane.md
       - Classes:
         - species/human/classes/index.md
