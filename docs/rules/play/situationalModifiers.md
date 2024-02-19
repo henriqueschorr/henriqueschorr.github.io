@@ -16,15 +16,11 @@ Quando você realiza ataques a distância contra um inimigo adjacente, o ataque 
 
 ### Furtividade
 
-Furtividade é um estado de jogo especial em que seu personagem se encontra quando tenta se esgueirar, infiltrar lugares sem ser percebido por qualquer criatura ou sensores.
-Para entrar em estado furtivo, você necessita realizar um check de Infiltração & Agilidade/Atenção, com os possíveis efeitos dependendo o resultado:
-
-- **Sucesso:** Você consegue se infiltrar sem ser percebido.
-- **Falha:** As criaturas no local tem ideia da sua presença e sabem sua localização caso tenham linha de visão direta para você.
+Furtividade é um estado de jogo especial em que seu personagem se encontra quando tenta se esgueirar, infiltrar lugares sem ser percebido por qualquer criatura ou sensores. Detalhes sobre esta mecânica podem ser encontrados no capítulo de [Furtividade e Vigia](./stealth.md).
 
 ### Ação Surpresa
 
-Ações Surpresas acontecem quando você realiza alguma ação contra uma criatura ou objeto que não consegue lhe ver, quando você está furtivo quanto a esta criatura. Durante uma ação surpresa o seguinte acontece:
+Quando uma criatura não possui conhecimento da sua presença, localização ou quando você está em furtividade, sua próxima ação será considerada uma ação surpresa. Durante uma ação surpresa o seguinte acontece:
 
 - Ações contra inimigos surpreendidos são Muito Fácil.
 - Inimigos não podem usar reações.

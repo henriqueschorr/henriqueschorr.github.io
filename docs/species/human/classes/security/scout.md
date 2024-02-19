@@ -27,7 +27,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ----- | ---------------------------------------------------------------------- |
 | 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem |
 | 2     | Aptidão + Flecha Silenciadora + Lâmina Elétrica                        |
-| 3     | Atributos + Resiliência + (Flecha Atordoadora \| Serra Elétrica)       |
+| 3     | Atributos + Resiliência + (Flecha Atordoadora \| Serra)                |
 | 4     | Competência + Gancho Magnético + Chamariz                              |
 | 5     | Atributos + Resiliência + (Flecha Arpão \| Nuvem de Lâminas)           |
 
@@ -82,7 +82,15 @@ _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_
 **Alvo:** Lâmina Fragmento
 A.N.E. energiza sua lâmina fragmento, causando dano elétrico extra nos seus ataques.
 
+Escolha 1 das opções abaixo.
+
+Opção 1:
+
 - Adicione 1RF dano energia extra aos seus ataques com a lâmina fragmento.
+
+Opção 2:
+
+- Você desativa/ativa um dispositivo de complexidade média ou inferior ao tocar com sua lâmina e manter contato por 2 turnos.
 
 ### Resiliência (3, 5)
 Você recebe 1RF e 1RM a mais.
@@ -106,16 +114,14 @@ A.N.E. carrega uma das suas flechas com energia, esta é liberada no momento do 
 
 **Especial:** Se o ataque acertar uma criatura, a área de silêncio se move junto com a criatura, uma vez que o efeito parte da flecha.
 
-### Serra Elétrica (3) :arrow_forward: :large_orange_diamond:
+### Serra (3) :arrow_forward: :large_orange_diamond:
 
 _Habilidade (Interagir - Equipamento)_ \| _Energia, Utilidade_   
-**Pré Requisito:** Lâmina Elétrica  
 **Custo:** 1x Célula de Energia (EN)  
 **Duração:** 2 turnos  
 **Alvo:** Lâmina Fragmento
 A.N.E. energiza sua lâmina fragmento, fazendo os fragmentos vibrarem numa alta frequência e também causando dano elétrico extra nos seus ataques.
 
-- Adicione 1RF dano energia extra aos seus ataques com a lâmina fragmento.
 - Adicione 1RF dano corte extra aos seus ataques com a lâmina fragmento.
 - Se você atingir o RF de uma criatura, esta deve realizar um check Físico ou receber Dano Persistente 2 (RF) (Sangramento).
 
