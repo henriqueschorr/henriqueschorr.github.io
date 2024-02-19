@@ -22,7 +22,7 @@ Indicado para quem quer jogar na retaguarda usando equipamentos ou habilidades a
 
 Atenção mede sua percepção geral e representa os sentidos, bem como o talento para capturar detalhes. Também determina o quão rápido você consegue agir em combate.  
 **Checks**: Localizar armadilhas e criaturas e identificar detalhes.  
-**Determina**: [Iniciativa](./quickness.md#iniciativa).
+**Determina**: [Iniciativa](./quickness.md#iniciativa) e [Alerta](./quickness.md#alerta).
 
 ### Cérebro
 
@@ -34,7 +34,7 @@ Cérebro indica inteligência, lógica, conhecimento. Também pode ser usado par
 
 Influência mede o quão bem você consegue se sair socialmente, sendo interagindo com criaturas racionais ou irracionais, animais ou monstros, etc. Esta aptidão também indica o quão você é conhecido no universo, podendo ser considerado um herói, mercenário ou algo a ser evitado a todo custo.  
 **Checks**: Mentir, persuadir, interagir com criaturas.  
-**Determina**: Fama (TBD)\*\*
+**Determina**: Fama (TBD)
 
 ## Dados de Aptidão (AD, VAD, RAD)
 
