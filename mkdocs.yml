@@ -48,6 +48,7 @@ nav:
         - Habilidades: rules/play/abilities.md
         - Alcance e Área de Efeito: rules/play/reachArea.md
         - Dano: rules/play/damage.md
+        - Morte: rules/play/death.md
         - Combo: rules/play/combo.md
         - Descanso: rules/play/rests.md
         - Loot: rules/play/loot.md
