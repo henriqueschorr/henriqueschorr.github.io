@@ -13,34 +13,34 @@ Apresenta características básicas dos humanos, como quantos pontos começa em 
 Apresenta a progressão geral dos humanos até o nível 5, os aprimoramentos que recebe.
 
 [A.N.E.](ane.md)  
-Apresenta a ??????????? 
+Armadura Nano Evolutiva, ou A.N.E. é o equipamento de tecnologia mais avançada dos humanos. Aqui você encontra informações sobre ela.
 
 [Classes](./classes/index.md)  
-Apresenta regras sobre o inventário que seu personagem pode ter.  
+Apresenta as classes que seu personagem humano pode representar.
 
 [Agente](./classes/agent/index.md)  
-Apresenta regras sobre o inventário que seu personagem pode ter.  
+Apresenta as especializações de [Capitão](./classes/agent/captain.md) e [Piloto](./classes/agent/pilot.md).
 
 [Segurança](./classes/security/index.md)  
-Apresenta regras sobre o inventário que seu personagem pode ter.  
+Apresenta as especializações de [Batedor](./classes/security/soldier.md) e [Soldado](./classes/security/scout.md).
 
 [Técnico](./classes/technician//index.md)  
-Apresenta regras sobre o inventário que seu personagem pode ter.  
+Apresenta as especializações de [Cientista](./classes/technician//scientist.md) e [Engenheiro](./classes/technician/engineer.md).
 
-[Equipamentos](./equipment/index.md)   
-Apresenta regras e demonstra a apresentação dos aprimoramentos.  
+[Equipamentos](./equipment/equipments.md)  
+Apresenta os possíveis equipamentos que os humanos podem possuir e utilizar.
 
 [Armamentos](./equipment/weapons.md)  
-Apresenta regras sobre a ambienteção do jogo, assim como as mecânicas de fenômenos naturais.  
+Apresenta os possíveis armamentos que os humanos podem possuir e utilizar.
 
 [Ciência e Receitas](./scienceRecipes/index.md)  
-Apresenta regras sobre criaturas que não sejam seus personagens.  
+Apresenta as receitas das várias áreas da ciência que os humanos podem produzir.
 
 [Parceiros](./companion.md)  
-Apresenta regras de parceiros, estes que são criaturas, animais ou construtos que seu personagem pode ter e comandar.  
+Apresenta os parceiros que seu personagem humano pode possuir.
 
 [Transportes](./transports/flying.md)  
-Apresenta os marcadores que criaturas, equipamentos e habilidades podem possuir, estes que lhe informam características específicas sobre cada um.  
+Apresenta os transportes que seu personagem humano pode possuir.
 
 [Loot](loot.md)  
-Apresenta os marcadores que criaturas, equipamentos e habilidades podem possuir, estes que lhe informam características específicas sobre cada um.  
+Apresenta as regras de loot para os humanos.
