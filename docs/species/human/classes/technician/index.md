@@ -8,7 +8,7 @@ Classe especializada na aplicação das ciências, produção de equipamentos ou
 
 Abaixo você encontra informações gerais sobre cada especialização desta classe.
 
-| Especialização | Aptidões          | Competências     | RF      | RM      |
-| -------------- | ----------------- | ---------------- | ------- | ------- |
-| Cientista      | Controle, Cérebro | Ciência, Combate | 1AP 2RF | 1AP 2RM |
-| Engenheiro     | Controle, Cérebro | Ciência, Combate | 2AP 2RF | 1AP 2RM |
+| Especialização            | Aptidões          | Competências     | RF      | RM      |
+| ------------------------- | ----------------- | ---------------- | ------- | ------- |
+| [Cientista](scientist.md) | Controle, Cérebro | Ciência, Combate | 1AP 2RF | 1AP 2RM |
+| [Engenheiro](engineer.md) | Controle, Cérebro | Ciência, Combate | 2AP 2RF | 1AP 2RM |

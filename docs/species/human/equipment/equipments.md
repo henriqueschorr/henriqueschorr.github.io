@@ -4,6 +4,8 @@ Abaixo você encontra equipamentos que são exclusivos e específicos para cada 
 
 ### Dardo Infusor
 
+![Forja Móvel](../../../images/human/dart.jpg){ width="200", align="right" }
+
 Dardo com compartimento para uma solução. Apenas Cientistas sabem realizar o manuseio deste equipamento. Você pode realizar as seguintes ações com um dardo infusor:
 
 **Infundir Solução**: 1 ação. Você insere qualquer uma solução dentro de um dardo infusor.  
@@ -11,7 +13,7 @@ Dardo com compartimento para uma solução. Apenas Cientistas sabem realizar o m
 
 ### Forja Móvel
 
-![Forja Móvel](../../../images/human/mobile_forge_lab.jpg){ width="200", align="right" }
+![Forja Móvel](../../../images/human/mobile_forge.png){ width="200", align="right" }
 
 Equipamento exclusivo dos Engenheiros. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com a forja móvel:
 
@@ -22,7 +24,7 @@ O tempo de criação ou aprimoração de cada item é informado na [Engenharia](
 
 ### Infusor
 
-![Infusor](../../../images/human/infusor.jpg){ width="200", align="right" }
+![Infusor](../../../images/human/infusor2.jpg){ width="300", align="right" }
 
 Equipamento exclusivo dos Cientistas. Você pode carregar uma das suas soluções ou absorver do ambiente para pode aplicar em lâminas ou outros armamentos e armaduras através de habilidades. Seu infusor pode conter até 3 soluções ao mesmo tempo.
 Você pode realizar as seguintes ações com um infusor:
@@ -42,7 +44,7 @@ Você pode absorver ou carregar os seguintes:
 
 ### Laboratório Móvel
 
-![Laboratório Móvel](../../../images/human/mobile_forge_lab.jpg){ width="200", align="right" }
+![Laboratório Móvel](../../../images/human/mobile_lab.jpg){ width="200", align="right" }
 
 Equipamento exclusivo dos Cientistas. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com o laboratório móvel:
 
@@ -54,7 +56,7 @@ O tempo de criação ou aprimoração de cada item é informado na [Química](..
 
 ### Lançador de Dardos
 
-![Lançador de Dardos](../../../images/human/dartgun.jpg){ width="200", align="right" }
+![Lançador de Dardos](../../../images/human/dartgun2.jpg){ width="300", align="right" }
 
 Equipamento exclusivo dos Cientistas. Possui a aparência de uma pequena pistola com diversos componentes. Pode armazenar até 3 dardos infusores que você pode disparar para aplicar soluções em aliados ou inimigos. Você pode realizar a seguinte ação com esse armamento:
 
