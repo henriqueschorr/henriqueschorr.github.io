@@ -1,1 +1,0 @@
-![Personagem](../../images/character.jpg){ width="300", align="right" }

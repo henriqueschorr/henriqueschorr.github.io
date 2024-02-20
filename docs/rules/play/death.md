@@ -10,6 +10,6 @@ Quando você chega a 0 RM, você está morrendo mentalmente, não podendo realiz
 Quando você recebe ao menos 1 RM de cura, você pára de morrer porém não acorda automaticamente, você fica Incapacitado 2 (Neural).  
 Também há outras formas de fazer você parar de morrer, caso não seja especificado nada nelas, você também fica Incapacitado 2 (Neural).
 
-### Furioso
+### Frenesi
 
-Uma criatura com o marcador [Furioso](../tags/creatures.md#furioso) não recebe o marcador Morrendo quando chega a 0 RM, em vez disso, ela entra em um estado de frenesi, ficando Confuso e atacando todos a sua volta, inclusive aliados. A criatura não pára de atacar até chegar a 0 RF, recuperar todo seu RM ou até todos morrerem.
+Uma criatura com o marcador [Frenesi](../tags/creatures.md#frenesi) não recebe o marcador Morrendo quando chega a 0 RM, em vez disso, ela entra em um estado de frenesi, ficando Confuso e atacando todos a sua volta, inclusive aliados. A criatura não pára de atacar até chegar a 0 RF, recuperar todo seu RM ou até todos morrerem.

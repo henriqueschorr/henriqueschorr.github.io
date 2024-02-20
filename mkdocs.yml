@@ -89,7 +89,7 @@ nav:
         - Armamentos e Equipamentos: rules/tags/weaponEquipment.md
         - Transporte: rules/tags/transport.md
     - Humanos:
-      - Introdução: species/human/introduction.md
+      - species/human/index.md
       - Características Básicas: species/human/basics.md
       - Progressão: species/human/progression.md
       - A.N.E.: species/human/ane.md
@@ -110,13 +110,13 @@ nav:
       - Equipamentos:
         - species/human/equipment/index.md
         - Armamentos: species/human/equipment/weapons.md
-        - Equipamentos: species/human/equipment/equipments.md
-      - Parceiros: species/human/partner.md
+        - Equipamentos: species/human/equipment/equipments.md      
       - Ciência Receitas:
         - species/human/scienceRecipes/index.md
         - Química: species/human/scienceRecipes/chemistry.md
         - Biologia: species/human/scienceRecipes/biology.md
         - Engenharia: species/human/scienceRecipes/engineering.md
+      - Parceiros: species/human/partner.md  
       - Transportes:
         - Aéreos, Espaciais e Flutuantes: species/human/transports/flying.md
       - Loot: species/human/loot.md  
