@@ -19,13 +19,17 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                                                         |
-| ----- | ---------------------------------------------------------------------- |
-| 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem |
-| 2     | Aptidão + Golpe Letal + Flecha Silenciadora + Lâmina Elétrica          |
-| 3     | Atributos + Resiliência + (Flecha Atordoadora \| Serra)                |
-| 4     | Competência + Gancho Magnético + Chamariz                              |
-| 5     | Atributos + Resiliência + (Flecha Arpão \| Nuvem de Lâminas)           |
+| Nível | Aprimoramentos                                                              |
+| ----- | --------------------------------------------------------------------------- |
+| 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem      |
+| 2     | Resiliência + Aptidão + Golpe Letal + Flecha Silenciadora + Lâmina Elétrica |
+| 3     | Resiliência + Atributos + Resiliência + (Flecha Atordoadora \| Serra)       |
+| 4     | Resiliência + Competência + Gancho Magnético + Chamariz                     |
+| 5     | Resiliência + Atributos + Resiliência + (Flecha Arpão \| Nuvem de Lâminas)  |
+
+### Resiliência (2 - 5)
+
+Você recebe 1RF, 1RM e 1EN a mais.
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -92,9 +96,6 @@ Opção 1:
 Opção 2:
 
 - Você desativa/ativa um dispositivo de complexidade média ou inferior ao tocar com sua lâmina e manter contato por 2 turnos.
-
-### Resiliência (3, 5)
-Você recebe 1RF e 1RM a mais.
 
 ### Flecha Atordoadora (3) :arrow_forward:
 

@@ -28,13 +28,17 @@ Todo e qualquer check que seu drone precisar fazer, seja ele para esquivar, atac
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                                                                    |
-| ----- | --------------------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Legenda: Construtos |
-| 2     | Aptidão + Drone: Torre + Drone: Laser                                             |
-| 3     | Atributos + Resiliência + (Drone: Morteiro \| Drone: Sobrecarga)                  |
-| 4     | Competência + Reforge + Drone: Escudo                                             |
-| 5     | Atributos + Resiliência + (Drone: Bomba Magnética \| Drone: Parasita)             |
+| Nível | Aprimoramentos                                                                      |
+| ----- | ----------------------------------------------------------------------------------- |
+| 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Legenda: Construtos   |
+| 2     | Resiliência + Aptidão + Drone: Torre + Drone: Laser                                 |
+| 3     | Resiliência + Atributos + Resiliência + (Drone: Morteiro \| Drone: Sobrecarga)      |
+| 4     | Resiliência + Competência + Reforge + Drone: Escudo                                 |
+| 5     | Resiliência + Atributos + Resiliência + (Drone: Bomba Magnética \| Drone: Parasita) |
+
+### Resiliência (2 - 5)
+
+Você recebe 1RF, 1RM e 1EN a mais.
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -105,9 +109,6 @@ A.N.E transforma a energia do drone em projéteis de laser, causando dano de ene
 - Drone não consome munição.
 - Os ataques do drone causam 1RM dano extra.
 - O tipo do dano é convertido para o tipo energia.
-
-### Resiliência (3, 5)
-Você recebe 1RF e 1RM a mais.
 
 ### Drone: Morteiro (3) :arrow_forward:
 

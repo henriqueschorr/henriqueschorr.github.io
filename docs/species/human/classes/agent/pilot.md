@@ -19,10 +19,14 @@ Todo e qualquer check que você for fazer com seu planador, inclusive caso você
 | Nível | Aprimoramentos                                                                |
 | ----- | ----------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Rastro de Sangue |
-| 2     | Chuva Balística + Mandíbula                                                   |
-| 3     | Atributos + Resiliência + (Chuva Explosiva \| Giro Mortal)                    |
-| 4     | Competência + Abdução + Defletor                                              |
-| 5     | Atributos + Resiliência + (Integração \| Canhão Yamato)                       |
+| 2     | Resiliência + Chuva Balística + Mandíbula                                     |
+| 3     | Resiliência + Atributos + Resiliência + (Chuva Explosiva \| Giro Mortal)      |
+| 4     | Resiliência + Competência + Abdução + Defletor                                |
+| 5     | Resiliência + Atributos + Resiliência + (Integração \| Canhão Yamato)         |
+
+### Resiliência (2 - 5)
+
+Você recebe 1RF, 1RM e 1EN a mais.
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -82,9 +86,6 @@ A.N.E. tensiona as lâminas do seu planador e junta ela com uma extrema força l
 - Criatura alvo pode Esquivar e Defender este ataque.
 - Utilize o dano de uma lâmina e dobre-o para determinar o dano total.
 - Este ataque tem [Penetração](../../../../rules/play/damage.md#penetração).
-
-### Resiliência (3, 5)
-Você recebe 1RF e 1RM a mais.
 
 ### Chuva Explosiva (3) :fast_forward: :large_orange_diamond: 
 

@@ -16,13 +16,17 @@ Especializado em comandar e organizar uma equipe para torná-los funcionais. Est
 | 4     | [Rede Neural](#rede-neural-4-▶️) + [Proteção Neural](#proteção-neural-4-▶️-🔶)                                                       |
 | 5     | [Arte da Guerra](#arte-da-guerra-5-🔄) \| [Palavra Final](#palavra-final-5-⏩)                                                          | -->
 
-| Nível | Aprimoramentos                                                          |
-| ----- | ----------------------------------------------------------------------- |
+| Nível | Aprimoramentos                                                                        |
+| ----- | ------------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Inspiração |
-| 2     | Aptidão + Raciocínio Rápido + Preparação + Sugestão                     |
-| 3     | Atributos + Resiliência + (Planejamento \| Comando)                     |
-| 4     | Competência + Rede Neural + Proteção Neural                             |
-| 5     | Atributos + Resiliência + (Arte da Guerra \| Palavra Final)             |
+| 2     | Resiliência + Aptidão + Raciocínio Rápido + Preparação + Sugestão                     |
+| 3     | Resiliência + Atributos + (Planejamento \| Comando)                                   |
+| 4     | Resiliência + Competência + Rede Neural + Proteção Neural                             |
+| 5     | Resiliência + Atributos + Resiliência + (Arte da Guerra \| Palavra Final)             |
+
+### Resiliência (2 - 5)
+
+Você recebe 1RF, 1RM e 1EN a mais.
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -99,10 +103,6 @@ Opção 1:
 Opção 2:
 
 - 1 criatura sofre 1RM de dano.
-
-### Resiliência (3, 5)
-
-Você recebe 1RF e 1RM a mais.
 
 ### Planejamento (3) :clock9: :large_orange_diamond:
 

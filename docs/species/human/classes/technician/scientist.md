@@ -21,13 +21,17 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                                                                  |
-| ----- | ------------------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Legenda: Orgânicos |
-| 2     | Aptidão + Dardo Perfurador + Infusor de Projétil                                |
-| 3     | Atributos + Resiliência + (Dardo Liberador \| Infusor de Armadura)              |
-| 4     | Competência + Potencializador Químico + Redoma Protetora                        |
-| 5     | Atributos + Resiliência + (Histeria \| Caos)                                    |
+| Nível | Aprimoramentos                                                                   |
+| ----- | -------------------------------------------------------------------------------- |
+| 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Legenda: Orgânicos  |
+| 2     | Resiliência + Aptidão + Dardo Perfurador + Infusor de Projétil                   |
+| 3     | Resiliência + Atributos + Resiliência + (Dardo Liberador \| Infusor de Armadura) |
+| 4     | Resiliência + Competência + Potencializador Químico + Redoma Protetora           |
+| 5     | Resiliência + Atributos + Resiliência + (Histeria \| Caos)                       |
+
+### Resiliência (2 - 5)
+
+Você recebe 1RF, 1RM e 1EN a mais.
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -81,9 +85,6 @@ A.N.E faz com que seu infusor seja capaz de infundir armamentos do tipo equipame
 
 - Escolha um armamento do tipo equipamento que lança projéteis.
 - Por 2 turnos todos os projéteis lançados por este armamento estarão infudidos.
-
-### Resiliência (3, 5)
-Você recebe 1RF e 1RM a mais.
 
 ### Dardo Liberador (3) :arrow_forward:
 

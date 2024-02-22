@@ -20,13 +20,17 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 ## Aprimoramentos
 
-| Nível | Aprimoramentos                                                                  |
-| ----- | ------------------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada |
-| 2     | Aptidão + Arsenal + Precisão + Barragem de Tiros                                |
-| 3     | Atributos + Resiliência + (Precisão Aleijadora \| Barragem Supressora)          |
-| 4     | Competência + Recarga Magnética + Barricada Individual                          |
-| 5     | Atributos + Resiliência + (Tiro Marcador \| Tiro Granadeiro)                    |
+| Nível | Aprimoramentos                                                                       |
+| ----- | ------------------------------------------------------------------------------------ |
+| 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada      |
+| 2     | Resiliência + Aptidão + Arsenal + Precisão + Barragem de Tiros                       |
+| 3     | Resiliência + Atributos + Resiliência + (Precisão Aleijadora \| Barragem Supressora) |
+| 4     | Resiliência + Competência + Recarga Magnética + Barricada Individual                 |
+| 5     | Resiliência + Atributos + Resiliência + (Tiro Marcador \| Tiro Granadeiro)           |
+
+### Resiliência (2 - 5)
+
+Você recebe 1RF, 1RM e 1EN a mais.
 
 ### Aprimoramento de Atributos (1, 3, 5)
 
@@ -95,9 +99,6 @@ A.N.E. acelera a cadência de tiro do seu fuzil de assalto, permitindo você rea
     - Área em cone, podendo acertar até 3 criaturas diferentes.
 - Você deve realizar checks de combate individuais para cada tiro.
 - Criaturas na área de efeito podem Esquivar e Defender este ataque.
-
-### Resiliência (3, 5)
-Você recebe 1RF e 1RM a mais.
 
 ### Precisão Aleijadora (3) :arrow_forward: :large_orange_diamond:
 
