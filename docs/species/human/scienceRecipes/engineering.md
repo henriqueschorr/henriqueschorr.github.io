@@ -104,7 +104,7 @@ Todos os aprimoramentos de equipamentos II possuem [complexidade Alta](../../../
 
 ### Lâmina Fragmento: Fragmentação Extra
 
-A Lâmina fragmento é capaz de se fragmentar em 2 extras fragmentos.
+A Lâmina fragmento é capaz de se fragmentar em 2 fragmentos extras.
 
 ### Pistola Cinética: Explosão Sônica
 

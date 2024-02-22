@@ -43,28 +43,28 @@ Soluções simples, como o próprio nome já diz, são soluções simples de ser
 
 Soluções elementais liberam elementos na área, causando dano no tipo do elemento ou criando terrenos. Possuem [Complexidade de criação Média](../../../rules/science/actions.md#construir-ou-criar).
 
-| Receita    | Consumo | Receita             | Efeito                                                                                        |
-| ---------- | ------- | ------------------- | --------------------------------------------------------------------------------------------- |
-| Fogo       | Toque   | 3x Material Químico | 2RF dano fogo para cada 3VAD Cérebro. Área esfera 4m.                                         |
-| Gelo       | Toque   | 3x Material Químico | 2RF dano gelo para cada 3VAD Cérebro. Área esfera 4m.                                         |
-| Escorregão | Toque   | 3x Material Químico | Check Agilidade ou Caído. Área esfera 4m.                                                     |
-| Ácido      | Toque   | 3x Material Químico | 2RF dano corrosivo para cada 3VAD Cérebro. Área esfera 4m.                                    |
+| Receita    | Consumo | Receita             | Efeito                                                                                     |
+| ---------- | ------- | ------------------- | ------------------------------------------------------------------------------------------ |
+| Fogo       | Toque   | 3x Material Químico | 2RF dano fogo para cada 3VAD Cérebro. Área esfera 4m.                                      |
+| Gelo       | Toque   | 3x Material Químico | 2RF dano gelo para cada 3VAD Cérebro. Área esfera 4m.                                      |
+| Escorregão | Toque   | 3x Material Químico | Check Agilidade ou Caído. Área esfera 4m.                                                  |
+| Ácido      | Toque   | 3x Material Químico | 2RF dano corrosivo para cada 3VAD Cérebro. Área esfera 4m.                                 |
 | Parede     | Toque   | 3x Material Químico | Cria uma estrutura como se fosse uma parede de 2mx2m e 30cm de expessura. Possui 10 AP:RF. |
 
 ## Solução Avançada
 
 Soluções avançadas necessitam de mais materiais, tempo e concentração para serem produzidas. Soluções avançadas tem [Complexidade de criação Média](../../../rules/science/actions.md#construir-ou-criar).
 
-| Receita          | Consumo   | Componentes                                | Efeito                                                                                             |
-| ---------------- | --------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| Med-Gel Avançado | Ingestão  | 3x Material Químico                        | Cura 2RF para cada 3VAD Cérebro.                                                                   |
-| Calmante         | Ingestão  | 2x Material Químico                        | Cura 2RM para cada 3VAD Cérebro.                                                                   |
-| Liberador        | Inalação  | 4x Material Químico                        | Remove qualquer aflição.                                                                           |
-| Ritalina         | Ingestão  | 4x Material Químico                        | Incentivado 2.                                                                                     |
-| Overclock        | Inalação  | 3x Material Químico, 2x Material Biológico | Acelerado 2.                                                                                       |
-| Eclipse          | Aplicação | 3x Material Químico, 2x Material Biológico | Incapacitado 2 (Sentidos).                                                                         |
-| Lobotomia        | Aplicação | 3x Material Químico, 2x Material Biológico | Check Cérebro. Falha: Dano Persistente 2 (RM) (Neural). Sucesso: Dano Persistente 1 (RM) (Neural). |
-| Asfalto          | Toque     | 2x Material Químico, 4x Material Biológico | Check Físico ou Preso 2. Inflamável: Dano Persistente 2 (RF) (Fogo). Área esfera 4m.               |
+| Receita           | Consumo   | Componentes                                | Efeito                                                                                             |
+| ----------------- | --------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| Med-Gel Avançado  | Ingestão  | 3x Material Químico                        | Cura 2RF para cada 3VAD Cérebro.                                                                   |
+| Calmante Avançado | Ingestão  | 3x Material Químico                        | Cura 2RM para cada 3VAD Cérebro.                                                                   |
+| Liberador         | Inalação  | 4x Material Químico                        | Remove qualquer aflição.                                                                           |
+| Ritalina          | Ingestão  | 4x Material Químico                        | Incentivado 2.                                                                                     |
+| Overclock         | Inalação  | 3x Material Químico, 2x Material Biológico | Acelerado 2.                                                                                       |
+| Eclipse           | Aplicação | 3x Material Químico, 2x Material Biológico | Incapacitado 2 (Sentidos).                                                                         |
+| Lobotomia         | Aplicação | 3x Material Químico, 2x Material Biológico | Check Cérebro. Falha: Dano Persistente 2 (RM) (Neural). Sucesso: Dano Persistente 1 (RM) (Neural). |
+| Asfalto           | Toque     | 2x Material Químico, 4x Material Biológico | Check Físico ou Preso 2. Inflamável: Dano Persistente 2 (RF) (Fogo). Área esfera 4m.               |
 
 ## Solução Especial
 
