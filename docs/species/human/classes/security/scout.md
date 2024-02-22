@@ -2,10 +2,6 @@ Esta é a Especialização ideal para quem gosta de se esgueirar pelas linhas in
 
 ![Batedor](../../../../images/human/scout.jpg){ width="300", align="right" }
 
-## Passiva: Golpe Letal
-
-Sucessos críticos em checks de ataque causam [Explosão de Dano](../../../../rules/play/damage.md#explosão-de-dano).
-
 ## Equipamento Inicial
 
 [A.N.E. Leve](../../../human/ane.md), 1x [Arco Composto](../../equipment/weapons.md#armas-brancas), 1x [Lâmina Fragmento](../../equipment/weapons.md#armas-brancas), 2x [Armadilha](../../equipment/weapons.md#armadilhas), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).  
@@ -26,7 +22,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | Nível | Aprimoramentos                                                         |
 | ----- | ---------------------------------------------------------------------- |
 | 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem |
-| 2     | Aptidão + Flecha Silenciadora + Lâmina Elétrica                        |
+| 2     | Aptidão + Golpe Letal + Flecha Silenciadora + Lâmina Elétrica          |
 | 3     | Atributos + Resiliência + (Flecha Atordoadora \| Serra)                |
 | 4     | Competência + Gancho Magnético + Chamariz                              |
 | 5     | Atributos + Resiliência + (Flecha Arpão \| Nuvem de Lâminas)           |
@@ -56,6 +52,11 @@ A.N.E aciona a camuflagem, tornando você efetivamente Camuflado quanto ao cená
 ### Aprimoramento de Aptidão (2)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+
+### Golpe Letal (2)
+
+_Passiva_
+Sucessos críticos em checks de ataque causam [Explosão de Dano](../../../../rules/play/damage.md#explosão-de-dano).
 
 ### Flecha Silenciadora (2) :arrow_forward:
 
