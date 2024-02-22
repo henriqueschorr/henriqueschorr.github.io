@@ -48,9 +48,7 @@ Você pode absorver ou carregar os seguintes:
 
 Equipamento exclusivo dos Cientistas. Têm a aparência de mochila rígida grande que você pode carregar nas costas, substituindo a mochila tática e tendo as mesmas funções. Você pode realizar as seguintes ações com o laboratório móvel:
 
-**Criar Soluções:** Você consegue criar até 5 soluções por vez.  
-**Criar Dardos Infusores:** Você consegue criar até 5 dardos infusores por vez.  
-**Criar Kit Médico:** Você consegue criar até 3 kit médicos por vez.
+**Criar Item:** Você consegue criar até 5 soluções ou dardos infusores por vez.  Você consegue criar até 3 kit médicos por vez.  
 
 O tempo de criação ou aprimoração de cada item é informado na [Química](../scienceRecipes/chemistry.md) e [Biologia](../scienceRecipes/biology.md).
 
