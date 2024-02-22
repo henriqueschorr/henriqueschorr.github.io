@@ -2,10 +2,6 @@ Especialização focada em combate média-longa distância, prestando apoio a se
 
 ![Soldado](../../../../images/human/soldier.jpg){ width="300", align="right" }
 
-## Passiva: Arsenal
-
-Soldados não gastam ações ao trocar entre seus armamentos principais: Fuzil de Precisão, Fuzil de Assalto, Pistola e Faca de Combate.
-
 ## Equipamento Inicial
 
 [A.N.E. Média](../../../human/ane.md), 1x [Fuzil de Precisão](../../equipment/weapons.md#armas-de-fogo), 1x [Fuzil de Assalto](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 2x [Granadas](../../equipment/weapons.md#explosivos), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 20x [Munição Avançada](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).  
@@ -27,7 +23,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | Nível | Aprimoramentos                                                                  |
 | ----- | ------------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada |
-| 2     | Aptidão + Precisão + Barragem de Tiros                                          |
+| 2     | Aptidão + Arsenal + Precisão + Barragem de Tiros                                |
 | 3     | Atributos + Resiliência + (Precisão Aleijadora \| Barragem Supressora)          |
 | 4     | Competência + Recarga Magnética + Barricada Individual                          |
 | 5     | Atributos + Resiliência + (Tiro Marcador \| Tiro Granadeiro)                    |
@@ -62,6 +58,11 @@ A.N.E. aprimora temporariamente seu visor, tornando sua visão mais clara, focad
 ### Aprimoramento de Aptidão (2)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
+
+### Arsenal (2)
+
+_Passiva_
+Você não gasta ações ao trocar entre seus armamentos principais: Fuzil de Precisão, Fuzil de Assalto, Pistola e Faca de Combate.
 
 ### Precisão (2) :arrow_forward: :large_orange_diamond:
 

@@ -2,10 +2,6 @@ Especializado em comandar e organizar uma equipe para torná-los funcionais. Est
 
 ![Capitão](../../../../images/human/captain2.jpg){ width="300", align="right" }
 
-## Passiva: Raciocínio Rápido
-
-Você não faz rolagem de Iniciativa quando requisitado, em vez disso, você sempre atua na mesma iniciativa do seu aliado mais rápido, podendo escolher agir antes ou depois dele.
-
 ## Equipamento Inicial
 
 [A.N.E. Leve](../../../human/ane.md), 1x [Rifle de Assalto](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 1x [Neurotransmissor](../../equipment/equipments.md#neurotransmissor), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md).
@@ -23,7 +19,7 @@ Você não faz rolagem de Iniciativa quando requisitado, em vez disso, você sem
 | Nível | Aprimoramentos                                                          |
 | ----- | ----------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Inspiração |
-| 2     | Aptidão + Preparação + Sugestão                                         |
+| 2     | Aptidão + Raciocínio Rápido + Preparação + Sugestão                     |
 | 3     | Atributos + Resiliência + (Planejamento \| Comando)                     |
 | 4     | Competência + Rede Neural + Proteção Neural                             |
 | 5     | Atributos + Resiliência + (Arte da Guerra \| Palavra Final)             |
@@ -63,6 +59,11 @@ Ao realizar ações durante o tempo de duração desta habilidade, A.N.E. transm
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
+### Raciocínio Rápido (2)
+
+_Passiva_
+Você não faz rolagem de Iniciativa quando requisitado, em vez disso, você sempre atua na mesma iniciativa do seu aliado mais rápido, podendo escolher agir antes ou depois dele.
+
 ### Preparação (2) :clock9:
 
 _Habilidade (Ajudar)_ \| _Energia, Suporte, Utilidade_  
@@ -98,8 +99,9 @@ Opção 1:
 Opção 2:
 
 - 1 criatura sofre 1RM de dano.
-  
+
 ### Resiliência (3, 5)
+
 Você recebe 1RF e 1RM a mais.
 
 ### Planejamento (3) :clock9: :large_orange_diamond:
