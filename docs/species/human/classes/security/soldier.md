@@ -7,6 +7,10 @@ Especialização focada em combate média-longa distância, prestando apoio a se
 [A.N.E. Média](../../../human/ane.md), 1x [Fuzil de Precisão](../../equipment/weapons.md#armas-de-fogo), 1x [Fuzil de Assalto](../../equipment/weapons.md#armas-de-fogo), 1x [Pistola](../../equipment/weapons.md#armas-de-fogo), 1x [Faca de Combate](../../equipment/weapons.md#armas-brancas), 2x [Granadas](../../equipment/weapons.md#explosivos), 30x [Munição Comum](../../../../rules/weapon_armor/ammo.md), 20x [Munição Avançada](../../../../rules/weapon_armor/ammo.md), 1x [Kit Médico Simples](../../scienceRecipes/biology.md#suporte).  
 Escolha as granadas com que você deseja começar.
 
+## Passiva: Arsenal
+
+Você não gasta ações ao trocar entre seus armamentos principais: Fuzil de Precisão, Fuzil de Assalto, Pistola e Faca de Combate.
+
 ## Ciência: Receitas
 
 Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você necessita de uma estação apropriada para produzir os itens abaixo.
@@ -23,7 +27,7 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | Nível | Aprimoramentos                                                                       |
 | ----- | ------------------------------------------------------------------------------------ |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada      |
-| 2     | Resiliência + Aptidão + Arsenal + Precisão + Barragem de Tiros                       |
+| 2     | Resiliência + Aptidão + Precisão + Barragem de Tiros                                 |
 | 3     | Resiliência + Atributos + Resiliência + (Precisão Aleijadora \| Barragem Supressora) |
 | 4     | Resiliência + Competência + Recarga Magnética + Barricada Individual                 |
 | 5     | Resiliência + Atributos + Resiliência + (Tiro Marcador \| Tiro Granadeiro)           |
@@ -62,11 +66,6 @@ A.N.E. aprimora temporariamente seu visor, tornando sua visão mais clara, focad
 ### Aprimoramento de Aptidão (2)
 
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
-
-### Arsenal (2)
-
-_Passiva_
-Você não gasta ações ao trocar entre seus armamentos principais: Fuzil de Precisão, Fuzil de Assalto, Pistola e Faca de Combate.
 
 ### Precisão (2) :arrow_forward: :large_orange_diamond:
 
