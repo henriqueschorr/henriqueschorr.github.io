@@ -33,6 +33,7 @@ Granadas e Minas ocupam 1 espaço de inventário de equipamento cada.
 | Munição Comum           | Baixa        | 1x Sucatas                                               |     10     |
 | Munição Avançada        | Baixa        | 1x Sucatas                                               |     5      |
 | Munição Energia         | Baixa        | 2x Sucatas, 1x Material Tecnológico                      |     5      |
+| Munição Químico         | Baixa        | 2x Sucatas, 1x Material Químico                          |     5      |
 | Munição Míssil          | Média        | 6x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
 | Granada de Atordoamento | Média        | 4x Sucatas, 1x Material Tecnológico, 1x Material Químico |     1      |
 | Granada de Fragmentação | Média        | 6x Sucatas, 1x Material Tecnológico                      |     1      |

@@ -23,11 +23,11 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 
 | Nível | Aprimoramentos                                                                   |
 | ----- | -------------------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Legenda: Orgânicos  |
+| 1     | Atributos + Perícia Cientista + [A.N.E. Leve Cientista](../../../human/ane.md) + Legenda: Orgânicos  |
 | 2     | Resiliência + Aptidão + Dardo Perfurador + Infusor de Projétil                   |
-| 3     | Resiliência + Atributos + Resiliência + (Dardo Liberador \| Infusor de Armadura) |
+| 3     | Resiliência + Atributos + (Dardo Liberador \| Infusor de Armadura) |
 | 4     | Resiliência + Competência + Potencializador Químico + Redoma Protetora           |
-| 5     | Resiliência + Atributos + Resiliência + (Histeria \| Caos)                       |
+| 5     | Resiliência + Atributos + (Histeria \| Caos)                       |
 
 ### Resiliência (2 - 5)
 
@@ -38,7 +38,7 @@ Você recebe 1RF, 1RM e 1EN a mais.
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
-### Perícia (1)
+### Perícia Cientista (1)
 
 Você possui perícia nas áreas de Química e Biologia.
 Você pode escolher uma das outras áreas da ciência para adquirir Perícia.

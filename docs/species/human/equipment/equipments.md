@@ -71,7 +71,8 @@ Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E.
 
 **Analisar Linguagem:** 1 ação. Através de uma análise da entonação, movimentação e maneirismos de uma criatura de linguagem desconhecida, você consegue formar uma base crua dela. Você entende de maneira geral o contexto da mensagem que a criatura está tentando lhe passar.
 
-Além disso o neurotransmissor lhe concede **1 AP:RM**.
+#### Resiliência
+Neurotransmissor também lhe concede **1 AP:RM** e resistência a dano Neural.
 
 ## Geral
 
@@ -83,7 +84,7 @@ Permite a comunicação subvocal entre aliados que também possuam um comunicado
 
 ### Lanterna de cabeça
 
-Emite luz forte em área de 4m e luz fraca em uma área de 8m.
+Emite luz forte em área de 4m e luz fraca em uma área de 8m. Alcance efetivo de até 20m.
 
 ### Monitor de Informações
 

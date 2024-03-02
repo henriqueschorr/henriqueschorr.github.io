@@ -27,9 +27,9 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ----- | -------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia +[A.N.E. Leve](../../../human/ane.md) + Camuflagem     |
 | 2     | Resiliência + Aptidão + Flecha Silenciadora + Lâmina Elétrica              |
-| 3     | Resiliência + Atributos + Resiliência + (Flecha Atordoadora \| Serra)      |
+| 3     | Resiliência + Atributos + (Flecha Atordoadora \| Serra)      |
 | 4     | Resiliência + Competência + Gancho Magnético + Chamariz                    |
-| 5     | Resiliência + Atributos + Resiliência + (Flecha Arpão \| Nuvem de Lâminas) |
+| 5     | Resiliência + Atributos + (Flecha Arpão \| Nuvem de Lâminas) |
 
 ### Resiliência (2 - 5)
 

@@ -20,9 +20,9 @@ Todo e qualquer check que você for fazer com seu planador, inclusive caso você
 | ----- | ----------------------------------------------------------------------------- |
 | 1     | Atributos + Perícia + [A.N.E. Leve](../../../human/ane.md) + Rastro de Sangue |
 | 2     | Resiliência + Chuva Balística + Mandíbula                                     |
-| 3     | Resiliência + Atributos + Resiliência + (Chuva Explosiva \| Giro Mortal)      |
+| 3     | Resiliência + Atributos + (Chuva Explosiva \| Giro Mortal)      |
 | 4     | Resiliência + Competência + Abdução + Defletor                                |
-| 5     | Resiliência + Atributos + Resiliência + (Integração \| Canhão Yamato)         |
+| 5     | Resiliência + Atributos + (Integração \| Canhão Yamato)         |
 
 ### Resiliência (2 - 5)
 

@@ -15,12 +15,12 @@ Você não gasta ações ao trocar entre seus armamentos principais: Fuzil de Pr
 
 Abaixo você encontra uma tabela informando quais receitas você é capaz de produzir de acordo com seu valor na aptidão de cérebro. Você necessita de uma estação apropriada para produzir os itens abaixo.
 
-| Cérebro | Receitas                                                      |
-| ------- | ------------------------------------------------------------- |
-| 30      | Munição Comum                                                 |
-| 35      | Granada de Fragmentação                                       |
-| 40      | Granada de Luz, Granada de Fumaça                             |
-| 50      | Munição Químico, Granada Termobarica, Granada de Atordoamento |
+| Cérebro | Receitas                                |
+| ------- | --------------------------------------- |
+| 30      | Munição Comum                           |
+| 35      | Granada de Fragmentação                 |
+| 40      | Granada de Luz, Granada de Atordoamento |
+| 50      | Munição Químico, Granada Termobarica    |
 
 ## Aprimoramentos
 
@@ -28,9 +28,9 @@ Abaixo você encontra uma tabela informando quais receitas você é capaz de pro
 | ----- | ------------------------------------------------------------------------------------ |
 | 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Visão Aprimoraada      |
 | 2     | Resiliência + Aptidão + Precisão + Barragem de Tiros                                 |
-| 3     | Resiliência + Atributos + Resiliência + (Precisão Aleijadora \| Barragem Supressora) |
+| 3     | Resiliência + Atributos +  (Precisão Aleijadora \| Barragem Supressora) |
 | 4     | Resiliência + Competência + Recarga Magnética + Barricada Individual                 |
-| 5     | Resiliência + Atributos + Resiliência + (Tiro Marcador \| Tiro Granadeiro)           |
+| 5     | Resiliência + Atributos + (Tiro Marcador \| Tiro Granadeiro)           |
 
 ### Resiliência (2 - 5)
 
@@ -145,7 +145,7 @@ Você recebe 10 pontos de competência para distribuir, podendo colocar 10 ponto
 
 _Habilidade (Ação Livre - Recarregar)_ \| _Energia, Utilidade_  
 **Custo:** 1x Célula de Energia (EN)  
-**Alvo:** Munições e Armamentos
+**Alvo:** Munições e Armamentos  
 **Alcance:** A munição não pode estar a mais de 4 metros de você. Os armamentos devem estar em sua posse  
 A.N.E. cria uma linha magnética entre todos seus armamentos e suas munições apropriadas.
 
@@ -170,7 +170,7 @@ A.N.E. cria uma barricada de energia a partir dela mesmo diretamente a sua frent
 _Habilidade (Atacar)_ \| _Energia, Ofensivo, Utilidade_  
 **Requerimento:** Fuzil de Precisão  
 **Custo:** 2x Célula de Energia (EN), 3x Munição  
-**Duração:** 2 turnos
+**Duração:** 2 turnos  
 **Alcance:** Alcance efetivo do armamento  
 A.N.E. modifica uma de suas munições e você dispara com seu fuzil de precisão. O projétil marca o alvo, fazendo com que 2 outros projéteis são disparados do seu inventário automaticamente. O alvo também permanece marcado com uma aura, fazendo ataques a distância serem mais fáceis.
 

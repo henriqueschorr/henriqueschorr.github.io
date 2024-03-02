@@ -30,11 +30,11 @@ Todo e qualquer check que seu drone precisar fazer, seja ele para esquivar, atac
 
 | Nível | Aprimoramentos                                                                      |
 | ----- | ----------------------------------------------------------------------------------- |
-| 1     | Atributos + Perícia + [A.N.E. Média](../../../human/ane.md) + Legenda: Construtos   |
+| 1     | Atributos + Perícia Engenheiro + [A.N.E. Média Engenheiro](../../../human/ane.md) + Legenda: Construtos   |
 | 2     | Resiliência + Aptidão + Drone: Torre + Drone: Laser                                 |
-| 3     | Resiliência + Atributos + Resiliência + (Drone: Morteiro \| Drone: Sobrecarga)      |
+| 3     | Resiliência + Atributos + (Drone: Morteiro \| Drone: Sobrecarga)      |
 | 4     | Resiliência + Competência + Reforge + Drone: Escudo                                 |
-| 5     | Resiliência + Atributos + Resiliência + (Drone: Bomba Magnética \| Drone: Parasita) |
+| 5     | Resiliência + Atributos + (Drone: Bomba Magnética \| Drone: Parasita) |
 
 ### Resiliência (2 - 5)
 
@@ -45,7 +45,7 @@ Você recebe 1RF, 1RM e 1EN a mais.
 Você recebe 10 pontos de aptidão para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 Você recebe 10 pontos de competência para distribuir, podendo colocar 10 pontos em uma das opções ou dividir 5 pontos em duas.
 
-### Perícia (1)
+### Perícia Engenheiro (1)
 
 Você possui perícia nas áreas de Computação e Engenharia.
 Você pode escolher uma das outras áreas da ciência para adquirir Perícia.
