@@ -16,7 +16,8 @@ theme:
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
-    - Home: index.md
+    - Home: 
+      - index.md
     - Personagem:
       - character/index.md
       - Espécies: character/species.md
