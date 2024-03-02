@@ -16,8 +16,8 @@ theme:
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
-    - Home: 
-      - index.md
+    # - Home: 
+    #   - index.md
     - Personagem:
       - character/index.md
       - Espécies: character/species.md
@@ -127,8 +127,8 @@ nav:
 #   - Symbions:
 #       - Introdução: species/symbion/introduction.md
 
-# extra_css:
-#   - stylesheets\extra.css
+extra_css:
+  - stylesheets\extra.css
 # extra_javascript:
 #   - javascripts\list.js
 
