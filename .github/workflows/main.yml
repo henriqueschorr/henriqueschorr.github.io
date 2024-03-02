@@ -17,6 +17,7 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXTRA_PACKAGES: pymdown-extensions
     # steps:
     #   - uses: actions/checkout@v1
     #   - uses: actions/setup-python@v4
