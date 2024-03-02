@@ -16,8 +16,6 @@ theme:
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
-    # - Home: 
-    #   - index.md
     - Personagem:
       - character/index.md
       - Espécies: character/species.md
@@ -148,7 +146,7 @@ extra_css:
 markdown_extensions:
   - attr_list
   - md_in_html
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
-  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 # https://github.com/mhausenblas/mkdocs-deploy-gh-pages#installing-extra-packages
