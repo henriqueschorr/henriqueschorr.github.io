@@ -36,7 +36,7 @@ Apresenta os possíveis armamentos que os humanos podem possuir e utilizar.
 [Ciência e Receitas](./scienceRecipes/index.md)  
 Apresenta as receitas das várias áreas da ciência que os humanos podem produzir.
 
-[Parceiros](./companion.md)  
+[Parceiros](./partner.md)  
 Apresenta os parceiros que seu personagem humano pode possuir.
 
 [Transportes](./transports/flying.md)  
