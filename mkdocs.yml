@@ -126,8 +126,8 @@ nav:
 #   - Symbions:
 #       - Introdução: species/symbion/introduction.md
 
-extra_css:
-  - stylesheets\extra.css
+# extra_css:
+#   - stylesheets\extra.css
 # extra_javascript:
 #   - javascripts\list.js
 
