@@ -1,1 +1,0 @@
-Como padrão, seu personagem irá começar no nível 1, podendo atingir um nível máximo de 5. A cada nível seu personagem terá acesso a novos aprimoramentos, assim como melhorias em atributos. Os benefícios recebidos em cada nível são específicos para cada espécie e estão disponíveis nos livros de cada uma separadamente.

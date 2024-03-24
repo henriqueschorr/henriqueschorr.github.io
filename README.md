@@ -18,3 +18,12 @@ Create from https://github.com/mhausenblas/mkdocs-template
 ## Publishing
 
 1. `git push`
+
+## Modifying Cards
+
+1. Modify on Photoshop
+2. Save on bth-data/cards
+3. Update 'Aprimoramentos' sheet
+4. Update Character Sheet
+5. Update this project
+6. Update google drive

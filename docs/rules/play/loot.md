@@ -1,2 +1,0 @@
-Ao longo da aventura seus personagens precisarão repor as munições, recursos, alimentações, etc. Para facilitar a vida do MU, a mecânica de loot e suas tabelas foram criadas para determinar de maneira fácil o que o grupo irá obter. A tabela varia de espécie para espécie, você pode ter uma ideia olhando a dos [Humanos](../../species/human/loot.md).  
-Siga as regras determinadas para cada espécie presente no seu grupo.  

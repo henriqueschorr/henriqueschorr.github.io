@@ -1,5 +1,4 @@
 site_name: Beyond the Horizon
-docs_dir: docs/
 theme:
   name: "material"
   font:
@@ -12,142 +11,66 @@ theme:
     - navigation.indexes
 # site_description: 'Documentação para o RPG Beyond the Horizon (BTH)'
 # site_author: 'Henrique Schorr'
+# docs_dir: docs
 # repo_name: 'mhausenblas/mkdocs-template'
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 nav:
-    - Personagem:
-      - character/index.md
-      - Espécies: character/species.md
-      - Aptidões: character/aptitudes.md
-      - Competências: character/skills.md
-      - Resiliência: character/resilience.md
-      - Anatomia: character/anatomy.md
-      - Sobrevivência: character/survival.md
-      - Rapidez: character/quickness.md
-      - Conhecimento Científico: character/scienceKnowledge.md
-      - Passivas: character/passives.md
-      - Ações, Reações e Habilidades: character/actionsReactions.md
-      - Armamentos e Armaduras: character/weaponArmor.md
-      - Inventário: character/inventory.md       
-      - Aprimoramentos: character/upgrades.md
-      - Nível: character/level.md
-      - Parceiro: character/partner.md
-      - Transporte: character/transport.md
-    - Regras:
-      - rules/index.md        
-      - Jogando:
-        - rules/play/index.md
-        - Checks e Rolagens: rules/play/checks.md
-        - Modificadores Situacionais: rules/play/situationalModifiers.md
-        - Aflições: rules/play/afflictions.md
-        - Benefícios (Buffs): rules/play/buffs.md
-        - Ações: rules/play/actions.md
-        - Ações Livres: rules/play/freeActions.md
-        - Reações: rules/play/reactions.md
-        - Habilidades: rules/play/abilities.md
-        - Alcance e Área de Efeito: rules/play/reachArea.md
-        - Dano: rules/play/damage.md
-        - Morte: rules/play/death.md
-        # - Furtividade e Vigia: rules/play/stealth.md
-        - Combo: rules/play/combo.md
-        - Descanso: rules/play/rests.md
-        - Loot: rules/play/loot.md
-        - Modos de Jogo:
-          - rules/play/game_modes/index.md
-          - Encontro: rules/play/game_modes/encounter.md
-          - Exploração: rules/play/game_modes/exploration.md                 
-      - Anatomia:
-        - rules/anatomy/index.md
-        - Corpo: rules/anatomy/body.md
-        - Movimento: rules/anatomy/movement.md
-        - Sentidos: rules/anatomy/senses.md
-      - Ciência:
-        - rules/science/index.md
-        - Conhecimento: rules/science/knowledge.md
-        - Mecânicas Bases: rules/science/mechanics.md
-        - Recursos: rules/science/resources.md
-        - Ações e Atividades: rules/science/actions.md
-      - Armamentos e Armaduras:
-        - rules/weapon_armor/index.md
-        - Armamentos: rules/weapon_armor/weapon.md
-        - Armaduras: rules/weapon_armor/armor.md
-        - Munição: rules/weapon_armor/ammo.md
-      - Inventário: rules/inventory.md
-      - Aprimoramentos: rules/upgrades.md
-      - Ambientação:
-        - rules/ambiance/index.md
-        - Fenômenos Naturais: rules/ambiance/ambiance.md
-        - Mecânicas Bases: rules/ambiance/mechanics.md
-      - Criaturas: rules/creatures.md
-      - Parceiros: rules/partner.md
-      - Transporte: rules/transport.md
-      - Marcadores:
-        - rules/tags/index.md
-        - Espécie e Criaturas: rules/tags/creatures.md
-        - Habilidades: rules/tags/abilities.md
-        - Armamentos e Equipamentos: rules/tags/weaponEquipment.md
-        - Transporte: rules/tags/transport.md
+    - index.md
+    - Manuscrito:
+      # - Introdução:
+      #   - 1_core/1_introduction/index.md
+      - Criação de Personagem: 
+        - 1_core/2_character/index.md
+        - Exemplo: 1_core/2_character/example.md
+        - Avanço de Atributos e Impacto: 1_core/2_character/advance.md
+      - O Jogo:
+        - 1_core/3_game/index.md
+        - Combate: 1_core/3_game/combat.md
+        - Social: 1_core/3_game/social.md
+        - Ações e Reações:  1_core/3_game/actions.md
+        - Checks: 1_core/3_game/checks.md
+        - Recursos: 1_core/3_game/resources.md
+        - Dano e Resiliência: 1_core/3_game/damage.md
+        - Condições: 1_core/3_game/conditions.md
+        - Countdowns: 1_core/3_game/countdown.md
+        - Distância, Movimento e Tamanho: 1_core/3_game/distance.md
+        - Alvos, Proteção e Visão: 1_core/3_game/target.md        
+        - Descanso, Morte e Trauma: 1_core/3_game/death.md              
+        - Armamentos e Armaduras: 1_core/3_game/weapon_armor.md
+        - Propriedades: 1_core/3_game/properties.md
+        - Inventário, Equipamentos e Munições: 1_core/3_game/inventory.md    
+        - Crafting: 1_core/3_game/crafting.md  
+        - Companion: 1_core/3_game/companion.md   
+        - Transporte: 1_core/3_game/transport.md
+        - Criaturas e Monstros: 1_core/3_game/creatures.md
     - Humanos:
-      - species/human/index.md
-      - Características Básicas: species/human/basics.md
-      - Progressão: species/human/progression.md
-      - A.N.E.: species/human/ane.md
+      - 2_human/index.md
       - Classes:
-        - species/human/classes/index.md
+        - 2_human/classes/index.md
         - Agente:
-          - species/human/classes/agent/index.md
-          - Capitão: species/human/classes/agent/captain.md
-          - Piloto: species/human/classes/agent/pilot.md
+          - 2_human/classes/agent/index.md
+          - Capitão: 2_human/classes/agent/captain.md
+          - Piloto: 2_human/classes/agent/pilot.md
         - Segurança:
-          - species/human/classes/security/index.md
-          - Soldado: species/human/classes/security/soldier.md
-          - Batedor: species/human/classes/security/scout.md
+          - 2_human/classes/security/index.md
+          - Batedor: 2_human/classes/security/scout.md
+          - Soldado: 2_human/classes/security/soldier.md          
         - Técnico:
-          - species/human/classes/technician/index.md
-          - Cientista: species/human/classes/technician/scientist.md
-          - Engenheiro: species/human/classes/technician/engineer.md        
-      - Equipamentos:
-        - species/human/equipment/index.md
-        - Armamentos: species/human/equipment/weapons.md
-        - Equipamentos: species/human/equipment/equipments.md      
-      - Ciência Receitas:
-        - species/human/scienceRecipes/index.md
-        - Química: species/human/scienceRecipes/chemistry.md
-        - Biologia: species/human/scienceRecipes/biology.md
-        - Engenharia: species/human/scienceRecipes/engineering.md
-      - Parceiros: species/human/partner.md  
-      - Transportes:
-        - Aéreos, Espaciais e Flutuantes: species/human/transports/flying.md
-      - Loot: species/human/loot.md  
-#   - Hivers:
-#       - Introdução: species/hiver/introduction.md      
-#   - Symbions:
-#       - Introdução: species/symbion/introduction.md
+          - 2_human/classes/technician/index.md
+          - Cientista: 2_human/classes/technician/scientist.md
+          - Engenheiro: 2_human/classes/technician/engineer.md      
+      - Armamentos: 2_human/weapons.md
+      - Armaduras: 2_human/armor.md
+      - Equipamentos: 2_human/equipment.md
+      - Crafting: 2_human/crafting.md
+      - Companion: 2_human/companion.md
+      - Transporte: 2_human/transport.md         
 
 extra_css:
-  - stylesheets\extra.css
-# extra_javascript:
-#   - javascripts\list.js
-
-# custom_dir: theme
-# logo: images/logo.png
-# site_favicon: images/logo.png
-# palette:
-#   primary: blue
-#   accent: light blue
-# feature:
-#   - navigation.sections
-#   - navigation.instant
-#   - navigation.tabs
-#   - navigation.tabs.sticky
-# tabs: false
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
   - md_in_html
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
-  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
-# https://github.com/mhausenblas/mkdocs-deploy-gh-pages#installing-extra-packages
-# pip install pymdown-extensions
+      

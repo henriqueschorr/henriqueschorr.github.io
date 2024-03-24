@@ -1,1 +1,0 @@
-Alguns personagens terão algum [parceiro](../rules/partner.md) como aliado. Pode ser um robô ou qualquer outra criatura que lhe acompanha nas aventuras e obedece seus comandos.
