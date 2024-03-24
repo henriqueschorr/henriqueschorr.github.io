@@ -12,7 +12,7 @@ A primeira coisa que você deve fazer, caso não seja o GM, para começar a joga
 
 Neste passo você irá anotar características que independem de espécie, sendo padrão para todos no início.
 
-1. **Nível:** Você normalmente começa nível 1, mas seu grupo pode decidir por começar aventuras em maiores níveis.
+1. **Nível:** Informa seu poder de forma geral na aventura, começando em 1 e indo até 5. Seu grupo pode decidir começar níveis maiores.
 2. **Reação:** Indica o [Countdown](../3_game/countdown.md) de reação, começando sempre em 3.
 
 ## Passo 1: Escolha sua Espécie
