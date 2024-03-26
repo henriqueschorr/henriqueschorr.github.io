@@ -74,7 +74,7 @@ Estes dados influenciam tanto nos seus checks quanto no cálculo de dano.
 - Caso você tenha <ins>sucesso parcial</ins> no check, adicione o <ins>menor</ins> valor entre os dados caóticos ao dano.
 - Caso você tenha <ins>sucesso</ins> no check, adicione o <ins>maior</ins> valor entre os dados caóticos ao dano.
 - Caso você tenha <ins>sucesso crítico</ins> no check, adicione o valor de <ins>todos os dados</ins> caóticos ao dano.
-- Caso você tenha <ins>qualquer tipo de sucesso</ins> e role o maior número possível no dado caótico, você irá somar aquele valor e rolar o dado novamente, somando o novo valor. Caso você role o maior valor possível de novo, você rola ele novamente e assim segue o ciclo.
+<!-- - Caso você tenha <ins>qualquer tipo de sucesso</ins> e role o maior número possível no dado caótico, você irá somar aquele valor e rolar o dado novamente, somando o novo valor. Caso você role o maior valor possível de novo, você rola ele novamente e assim segue o ciclo. -->
 
 ### Disputa
 

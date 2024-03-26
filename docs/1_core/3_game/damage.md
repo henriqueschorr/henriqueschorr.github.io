@@ -11,7 +11,7 @@ Para calcular o dano você rolará o(s) dado(s) informados no armamento ou habil
 **Sucesso Parcial** dados da fonte + <ins>menor</ins> valor rolado em um dado caótico.  
 **Sucesso** dados da fonte + <ins>maior</ins> valor rolado em um dado caótico.  
 **Sucesso Crítico** dados da fonte + valor de <ins>todos os dados</ins> caóticos + [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano.  
-**Explosão: Dado Caótico com maior valor possível** você soma o valor do dado caótico e rola ele novamente, somando o novo valor. Caso seja o maior valor possível, você rola ele novamente e assim segue o ciclo.
+<!-- **Explosão: Dado Caótico com maior valor possível** você soma o valor do dado caótico e rola ele novamente, somando o novo valor. Caso seja o maior valor possível, você rola ele novamente e assim segue o ciclo. -->
 
 Caso seu personagem não possua dados caóticos, some apenas +1 ao dano em qualquer grau de sucesso.
 
@@ -32,10 +32,10 @@ Remella rola 1d6 que é o dano do armamento, tirando um 3. Remella verifica seu 
 **Sucesso Crítico**
 Remella rola 1d6 que é o dano do armamento, tirando um 3. Remella verifica o valor de <ins>todos os dados caóticos</ins>, que é 2 e 6, e soma-os ao dano total. Beck causa 11 de dano no alvo.
 
-**Explosão**
+<!-- **Explosão**
 Remella teve qualquer nível de sucesso e percebe que tirou 8 em um de seus dados caóticos, sendo o maior valor possível de 1d8, isso lhe concede explosão de dano.
 
-Remella rola 1d6 que é o dano do armamento, tirando um 3. Remella verifica o valor de <ins>todos os dados caóticos</ins>, que é 2 e 8, e soma-os ao dano total. Até agora temos 11 de dano, mas Remella pode rolar o dado com valor 8 novamente e somar o novo valor ao dano. Remella rola o dado e tira 4. Beck causa 15 de dano no alvo.
+Remella rola 1d6 que é o dano do armamento, tirando um 3. Remella verifica o valor de <ins>todos os dados caóticos</ins>, que é 2 e 8, e soma-os ao dano total. Até agora temos 11 de dano, mas Remella pode rolar o dado com valor 8 novamente e somar o novo valor ao dano. Remella rola o dado e tira 4. Beck causa 15 de dano no alvo. -->
 
 ### Dano Dinâmico
 

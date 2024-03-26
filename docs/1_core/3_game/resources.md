@@ -35,7 +35,7 @@ Você pode receber Stress quando:
 
 Se você marcar seu último Stress, você imediatamente entra em **Pânico** e deve criar um [Trauma](#trauma).
 
-Assim como AP e Ferida, você pode recuperar Stress durante descansos ou com o uso de algum item, habilidade ou recurso. Resultados de check como Sucesso Crítico e Explosão também recuperam Stress.
+Assim como AP e Ferida, você pode recuperar Stress durante descansos ou com o uso de algum item, habilidade ou recurso. Resultados de check como Sucesso Crítico também recupera Stress.
 
 ## Caos
 
