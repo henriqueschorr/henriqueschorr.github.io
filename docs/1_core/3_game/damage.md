@@ -10,7 +10,7 @@ Para calcular o dano você rolará o(s) dado(s) informados no armamento ou habil
 
 **Sucesso Parcial** dados da fonte + <ins>menor</ins> valor rolado em um dado caótico.  
 **Sucesso** dados da fonte + <ins>maior</ins> valor rolado em um dado caótico.  
-**Sucesso Crítico** dados da fonte + valor de <ins>todos os dados</ins> caóticos.  
+**Sucesso Crítico** dados da fonte + valor de <ins>todos os dados</ins> caóticos + [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano.  
 **Explosão: Dado Caótico com maior valor possível** você soma o valor do dado caótico e rola ele novamente, somando o novo valor. Caso seja o maior valor possível, você rola ele novamente e assim segue o ciclo.
 
 Caso seu personagem não possua dados caóticos, some apenas +1 ao dano em qualquer grau de sucesso.
