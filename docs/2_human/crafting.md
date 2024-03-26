@@ -1,10 +1,10 @@
 ## Biologia
 
-Você pode produzir e aplicar os items em Biologia descritos a seguir. Todos os items podem ser aplicados somente em criaturas orgânicas.
+Você pode produzir e aplicar os items em Biologia descritos a seguir. Todos os items podem ser aplicados somente em criaturas **orgânicas**.
 
 ### Tier 1
 
-Todos os items abaixo podem ser fabricados durante um Descanso Curto ou Longo. Eles só podem ser aplicados durante um Descanso Curto ou Longo, não podendo ser o mesmo em que foi fabricado.
+Todos os items abaixo podem ser produzidos durante um Descanso Curto ou Longo. Eles só podem ser aplicados durante um Descanso Curto ou Longo, não podendo ser o mesmo em que foi fabricado.
 
 | Nome                | Receita                                | Efeito                         |
 | ------------------- | -------------------------------------- | ------------------------------ |
@@ -13,7 +13,7 @@ Todos os items abaixo podem ser fabricados durante um Descanso Curto ou Longo. E
 
 ### Tier 2
 
-Todos os items abaixo podem ser fabricados durante dois Descanso Curtos ou um Descanso Longo. Eles só podem ser aplicados durante um Descanso Curto ou Longo, não podendo ser o mesmo em que foi fabricado.
+Todos os items abaixo podem ser aplicados somente durante um Descanso Longo.
 
 | Nome     | Receita                          | Efeito                                                                                                                     |
 | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -22,13 +22,13 @@ Todos os items abaixo podem ser fabricados durante dois Descanso Curtos ou um De
 
 ### Tier 3
 
-Todos os items abaixo podem ser criados com **4x componentes T2 e 3x componentes T3** e aplicados durante dois Descansos Longos.
+Todos os items abaixo podem ser produzidos com **4x componentes T2 e 3x componentes T3** e aplicados durante dois Descansos Longos. Cada benefício pode ser aplicado apenas uma vez por personagem.
 
-| Nome              | Efeito                                                                                                                                             |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Anabolizantes     | Avance o tamanho de um dado de um dos seguintes Atributos: Físico, Agilidade ou Controle. Cada personagem só pode aplicar uma vez este benefício.  |
-| Micro-Processador | Avance o tamanho de um dado de um dos seguintes Atributos: Atenção, Cérebro ou Influência. Cada personagem só pode aplicar uma vez este benefício. |
-| Corpo Fechado     | Aumente o valor de todos seus Limites de Dano em 2. Cada personagem só pode aplicar uma vez este benefício.                                        |
+| Nome              | Efeito                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| Anabolizantes     | Avance o tamanho de um dado de um dos seguintes Atributos: Físico, Agilidade ou Controle.  |
+| Micro-Processador | Avance o tamanho de um dado de um dos seguintes Atributos: Atenção, Cérebro ou Influência. |
+| Corpo Fechado     | Aumente o valor de todos seus Limites de Dano em 2.                                        |
 
 <!-- ## Culinária
 
@@ -46,7 +46,7 @@ Você pode produzir e aplicar os seguintes items em Engenharia.
 
 ### Tier 1
 
-Todos os items abaixo podem ser fabricados utilizando **2x componentes T1** e durante um Descanso Curto ou Longo.
+Todos os items abaixo podem ser produzidos utilizando **2x componentes T1** e durante um Descanso Curto ou Longo.
 
 | Nome             | Quantidade | Efeito                                                                                                        |
 | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
@@ -55,15 +55,15 @@ Todos os items abaixo podem ser fabricados utilizando **2x componentes T1** e du
 
 ### Tier 2
 
-Todos os items abaixo podem ser fabricados/aplicados utilizando **2x componentes T2** e durante um Descanso Curto ou Longo.
+Todos os items abaixo podem ser produzidos/aplicados utilizando **2x componentes T2** e durante um Descanso Curto ou Longo.
 
-| Nome                    | Receita           | Tempo                     | Quantidade | Efeito                                                                                                                                          |
-| ----------------------- | ----------------- | ------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nano-Fix Avançado       | 2x componentes T2 | Criação: Descanso Curto   | 1          | Recupera 2 AP.                                                                                                                                  |
-| Granada                 | 2x componentes T2 | Criação: Descanso Curto   | 1          | Produz 1 granada de atordoamento, fragmentação, luz ou termobárica. Escolha na hora do uso.                                                     |
-| Armadilha               | 2x componentes T2 | Criação: Descanso Curto   | 1          | Produz 1 armadilha de atordoamento, congelamento ou trovão. Escolha na hora do uso.                                                             |
-| Construto: Movimento    | 3x componentes T2 | Aplicação: Descanso Longo |            | Criatura recebe um tipo de movimento adicional: Aquático, Subterrâneo ou Vertical. Uma criatura pode receber este aprimoramento apenas uma vez. |
-| Construto: Revestimento | 3x componentes T2 | Aplicação: Descanso Longo |            | Criatura recebe Resistência a dano Químico ou Energia. Uma criatura pode receber este aprimoramento apenas uma vez.                             |
+| Nome                    | Receita           | Tempo                     | Efeito                                                                                                                                          |
+| ----------------------- | ----------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nano-Fix Avançado       | 2x componentes T2 | Criação: Descanso Curto   | Recupera 2 AP.                                                                                                                                  |
+| Granada                 | 2x componentes T2 | Criação: Descanso Curto   | Produz 1 granada de atordoamento, fragmentação, luz ou termobárica. Escolha na hora do uso.                                                     |
+| Armadilha               | 2x componentes T2 | Criação: Descanso Curto   | Produz 1 armadilha de atordoamento, congelamento ou trovão. Escolha na hora do uso.                                                             |
+| Construto: Movimento    | 3x componentes T2 | Aplicação: Descanso Longo | Criatura recebe um tipo de movimento adicional: Aquático, Subterrâneo ou Vertical. Uma criatura pode receber este aprimoramento apenas uma vez. |
+| Construto: Revestimento | 3x componentes T2 | Aplicação: Descanso Longo | Criatura recebe Resistência a dano Químico ou Energia. Uma criatura pode receber este aprimoramento apenas uma vez.                             |
 
 ### Tier 3
 
@@ -81,7 +81,7 @@ Você pode produzir e aplicar os seguintes componentes químicos.
 
 ### Tier 1
 
-Todos os componentes químicos abaixo podem ser fabricados utilizando **2x componentes T1** e durante um Descanso Curto ou Longo.
+Todos os componentes químicos abaixo podem ser produzidos utilizando **2x componentes T1** e durante um Descanso Curto ou Longo.
 
 | Nome          | Limitador        | Consumo  | Efeito                                                                                                                                       |
 | ------------- | ---------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,7 +96,7 @@ Todos os componentes químicos abaixo podem ser fabricados utilizando **2x compo
 
 ### Tier 2
 
-Todos os componentes químicos abaixo podem ser fabricados utilizando **2x componentes T2**, e durante dois Descansos Curtos ou um Descanso Longo.
+Todos os componentes químicos abaixo podem ser produzidos utilizando **2x componentes T2**, e durante dois Descansos Curtos ou um Descanso Longo.
 
 | Nome              | Limitador           | Consumo  | Efeito                                                                                             |
 | ----------------- | ------------------- | -------- | -------------------------------------------------------------------------------------------------- |
@@ -112,7 +112,7 @@ Todos os componentes químicos abaixo podem ser fabricados utilizando **2x compo
 
 ### Tier 3
 
-Todos os componentes químicos abaixo podem ser fabricados utilizando **2x componentes T3** durante um Descanso Longo.
+Todos os componentes químicos abaixo podem ser produzidos utilizando **2x componentes T3** durante um Descanso Longo.
 
 | Nome             | Limitador | Consumo | Efeito                                                                                                                                                         |
 | ---------------- | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

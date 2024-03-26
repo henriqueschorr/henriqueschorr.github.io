@@ -16,11 +16,13 @@ Personagens possuem Conhecimento em áreas da ciência: Biologia, Culinária, En
 **Física:** A física estará envolvida sempre que uma criatura tentar entender e resolver um cálculo matemático, entender e navegar por corpos celestes, ou analisar um fenômeno natural.  
 **Química:** A química estará envolvida quando uma criatura tentar criar ou interagir com componentes químicos, como por exemplo construir poções, identificar se algum componente seja venenoso ou nocivo, etc.
 
+Para ações de **Crafting**, veja o seguinte link.
+
 #### Graus de Conhecimento e Impacto nos Checks
 
 **Sem Conhecimento:** Uma criatura sem conhecimento em uma área de ciência <ins>não pode</ins> realizar ações ligadas aquela área. Por exemplo, uma criatura sem conhecimento em química, não pode produzir poções.  
-**Conhecimento:** Uma criatura com conhecimento em uma área de ciência faz o check normalmente.  
-**Perícia:** Uma criatura com perícia em uma área de ciência faz o check com <ins>vantagem</ins>.
+**Conhecimento:** Uma criatura com conhecimento em uma área de ciência faz o check com <ins>desvantagem</ins>.  
+**Perícia:** Uma criatura com perícia em uma área de ciência faz o check normalmente e pode realizar [crafting](./crafting.md).
 
 ## Movimento
 

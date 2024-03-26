@@ -11,14 +11,14 @@ Veículos geralmente são construtos, equipamentos, feitos inteiramente de mater
 **Movimento:** Informa a velocidade e tipo de movimento do transporte.
 **Recursos:** Informa recursos como Limites de Dano, AP e Ferida do transporte. Habilidades de seu veículo irão utilizar o Caos do seu personagem.  
 **Resiliência:** Informa se o veículo possui Resistência, Imunidade ou Vulnerabilidade a algum tipo de dano.  
-**Dano:** 1d4 -> 1d12  
+**Dano:** 1d6 -> 1d20  
 **Ações:** Informa ações, reações e habilidades que você pode realizar com seu veículo.
 
 ### Combustível e Autonomia
 Em BTH não existe monitoramento e contagem de combustível. Quanto a autonomia, use bom senso, mas geralmente pode ser dito que você sempre consegue abastecer/carregar seu veículo durante descansos curtos ou longos, fica a critério de seu GM. Seu GM também pode querer introduzir algum momento de tensão, como gatilho para uma missão, fazendo seu veículo ficar sem combustível em algum lugar perigoso.
 
 ### Causando Dano
-Alguns veículos podem vir armados com medidas ofensivas como armamentos ou medidas defensivas que causam dano. Assim como o Companion, o dano de seu veículo escala juntamente com o nível do seu personagem, começando em 1d4 no nível 1 e indo até 1d12 no nível 5. Esse é o dano base de um ataque simples qualquer, alguns ataques ou habilidades especiais do seu veículo poderão causar dano adicional e até mesmo condições.
+Alguns veículos podem vir armados com medidas ofensivas como armamentos ou medidas defensivas que causam dano. Assim como o Companion, o dano de seu veículo escala juntamente com o nível do seu personagem, começando em 1d6 no nível 1 e indo até 1d20 no nível 5. Esse é o dano base de um ataque simples qualquer, alguns ataques ou habilidades especiais do seu veículo poderão causar dano adicional e até mesmo condições.
 
 ### Recebendo Dano e Destruição
 Veículos recebem dano normalmente em seu AP e/ou Ferida considerando seus Limites de Dano e Resiliência. Diferente do seu personagem ou de seu companion, quando um veículo chegar a 0 com todos seus recursos ele é totalmente destruído e é impossível recuperá-lo. 

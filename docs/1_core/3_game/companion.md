@@ -19,11 +19,11 @@ Assim como qualquer tipo de criatura, companions também terão suas propriedade
 **Movimento:** Informa a velocidade e tipo de movimento da criatura, geralmente quando for uma [Montaria](./transport.md#montaria). Caso não informado, a velocidade é Muito Perto.
 **Recursos:** Informa recursos como Limites de Dano, AP, Ferida e Stress da criatura. Habilidades de seu companion irão utilizar o Caos do seu personagem.  
 **Resiliência:** Informa se a criatura possui Resistência, Imunidade ou Vulnerabilidade a algum tipo de dano.  
-**Dano:** 1d4 -> 1d12  
+**Dano:** 1d6 -> 1d20  
 **Ações:** Informa ações, reações e habilidades que a criatura pode usar. Ações básicas como mover não estarão listadas aqui mas não significam que o companion não possa realizar.  
 
 ## Causando Dano
-O dano de seu companion escala juntamente com o nível do seu personagem, começando em 1d4 no nível 1 e indo até 1d12 no nível 5. Esse é o dano base de um ataque simples qualquer, alguns ataques ou habilidades especiais do seu companion poderão causar dano adicional e até mesmo condições.
+O dano de seu companion escala juntamente com o nível do seu personagem, começando em 1d6 no nível 1 e indo até 1d20 no nível 5. Esse é o dano base de um ataque simples qualquer, alguns ataques ou habilidades especiais do seu companion poderão causar dano adicional e até mesmo condições.
 
 ## Recebendo Dano e "Morte"
 Companions, assim como qualquer outra criatura, possuem Limites de Dano, Ferida e Stress, e podem possuir AP. Quando um companion recebe dano, diminua normalmente o valor de AP/Ferida/Stress considerando seus Limites de Dano e Resiliência. Porém quando você marcar o último ponto de Ferida ou Stress, ele não morre, ele irá parar qualquer tarefa que esteja executando e sair da cena, fugindo e se escondendo. Você não terá acesso ao seu companion até você executar seu próximo Descanso Longo.

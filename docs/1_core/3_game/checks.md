@@ -25,7 +25,7 @@ Abaixo segue os efeitos que as diferentes resoluções causam quando o check é 
 | Sucesso         | Você consegue o que quer.                                                                   | Você causa <ins>moderado</ins> dano extra (veja [Calculando Dano](#calculando-dano)).                                                       |
 | Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.                           | Você causa <ins>baixo</ins> dano extra (veja [Calculando Dano](#calculando-dano)).                                                          |
 | Falha           | Você não consegue o que quer e deve enfrentar consequências moderadas.                      | -                                                                                                                                           |
-| Falha Crítica   | Catástrofe. Você não consegue o que quer e alguma deve enfrentar alguma consequência grave. | Equipe recebe Karma e você recebe Stress.                                                                                                   |
+| Falha Crítica   | Catástrofe. Você não consegue o que quer e deve enfrentar alguma consequência grave. | Equipe recebe Karma, você recebe Stress e GM recebe Terror.                                                                                                   |
 
 ### Exemplo de Check
 

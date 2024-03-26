@@ -18,15 +18,13 @@ No momento que a primeira rodada de surpresa passa ou caso não tenha havido sur
 Em BTH não há um turno definido, jogadores podem realizar quantas e quaisquer ações desejarem, na ordem que desejarem. Na vez dos jogadores o GM pode realizar apenas **Reações** com seus NPCs, estando ativos ou inativos. Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 
 1. **Sucesso ou Sucesso Crítico:** Jogadores seguem jogando.  
-2. **Sucesso Parcial ou qualquer tipo de Falha:** GM joga se tiver criaturas ativas e se desejar.
+2. **Sucesso Parcial:** GM pode jogar caso gaste 3 [Terror](./resources.md#terror), caso contrário jogadores seguem jogando.
+3. **Falha ou Falha Crítica:** GM joga.
 
 **Para cada ação** que um jogador fizer, o GM pode ativar uma criatura. Caso todas as criaturas já estiverem ativas, para cada ação que um jogador fizer, o GM recebe [Terror](./resources.md#terror).
    
 #### GM: Realiza Ações
-Na vez do GM ele pode jogar com qualquer criatura ativa, podendo realizar uma ação de cada. Assim que uma criatura realizar alguma ação, ela fica inativa. Algumas criaturas podem realizar mais de uma ação por vez. Jogadores neste momento podem realizar apenas **Reações** com seus personagems. Assim como os jogadores, o resultado dos checks do GM influenciam o decorrer do jogo:
-
-**Sucesso ou Sucesso Crítico:** GM segue jogando.  
-**Sucesso Parcial ou qualquer tipo de Falha:** Jogadores jogam.
+Na vez do GM ele pode jogar com qualquer criatura ativa, podendo realizar uma ação de cada. Assim que uma criatura realizar alguma ação, ela fica inativa. Algumas criaturas podem realizar mais de uma ação por vez. Jogadores neste momento podem realizar apenas **Reações** com seus personagems. A vez passa para os jogadores assim que não houver mais criaturas ativas ou caso o GM queira passar antes.
 
 #### Resolução
 O Combate segue o fluxo repetindo os passos descritos anteriormente, intercalando entre a vez dos jogadores e a vez do GM, até um dos lados ser completamente eliminado, fugir, ou aceitar alguma negociação de paz ou rendição.
@@ -37,12 +35,14 @@ _O personagem de Remella, Beck, e seu aliado, Mari'Jonna, estão andando por uma
 
 _**Turno dos Jogadores:** Beck ataca com seu arco uma das criaturas. Remella faz um check de Controle e tira 6 em um d6, resultando em Sucesso. Remella então rola os dados de dano e o GM compara com os Limites de Dano da criatura para definir quantas Feridas deverá marcar. O GM ativa uma de suas criaturas. Como o resultado do ataque foi Sucesso a vez continua com os jogadores._
 
-_Mari'Jonna decide agir agora, se movendo até a criatura que Beck atacou e realiza um ataque com suas garras. Antes do jogador realizar o check o GM anuncia que a criatura irá usar sua reação de esquivar. Mari'Jonna tira Sucesso Parcial no check enquanto o GM tira Sucesso. A criatura do GM consegue esquivar sem receber dano algum. O GM ativa sua outra criatura. Como o ataque do jogador foi Sucesso Parcial, a vez para o GM._
+_Mari'Jonna decide agir agora, se movendo até a criatura que Beck atacou e realiza um ataque com suas garras. Antes do jogador realizar o check o GM anuncia que a criatura irá usar sua reação de esquivar. Mari'Jonna tira Sucesso Parcial no check enquanto o GM tira Sucesso. A criatura do GM consegue esquivar sem receber dano algum. O GM ativa sua outra criatura. Como o ataque do jogador foi Sucesso Parcial, a vez continua com os jogadores._
 
-_**Turno do GM:** Com duas das três criaturas ativas o GM decide que ambas irão mover e atacar Mari'Jonna, que anuncia que tentará esquivar do primeiro ataque. A primeira criatura tira Sucesso e Mari'Jonna falha, recebendo assim o dano. A segunda criatura também tem Sucesso e também causa dano em Mari'Jonna. Como o GM não possui mais criaturas ativas para jogar, a vez passa para os jogadores._
+_Mari'Jonna pede para agir novamente e Remella concede. Mari'Jonna resolve atacar e falha, assim passando a vez para o GM._
+
+_**Turno do GM:** Com todas as criaturas ativas o GM decide que todas irão mover e atacar Mari'Jonna, que anuncia que tentará esquivar do primeiro ataque. A primeira criatura tira Sucesso e Mari'Jonna falha, recebendo assim o dano. A segunda e terceira criaturas também têm Sucesso e causam dano em Mari'Jonna. Como o GM não possui mais criaturas ativas para jogar, a vez passa para os jogadores._
 
 _**Jogadores:** Mari'Jonna decide agir primeiro atacando a criatura com menos vida. O ataque tem resultado Sucesso Crítico e o dano causado é suficiente para matar a criatura. O GM ativa uma de suas criaturas ainda viva e a vez continua com os jogadores._
 
-_Mari'Jonna pede para agir novamente e Remella concede. Mari'Jonna resolve usar uma de suas habilidades de dano em área e tira outro Sucesso Crítico! Causando dano o suficiente para matar ambas criaturas ainda vivas em um golpe só._
+_Remella decide agir e faz Beck usar uma de suas habilidades que atinge múltiplos alvos. Remella tira um Sucesso Crítico e causa dano suficiente para matar as duas criaturas restantes._
 
 _**Fim do Combate:** Como não há mais inimigos na cena, o combate acaba e o jogo volta para exploração._
