@@ -50,17 +50,18 @@ Criatura possui um escudo, outro objeto ou armamento natural com a propriedade *
 
 Caso o alvo seja si própria:
 
-**Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após.  
-**Vence a Disputa:** Criatura consegue defender e não recebe dano algum.  
+**Falha ou Falha Crítica:** Criatura não consegue defender e recebe o dano completo.  
 **Perde a Disputa:** Criatura não consegue defender e recebe o dano completo.  
-**Falha ou Falha Crítica:** Criatura não consegue defender e recebe o dano completo.
+**Vence a Disputa:** Criatura consegue defender e não recebe dano algum.  
+**Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após. 
 
 Caso o alvo seja outra criatura:
 
-**Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após.  
+**Falha ou Falha Crítica:** Criatura não consegue defender e alvo do ataque recebe o dano completo.   
+**Perde a Disputa:** Criatura defende parcial e o dano completo é dividido (round up) entre ela e o alvo do ataque.   
 **Vence a Disputa:** Criatura consegue defender e não recebe dano algum.  
-**Perde a Disputa:** Criatura defende parcial e o dano completo é dividido (round up) entre ela e o alvo do ataque.  
-**Falha ou Falha Crítica:** Criatura não consegue defender e alvo do ataque recebe o dano completo.
+**Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após.  
+
 
 ## Habilidades
 
