@@ -8,7 +8,7 @@ Algumas ações, principalmente durante combate ou uma situação de perigo nece
 
 Personagens possuem Conhecimento em áreas da ciência: Biologia, Culinária, Engenharia, Física e Química. Algumas espécies não possuirão conhecimento em uma ou mais áreas e nem todos personagens possuirão perícia em todas as áreas. Checks que envolvam estas áreas devem levar isso em consideração.
 
-#### Exemplos de Ações
+### Exemplos de Ações
 
 **Biologia:** A biologia estará envolvida quando uma criatura tentar analisar o corpo de outra criatura orgânica, ao tentar realizar uma cirurgia, ao tentar carnear ou entender como o corpo de outra criatura funciona.  
 **Culinária:** A culinária estará envolvida sempre que uma criatura for preparar ou aprender como preparar uma refeição.  
@@ -16,9 +16,9 @@ Personagens possuem Conhecimento em áreas da ciência: Biologia, Culinária, En
 **Física:** A física estará envolvida sempre que uma criatura tentar entender e resolver um cálculo matemático, entender e navegar por corpos celestes, ou analisar um fenômeno natural.  
 **Química:** A química estará envolvida quando uma criatura tentar criar ou interagir com componentes químicos, como por exemplo construir poções, identificar se algum componente seja venenoso ou nocivo, etc.
 
-Para ações de **Crafting**, veja o seguinte link.
+Para ações de **Crafting**, veja o seguinte [link](crafting.md#check).
 
-#### Graus de Conhecimento e Impacto nos Checks
+### Graus de Conhecimento e Impacto nos Checks
 
 **Sem Conhecimento:** Uma criatura sem conhecimento em uma área de ciência <ins>não pode</ins> realizar ações ligadas aquela área. Por exemplo, uma criatura sem conhecimento em química, não pode produzir poções.  
 **Conhecimento:** Uma criatura com conhecimento em uma área de ciência faz o check com <ins>desvantagem</ins>.  
@@ -36,7 +36,7 @@ Apesar das ações serem completamente livres, as reações possuem uma lista pr
 
 Assim que seu personagem realizar uma reação, ele deve criar um countdown 3, onde irá diminuir em 1 sempre que o GM jogar um turno. Enquanto este countdown estiver ativo você não pode realizar reações. Portões do Caos de Agilidade e outros equipamentos ou habilidades permitem você ter um valor menor no countdown de reação ou diminuí-lo.
 
-#### Esquivar
+### Esquivar
 
 Criatura tenta esquivar de um ataque inimigo realizando um check de Agilidade.
 
@@ -44,7 +44,7 @@ Criatura tenta esquivar de um ataque inimigo realizando um check de Agilidade.
 **Perde a Disputa:** Criatura não consegue esquivar e recebe o dano completo.  
 **Vence a Disputa:** Criatura consegue esquivar e não recebe dano algum.
 
-#### Defender
+### Defender
 
 Criatura possui um escudo, outro objeto ou armamento natural com a propriedade **Defesa**, e defende a si mesmo ou alguma criatura adjacente.
 

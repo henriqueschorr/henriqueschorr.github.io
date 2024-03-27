@@ -17,9 +17,8 @@ theme:
 
 nav:
     - index.md
+    - Links Úteis: links.md
     - Manuscrito:
-      # - Introdução:
-      #   - 1_core/1_introduction/index.md
       - Criação de Personagem: 
         - 1_core/2_character/index.md
         - Exemplo: 1_core/2_character/example.md
@@ -72,6 +71,8 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - toc:
+      permalink: 
   - attr_list
   - md_in_html
       
