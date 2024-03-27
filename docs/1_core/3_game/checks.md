@@ -53,8 +53,8 @@ Remella rola uma falha crítica. Beck não consegue desativar a fechadura digita
 
 Certas situações, efeitos ou **Condições** irão modificar o jeito que você realiza o check, lhe dando vantagem ou desvantagem.
 
-**Vantagem:** Você rola 1 dado principal extra e usa o maior valor entre os 2.  
-**Desvantagem:** Você rola 1 dado principal extra e usa o menor valor entre os 2.
+**Vantagem:** Use o <ins>maior</ins> valor entre seu dado principal e um dado caótico. Caso não possua dado caótico, role dois principais.  
+**Desvantagem:** Use o <ins>menor</ins> valor entre seu dado principal e um dado caótico. Caso não possua dado caótico, role dois principais.
 
 ### Dados Caóticos
 

@@ -65,7 +65,8 @@ nav:
       - Equipamentos: 2_human/equipment.md
       - Crafting: 2_human/crafting.md
       - Companion: 2_human/companion.md
-      - Transporte: 2_human/transport.md         
+      - Transporte: 2_human/transport.md    
+      - Descanso: 2_human/rest.md     
 
 extra_css:
   - stylesheets/extra.css
