@@ -110,7 +110,7 @@ Físico indica o quão forte você é, sua força física e sua fortitude do cor
 Agilidade indica o quão rápido você é, sua mobilidade em terrenos difíceis, reflexos e velocidade de reação a perigos. Também indica o quão bom você é ao se esgueirar e esconder. Você irá realizar checks de Agilidade para atacar com armas leves, subir uma corda, saltar entre telhados, fugir das garras de inimigos, esgueirar ou se esconder de inimigos, ou esquivar de um ataque.  
 **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**.
 
-#### Controle: Atirar, Desativar, Tinker
+#### Controle: Atirar, Desativar, Crafting
 
 Controle indica o quão hábil e preciso você é. Você irá realizar checks de Controle para tarefas que necessitam de um bom controle motor do corpo, como ser preciso ao atacar com armamentos de alcance alto, cuidadoso e habilidoso ao usar ferramentas, ou mexer em dispositivos mecânicos ou digitais.  
 <!-- TODO: definir bonus portão -->
@@ -125,12 +125,13 @@ Atenção indica o quão você é atento a detalhes ao seu redor. Você irá rea
 #### Cérebro: Lembrar, Analisar, Compreender
 
 Cérebro indica o quão bom você é ao deduzir e inferir informações para resolução de problemas complexos, seu conhecimento e memória e sua calma perante momentos estressantes. Você irá realizar checks de Cérebro para interpretar fatos, resolver problemas complexos, enxergar padrões, ou relembrar informações importantes.  
-**Portão do Caos:** Ao abrir seu primeiro portão do caos neste atributo, você pode fazer [Crafting](../3_game/crafting.md) de receitas T2, ao abrir o segundo portão você pode fazer crafting de receitas T3.
+**Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente. Adicionalmente você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2 abrindo o primeiro portão, e T3 abrindo o segundo.
 
 #### Influência: Persuardir, Manipular, Performar
 
 Influência indica o quão influente você é socialmente, sua força de personalidade, sua presença quanto a perigo e outras situações. Você irá realizar checks de Influência para persuardir, enganar, intimidar ou manipular uma criatura.
-**Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente.
+<!-- TODO: definir bonus portão -->
+<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente. -->
 
 ## Passo Y: Escolha Aprimoramentos
 
