@@ -97,3 +97,6 @@ Quando você for realizar algum ataque com um armamento que possua alcance maior
 
 #### Terreno difícil
 Escombros, pântanos e outras coisas podem tornar um terreno difícil de transversar. Caso seu personagem for mover para uma distância Muito Perto em um terreno difícil, ele deve realizar um check de Agilidade, se falhar move apenas metade do caminho. Para mover para distâncias Perto ou maior, o check de Agilidade deve ser realizado com Desvantagem.
+
+### Checks Passivos
+Nem sempre o GM irá lhe pedir para realizar checks para saber se seu personagem avista alguma armadilha, lembra de alguma informação ou sente algum perigo. Para isso existe os checks passivos, onde você não irá rolar dados, seu dado de atributo irá dizer automaticamente se você sucede ou não. Por exemplo, o GM pode ter marcado que para avistar uma armadilha, você deve ter um d10 em Atenção, caso você possua d10 ou um dado maior no atributo requisitado, você é bem sucedido e consegue avistar a armadilha, caso contrário, você falha no check passivo e avistará a armadilha somente se você ativamente pedir "Quero procurar por armadilhas", ou quando for tarde demais. 

@@ -46,7 +46,7 @@ Você verá em algumas habilidades, armamentos, equipamentos ou qualquer outro i
 
 ### Tipos de Dano e Efeitos Críticos
 
-Em BTH temos diversos tipos de dano e cada um deles possui seu efeito crítico. Este efeito acontece sempre que o resultado de um check de ataque seja Sucesso Crítico.
+Em BTH temos diversos tipos de dano e cada um deles possui seu efeito crítico. Este efeito acontece sempre que o resultado de um check de ataque seja Sucesso Crítico. Quando um ataque possui mais de um tipo de dano, o jogador que realizou o ataque escolhe apenas um dos efeitos críticos para ser aplicado ao alvo.
 
 | Dano    | Efeito Crítico                                  | Exemplos                                                                                                                                          |
 | ------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |

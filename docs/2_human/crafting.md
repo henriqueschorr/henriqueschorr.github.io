@@ -4,25 +4,19 @@ Você pode produzir e aplicar os items em Biologia descritos a seguir. Todos os 
 
 ### Tier 1
 
-Todos os items abaixo podem ser produzidos durante um Descanso Curto ou Longo. Eles só podem ser aplicados durante um Descanso Curto ou Longo, não podendo ser o mesmo em que foi fabricado.
-
-| Nome                | Receita                                | Efeito                         |
-| ------------------- | -------------------------------------- | ------------------------------ |
-| Kit Médico Simples  | 1x Med-Gel, 2x componentes T1          | Desmarca 3 Feridas e 1 Stress. |
-| Kit Médico Avançado | 1x Med-Gel Avançado, 2x componentes T2 | Desmarca 5 Feridas e 2 Stress. |
+| Nome                | Efeito                         |
+| ------------------- | ------------------------------ |
+| Kit Médico Simples  | Desmarca 3 Feridas e 1 Stress. |
+| Kit Médico Avançado | Desmarca 5 Feridas e 2 Stress. |
 
 ### Tier 2
 
-Todos os items abaixo podem ser aplicados somente durante um Descanso Longo.
-
-| Nome     | Receita                          | Efeito                                                                                                                     |
-| -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Lázarus  | 4x componentes T2                | Ressucita uma criatura que tenha morrido nas últimas 24 horas (veja [Ressureição](../1_core/3_game/death.md#ressureição)). |
-| Cirurgia | 1x Kit Médico, 2x componentes T2 | Você pode amputar membros, retirar anomalias ou parasitas do corpo de alguém.                                              |
+| Nome     | Efeito                                                                                                                     |
+| -------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Lázarus  | Ressucita uma criatura que tenha morrido nas últimas 24 horas (veja [Ressureição](../1_core/3_game/death.md#ressureição)). |
+| Cirurgia | Você pode amputar membros, retirar anomalias ou parasitas do corpo de alguém.                                              |
 
 ### Tier 3
-
-Todos os items abaixo podem ser produzidos com **4x componentes T2 e 3x componentes T3** e aplicados durante dois Descansos Longos. Cada benefício pode ser aplicado apenas uma vez por personagem.
 
 | Nome              | Efeito                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------ |
@@ -46,8 +40,6 @@ Você pode produzir e aplicar os seguintes items em Engenharia.
 
 ### Tier 1
 
-Todos os items abaixo podem ser produzidos utilizando **2x componentes T1** e durante um Descanso Curto ou Longo.
-
 | Nome             | Quantidade | Efeito                                                                                                        |
 | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
 | Nano-Fix         | 1          | Recupera 1 AP.                                                                                                |
@@ -55,19 +47,15 @@ Todos os items abaixo podem ser produzidos utilizando **2x componentes T1** e du
 
 ### Tier 2
 
-Todos os items abaixo podem ser produzidos/aplicados utilizando **2x componentes T2** e durante um Descanso Curto ou Longo.
-
-| Nome                    | Receita           | Tempo                     | Efeito                                                                                                                                          |
-| ----------------------- | ----------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nano-Fix Avançado       | 2x componentes T2 | Criação: Descanso Curto   | Recupera 2 AP.                                                                                                                                  |
-| Granada                 | 2x componentes T2 | Criação: Descanso Curto   | Produz 1 granada de atordoamento, fragmentação, luz ou termobárica. Escolha na hora do uso.                                                     |
-| Armadilha               | 2x componentes T2 | Criação: Descanso Curto   | Produz 1 armadilha de atordoamento, congelamento ou trovão. Escolha na hora do uso.                                                             |
-| Construto: Movimento    | 3x componentes T2 | Aplicação: Descanso Longo | Criatura recebe um tipo de movimento adicional: Aquático, Subterrâneo ou Vertical. Uma criatura pode receber este aprimoramento apenas uma vez. |
-| Construto: Revestimento | 3x componentes T2 | Aplicação: Descanso Longo | Criatura recebe Resistência a dano Químico ou Energia. Uma criatura pode receber este aprimoramento apenas uma vez.                             |
+| Nome                    | Efeito                                                                                                                                          |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nano-Fix Avançado       | Recupera 3 AP.                                                                                                                                  |
+| Granada                 | Produz 1 granada de atordoamento, fragmentação, luz ou termobárica. Escolha na hora do uso.                                                     |
+| Armadilha               | Produz 1 armadilha de atordoamento, congelamento ou trovão. Escolha na hora do uso.                                                             |
+| Construto: Movimento    | Criatura recebe um tipo de movimento adicional: Aquático, Subterrâneo ou Vertical. Uma criatura pode receber este aprimoramento apenas uma vez. |
+| Construto: Revestimento | Criatura recebe Resistência a dano Químico ou Energia. Uma criatura pode receber este aprimoramento apenas uma vez.                             |
 
 ### Tier 3
-
-Todos os items abaixo podem ser aplicados utilizando **3x componentes T3** e durante dois Descansos Longos.
 
 | Nome                 | Efeito                                                                                                                                                                               |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -80,8 +68,6 @@ Todos os items abaixo podem ser aplicados utilizando **3x componentes T3** e dur
 Você pode produzir e aplicar os seguintes componentes químicos.
 
 ### Tier 1
-
-Todos os componentes químicos abaixo podem ser produzidos utilizando **2x componentes T1** e durante um Descanso Curto ou Longo.
 
 | Nome          | Limitador        | Consumo  | Efeito                                                                                                                                       |
 | ------------- | ---------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,23 +82,19 @@ Todos os componentes químicos abaixo podem ser produzidos utilizando **2x compo
 
 ### Tier 2
 
-Todos os componentes químicos abaixo podem ser produzidos utilizando **2x componentes T2**, e durante dois Descansos Curtos ou um Descanso Longo.
-
 | Nome              | Limitador           | Consumo  | Efeito                                                                                             |
 | ----------------- | ------------------- | -------- | -------------------------------------------------------------------------------------------------- |
 | Asfalto           |                     | Toque    | Criatura fica Preso 2. Inflámavel: Caso a criatura sofra dano Fogo, ela recebe Dano Persistente 2. |
-| Calmante Avançado | Orgânico            | Ingestão | Desmarca 2 Stress.                                                                                 |
+| Calmante Avançado | Orgânico            | Ingestão | Desmarca 3 Stress.                                                                                 |
 | Eclipse           |                     | Inalação | Criatura perde todos os sentidos e fica Incapacitado 2.                                            |
 | Ferrugem          | Construto ou tem AP | Toque    | Causa Dano Alto em AP. Dano Severo caso Construto.                                                 |
 | Liberador         | Orgânico            | Ingestão | Diminui em 2 algum Countdown de aflição.                                                           |
 | Lobotomia         | Orgânico, sem AP    | Ingestão | Causa 2 Stress em alguma criatura.                                                                 |
-| Med-Gel Avançado  | Orgânico            | Ingestão | Desmarca 2 Feridas.                                                                                |
+| Med-Gel Avançado  | Orgânico            | Ingestão | Desmarca 3 Feridas.                                                                                |
 | Ritalina          | Orgânico            | Inalação | Criatura fica Incentivado 1.                                                                       |
 | Sobrecarga        | Orgânico            | Inalação | Criatura fica Acelerado 2.                                                                         |
 
 ### Tier 3
-
-Todos os componentes químicos abaixo podem ser produzidos utilizando **2x componentes T3** durante um Descanso Longo.
 
 | Nome             | Limitador | Consumo | Efeito                                                                                                                                                         |
 | ---------------- | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
