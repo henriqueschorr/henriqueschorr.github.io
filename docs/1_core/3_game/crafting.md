@@ -42,19 +42,9 @@ A quantidade de componentes por receita é sempre fixa para cada Tier.
 
 Receitas terão tempo de produção, ou aplicação, e isto deve ser levado em conta quando você deseja realizar uma. O tempo de produção/aplicação sempre é medido em Descanso Curto e Descanso Longo.
 
-**Tier 1 (T1):** Podem ser fabricadas/aplicadas durante um Descanso Curto ou um Descanso Longo.  
-**Tier 2 (T2):** Podem ser fabricadas/aplicadas durante um Descanso Longo.  
-**Tier 3 (T3):** Podem ser fabricadas/aplicadas durante dois Descansos Longos.  
-
-## Receitas por Descanso
-
-Você pode produzir/aplicar uma certa quantidade de receitas por cada descanso, dependendo de cada tier.
-
-**Tier 1 (T1):** Até 3 por Descanso Curto. Até 5 por Descanso Longo.  
-**Tier 2 (T2):** Até 3 por Descanso Longo  
-**Tier 3 (T3):** 1 pelo tempo de produção/aplicação.  
-
-Por exemplo, você pode produzir 3 receitas de T1 durante um Descanso Longo ou 5 durante um Descanso Longo.
+**Tier 1 (T1):** Podem ser fabricadas/aplicadas até 3 em um Descanso Curto, ou até 5 em um Descanso Longo.  
+**Tier 2 (T2):** Podem ser fabricadas/aplicadas até 3 em um Descanso Longo.  
+**Tier 3 (T3):** Podem ser fabricadas/aplicadas 1 a cada dois Descansos Longos.  
 
 ## Receitas
 
