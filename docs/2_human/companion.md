@@ -6,7 +6,7 @@
 **Tamanho:** Pequeno.  
 **Movimento:** Terrestre, Muito Perto.  
 **Recursos:** 4 AP.  
-**Dano:** 1d4
+**Dano:** 1d6
 
 ### Ações
 

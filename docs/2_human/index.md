@@ -55,7 +55,7 @@ Você encontra as especializações em cada classe, mas são elas:
 Neste passo você irá aumentar o tamanho de dado de um atributo e abrir portão do caos.
 
 1. Escolha um atributo e aumente o <ins>tamanho do dado</ins>.  
-   Todas as espécies começam com d4 em todos os atributos, aumentar o tamanho de um dado seria trocar o d4 para um d6, um d6 para um d8 e assim por diante.
+   Todas as espécies começam com d6 em todos os atributos, aumentar o tamanho de um dado seria trocar o d6 para um d8, um d8 para um d10 e assim por diante.
 2. Escolha o mesmo atributo ou um atributo diferente para abrir um <ins>portão do caos</ins>.
    1. Separe um dado extra de cor diferente do dado principal. Este será seu <ins>dado caótico</ins> e você irá rolá-lo sempre que precisar rolar seu dado principal.
    2. Modifique as características influenciadas pelo portão do caos do atributo.

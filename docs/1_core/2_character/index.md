@@ -81,7 +81,7 @@ As espécies geralmente irão determinar as seguintes características de seu pe
 Neste passo você escolherá um ou dois atributos para avançar, estes que refletem o quão treinado ou habilidoso seu personagem é em uma das seis características principais: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Neste passo:
 
 1. Você pode aumentar o tamanho do dado ou abrir um portão do caos de um atributo.
-      1. Todas as espécies começam com d4 em todos os atributos, aumentar o tamanho de um dado seria aumentar o d4 para um d6, um d6 para um d8 e assim por diante.
+      1. Todas as espécies começam com d6 em todos os atributos, aumentar o tamanho de um dado seria aumentar o d6 para um d8, um d8 para um d10 e assim por diante.
       2. Caso você abra um portão do caos:  
             1. Separe um dado extra de cor diferente do dado principal e com o mesmo tamanho. Este será seu <ins>dado caótico</ins> e você irá rolá-lo sempre que precisar rolar seu dado principal.  
             2. Modifique as características influenciadas pelo portão do caos do atributo. Como por exemplo, para cada portão do caos aberto no atributo Físico, você ganha um ponto de Ferida permanentemente.

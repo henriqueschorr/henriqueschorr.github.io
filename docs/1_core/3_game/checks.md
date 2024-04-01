@@ -4,12 +4,12 @@ Checks também podem ser modificados por [dados caóticos](#dados-caóticos), [c
 
 #### Resultados
 
-|                 |  d4  |  d6   |  d8   |  d10  |  d12   |   d20   |
-| --------------- | :--: | :---: | :---: | :---: | :----: | :-----: |
-| Falha           | 1, 2 | 1, 2  | 1, 2  | 1 - 3 | 1 - 3  |  1 - 5  |
-| Sucesso Parcial | 3, 4 | 3 - 5 | 3 - 6 | 4 - 6 | 4 - 7  | 6 - 11  |
-| Sucesso         |      |   6   | 7, 8  | 7 - 9 | 8 - 10 | 12 - 17 |
-| Sucesso Crítico |      |       |       |  10   | 11, 12 | 18 - 20 |
+|                 |  d6   |  d8   |  d10   |  d12   |
+| --------------- | :---: | :---: | :----: | :----: |
+| Falha           | 1 - 3 | 1 - 3 | 1 - 3  | 1 - 3  |
+| Sucesso Parcial | 4 - 6 | 4 - 7 | 4 - 7  | 4 - 7  |
+| Sucesso         |       |   8   | 8 - 10 | 8 - 11 |
+| Sucesso Crítico |       |       |        |   12   |
 
 **Falha Crítica**  
 Pode acontecer somente quando [dados caóticos](#dados-caóticos) são introduzidos ao check.  
@@ -19,13 +19,13 @@ Falha Crítica acontece quando você <ins>falha</ins> no check e <ins>ao menos 1
 
 Abaixo segue os efeitos que as diferentes resoluções causam quando o check é realizado por um jogador que não seja o GM.
 
-| Resultado       | Narrativa                                                                                   | Mecânica                                                                                                                                    |
-| --------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sucesso Crítico | Você consegue o que quer e mais.                                                            | Você recupera 1 Stress. Em caso de ataque, você causa <ins>alto</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)). |
-| Sucesso         | Você consegue o que quer.                                                                   | Você causa <ins>moderado</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)).                                                       |
-| Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.                           | Você causa <ins>baixo</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)).                                                          |
-| Falha           | Você não consegue o que quer e deve enfrentar consequências moderadas.                      | -                                                                                                                                           |
-| Falha Crítica   | Catástrofe. Você não consegue o que quer e deve enfrentar alguma consequência grave. | Equipe recebe Karma, você recebe Stress e GM recebe Terror.                                                                                                   |
+| Resultado       | Narrativa                                                                            | Mecânica                                                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Sucesso Crítico | Você consegue o que quer e mais.                                                     | Você recupera 1 Stress. Em caso de ataque, você causa <ins>alto</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)). |
+| Sucesso         | Você consegue o que quer.                                                            | Você causa <ins>moderado</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)).                                        |
+| Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.                    | Você causa <ins>baixo</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)).                                           |
+| Falha           | Você não consegue o que quer e deve enfrentar consequências moderadas.               | -                                                                                                                                       |
+| Falha Crítica   | Catástrofe. Você não consegue o que quer e deve enfrentar alguma consequência grave. | Equipe recebe Karma, você recebe Stress e GM recebe Terror.                                                                             |
 
 ### Exemplo de Check
 
@@ -90,13 +90,17 @@ Sempre que houver uma disputa, para facilitar a resolução, informe seu grau de
 "Eu tive Sucesso Crítico com 6".
 
 ### Modificadores Situacionais
+
 Algumas situações, acontecimentos ou características do ambiente podem alterar a forma que você realiza um check, ou fazer você realizar um check.
 
 #### Ataque a distância com inimigos adjacentes
+
 Quando você for realizar algum ataque com um armamento que possua alcance maior que adjacente e houver criaturas adjacentes a você, o check é realizado com Desvantagem.
 
 #### Terreno difícil
+
 Escombros, pântanos e outras coisas podem tornar um terreno difícil de transversar. Caso seu personagem for mover para uma distância Muito Perto em um terreno difícil, ele deve realizar um check de Agilidade, se falhar move apenas metade do caminho. Para mover para distâncias Perto ou maior, o check de Agilidade deve ser realizado com Desvantagem.
 
 ### Checks Passivos
-Nem sempre o GM irá lhe pedir para realizar checks para saber se seu personagem avista alguma armadilha, lembra de alguma informação ou sente algum perigo. Para isso existe os checks passivos, onde você não irá rolar dados, seu dado de atributo irá dizer automaticamente se você sucede ou não. Por exemplo, o GM pode ter marcado que para avistar uma armadilha, você deve ter um d10 em Atenção, caso você possua d10 ou um dado maior no atributo requisitado, você é bem sucedido e consegue avistar a armadilha, caso contrário, você falha no check passivo e avistará a armadilha somente se você ativamente pedir "Quero procurar por armadilhas", ou quando for tarde demais. 
+
+Nem sempre o GM irá lhe pedir para realizar checks para saber se seu personagem avista alguma armadilha, lembra de alguma informação ou sente algum perigo. Para isso existe os checks passivos, onde você não irá rolar dados, seu dado de atributo irá dizer automaticamente se você sucede ou não. Por exemplo, o GM pode ter marcado que para avistar uma armadilha, você deve ter um d10 em Atenção, caso você possua d10 ou um dado maior no atributo requisitado, você é bem sucedido e consegue avistar a armadilha, caso contrário, você falha no check passivo e avistará a armadilha somente se você ativamente pedir "Quero procurar por armadilhas", ou quando for tarde demais.

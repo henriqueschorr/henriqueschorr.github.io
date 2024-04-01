@@ -3,7 +3,7 @@
 | Arco Composto     | 2    | Controle         | Longe           | 1d10 Físico |                           |
 | Cutelo do Chef    | 1    | Físico           | Adjacente/Perto |             | Carta                     |
 | Espingarda        | 2    | Controle         | Perto           | 2d8 Físico  | Recarregar                |
-| Faca de Combate   | 1    | Agilidade/Físico | Adjacente       | 1d4 Físico  |                           |
+| Faca de Combate   | 1    | Agilidade/Físico | Adjacente       | 1d6 Físico  |                           |
 | Lâmina Fragmento  | 0    | Agilidade        | Adjacente       | 1d8 Físico  | Defesa, Seguro            |
 | Mixer-Gun         | 1    | Controle         | Perto           |             | Carta, Recarregar         |
 | Omni-Gun          | 1    | Controle/Cérebro | Perto           | 1d6 Físico  | Munição Comum, Recarregar |

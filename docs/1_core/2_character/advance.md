@@ -1,9 +1,9 @@
 Aqui você encontra maiores informações sobre o impacto de aumentar o tamanho de um dado ou abrir um portão do caos de um atributo.
 
 ## Aumentar Dado
-Aumentar dado implica em você passar o dado do atributo para o próximo nível, por exemplo, se seu atributo tiver d4, você passa para d6, se tiver d6, você passa para d8 e assim por diante. Os possíveis valores estão abaixo:
+Aumentar dado implica em você passar o dado do atributo para o próximo nível, por exemplo, se seu atributo tiver d6, você passa para d8, se tiver d8, você passa para d10 e assim por diante. Os possíveis valores estão abaixo:
 
-d4 -> d6 -> d8 -> d10 -> d12 -> d20
+d6 -> d8 -> d10 -> d12
 
 ### Impacto
 Aumentar o tamanho de um dado impacta:
@@ -46,7 +46,6 @@ Desconsiderando dados caóticos.
 ![](../../0_assets/images/statistics/fail_success_odd.png)
 
 #### Chances de sucesso crítico com dados caóticos
-A última coluna e a soma das chances eu não tenho certeza quanto ao resultado.
 
 ![](../../0_assets/images/statistics/critical_success_odd.png)
 
