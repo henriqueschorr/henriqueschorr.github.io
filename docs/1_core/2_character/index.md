@@ -67,11 +67,11 @@ Todas as espécies possuem suas próprias classes, essas que podem possuir sub-n
 3. Anote suas [Feridas](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano) e [Stress](../3_game/resources.md#stress) iniciais. Indicam quanto dano seu personagem pode suportar.
 4. Anote sua quantidade de [Caos](../3_game/resources.md#caos). Este recurso é utilizado para alimentar suas [Habilidades](#habilidade).
 
-## Passo 3: Receba/Escolha sua(s) Arma(s)
+## Passo 3: Receba/Escolha suas Armas
 
 Quando você escolheu sua classe, você recebeu uma lista de armas que você irá receber ou deverá escolher entre, no caso de escolha, a quantidade também será informada. Todos os personagem irão possuir ao menos uma arma. Neste passo você:
 
-1. Anote sua(s) [Arma(s)](../3_game/weapon_armor.md#armas).
+1. Anote suas [Armas](../3_game/weapon_armor.md#armas).
 2. Receba uma carta de arma caso a arma possua a propriedade Carta. 
 3. Separe as cartas de aprimoramentos das armas que você recebeu/escolheu na sua **Pilha de Aprimoramentos**. Nem toda arma irá possuir aprimoramentos.
 
@@ -98,19 +98,19 @@ Conhecimento Científico indica as areas da ciência que você possui conhecimen
 1. Anote seu **Conhecimento Científico**.
 2. Anote o Tier de **Receitas** que você pode fazer **Crafting**.
 
-## Passo 7: Receba/Escolha seu(s) Companion(s)
+## Passo 7: Receba/Escolha seus Companions
 
 Algumas classes irão possuir [Companions](../3_game/companion.md), estes que são criaturas orgânicas ou construtos que obedecem aos seus comandos e irão acompanhar seu personagem durante a aventura. Neste passo você:
 
-1. Anote seu(s) **Companion(s)**.
-2. Separe as cartas de aprimoramentos do(s) companion(s) que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo companion irá possuir aprimoramentos.
+1. Anote seus **Companions**.
+2. Separe as cartas de aprimoramentos dos companions que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo companion irá possuir aprimoramentos.
 
-## Passo 7: Receba/Escolha seu(s) Transporte(s)
+## Passo 7: Receba/Escolha seus Transportes
 
 Algumas classes irão possuir [Transporte](../3_game/transport.md), estes que podem ser veículos ou criaturas de montaria que podem transportar você ou mais personagens. Criaturas de montaria são consideradas companion além de transporte. Neste passo você:
 
-1. Anote seu(s) **Transporte(s)**.
-2. Separe as cartas de aprimoramentos do(s) transporte(s) que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo transporte irá possuir aprimoramentos.
+1. Anote seus **Transportes**.
+2. Separe as cartas de aprimoramentos dos transportes que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo transporte irá possuir aprimoramentos.
 <!-- ## Passo 2: Siga os passos da espécie escolhida
 
 Cada espécie possui suas peculiaridades, como por exemplo os Humanos possuem Classes e Especializações, enquanto os Realshirs possuem Reinos, e assim vai. Por isso os passos de criação de personagem de uma espécie para outra irão variar e estarão descritas em cada módulo separadamente.
