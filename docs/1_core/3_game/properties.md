@@ -46,6 +46,9 @@ Indica que você não pode sofrer a condição Desarmado com este armamento.
 
 Propriedades de armaduras identificam características pertinentes a certas mecânicas, ou demonstram características físicas importantes para narrativas. Também identificam possíveis funções ou equipamentos fundidos a armadura.
 
+#### Carta
+Indica que a armadura possui propriedades especiais e possui uma carta explicativa.
+
 #### Comunicador
 Armadura possui um comunicador integrado que permite conversação a distâncias Muito Longe.
 

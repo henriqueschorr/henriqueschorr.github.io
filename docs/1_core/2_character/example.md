@@ -1,6 +1,6 @@
 Segue abaixo um exemplo de criação de personagem da espécie Humano. Como alguns detalhes mudam entre espécies, os passos podem e irão variar dependendo a espécie escolhida. Os passos exclusivos dos humanos terão (Humano) ao final, qualquer outro passo sem prefixo é de uso geral.
 
-### Passo 1: Escolha sua Espécie
+<!-- ### Passo 1: Escolha sua Espécie
 
 Nosso jogador escolhido, vamos chamá-lo de Remella, decidiu escolher a espécie Humano. Uma vez feita a escolha, Remella anota os seguintes itens abaixo, de acordo com as informações encontradas no módulo dos Humanos:
 
@@ -107,4 +107,4 @@ Pronto, Remella acaba de criar seu primeiro personagem em Beyond the Horizon e e
 
 ![](../../0_assets/images/creation/sheet1.png)
 ![](../../0_assets/images/creation/sheet2.png)
-![](../../0_assets/images/creation/sheet3.png)
+![](../../0_assets/images/creation/sheet3.png) -->

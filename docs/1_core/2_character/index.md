@@ -12,18 +12,18 @@ A primeira coisa que você deve fazer, caso não seja o GM, para começar a joga
 
 Neste passo você irá anotar características que independem de espécie, sendo padrão para todos no início.
 
-1. **Nível:** Informa seu poder de forma geral na aventura, começando em 1 e indo até 5. Seu grupo pode decidir começar níveis maiores.
-2. **Reação:** Indica o [Countdown](../3_game/countdown.md) de reação, começando sempre em 3.
+1. Anote nível 1 no **Nível** do seu personagem. Níovel informa seu poder de forma geral na aventura, começando em 1 e indo até 5.
+2. Anote 3 em sua [Reação](../3_game/actions.md#reações). Este campo indica o [Countdown](../3_game/countdown.md) de reação, começando sempre em 3.
 
 ## Passo 1: Escolha sua Espécie
 
-Escolha a espécie que você deseja jogar. Cada espécie possuíra seu livro/módulo separado, após escolhe-la, pegue o módulo dela e separe-o para o passo 2. **Por enquanto, neste beta, temos apenas os Humanos como espécie disponível.**
+Sua espécie define sua aparência física, anatomia, sociedade, classes, armas, armaduras, equipamentos e habilidades. Cada espécie possuíra seu livro/módulo separado, após escolhe-la, pegue o módulo dela e separe-o para ter as informações de como prosseguir nos próximos passos. **Por enquanto, neste beta, temos apenas os Humanos como espécie disponível.**
 
 Neste passo você tomará notas dos seguintes itens da sua ficha:
 
-1. **Propriedades:** Indica as [Propriedades](../3_game/properties.md) da sua espécie.
-2. **Tamanho:** Indica o [Tamanho](../3_game/distance.md#tamanho) da sua espécie: Minúsculo, Pequeno, Médio, Grande ou Gigante.  
-3. **Movimento:** Indica o [Movimento](../3_game/distance.md#movimento) da sua espécie. Geralmente sendo Terrestre, Muito Perto.
+1. Anote as [Propriedades](../3_game/properties.md) da sua espécie.
+2. Anote o [Tamanho](../3_game/distance.md#tamanho) da sua espécie: Minúsculo, Pequeno, Médio, Grande ou Gigante.  
+3. Anote o [Movimento](../3_game/distance.md#movimento) da sua espécie. Geralmente sendo Terrestre, Muito Perto.
 
 Estes são os itens que você sempre tomará nota quando escolher uma espécie, porém algumas já podem fazê-lo anotar outras coisas como [Resiliência](../3_game/damage.md#resiliência).
 
@@ -36,7 +36,7 @@ Estes são os itens que você sempre tomará nota quando escolher uma espécie, 
 | Evoras   | Orgânico, Inseto          | Evolução, Adaptação             |
 | Symbion  | Orgânico, Planta (Fungus) | Simbiose, Arquétipos e Evolução |
 | Realshir | Elemental                 | Reinos e Elementos              |
-| Kitsuzen | Orgãnico, Besta (Raposa)  | Ligação de alma                 |
+| Kitsuzen | Orgânico, Besta (Raposa)  | Ligação de alma                 |
 
 #### Humano
 
@@ -58,7 +58,60 @@ Uma espécie de fungos parasíticos que se especializou em simbiose e adaptaçã
 
 Um dos seres mais raros do universo, não se possui muita informação sobre sua anatomia, biologia, função e procriação. Realshirs são eres elementais, ou seja, compostos inteiramente por um elemento atribuído ao portão do Reino que surgiu. Há relatos de realshirs que podem fazer transições entre mais de um elemento, podendo ter conexão com o Reino do Fogo num instante, e no outro ao Reino do Ar ou Tempestade. Parecem viajar pelo universo em uma espécie de migração solitária procurando Portões de Reinos em diferentes mundos para dominar os elementos. Utilizam seu próprio corpo elemental para realizar suas habilidades e movimentação.
 
-## Passo 2: Siga os passos da espécie escolhida
+## Passo 2: Escolha sua Classe
+
+Todas as espécies possuem suas próprias classes, essas que podem possuir sub-nomes mais adequados para cada espécie. Classes são uma forma de identificar o papel do seu personagem dentro de uma espécie. Por exemplos os Humanos possuem a classe Segurança, esta que é responsável pela segurança de sua equipe e atua de maneira mais ofensiva. Neste passo você fará o seguinte:
+
+1. Receba sua **Carta de Classe**. Esta carta é considerada um aprimoramento e lhe dará algum bônus passivo ou acesso a alguma habilidade.  
+2. Anote seus [Limites de dano](../3_game/resources.md#armor-points-hit-points--limites-de-dano). Aparecem em três níveis diferentes: Leve, Alto, Severo.  
+3. Anote suas [Feridas](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano) e [Stress](../3_game/resources.md#stress) iniciais. Indicam quanto dano seu personagem pode suportar.
+4. Anote sua quantidade de [Caos](../3_game/resources.md#caos). Este recurso é utilizado para alimentar suas [Habilidades](#habilidade).
+
+## Passo 3: Receba/Escolha sua(s) Arma(s)
+
+Quando você escolheu sua classe, você recebeu uma lista de armas que você irá receber ou deverá escolher entre, no caso de escolha, a quantidade também será informada. Todos os personagem irão possuir ao menos uma arma. Neste passo você:
+
+1. Anote sua(s) [Arma(s)](../3_game/weapon_armor.md#armas).
+2. Receba uma carta de arma caso a arma possua a propriedade Carta. 
+3. Separe as cartas de aprimoramentos das armas que você recebeu/escolheu na sua **Pilha de Aprimoramentos**. Nem toda arma irá possuir aprimoramentos.
+
+## Passo 4: Receba/Escolha sua Armadura
+
+Quando você escolheu sua classe, você recebeu uma armadura ou foi informado que deverá escolher uma entre uma lista. Neste passo você:
+
+1. Anote sua [Armadura](../3_game/weapon_armor.md#armaduras).
+2. Receba uma carta de armadura caso a armadura possua a propriedade Carta. 
+3. Separe as cartas de aprimoramentos da armadura que você recebeu/escolheu na sua **Pilha de Aprimoramentos**. Nem toda armadura irá possuir aprimoramentos.
+
+## Passo 5: Receba/Escolha seus Equipamentos
+
+Quando você escolheu sua classe, você recebeu equipamentos ou uma lista de equipamentos que você deve realizar escolhas, no caso de escolha, a quantidade também será informada. Neste passo você:
+
+1. Anote seus [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário).
+2. Receba uma carta de equipamento caso informado. 
+3. Separe as cartas de aprimoramentos dos equipamentos que você recebeu/escolheu na sua **Pilha de Aprimoramentos**. Nem todo equipamento irá possuir aprimoramentos.
+
+## Passo 6: Anote/Escolha seu Conhecimento Científico
+
+Conhecimento Científico indica as areas da ciência que você possui conhecimento e receitas de projetos que você será capaz de criar através de [Crafting](../3_game/crafting.md). Nem todas as espécies irão realizar este passo ou serão capaz de realizar Crafting. Neste passo você:
+
+1. Anote seu **Conhecimento Científico**.
+2. Anote o Tier de **Receitas** que você pode fazer **Crafting**.
+
+## Passo 7: Receba/Escolha seu(s) Companion(s)
+
+Algumas classes irão possuir [Companions](../3_game/companion.md), estes que são criaturas orgânicas ou construtos que obedecem aos seus comandos e irão acompanhar seu personagem durante a aventura. Neste passo você:
+
+1. Anote seu(s) **Companion(s)**.
+2. Separe as cartas de aprimoramentos do(s) companion(s) que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo companion irá possuir aprimoramentos.
+
+## Passo 7: Receba/Escolha seu(s) Transporte(s)
+
+Algumas classes irão possuir [Transporte](../3_game/transport.md), estes que podem ser veículos ou criaturas de montaria que podem transportar você ou mais personagens. Criaturas de montaria são consideradas companion além de transporte. Neste passo você:
+
+1. Anote seu(s) **Transporte(s)**.
+2. Separe as cartas de aprimoramentos do(s) transporte(s) que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo transporte irá possuir aprimoramentos.
+<!-- ## Passo 2: Siga os passos da espécie escolhida
 
 Cada espécie possui suas peculiaridades, como por exemplo os Humanos possuem Classes e Especializações, enquanto os Realshirs possuem Reinos, e assim vai. Por isso os passos de criação de personagem de uma espécie para outra irão variar e estarão descritas em cada módulo separadamente.
 
@@ -74,11 +127,17 @@ As espécies geralmente irão determinar as seguintes características de seu pe
 8. **Equipamentos:** [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário), ferramentas caso sua espécie faça uso. Você também pode possuir equipamentos especiais que aparecem em forma de carta.
 9. **Aprimoramentos:** Cartas de aprimoramentos que você irá possuir ou escolherá futuramente no [passo Y](#passo-y-receba-e-escolha-aprimoramentos).
 10. **Companions:** Aliados que são seu companions, como um drone ou um cachorro (veja [Companion](../3_game/companion.md)).
-11. **Transporte:** Veículos que você poderá pilotar ou criaturas que poderá montar (veja [Transporte](../3_game/transport.md)).
+11. **Transporte:** Veículos que você poderá pilotar ou criaturas que poderá montar (veja [Transporte](../3_game/transport.md)). -->
 
-## Passo X: Avance Atributos
+## Passo 8: Avance Atributos
 
-Neste passo você escolherá um ou dois atributos para avançar, estes que refletem o quão treinado ou habilidoso seu personagem é em uma das seis características principais: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Neste passo:
+Neste passo você escolherá dois atributos diferentes para avançar, estes que refletem o quão treinado ou habilidoso seu personagem é em uma das seis características principais: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Neste passo você:
+
+1. Avance e tome nota de 2 **Atributos** diferentes.  
+   Avançar significa aumentar o tamanho de um dado. Por exemplo, avançar o atributo Físico que possui um d6, seria aumentá-lo para um d8.
+2. Tome nota dos valores de <ins>Sucesso Parcial</ins>, <ins>Sucesso</ins> e <ins>Sucesso Crítico</ins> para facilitar a resolução dos checks.
+
+<!-- Neste passo você escolherá um ou dois atributos para avançar, estes que refletem o quão treinado ou habilidoso seu personagem é em uma das seis características principais: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Neste passo:
 
 1. Você pode aumentar o tamanho do dado ou abrir um portão do caos de um atributo.
       1. Todas as espécies começam com d6 em todos os atributos, aumentar o tamanho de um dado seria aumentar o d6 para um d8, um d8 para um d10 e assim por diante.
@@ -88,11 +147,11 @@ Neste passo você escolherá um ou dois atributos para avançar, estes que refle
 2. Faça novamente o passo 1.
 3. Tome nota dos valores de <ins>Sucesso Parcial</ins>, <ins>Sucesso</ins> e <ins>Sucesso Crítico</ins> para facilitar a resolução de um check.
 
-Para ajudar na decisão entre aumentar o tamanho do dado ou abrir portão do caos, veja os impactos de cada um nesta [página](./advance.md).
+Para ajudar na decisão entre aumentar o tamanho do dado ou abrir portão do caos, veja os impactos de cada um nesta [página](./advance.md). -->
 
 ### Atributos
 
-Abaixo você encontra a lista dos atributos principais do seu personagem, assim como uma breve explicação do que eles representam, exemplos de cenários onde eles serão aplicados e também o que ocorre quando você abre um portão do caos para eles. Ao lado do nome de cada um segue exemplos de ações que seu personagem pode executar, sendo elas apenas inspirações, não se limite a elas. O uso de atributos para ações é dinâmico e depende do contexto, exemplos:
+Abaixo você encontra a lista dos atributos principais do seu personagem, assim como uma breve explicação do que eles representam, exemplos de cenários onde eles serão aplicados e também o que ocorre quando você abre um portão do caos para eles (não se preocupe com este detalhe por enquanto). Ao lado do nome de cada um segue exemplos de ações que seu personagem pode executar, sendo elas apenas inspirações, não se limite a elas. O uso de atributos para ações é dinâmico e depende do contexto, exemplos:
 
 _Quer intimidar uma criatura com ameaças verbais? Use Influência.  
 Quer intimidar a criatura quebrando algum objeto e ameaçando apenas com sua presença? Use Físico._ 
@@ -133,9 +192,13 @@ Influência indica o quão influente você é socialmente, sua força de persona
 <!-- TODO: definir bonus portão -->
 <!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente. -->
 
-## Passo Y: Escolha Aprimoramentos
+## Passo 9: Escolha Aprimoramentos
 
-Neste passo você irá escolher aprimoramentos de uma lista que você recebeu nos passos anteriores, você geralmente irá escolher dois, porém o número pode varia entre espécies. Você escolherá aprimoramentos novos cada vez que você sobe de nível, podendo escolher os aprimoramentos do novo nível ou níveis abaixo.
+Em diversos passos anteriores, você teve que separar cartas de aprimoramentos em uma **Pilha de Aprimoramentos**. Neste passo você deve:
+
+1. Escolha e receba 2 aprimoramentos diferentes da sua Pilha de Aprimoramentos.
+<!--    
+Neste passo você irá escolher aprimoramentos de uma lista que você recebeu nos passos anteriores, você geralmente irá escolher dois, porém o número pode varia entre espécies. Você escolherá aprimoramentos novos cada vez que você sobe de nível, podendo escolher os aprimoramentos do novo nível ou níveis abaixo. -->
 
 ### Tipos de Aprimoramentos
 
@@ -149,9 +212,9 @@ Uma habilidade é uma ação ou reação que seu personagem poderá executar, ge
 
 Este aprimoramento geralmente lhe provê algum bônus em um atributo, equipamento ou algo do tipo, permanentemente, onde você aplica e esquece. Por exemplo: Aumente em 1 seu Ferida.-->
 
-#### Equipamento
+<!-- #### Equipamento
 
-Este aprimoramento lhe dá acesso a um item especial de uso quase que exclusivo ao seu personagem.
+Este aprimoramento lhe dá acesso a um item especial de uso quase que exclusivo ao seu personagem. -->
 
 #### Passiva
 
@@ -166,6 +229,6 @@ Aprimoramentos vêm em formas de cartas, para melhor leitura e visualização.
 **Nível:** No canto superior esquerdo você encontra o nível que a carta é desbloqueada e seu personagem pode escolhê-la. (1)   
 **Fonte:** Ao lado do nível você encontra o nome da fonte da carta, a "quem" ela pertence. (Rifle de Precisão)   
 **Custo de Caos:** No canto superior direito você encontra o custo que você deve gastar em Caos para usar este aprimoramento. (1)  
-**Tipo:** No centro da carta você encontra o tipo da carta: Habilidade, Passiva, Equipamento, etc.    
+**Tipo:** No centro da carta você encontra o tipo da carta: Habilidade, Passiva, etc.    
 **Título:** Em negrito e fonte grande está o título, nome da carta. (Tiro Certeiro)    
 **Descrição:** Logo abaixo do título está a descrição da carta e seus efeitos.

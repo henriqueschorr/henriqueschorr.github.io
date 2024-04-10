@@ -1,4 +1,4 @@
-## Armamentos
+## Armas
 
 Armamentos são equipamentos ou qualquer parte do seu corpo que você pode causar ou efeitos negativos em outra criatura. Seu personagem quase sempre possuíra ao menos um armamento. A quantidade e os tipos de armamentos variam entre espécies.
 
