@@ -62,7 +62,7 @@ Um dos seres mais raros do universo, não se possui muita informação sobre sua
 
 Todas as espécies possuem suas próprias classes, essas que podem possuir sub-nomes mais adequados para cada espécie. Classes são uma forma de identificar o papel do seu personagem dentro de uma espécie. Por exemplos os Humanos possuem a classe Segurança, esta que é responsável pela segurança de sua equipe e atua de maneira mais ofensiva. Neste passo você fará o seguinte:
 
-1. Receba sua **Carta de Classe**. Esta carta é considerada um aprimoramento e lhe dará algum bônus passivo ou acesso a alguma habilidade.  
+1. Receba ou escolha sua **Carta de Classe**. Esta carta é considerada um aprimoramento e lhe dará algum bônus passivo ou acesso a alguma habilidade.  
 2. Anote seus [Limites de dano](../3_game/resources.md#armor-points-hit-points--limites-de-dano). Aparecem em três níveis diferentes: Leve, Alto, Severo.  
 3. Anote suas [Feridas](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano) e [Stress](../3_game/resources.md#stress) iniciais. Indicam quanto dano seu personagem pode suportar.
 4. Anote sua quantidade de [Caos](../3_game/resources.md#caos). Este recurso é utilizado para alimentar suas [Habilidades](#habilidade).
@@ -73,7 +73,6 @@ Quando você escolheu sua classe, você recebeu uma lista de armas que você ir�
 
 1. Anote suas [Armas](../3_game/weapon_armor.md#armas).
 2. Receba uma carta de arma caso a arma possua a propriedade Carta. 
-3. Separe as cartas de aprimoramentos das armas que você recebeu/escolheu na sua **Pilha de Aprimoramentos**. Nem toda arma irá possuir aprimoramentos.
 
 ## Passo 4: Receba/Escolha sua Armadura
 
@@ -81,7 +80,6 @@ Quando você escolheu sua classe, você recebeu uma armadura ou foi informado qu
 
 1. Anote sua [Armadura](../3_game/weapon_armor.md#armaduras).
 2. Receba uma carta de armadura caso a armadura possua a propriedade Carta. 
-3. Separe as cartas de aprimoramentos da armadura que você recebeu/escolheu na sua **Pilha de Aprimoramentos**. Nem toda armadura irá possuir aprimoramentos.
 
 ## Passo 5: Receba/Escolha seus Equipamentos
 
@@ -89,7 +87,6 @@ Quando você escolheu sua classe, você recebeu equipamentos ou uma lista de equ
 
 1. Anote seus [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário).
 2. Receba uma carta de equipamento caso informado. 
-3. Separe as cartas de aprimoramentos dos equipamentos que você recebeu/escolheu na sua **Pilha de Aprimoramentos**. Nem todo equipamento irá possuir aprimoramentos.
 
 ## Passo 6: Anote/Escolha seu Conhecimento Científico
 
@@ -102,32 +99,9 @@ Conhecimento Científico indica as areas da ciência que você possui conhecimen
 
 Algumas classes irão possuir [Companions](../3_game/companion.md), estes que são criaturas orgânicas ou construtos que obedecem aos seus comandos e irão acompanhar seu personagem durante a aventura. Neste passo você:
 
-1. Anote seus **Companions**.
-2. Separe as cartas de aprimoramentos dos companions que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo companion irá possuir aprimoramentos.
-
 ## Passo 7: Receba/Escolha seus Transportes
 
 Algumas classes irão possuir [Transporte](../3_game/transport.md), estes que podem ser veículos ou criaturas de montaria que podem transportar você ou mais personagens. Criaturas de montaria são consideradas companion além de transporte. Neste passo você:
-
-1. Anote seus **Transportes**.
-2. Separe as cartas de aprimoramentos dos transportes que você recebeu/escolheu na sua **Pilha de Aprimoramentos**.  Nem todo transporte irá possuir aprimoramentos.
-<!-- ## Passo 2: Siga os passos da espécie escolhida
-
-Cada espécie possui suas peculiaridades, como por exemplo os Humanos possuem Classes e Especializações, enquanto os Realshirs possuem Reinos, e assim vai. Por isso os passos de criação de personagem de uma espécie para outra irão variar e estarão descritas em cada módulo separadamente.
-
-As espécies geralmente irão determinar as seguintes características de seu personagem:
-
-1. **Características Específicas:** Aqui você anotará características específicas de espécie, como por exemplo Classe, Especialização, Reinos, etc.
-2. **Limites de Dano:** [Limites de dano](../3_game/resources.md#armor-points-hit-points--limites-de-dano) aparecem em três níveis diferentes: Leve, Alto, Severo.
-3. **Feridas e Stress Inicial:** Suas [Feridas](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano) e [Stress inicial](../3_game/resources.md#stress), indicando quanto dano seu personagem pode suportar.
-4. **Caos:** Quantidade de [Caos](../3_game/resources.md#caos) que você irá começar. Caos é utilizado para alimentar suas [Habilidades](#habilidade).
-5. **Conhecimento Científico e Receitas:** Áreas da ciência que você possui conhecimento e receitas dos projetos que você poderá criar. Útil para certas [Ações](../3_game/actions.md#ações-com-ciência) e [Crafting](../3_game/crafting.md).
-6. **Armamentos:** [Armamentos](../3_game/weapon_armor.md#armamentos) que você poderá usar.
-7. **Armaduras:** [Armaduras](../3_game/weapon_armor.md#armaduras) que você poderá usar.
-8. **Equipamentos:** [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário), ferramentas caso sua espécie faça uso. Você também pode possuir equipamentos especiais que aparecem em forma de carta.
-9. **Aprimoramentos:** Cartas de aprimoramentos que você irá possuir ou escolherá futuramente no [passo Y](#passo-y-receba-e-escolha-aprimoramentos).
-10. **Companions:** Aliados que são seu companions, como um drone ou um cachorro (veja [Companion](../3_game/companion.md)).
-11. **Transporte:** Veículos que você poderá pilotar ou criaturas que poderá montar (veja [Transporte](../3_game/transport.md)). -->
 
 ## Passo 8: Avance Atributos
 
@@ -136,18 +110,6 @@ Neste passo você escolherá dois atributos diferentes para avançar, estes que 
 1. Avance e tome nota de 2 **Atributos** diferentes.  
    Avançar significa aumentar o tamanho de um dado. Por exemplo, avançar o atributo Físico que possui um d6, seria aumentá-lo para um d8.
 2. Tome nota dos valores de <ins>Sucesso Parcial</ins>, <ins>Sucesso</ins> e <ins>Sucesso Crítico</ins> para facilitar a resolução dos checks.
-
-<!-- Neste passo você escolherá um ou dois atributos para avançar, estes que refletem o quão treinado ou habilidoso seu personagem é em uma das seis características principais: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Neste passo:
-
-1. Você pode aumentar o tamanho do dado ou abrir um portão do caos de um atributo.
-      1. Todas as espécies começam com d6 em todos os atributos, aumentar o tamanho de um dado seria aumentar o d6 para um d8, um d8 para um d10 e assim por diante.
-      2. Caso você abra um portão do caos:  
-            1. Separe um dado extra de cor diferente do dado principal e com o mesmo tamanho. Este será seu <ins>dado caótico</ins> e você irá rolá-lo sempre que precisar rolar seu dado principal.  
-            2. Modifique as características influenciadas pelo portão do caos do atributo. Como por exemplo, para cada portão do caos aberto no atributo Físico, você ganha um ponto de Ferida permanentemente.
-2. Faça novamente o passo 1.
-3. Tome nota dos valores de <ins>Sucesso Parcial</ins>, <ins>Sucesso</ins> e <ins>Sucesso Crítico</ins> para facilitar a resolução de um check.
-
-Para ajudar na decisão entre aumentar o tamanho do dado ou abrir portão do caos, veja os impactos de cada um nesta [página](./advance.md). -->
 
 ### Atributos
 
@@ -194,11 +156,15 @@ Influência indica o quão influente você é socialmente, sua força de persona
 
 ## Passo 9: Escolha Aprimoramentos
 
-Em diversos passos anteriores, você teve que separar cartas de aprimoramentos em uma **Pilha de Aprimoramentos**. Neste passo você deve:
+Neste passo você irá separar todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem e terá que escolher duas. Neste passo você deve:
 
-1. Escolha e receba 2 aprimoramentos diferentes da sua Pilha de Aprimoramentos.
-<!--    
-Neste passo você irá escolher aprimoramentos de uma lista que você recebeu nos passos anteriores, você geralmente irá escolher dois, porém o número pode varia entre espécies. Você escolherá aprimoramentos novos cada vez que você sobe de nível, podendo escolher os aprimoramentos do novo nível ou níveis abaixo. -->
+1. Separe todas as cartas de aprimoramentos nível dos seguintes itens, caso haja:
+      1. Armas
+      2. Armadura
+      3. Equipamento
+      4. Companion
+      5. Transporte
+2. Escolha e receba 2 aprimoramentos diferentes dentre os separados no passo 1.
 
 ### Tipos de Aprimoramentos
 
@@ -218,17 +184,17 @@ Este aprimoramento lhe dá acesso a um item especial de uso quase que exclusivo 
 
 #### Passiva
 
-Um efeito passivo que está sempre ativo mas atua em algumas situações específicas.
+Um efeito passivo que está sempre ativo.
 
-### Cartas de Aprimoramentos
+### Cartas
 
-Aprimoramentos vêm em formas de cartas, para melhor leitura e visualização.
+Seu personagem receberá cartas de classe e aprimoramentos, também poderá receber cartas de arma, armadura, equipamento, companion e transporte. As cartas foram criadas com o intuito de melhorar a leitura, visualização e entedimento do que seu personagem pode fazer.
 
 ![](../../0_assets/images/human/cards/tiro_certeiro.png){ width="350", align="right" }
 
 **Nível:** No canto superior esquerdo você encontra o nível que a carta é desbloqueada e seu personagem pode escolhê-la. (1)   
 **Fonte:** Ao lado do nível você encontra o nome da fonte da carta, a "quem" ela pertence. (Rifle de Precisão)   
-**Custo de Caos:** No canto superior direito você encontra o custo que você deve gastar em Caos para usar este aprimoramento. (1)  
+**Custo de Caos:** No canto superior direito você encontra o custo que você deve gastar em Caos para usar a carta. Nem todas as cartas possuirão custo em Caos. (1)  
 **Tipo:** No centro da carta você encontra o tipo da carta: Habilidade, Passiva, etc.    
 **Título:** Em negrito e fonte grande está o título, nome da carta. (Tiro Certeiro)    
 **Descrição:** Logo abaixo do título está a descrição da carta e seus efeitos.

@@ -1,4 +1,4 @@
-Após quase levarem seu planeta natal, Terra, a destruição, humanos conseguiram migrar para o espaço e se espandir. Com sua versatilidade, alto poder de adaptação e tecnologia avançada, humanos exploram e dominam os mais diversos ambientes do universo.
+<!-- Após quase levarem seu planeta natal, Terra, a destruição, humanos conseguiram migrar para o espaço e se espandir. Com sua versatilidade, alto poder de adaptação e tecnologia avançada, humanos exploram e dominam os mais diversos ambientes do universo.
 
 # Criando um Humano
 
@@ -71,4 +71,4 @@ Quando você escolheu sua especialização, você recebeu uma **lista de Aprimor
 
 ## The End
 
-Pronto, você agora possui um personagem Humano pronto para começar uma aventura.
+Pronto, você agora possui um personagem Humano pronto para começar uma aventura. -->
