@@ -47,18 +47,18 @@ nav:
       - 2_human/index.md
       - Classes:
         - 2_human/classes/index.md
-        - Agente:
-          - 2_human/classes/agent/index.md
-          - Capitão: 2_human/classes/agent/captain.md
-          - Piloto: 2_human/classes/agent/pilot.md
-        - Segurança:
-          - 2_human/classes/security/index.md
-          - Batedor: 2_human/classes/security/scout.md
-          - Soldado: 2_human/classes/security/soldier.md          
-        - Técnico:
-          - 2_human/classes/technician/index.md
-          - Cientista: 2_human/classes/technician/scientist.md
-          - Engenheiro: 2_human/classes/technician/engineer.md      
+        - Agente:  2_human/classes/agent.md
+          # - 2_human/classes/agent/index.md
+          # - Capitão: 2_human/classes/agent/captain.md
+          # - Piloto: 2_human/classes/agent/pilot.md
+        - Segurança: 2_human/classes/security.md
+          # - 2_human/classes/security/index.md
+          # - Batedor: 2_human/classes/security/scout.md
+          # - Soldado: 2_human/classes/security/soldier.md          
+        - Técnico: 2_human/classes/technician.md
+          # - 2_human/classes/technician/index.md
+          # - Cientista: 2_human/classes/technician/scientist.md
+          # - Engenheiro: 2_human/classes/technician/engineer.md      
       - Armamentos: 2_human/weapons.md
       - Armaduras: 2_human/armor.md
       - Equipamentos: 2_human/equipment.md
