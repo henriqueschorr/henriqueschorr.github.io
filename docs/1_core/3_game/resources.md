@@ -41,6 +41,9 @@ Assim como AP e Ferida, você pode recuperar Stress durante descansos ou com o u
 
 Caos é a força e matéria que compõem tudo no universo. Os Regentes do Universo são os grandes mestres especialistas em uso dessa força, construindo e modificando constantemente o universo. Algumas criaturas, como seu personagem, podem utilizar a força do Caos de maneira limitada para realizar ações especiais. Cada espécie jogável manipula o Caos do seu jeito, transformando-o em um recurso que serve de alimento para suas Habilidades. Como por exemplo os Humanos utilizam o Caos como Energia Elétrica, os Evoras transformam o Caos em seda para suas teias ou veneno em suas glândulas, os Symbions integram o Caos em sua própria integridade física.
 
+## Momentum
+
+
 ## Karma
 
 Karma é um recurso que sua equipe pode ter e qualquer integrante da equipe pode utilizar para realizar algumas ações poderosas.

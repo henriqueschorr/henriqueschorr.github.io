@@ -19,53 +19,62 @@ nav:
     - index.md
     - Links Úteis: links.md
     - Manuscrito:
-      - Criação de Personagem: 
+      - 1_core/index.md
+      - Comece Aqui: 1_core/1_start/index.md
+      - Personagem:
         - 1_core/2_character/index.md
         - Exemplo: 1_core/2_character/example.md
-        - Avanço de Atributos e Impacto: 1_core/2_character/advance.md
-      - O Jogo:
-        - 1_core/3_game/index.md
-        - Combate: 1_core/3_game/combat.md
-        - Social: 1_core/3_game/social.md
-        - Ações e Reações:  1_core/3_game/actions.md
-        - Checks: 1_core/3_game/checks.md
-        - Recursos: 1_core/3_game/resources.md
-        - Dano e Resiliência: 1_core/3_game/damage.md
-        - Condições: 1_core/3_game/conditions.md
-        - Countdowns: 1_core/3_game/countdown.md
-        - Distância, Movimento e Tamanho: 1_core/3_game/distance.md
-        - Alvos, Proteção e Visão: 1_core/3_game/target.md        
-        - Descanso, Morte e Trauma: 1_core/3_game/death.md              
-        - Armamentos e Armaduras: 1_core/3_game/weapon_armor.md
-        - Propriedades: 1_core/3_game/properties.md
-        - Inventário, Equipamentos e Munições: 1_core/3_game/inventory.md    
-        - Crafting: 1_core/3_game/crafting.md  
-        - Companion: 1_core/3_game/companion.md   
-        - Transporte: 1_core/3_game/transport.md
-        - Criaturas e Monstros: 1_core/3_game/creatures.md
-    - Humanos:
-      - 2_human/index.md
-      - Classes:
-        - 2_human/classes/index.md
-        - Agente:  2_human/classes/agent.md
-          # - 2_human/classes/agent/index.md
-          # - Capitão: 2_human/classes/agent/captain.md
-          # - Piloto: 2_human/classes/agent/pilot.md
-        - Segurança: 2_human/classes/security.md
-          # - 2_human/classes/security/index.md
-          # - Batedor: 2_human/classes/security/scout.md
-          # - Soldado: 2_human/classes/security/soldier.md          
-        - Técnico: 2_human/classes/technician.md
-          # - 2_human/classes/technician/index.md
-          # - Cientista: 2_human/classes/technician/scientist.md
-          # - Engenheiro: 2_human/classes/technician/engineer.md      
-      - Armamentos: 2_human/weapons.md
-      - Armaduras: 2_human/armor.md
-      - Equipamentos: 2_human/equipment.md
-      - Crafting: 2_human/crafting.md
-      - Companion: 2_human/companion.md
-      - Transporte: 2_human/transport.md    
-      - Descanso: 2_human/rest.md     
+        - Espécies: 1_core/2_character/species.md
+        - Cartas: 1_core/2_character/cards.md
+        #exemplo
+        #cartas
+      # - Criação de Personagem: 
+      #   - 1_core/2_character/index.md
+      #   - Exemplo: 1_core/2_character/example.md
+      #   - Avanço de Atributos e Impacto: 1_core/2_character/advance.md
+      # - O Jogo:
+      #   - 1_core/3_game/index.md
+      #   - Combate: 1_core/3_game/combat.md
+      #   - Social: 1_core/3_game/social.md
+      #   - Ações e Reações:  1_core/3_game/actions.md
+      #   - Checks: 1_core/3_game/checks.md
+      #   - Recursos: 1_core/3_game/resources.md
+      #   - Dano e Resiliência: 1_core/3_game/damage.md
+      #   - Condições: 1_core/3_game/conditions.md
+      #   - Countdowns: 1_core/3_game/countdown.md
+      #   - Distância, Movimento e Tamanho: 1_core/3_game/distance.md
+      #   - Alvos, Proteção e Visão: 1_core/3_game/target.md        
+      #   - Descanso, Morte e Trauma: 1_core/3_game/death.md              
+      #   - Armamentos e Armaduras: 1_core/3_game/weapon_armor.md
+      #   - Propriedades: 1_core/3_game/properties.md
+      #   - Inventário, Equipamentos e Munições: 1_core/3_game/inventory.md    
+      #   - Crafting: 1_core/3_game/crafting.md  
+      #   - Companion: 1_core/3_game/companion.md   
+      #   - Transporte: 1_core/3_game/transport.md
+      #   - Criaturas e Monstros: 1_core/3_game/creatures.md
+    # - Humanos:
+    #   - 2_human/index.md
+    #   - Classes:
+    #     - 2_human/classes/index.md
+    #     - Agente:  2_human/classes/agent.md
+    #       # - 2_human/classes/agent/index.md
+    #       # - Capitão: 2_human/classes/agent/captain.md
+    #       # - Piloto: 2_human/classes/agent/pilot.md
+    #     - Segurança: 2_human/classes/security.md
+    #       # - 2_human/classes/security/index.md
+    #       # - Batedor: 2_human/classes/security/scout.md
+    #       # - Soldado: 2_human/classes/security/soldier.md          
+    #     - Técnico: 2_human/classes/technician.md
+    #       # - 2_human/classes/technician/index.md
+    #       # - Cientista: 2_human/classes/technician/scientist.md
+    #       # - Engenheiro: 2_human/classes/technician/engineer.md      
+    #   - Armamentos: 2_human/weapons.md
+    #   - Armaduras: 2_human/armor.md
+    #   - Equipamentos: 2_human/equipment.md
+    #   - Crafting: 2_human/crafting.md
+    #   - Companion: 2_human/companion.md
+    #   - Transporte: 2_human/transport.md    
+    #   - Descanso: 2_human/rest.md     
 
 extra_css:
   - stylesheets/extra.css

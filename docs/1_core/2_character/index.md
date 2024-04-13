@@ -2,108 +2,96 @@
 title: Personagem
 ---
 
-<!-- Neste capítulo você encontra informações sobre como criar um personagem, tais como detalhes de espécies e outros. -->
+Neste capítulo você encontra informações sobre como criar um personagem e seus detalhes.
 
 # Criação de Personagem
 
-A primeira coisa que você deve fazer, caso não seja o GM, para começar a jogar Beyond the Horizon, é criar um personagem. O passo 1 será a escolha da espécie e esta deve ser a primeira a ser feita, uma vez que modifica bastante como seu personagem será construído. Os passos a seguir, depois de escolher a espécie, estão informados em uma ordem para melhor organização, porém a criação de personagem é fluída, você pode voltar e fazer qualquer passo na ordem que desejar, inclusive trocar de espécie.
-
-## Passo 0: Características Gerais
-
-Neste passo você irá anotar características que independem de espécie, sendo padrão para todos no início.
-
-1. Anote nível 1 no **Nível** do seu personagem. Níovel informa seu poder de forma geral na aventura, começando em 1 e indo até 5.
-2. Anote 3 em sua [Reação](../3_game/actions.md#reações). Este campo indica o [Countdown](../3_game/countdown.md) de reação, começando sempre em 3.
+Uma vez escolhido o módulo e aventura, a primeira coisa que você deve fazer, caso não seja o GM,  é criar um personagem. Siga os passos abaixo para criar um.
 
 ## Passo 1: Escolha sua Espécie
 
-Sua espécie define sua aparência física, anatomia, sociedade, classes, armas, armaduras, equipamentos e habilidades. Cada espécie possuíra seu livro/módulo separado, após escolhe-la, pegue o módulo dela e separe-o para ter as informações de como prosseguir nos próximos passos. **Por enquanto, neste beta, temos apenas os Humanos como espécie disponível.**
+Sua espécie define sua aparência física, anatomia, estrutura social, comportamento, armas, armaduras, equipamentos, habilidades e diversas outras características, narrativas e mecânicas. No módulo escolhido por seu grupo você encontrará as espécies disponíveis. Uma breve descrição sobre elas pode ser encontrada [aqui](). Neste passo você realizará as etapas abaixo.
 
-Neste passo você tomará notas dos seguintes itens da sua ficha:
+### Características Gerais
 
-1. Anote as [Propriedades](../3_game/properties.md) da sua espécie.
-2. Anote o [Tamanho](../3_game/distance.md#tamanho) da sua espécie: Minúsculo, Pequeno, Médio, Grande ou Gigante.  
-3. Anote o [Movimento](../3_game/distance.md#movimento) da sua espécie. Geralmente sendo Terrestre, Muito Perto.
+Características que independem de espécie, sendo padrão para todos no início.
 
-Estes são os itens que você sempre tomará nota quando escolher uma espécie, porém algumas já podem fazê-lo anotar outras coisas como [Resiliência](../3_game/damage.md#resiliência).
+**Anote:**  
 
-### Espécies
+1. **Nível** inicial do seu personagem, geralmente começando em 1. Definido pelo grupo.
+2. **Countdown de Reação:** 3. Para mais informações veja [Reação](../3_game/actions.md#reações) e [Countdown](../3_game/countdown.md).
+3. **Atributos:** d6 em todos.
 
-| Espécie  | Classificação             | Características de Destaque     |
-| -------- | ------------------------- | ------------------------------- |
-| Humano   | Orgânico, Humanoid        | A.N.E., Classes e Equipamentos  |
-| Hiver    | Orgânico, Humanoid        | Simbiose, Casta                 |
-| Evoras   | Orgânico, Inseto          | Evolução, Adaptação             |
-| Symbion  | Orgânico, Planta (Fungus) | Simbiose, Arquétipos e Evolução |
-| Realshir | Elemental                 | Reinos e Elementos              |
-| Kitsuzen | Orgânico, Besta (Raposa)  | Ligação de alma                 |
+### Características de Espécie
 
-#### Humano
+Características gerais que variam entre espécies.
 
-Humanos em BTH possuem a mesma aparência humanoid diversa dos humanos presentes na Terra hoje. Fazendo uso de tecnologias avançadas e de toda sua versatilidade, humanos se expandiram a diversos cantos do universo, terraformando os planetas conquistados ou vivendo em estações espaciais. Sua ambição e extremo desejo de aventura motivam sua exploração e expansão espacial. Humanos utilizam equipamentos de alta tecnologia como sua Armadura Nano Evolutiva (A.N.E.) e armas de fogo para suprir suas habilidades.
+**Anote:**  
 
-#### Hiver
+1. [**Propriedades**](../3_game/properties.md): Orgânico, Humanoid, Inseto, etc.
+2. [**Tamanho**](../3_game/distance.md#tamanho): Minúsculo, Pequeno, Médio, Grande ou Gigante.
+3. [**Movimento**](../3_game/distance.md#movimento). Geralmente sendo Terrestre, Muito Perto.
 
-Hivers são humanos que decidiram migrar para outros cantos do universo após decidirem que terraformar um planeta é uma atrocidade quanto a fauna e flora nativa. Com o lema de "Não adapte o meio a você, adapte-se ao meio", hivers buscam a simbiose com as mais diversas criaturas parasíticas, garantido-os alta modificação e adaptação corporal. Exploram o universo sempre buscando novas formas de vida que possam ter uma relação de benefício mútuo. Os simbiontes presentes no corpo de um hiver proveem diversos benefícios e habilidades a seu hospedeiro.
+### Recursos
 
-#### Evoras
+Recursos definem a resiliência do seu personagem, quanto de dano ele pode receber, quanto stress pode suportar, e também quanto Caos pode manipular para alimentar suas Habilidades.
 
-Uma espécie insectóide que possui anatomia semelhante a insetos, aranhas, e outros diversas criaturas presentes na Terra. São seres racionais e extremamente vorazes e predadores. Geralmente vagam pelo universo sozinhos, caçando as mais diversas criaturas para acelerar seu processo evolutivo. Evoras atacam suas vítimas com mandíbulas, braços e ferrões que lembram outras criaturas do planeta Terra. Também podem lançar substâncias especiais como seda (teia), asfalto, entre outras, para sucumbir suas vítimas.
+**Anote:**  
 
-#### Symbion
+2. [**Limites de dano**](../3_game/resources.md#armor-points-hit-points--limites-de-dano): Aparecem em três níveis diferentes: Leve, Alto, Severo.  
+3. [**Feridas**](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano): Indica quanto dano seu personagem pode receber.
+4. [**Stress**](../3_game/resources.md#stress): Indica quanto stress seu personagem pode suportar.
+5. [**Caos**](../3_game/resources.md#caos): Recurso é utilizado para alimentar suas [Habilidades](#habilidade).
 
-Uma espécie de fungos parasíticos que se especializou em simbiose e adaptação, tanto que ao longo do tempo, ao infectar outras criaturas racionais, também alcançou senciência e racionalidade. Se espalha pelo universo ao contaminar criaturas através da dispersão de esporos por seres já infectados. Symbions se adaptam a criatura infectada, tornando-a mais forte e aprimorando suas habilidades. Dependendo do Symbion, também pode infectar criaturas já mortas ou à beira da morte e usá-las como se fossem zumbis por um período de tempo
+Seu personagem também possui [Pontos de Armadura](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano) (AP) como recurso, mas este é definido por sua armadura. Veja o [passo 3](#passo-3-escolha-suas-armaduras).
 
-#### Realshir
+### Cartas de Espécie
 
-Um dos seres mais raros do universo, não se possui muita informação sobre sua anatomia, biologia, função e procriação. Realshirs são eres elementais, ou seja, compostos inteiramente por um elemento atribuído ao portão do Reino que surgiu. Há relatos de realshirs que podem fazer transições entre mais de um elemento, podendo ter conexão com o Reino do Fogo num instante, e no outro ao Reino do Ar ou Tempestade. Parecem viajar pelo universo em uma espécie de migração solitária procurando Portões de Reinos em diferentes mundos para dominar os elementos. Utilizam seu próprio corpo elemental para realizar suas habilidades e movimentação.
+Este é um passo que difere bastante entre espécies. Algumas irão apenas lhe entregar uma ou mais cartas, enquanto outras irão fazer você escolher uma ou mais cartas entre uma lista. Cartas de espécie podem prover passivas, habilidades, armas, armaduras, equipamentos, companions, transportes ou até outros detalhes mecânicos quanto ao seu personagem.
 
-## Passo 2: Escolha sua Classe
+Neste passo você:
 
-Todas as espécies possuem suas próprias classes, essas que podem possuir sub-nomes mais adequados para cada espécie. Classes são uma forma de identificar o papel do seu personagem dentro de uma espécie. Por exemplos os Humanos possuem a classe Segurança, esta que é responsável pela segurança de sua equipe e atua de maneira mais ofensiva. Neste passo você fará o seguinte:
+1. **Escolha** ou **receba** as cartas de espécies.
+2. **Aplique** qualquer efeito descrito nelas.  
+   Exemplos: Se uma carta lhe dá uma arma, anote a arma recebida. Se uma carta lhe dá perícia em uma área da ciência, anote este conhecimento científico.
 
-1. Receba ou escolha sua **Carta de Classe**. Esta carta é considerada um aprimoramento e lhe dará algum bônus passivo ou acesso a alguma habilidade.  
-2. Anote seus [Limites de dano](../3_game/resources.md#armor-points-hit-points--limites-de-dano). Aparecem em três níveis diferentes: Leve, Alto, Severo.  
-3. Anote suas [Feridas](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano) e [Stress](../3_game/resources.md#stress) iniciais. Indicam quanto dano seu personagem pode suportar.
-4. Anote sua quantidade de [Caos](../3_game/resources.md#caos). Este recurso é utilizado para alimentar suas [Habilidades](#habilidade).
+Para mais informações sobre Cartas, veja este [capítulo]().
 
-## Passo 3: Receba/Escolha suas Armas
+## Passo 2: Escolha suas Armas
 
-Quando você escolheu sua classe, você recebeu uma lista de armas que você irá receber ou deverá escolher entre, no caso de escolha, a quantidade também será informada. Todos os personagem irão possuir ao menos uma arma. Neste passo você:
+Basicamente todo personagem irá possuir ao menos uma arma, sendo um equipamento ou natural, que é uma forma de causar dano em outras criaturas. As armas e também suas quantidades dependem da espécie escolhida. Cartas de espécie podem lhe dar armas ou alterar algo na escolha.
 
-1. Anote suas [Armas](../3_game/weapon_armor.md#armas).
-2. Receba uma carta de arma caso a arma possua a propriedade Carta. 
+**Anote:** [**Armas**](../3_game/weapon_armor.md#armas) escolhidas.  
+**Receba:** Cartas de armas caso aplicável.  
 
-## Passo 4: Receba/Escolha sua Armadura
+## Passo 3: Escolha suas Armaduras
 
-Quando você escolheu sua classe, você recebeu uma armadura ou foi informado que deverá escolher uma entre uma lista. Neste passo você:
+Alguns personagens irão utilizar armadura, sendo um equipamento ou natural, que é uma forma de se proteger de ataques inimigos. As armaduras e também suas quantidades dependem da espécie escolhida. Cartas de espécie podem lhe dar armaduras ou alterar algo na escolha.
 
-1. Anote sua [Armadura](../3_game/weapon_armor.md#armaduras).
-2. Receba uma carta de armadura caso a armadura possua a propriedade Carta. 
+**Anote:**  
 
-## Passo 5: Receba/Escolha seus Equipamentos
+1. [**Armaduras**](../3_game/weapon_armor.md#armaduras) escolhidas.
+2. [**Pontos de Armadura**](../3_game/weapon_armor.md#armaduras) (AP) recebidos pela armadura.
 
-Quando você escolheu sua classe, você recebeu equipamentos ou uma lista de equipamentos que você deve realizar escolhas, no caso de escolha, a quantidade também será informada. Neste passo você:
+**Receba:** Cartas de armadura caso aplicável.  
 
-1. Anote seus [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário).
-2. Receba uma carta de equipamento caso informado. 
+## Passo 4: Escolha seus Equipamentos
 
-## Passo 6: Anote/Escolha seu Conhecimento Científico
+Algumas espécies fazem uso de equipamentos para ajudar em suas aventuras.
 
-Conhecimento Científico indica as areas da ciência que você possui conhecimento e receitas de projetos que você será capaz de criar através de [Crafting](../3_game/crafting.md). Nem todas as espécies irão realizar este passo ou serão capaz de realizar Crafting. Neste passo você:
+**Anote:** [**Equipamentos**](../3_game/inventory.md#equipamentos-e-inventário) escolhidos.   
+**Receba:** Cartas de equipamento caso aplicável.
 
-1. Anote seu **Conhecimento Científico**.
-2. Anote o Tier de **Receitas** que você pode fazer **Crafting**.
+## Passo 5: Escolha seu Conhecimento Científico
 
-## Passo 7: Receba/Escolha seus Companions
+Algumas espécies possuem conhecimento científico sobre áreas da ciência: Biologia, Culinária, Engenharia e Química. Espécies que possuem conhecimento, podem realizar [Ações de Ciência](../3_game/actions.md#ações-com-ciência) e [Crafting](../3_game/crafting.md) nas áreas que possuem Perícia.
 
-Algumas classes irão possuir [Companions](../3_game/companion.md), estes que são criaturas orgânicas ou construtos que obedecem aos seus comandos e irão acompanhar seu personagem durante a aventura. Neste passo você:
+**Anote:**  
 
-## Passo 7: Receba/Escolha seus Transportes
+1. Áreas da ciência que você escolheu para ter Perícia.
+2. Nível T1 de [Receitas](../3_game/crafting.md#receitas) das áreas de ciência que você é perito.
 
-Algumas classes irão possuir [Transporte](../3_game/transport.md), estes que podem ser veículos ou criaturas de montaria que podem transportar você ou mais personagens. Criaturas de montaria são consideradas companion além de transporte. Neste passo você:
-
-## Passo 8: Avance Atributos
+## Passo 6: Avance Atributos
 
 Neste passo você escolherá dois atributos diferentes para avançar, estes que refletem o quão treinado ou habilidoso seu personagem é em uma das seis características principais: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Neste passo você:
 
@@ -121,80 +109,66 @@ Quer intimidar a criatura quebrando algum objeto e ameaçando apenas com sua pre
 _Quer desativar um dipositivo digital tentando hack? Use Cérebro.   
 Quer desativar um dispositivo digital abrindo-o e mexendo em seus componentes? Use Controle._  
 
-#### Físico: Elevar, Agarrar, Quebrar
+#### FÍSICO: Elevar, Agarrar, Quebrar
 
 Físico indica o quão forte você é, sua força física e sua fortitude do corpo, quanta punição física pode suportar. Você irá realizar checks de Físico para atacar com armas pesadas, quebrar uma porta, levantar objetos ou criaturas, ou prender alguém.  
 **Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Ferida permanentemente.
 
-#### Agilidade: Esquivar, Saltar, Esgueirar
+#### AGILIDADE: Esquivar, Saltar, Esgueirar
 
 Agilidade indica o quão rápido você é, sua mobilidade em terrenos difíceis, reflexos e velocidade de reação a perigos. Também indica o quão bom você é ao se esgueirar e esconder. Você irá realizar checks de Agilidade para atacar com armas leves, subir uma corda, saltar entre telhados, fugir das garras de inimigos, esgueirar ou se esconder de inimigos, ou esquivar de um ataque.  
 **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**.
 
-#### Controle: Atirar, Desativar, Crafting
+#### CONTROLE: Atirar, Desativar, Crafting
 
 Controle indica o quão hábil e preciso você é. Você irá realizar checks de Controle para tarefas que necessitam de um bom controle motor do corpo, como ser preciso ao atacar com armamentos de alcance alto, cuidadoso e habilidoso ao usar ferramentas, ou mexer em dispositivos mecânicos ou digitais.  
 <!-- TODO: definir bonus portão -->
 <!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
 
-#### Atenção: Perceber, Sentir, Procurar
+#### ATENÇÃO: Perceber, Sentir, Procurar
 
 Atenção indica o quão você é atento a detalhes ao seu redor. Você irá realizar checks de Atenção para perceber perigos, procurar e notar detalhes no ambiente ao seu redor, notar se alguma criatura está tentando lhe manipular, ou rastrear uma criatura ou objeto.
 <!-- TODO: definir bonus portão -->
 <!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
 
-#### Cérebro: Lembrar, Analisar, Compreender
+#### CÉREBRO: Lembrar, Analisar, Compreender
 
 Cérebro indica o quão bom você é ao deduzir e inferir informações para resolução de problemas complexos, seu conhecimento e memória e sua calma perante momentos estressantes. Você irá realizar checks de Cérebro para interpretar fatos, resolver problemas complexos, enxergar padrões, ou relembrar informações importantes.  
-**Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente. Adicionalmente você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2 abrindo o primeiro portão, e T3 abrindo o segundo.
+**Portão do Caos:** Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2 abrindo o primeiro portão, e T3 abrindo o segundo.
 
-#### Influência: Persuardir, Manipular, Performar
+#### INFLUÊNCIA: Persuardir, Manipular, Performar
 
-Influência indica o quão influente você é socialmente, sua força de personalidade, sua presença quanto a perigo e outras situações. Você irá realizar checks de Influência para persuardir, enganar, intimidar ou manipular uma criatura.
-<!-- TODO: definir bonus portão -->
-<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente. -->
+Influência indica o quão influente você é socialmente, sua força de personalidade, sua presença quanto a perigo e outras situações. Você irá realizar checks de Influência para persuardir, enganar, intimidar ou manipular uma criatura.  
+**Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente.
 
-## Passo 9: Escolha Aprimoramentos
+## Passo 7: Escolha Aprimoramentos
 
-Neste passo você irá separar todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem e terá que escolher duas. Neste passo você deve:
+Neste passo você irá separar todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem e terá que escolher duas. 
 
-1. Separe todas as cartas de aprimoramentos nível dos seguintes itens, caso haja:
-      1. Armas
-      2. Armadura
-      3. Equipamento
-      4. Companion
-      5. Transporte
-2. Escolha e receba 2 aprimoramentos diferentes dentre os separados no passo 1.
+1. Separe todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem: armas, armadura, equipamentos, companion, etc.
+2. Escolha 2 cartas para receber.
 
 ### Tipos de Aprimoramentos
 
-Todo aprimoramento terá um tipo que indica como ele se comporta. Os tipos variam entre:
+Todo aprimoramento terá um tipo que indica como ele se comporta e os efeitos que aplica. Os tipos variam entre:
 
 #### Habilidade
 
 Uma habilidade é uma ação ou reação que seu personagem poderá executar, geralmente ao custo de um recurso importante como Caos ou Stress.
 
-<!-- #### Ajuste
-
-Este aprimoramento geralmente lhe provê algum bônus em um atributo, equipamento ou algo do tipo, permanentemente, onde você aplica e esquece. Por exemplo: Aumente em 1 seu Ferida.-->
-
-<!-- #### Equipamento
-
-Este aprimoramento lhe dá acesso a um item especial de uso quase que exclusivo ao seu personagem. -->
-
 #### Passiva
 
 Um efeito passivo que está sempre ativo.
 
-### Cartas
+## Passo 8: Finalização
 
-Seu personagem receberá cartas de classe e aprimoramentos, também poderá receber cartas de arma, armadura, equipamento, companion e transporte. As cartas foram criadas com o intuito de melhorar a leitura, visualização e entedimento do que seu personagem pode fazer.
+Você está quase pronto a começar sua aventura, agora só falta descrever detalhes pessoais e comportamentais, assim como características físicas do seu personagem. Estes detalhes irão lhe ajudar de forma narrativa e não devem prover vantagens ou desvantagens mecânicas. Pense nos seguintes itens:
 
-![](../../0_assets/images/human/cards/tiro_certeiro.png){ width="350", align="right" }
+- Nome
+- Anatomia e características físicas
+- Manerismos
+- História e objetivos pessoais
+- Conexão com os outros membros da sua equipe
+- Familiares e conexões com NPCs
 
-**Nível:** No canto superior esquerdo você encontra o nível que a carta é desbloqueada e seu personagem pode escolhê-la. (1)   
-**Fonte:** Ao lado do nível você encontra o nome da fonte da carta, a "quem" ela pertence. (Rifle de Precisão)   
-**Custo de Caos:** No canto superior direito você encontra o custo que você deve gastar em Caos para usar a carta. Nem todas as cartas possuirão custo em Caos. (1)  
-**Tipo:** No centro da carta você encontra o tipo da carta: Habilidade, Passiva, etc.    
-**Título:** Em negrito e fonte grande está o título, nome da carta. (Tiro Certeiro)    
-**Descrição:** Logo abaixo do título está a descrição da carta e seus efeitos.
+Em cada módulo você encontrará exemplos sobre os itens acima para guiar você a jogar um personagem da espécie.
