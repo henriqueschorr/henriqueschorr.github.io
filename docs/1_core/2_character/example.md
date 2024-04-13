@@ -103,7 +103,7 @@ Como Remella quer ser um assassino silencioso, ele escolhe as seguintes cartas d
 
 ## The End
 
-Pronto, Remella acaba de criar seu primeiro personagem em Beyond the Horizon e está pronto para iniciar sua aventura. Abaixo você encontra uma visão geral de como ficou sua ficha por completo.
+Pronto, Remella acaba de criar seu primeiro personagem em Horizon Beyond e está pronto para iniciar sua aventura. Abaixo você encontra uma visão geral de como ficou sua ficha por completo.
 
 ![](../../0_assets/images/creation/sheet1.png)
 ![](../../0_assets/images/creation/sheet2.png)

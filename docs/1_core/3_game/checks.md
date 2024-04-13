@@ -1,4 +1,4 @@
-Quando uma ação/reação for realizada em uma situação de perigo ou tensão, ou quando esta deve ser realizada com cuidado e atenção, um check será requisitado. Um check em BTH consiste em rolar um dado do Atributo associado a ação e então verificar seu resultado. Um check sem **disputa** tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com disputa é comparado com o lado oposto.
+Quando uma ação/reação for realizada em uma situação de perigo ou tensão, ou quando esta deve ser realizada com cuidado e atenção, um check será requisitado. Um check em HB consiste em rolar um dado do Atributo associado a ação e então verificar seu resultado. Um check sem disputa tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com disputa é comparado com o lado oposto.
 
 Checks também podem ser modificados por [dados caóticos](#dados-caóticos), [conhecimento](actions.md#ações-com-ciência), [condições]() e outros efeitos situacionais.
 

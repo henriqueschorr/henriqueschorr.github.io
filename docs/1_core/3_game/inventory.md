@@ -8,7 +8,7 @@ Durante combates ou momentos de tensão, você deve gastar 1 Stress para usar um
 
 ## Munição
 
-Alguns armamentos e equipamentos podem fazer uso de munição. Em BTH não fazemos a contagem de munição para armamentos que usam munições comuns, por exemplo, você não precisará contar quantas balas ainda tem para atirar com seu arco, ou pistola, ou fuzil de precisão. Munições também irão varia entre armamentos e espécies, mas você sempre usará os nomes genéricos descritos abaixo.
+Alguns armamentos e equipamentos podem fazer uso de munição. Em HB não fazemos a contagem de munição para armamentos que usam munições comuns, por exemplo, você não precisará contar quantas balas ainda tem para atirar com seu arco, ou pistola, ou fuzil de precisão. Munições também irão varia entre armamentos e espécies, mas você sempre usará os nomes genéricos descritos abaixo.
 
 #### Munição Comum
 Tipo de munição comum, feita com materiais simples, produzida com [componentes T1](./crafting.md#componentes). Você não precisa realizar contagem deste tipo de munição. Se um armamento não vier especificado que utiliza outro tipo de munição, ele usará este tipo.
