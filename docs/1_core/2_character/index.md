@@ -121,7 +121,7 @@ Agilidade indica o quão rápido você é, sua mobilidade em terrenos difíceis,
 
 #### CONTROLE: Atirar, Desativar, Crafting
 
-Controle indica o quão hábil e preciso você é. Você irá realizar checks de Controle para tarefas que necessitam de um bom controle motor do corpo, como ser preciso ao atacar com armamentos de alcance alto, cuidadoso e habilidoso ao usar ferramentas, ou mexer em dispositivos mecânicos ou digitais.  
+Controle indica o quão hábil e preciso você é. Você irá realizar checks de Controle para tarefas que necessitam de um bom controle motor do corpo, como ser preciso ao atacar com armas de alcance alto, cuidadoso e habilidoso ao usar ferramentas, ou mexer em dispositivos mecânicos ou digitais.  
 <!-- TODO: definir bonus portão -->
 <!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
 

@@ -12,5 +12,5 @@
 | Rifle de Assalto  | 2    | Controle         | Longe           | 2d6 Físico  | Recarregar                |
 | Rifle de Precisão | 2    | Controle         | Muito Longe     | 2d10 Físico | Recarregar                |
 
-<!-- ### Armamentos Auxiliares
-Você pode usar a Faca de Combate ou a Pistola como armamentos auxiliares. -->
+<!-- ### Armas Auxiliares
+Você pode usar a Faca de Combate ou a Pistola como armas auxiliares. -->

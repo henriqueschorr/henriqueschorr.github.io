@@ -39,7 +39,7 @@ nav:
         - Distância, Movimento e Tamanho: 1_core/3_game/distance.md
         - Alvos, Proteção e Visão: 1_core/3_game/target.md        
         - Descanso, Morte e Trauma: 1_core/3_game/death.md              
-        - Armamentos e Armaduras: 1_core/3_game/weapon_armor.md
+        - Armas e Armaduras: 1_core/3_game/weapon_armor.md
         - Propriedades: 1_core/3_game/properties.md
         - Inventário, Equipamentos e Munições: 1_core/3_game/inventory.md    
         - Crafting: 1_core/3_game/crafting.md  
@@ -62,7 +62,7 @@ nav:
     #       # - 2_human/classes/technician/index.md
     #       # - Cientista: 2_human/classes/technician/scientist.md
     #       # - Engenheiro: 2_human/classes/technician/engineer.md      
-    #   - Armamentos: 2_human/weapons.md
+    #   - Armas: 2_human/weapons.md
     #   - Armaduras: 2_human/armor.md
     #   - Equipamentos: 2_human/equipment.md
     #   - Crafting: 2_human/crafting.md

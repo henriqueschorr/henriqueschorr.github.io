@@ -57,11 +57,11 @@ Você pode produzir e aplicar os seguintes items em Engenharia.
 
 ### Tier 3
 
-| Nome                 | Efeito                                                                                                                                                                               |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Construto: Blindagem | Criatura recebe 3 AP adicional. Uma criatura pode receber este aprimoramento apenas uma vez.                                                                                         |
-| Fio Etéreo           | Adiciona 1 dado de dano a armamentos de alcance adjacente. Se um armamento tem dano 1d6, ele causa 2d6 agora. Um armamento pode receber este aprimoramento apenas uma vez.           |
-| Potência             | Adiciona 1 dado de dano a armamentos de alcance maior que adjacente. Se um armamento tem dano 1d6, ele causa 2d6 agora. Um armamento pode receber este aprimoramento apenas uma vez. |
+| Nome                 | Efeito                                                                                                                                                                |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Construto: Blindagem | Criatura recebe 3 AP adicional. Uma criatura pode receber este aprimoramento apenas uma vez.                                                                          |
+| Fio Etéreo           | Adiciona 1 dado de dano a armas de alcance adjacente. Se um arma tem dano 1d6, ele causa 2d6 agora. Um arma pode receber este aprimoramento apenas uma vez.           |
+| Potência             | Adiciona 1 dado de dano a armas de alcance maior que adjacente. Se um arma tem dano 1d6, ele causa 2d6 agora. Um arma pode receber este aprimoramento apenas uma vez. |
 
 ## Química
 
@@ -69,30 +69,30 @@ Você pode produzir e aplicar os seguintes componentes químicos.
 
 ### Tier 1
 
-| Nome          | Limitador        | Consumo  | Efeito                                                                                                                                       |
-| ------------- | ---------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Calmante      | Orgânico         | Ingestão | Desmarca 1 Stress.                                                                                                                           |
-| Elemental     |                  | Toque    | Todas as criaturas em uma área de 4m recebem dano igual a <2d Cérebro> + < seu nível>. O tipo de dano é Químico (Fogo, Gelo, Ácido, Veneno). |
-| Escorregação  |                  | Toque    | Todas as criaturas em uma área de 4m caem e ficam Vulnerável 1.                                                                              |
-| Hemofólico    | Orgânico, sem AP | Ingestão | Countdown 1: Causa Dano Leve toda vez que a criatura recebe dano de um ataque.                                                               |
-| Med-Gel       | Orgânico         | Ingestão | Desmarca 1 Ferida.                                                                                                                           |
-| Neutralizador | Orgânico         | Ingestão | Diminui em 1 algum Countdown de aflição.                                                                                                     |
-| Parede        |                  | Toque    | Cria uma estrutura de 2m x 2m e 30cm de espessura. A estrutura possui 5 AP.                                                                  |
-| Ventania      |                  | Toque    | Todas as criaturas em uma área de 4m são empurradas 4m para trás.                                                                            |
+| Nome          | Limitador        | Consumo  | Efeito                                                                                                                                                 |
+| ------------- | ---------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Calmante      | Orgânico         | Ingestão | Desmarca 1 Stress.                                                                                                                                     |
+| Elemental     |                  | Toque    | Esquivar: Todas as criaturas em uma área de 4m recebem dano igual a <2d Cérebro> + < seu nível>. O tipo de dano é Químico (Fogo, Gelo, Ácido, Veneno). |
+| Escorregação  |                  | Toque    | Resistir Agilidade: Todas as criaturas em uma área de 4m caem e ficam Vulnerável 1.                                                                    |
+| Hemofólico    | Orgânico, sem AP | Ingestão | Resistir Físico: Countdown 1: Causa 1 Ferida toda vez que a criatura recebe dano de um ataque.                                                         |
+| Med-Gel       | Orgânico         | Ingestão | Desmarca 1 Ferida.                                                                                                                                     |
+| Neutralizador | Orgânico         | Ingestão | Diminui em 1 algum Countdown de aflição.                                                                                                               |
+| Parede        |                  | Toque    | Cria uma estrutura de 2m x 2m e 30cm de espessura. A estrutura possui 5 AP.                                                                            |
+| Ventania      |                  | Toque    | Resistir Físico: Todas as criaturas em uma área de 4m são empurradas 4m para trás.                                                                     |
 
 ### Tier 2
 
-| Nome              | Limitador           | Consumo  | Efeito                                                                                             |
-| ----------------- | ------------------- | -------- | -------------------------------------------------------------------------------------------------- |
-| Asfalto           |                     | Toque    | Criatura fica Preso 2. Inflámavel: Caso a criatura sofra dano Fogo, ela recebe Dano Persistente 2. |
-| Calmante Avançado | Orgânico            | Ingestão | Desmarca 3 Stress.                                                                                 |
-| Eclipse           |                     | Inalação | Criatura perde todos os sentidos e fica Incapacitado 2.                                            |
-| Ferrugem          | Construto ou tem AP | Toque    | Causa Dano Alto em AP. Dano Severo caso Construto.                                                 |
-| Liberador         | Orgânico            | Ingestão | Diminui em 2 algum Countdown de aflição.                                                           |
-| Lobotomia         | Orgânico, sem AP    | Ingestão | Causa 2 Stress em alguma criatura.                                                                 |
-| Med-Gel Avançado  | Orgânico            | Ingestão | Desmarca 3 Feridas.                                                                                |
-| Ritalina          | Orgânico            | Inalação | Criatura fica Incentivado 1.                                                                       |
-| Sobrecarga        | Orgânico            | Inalação | Criatura fica Acelerado 2.                                                                         |
+| Nome              | Limitador           | Consumo  | Efeito                                                                                                       |
+| ----------------- | ------------------- | -------- | ------------------------------------------------------------------------------------------------------------ |
+| Asfalto           |                     | Toque    | Esquivar: Criatura fica Preso 2. Inflámavel: Caso a criatura sofra dano Fogo, ela recebe Dano Persistente 2. |
+| Calmante Avançado | Orgânico            | Ingestão | Desmarca 3 Stress.                                                                                           |
+| Eclipse           |                     | Inalação | Resistir Atenção: Criatura perde todos os sentidos e fica Incapacitado 2.                                    |
+| Ferrugem          | Construto ou tem AP | Toque    | Resistir Físico: Causa Dano Alto em AP. Dano Severo caso Construto.                                          |
+| Liberador         | Orgânico            | Ingestão | Diminui em 2 algum Countdown de aflição.                                                                     |
+| Lobotomia         | Orgânico, sem AP    | Ingestão | Resistir Influência: Causa 2 Stress em alguma criatura.                                                      |
+| Med-Gel Avançado  | Orgânico            | Ingestão | Desmarca 3 Feridas.                                                                                          |
+| Ritalina          | Orgânico            | Inalação | Criatura fica Incentivado 1.                                                                                 |
+| Sobrecarga        | Orgânico            | Inalação | Criatura fica Acelerado 2.                                                                                   |
 
 ### Tier 3
 

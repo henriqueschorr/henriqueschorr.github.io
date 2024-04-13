@@ -31,9 +31,9 @@ A classe define de maneira narrativa seu papel quanto a uma equipe e, de maneira
 
 ## Passo 3: Escolha sua Especialização
 
-Especializações agem como se fossem subclasses, cada classe terá ao menos duas. Especializações definem ainda mais seu papel quanto a uma equipe e seu estilo de jogo. Mecanicamente define seu **Armamentos Principais**, **Armadura**, **Equipamentos** e **lista de Aprimoramentos**. 
+Especializações agem como se fossem subclasses, cada classe terá ao menos duas. Especializações definem ainda mais seu papel quanto a uma equipe e seu estilo de jogo. Mecanicamente define seu **Armas Principais**, **Armadura**, **Equipamentos** e **lista de Aprimoramentos**. 
 
-1. Anote seu(s) **Armamentos**.
+1. Anote seu(s) **Armas**.
 2. Anote sua **Armadura**
 3. Anote seus **Equipamentos**
 4. Receba cartas de **Especialização** e, caso válido, **Equipamentos**
@@ -65,7 +65,7 @@ Informações sobre Atributos são encontradas [aqui](../1_core/2_character/inde
 
 ## Passo 5: Escolha Aprimoramentos
 
-Quando você escolheu sua especialização, você recebeu uma **lista de Aprimoramentos**, estes que estão ligados aos seus armamentos ou equipamentos. Neste passo você terá que escolher os aprimoramentos que mais fazem sentido para seu estilo de jogo desejado.
+Quando você escolheu sua especialização, você recebeu uma **lista de Aprimoramentos**, estes que estão ligados aos seus armas ou equipamentos. Neste passo você terá que escolher os aprimoramentos que mais fazem sentido para seu estilo de jogo desejado.
 
 1. Escolha 2 **Aprimoramentos** da lista de cartas de aprimoramentos que você separadou no passo 3.
 
