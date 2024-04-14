@@ -40,7 +40,7 @@ Abaixo você encontra uma tabela com planejamento de módulos e espécies. Leve 
 
 | Módulo          | Espécies          | Exemplos de Aventuras                              |
 | --------------- | ----------------- | -------------------------------------------------- |
-| Força Galáctica | Humano            | Eliminar um ninho do Enxame. Desbancar um ditador. |
+| Força Galáctica | Humano            | Eliminar um ninho do Enxame. Explorar Relíquias. |
 | Simbiose        | Hiver e Symbion   |                                                    |
 | Evolução        | Evoras e Realshir |                                                    |
 | Corpo & Alma    | Kitsuzen e Egon   |                                                    |

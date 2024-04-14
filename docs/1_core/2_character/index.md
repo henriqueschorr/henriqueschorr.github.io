@@ -30,7 +30,7 @@ Características gerais que variam entre espécies.
 
 1. [**Propriedades**](../3_game/properties.md): Orgânico, Humanoid, Inseto, etc.
 2. [**Tamanho**](../3_game/distance.md#tamanho): Minúsculo, Pequeno, Médio, Grande ou Gigante.
-3. [**Movimento**](../3_game/distance.md#movimento). Geralmente sendo Terrestre, Muito Perto.
+3. [**Movimento**](../3_game/distance.md#movimento): Geralmente Terrestre, Muito Perto.
 
 ### Recursos
 
@@ -38,10 +38,10 @@ Recursos definem a resiliência do seu personagem, quanto de dano ele pode receb
 
 **Anote:**  
 
-2. [**Limites de dano**](../3_game/resources.md#armor-points-hit-points--limites-de-dano): Aparecem em três níveis diferentes: Leve, Alto, Severo.  
-3. [**Feridas**](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano): Indica quanto dano seu personagem pode receber.
-4. [**Stress**](../3_game/resources.md#stress): Indica quanto stress seu personagem pode suportar.
-5. [**Caos**](../3_game/resources.md#caos): Recurso é utilizado para alimentar suas [Habilidades](#habilidade).
+1. [**Limites de dano**](../3_game/resources.md#armor-points-hit-points--limites-de-dano): Aparecem em três níveis diferentes: Leve, Alto, Severo.  
+2. [**Feridas**](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano): Indica quanto dano seu personagem pode receber.
+3. [**Stress**](../3_game/resources.md#stress): Indica quanto stress seu personagem pode suportar.
+4. [**Caos**](../3_game/resources.md#caos): Recurso é utilizado para alimentar suas [Habilidades](#habilidade).
 
 Seu personagem também possui [Pontos de Armadura](../3_game/resources.md#armor-points-ap-feridas--limites-de-dano) (AP) como recurso, mas este é definido por sua armadura. Veja o [passo 3](#passo-3-escolha-suas-armaduras).
 
@@ -61,8 +61,8 @@ Para mais informações sobre Cartas, veja este [capítulo]().
 
 Basicamente todo personagem irá possuir ao menos uma arma, sendo um equipamento ou natural, que é uma forma de causar dano em outras criaturas. As armas e também suas quantidades dependem da espécie escolhida. Cartas de espécie podem lhe dar armas ou alterar algo na escolha.
 
-**Anote:** [**Armas**](../3_game/weapon_armor.md#armas) escolhidas.  
-**Receba:** Cartas de armas caso aplicável.  
+1. **Anote:** [**Armas**](../3_game/weapon_armor.md#armas) escolhidas.  
+2. **Receba:** Cartas de armas caso aplicável.  
 
 ## Passo 3: Escolha suas Armaduras
 
@@ -79,8 +79,8 @@ Alguns personagens irão utilizar armadura, sendo um equipamento ou natural, que
 
 Algumas espécies fazem uso de equipamentos para ajudar em suas aventuras.
 
-**Anote:** [**Equipamentos**](../3_game/inventory.md#equipamentos-e-inventário) escolhidos.   
-**Receba:** Cartas de equipamento caso aplicável.
+1. **Anote:** [**Equipamentos**](../3_game/inventory.md#equipamentos-e-inventário) escolhidos.   
+2. **Receba:** Cartas de equipamento caso aplicável.
 
 ## Passo 5: Escolha seu Conhecimento Científico
 
@@ -95,9 +95,9 @@ Algumas espécies possuem conhecimento científico sobre áreas da ciência: Bio
 
 Neste passo você escolherá dois atributos diferentes para avançar, estes que refletem o quão treinado ou habilidoso seu personagem é em uma das seis características principais: Físico, Agilidade, Controle, Atenção, Cérebro e Influência. Neste passo você:
 
-1. Avance e tome nota de 2 **Atributos** diferentes.  
+1. **Avance** e tome nota de 2 **Atributos** diferentes.  
    Avançar significa aumentar o tamanho de um dado. Por exemplo, avançar o atributo Físico que possui um d6, seria aumentá-lo para um d8.
-2. Tome nota dos valores de <ins>Sucesso Parcial</ins>, <ins>Sucesso</ins> e <ins>Sucesso Crítico</ins> para facilitar a resolução dos checks.
+2. **Anote** os valores de <ins>Sucesso Parcial</ins>, <ins>Sucesso</ins> e <ins>Sucesso Crítico</ins> para facilitar a resolução dos checks.
 
 ### Atributos
 
@@ -145,8 +145,8 @@ Influência indica o quão influente você é socialmente, sua força de persona
 
 Neste passo você irá separar todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem e terá que escolher duas. 
 
-1. Separe todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem: armas, armadura, equipamentos, companion, etc.
-2. Escolha 2 cartas para receber.
+1. **Separe** todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem: armas, armadura, equipamentos, companion, etc.
+2. **Escolha** 2 cartas para receber.
 
 ### Tipos de Aprimoramentos
 

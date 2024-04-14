@@ -46,29 +46,19 @@ nav:
         - Companion: 1_core/3_game/companion.md   
         - Transporte: 1_core/3_game/transport.md
         - Criaturas e Monstros: 1_core/3_game/creatures.md
-    # - Humanos:
-    #   - 2_human/index.md
-    #   - Classes:
-    #     - 2_human/classes/index.md
-    #     - Agente:  2_human/classes/agent.md
-    #       # - 2_human/classes/agent/index.md
-    #       # - Capitão: 2_human/classes/agent/captain.md
-    #       # - Piloto: 2_human/classes/agent/pilot.md
-    #     - Segurança: 2_human/classes/security.md
-    #       # - 2_human/classes/security/index.md
-    #       # - Batedor: 2_human/classes/security/scout.md
-    #       # - Soldado: 2_human/classes/security/soldier.md          
-    #     - Técnico: 2_human/classes/technician.md
-    #       # - 2_human/classes/technician/index.md
-    #       # - Cientista: 2_human/classes/technician/scientist.md
-    #       # - Engenheiro: 2_human/classes/technician/engineer.md      
-    #   - Armas: 2_human/weapons.md
-    #   - Armaduras: 2_human/armor.md
-    #   - Equipamentos: 2_human/equipment.md
-    #   - Crafting: 2_human/crafting.md
-    #   - Companion: 2_human/companion.md
-    #   - Transporte: 2_human/transport.md    
-    #   - Descanso: 2_human/rest.md     
+    - Força Galáctica:
+      - 2_galactic_force/index.md
+      - Criando um Humano: 2_galactic_force/creation.md
+      - Armas: 2_galactic_force/weapons.md
+      - Armaduras: 2_galactic_force/armor.md
+      - Equipamentos: 2_galactic_force/equipment.md
+      - Crafting: 2_galactic_force/crafting.md
+      - Companion: 2_galactic_force/companion.md
+      - Transporte: 2_galactic_force/transport.md   
+      # - Humanos:
+      # - Mapa:
+      # - Perigos:
+      # - Aventuras:
 
 extra_css:
   - stylesheets/extra.css

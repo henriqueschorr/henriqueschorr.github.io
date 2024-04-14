@@ -5,7 +5,7 @@
 **Propriedades:** Construto.  
 **Tamanho:** Pequeno.  
 **Movimento:** Terrestre, Muito Perto.  
-**Recursos:** 4 AP.  
+**Recursos:** 5 AP.  
 **Dano:** 1d6
 
 ### Ações
