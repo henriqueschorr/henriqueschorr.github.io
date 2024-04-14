@@ -3,7 +3,7 @@
 Propriedades de criaturas identificam características pertinentes a certas mecânicas, ou demonstram características físicas importantes para narrativas.
 
 #### Besta
-Craituras do tipo besta são semelhantes aos animais na terra, como leões, raposas, lobos, coelhos, etc.
+Craituras do tipo besta são semelhantes aos animais na terra, como leões, raposas, lobos, coelhos, etc. Entre parênteses será indicado um tipo de animal conhecido para indicar a anatomia geral da criatura.
 
 #### Construto
 Construto são criaturas que têm seu corpo inteiramente ou quase inteiramente feito por materiais inorgânicos, como por exemplo aço, madeira ou qualquer tipo de mineral.
@@ -26,6 +26,16 @@ Criaturas do tipo planta são criaturas semelhantes às plantas e flores present
 ## Propriedades de Armas
 
 Propriedades de armas identificam características pertinentes a certas mecânicas, ou demonstram características físicas importantes para narrativas.
+
+#### Carregar
+Indica que a arma tem um modo de carga de tiro, onde você causa dano adicional baseado na precisão da carga. O tipo de dano será indicado entre parênteses. O atributo utilizado será indicado entre parênteses do atributo original da arma, caso não haja, utilize o mesmo. Geralmente presentes em armas que causam dano de energia. 
+Faça um check de Controle logo antes de atirar com a arma, seu grau de sucesso determina o dano adicional que será rolado no próximo ataque:
+
+- **Falha Crítica:** Countdown 2: A arma emperra e você não pode usá-la. GM pode jogar.
+- **Falha:** Você não causa dano adicional.
+- **Sucesso Parcial:** Você causa (<1d Atributo> / 2) dano adicional.
+- **Sucesso:** Você causa <1d Atributo> dano adicional.
+- **Sucesso Crítico:** Você causa <2d Atributo> dano adicional.
 
 #### Carta
 Indica que a arma possui propriedades especiais e possui uma carta explicativa.

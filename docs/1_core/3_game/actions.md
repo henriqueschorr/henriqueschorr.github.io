@@ -29,6 +29,15 @@ Quando sob pressão ou em situações de perigo, como em combate, seu personagem
 
 NPCs podem se mover para uma distância Muito Perto (2 a 4m) e fazer alguma ação como parte de sua ativação. Caso o GM deseje mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar ações, mas também não precisando fazer um check de Agilidade. Algumas criaturas podem ter sua velocidade modificada, podendo mover a distâncias maiores e ainda sim fazer alguma ação.
 
+## Ajudando um Aliado
+
+Você pode ajudar um integrante da sua equipe a realizar uma ação.
+
+1. Descreva narrativamente como você irá ajudar seu aliado.
+2. GM e você decidem qual atributo você usará para conceder a ajuda.
+3. Você rola um check do atributo e seu aliado rola o check da ação dele.
+4. Considerem o melhor resultado para executar a ação.
+
 ## Reações
 
 Apesar das ações serem completamente livres, as reações possuem uma lista predefenida do que pode ser realizado. Personagens e NPCs podem possuir habilidades que se comportam como reação, dando-os assim mais opções. Quase todas as reações usam checks de [Disputa](./checks.md#disputa).
@@ -77,25 +86,10 @@ PCs e alguns NPCs possuirão **Habilidades**, estas que também são considerada
 
 Ações de equipe são ações especiais que podem ser realizadas por qualquer integrante da equipe ao custo de [Karma](./resources.md#karma).
 
-<!-- #### Teamwork
-
-Ao custo de 1 Karma, você pode ajudar um integrante da sua equipe a realizar uma ação.
-
-1. Descreva narrativamente como você irá ajudar seu aliado.
-2. GM e você decidem qual atributo você usará para conceder a ajuda.
-3. Você rola um check do atributo e seu aliado rola o check da ação dele.
-4. Considerem o melhor resultado para executar a ação. -->
-
-#### Double Trouble
+#### Dose Dupla
 
 Ao custo de 1 karma, dois integrantes da equipe podem realizar uma ação em conjunto.
 
 1. Ambos os integrantes da dupla declaram qual ações/habilidades desejam realizar e descrevem de forma narrativa como irão realizá-las em conjunto.
 2. Ambos realizam seu check separadamente, porém o melhor resultado entre os dois será utilizado para ambas ações.
 3. Some o dano de ambos e aplique no alvo ou distribua entre os alvos caso seja mais de um.
-
-<!-- #### ????
-
-TBD
-
-TODO -->
