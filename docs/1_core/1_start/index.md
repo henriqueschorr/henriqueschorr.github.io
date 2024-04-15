@@ -3,20 +3,20 @@
 O primeiro passo a se fazer ao querer jogar Horizon Beyond, é ter uma sessão 0. O intuito desta sessão não é jogar, mas sim, definir a estrutura do jogo que seu grupo deseja jogar e os temas a serem abordados. Nesta sessão seu grupo deve:
 
 1. Definir quem será o GM e quem serão os jogadores
-2. Desejam iniciar uma jornada ou fazer um One Shot?
-      1. Caso desejem iniciar uma jornada, devem definir o tamanho do medidor de prosperidade e ruína
-3. Qual módulo irão jogar? Irão misturar módulos?
-4. Qual aventura desejam viver? Qual o objetivo desta aventura?
-5. Jogadores devem criar seus personagens
-6. Jogadores devem definir sua equipe da aventura
+<!-- 2. Desejam iniciar uma jornada ou fazer um One Shot?
+      1. Caso desejem iniciar uma jornada, devem definir o tamanho do medidor de prosperidade e ruína -->
+2. Qual módulo irão jogar? Irão misturar módulos?
+3. Qual aventura desejam viver? Qual o objetivo desta aventura?
+4. Jogadores devem criar seus personagens
+5. Jogadores devem definir sua equipe da aventura
 
 Uma vez definido a estrutura do jogo e os jogadores terem criado seus personagens, o GM deve criar a aventura e então vocês estarão prontos para vivê-la.
 
-## Jornada
+<!-- ## Jornada
 
-Jornada é uma mecânica para aqueles que desejam jogar uma campanha longa de Horizon Beyond, caso seu grupo deseja rodar apenas One-Shots, essa mecânica pode ser completamente ignorada. Uma jornada é composta por duas ou mais aventuras, podendo ser do mesmo módulo ou módulos diferentes. A ideia é que uma jornada dure entre 1 a 3 anos, enquanto uma aventura dure de 12 a 15 sessões, onde os jogadores irão viver histórias de diversos personagens diferentes, de diferentes módulos e espécies.
+Jornada é uma mecânica para aqueles que desejam jogar uma campanha longa de Horizon Beyond, caso seu grupo deseja rodar apenas One-Shots, essa mecânica pode ser completamente ignorada. Uma jornada é composta por duas ou mais aventuras, podendo ser do mesmo módulo ou módulos diferentes. A ideia é que uma jornada dure entre 1 a 3 anos, enquanto uma aventura dure de 12 a 15 sessões, onde os jogadores irão viver histórias de diversos personagens diferentes, de diferentes módulos e espécies. -->
 
-### Prosperidade e Ruína
+<!-- ### Prosperidade e Ruína
 
 Medidor que define o estado e destino do universo. Caso Prosperidade esteja maior, o universo está caminhando para a paz e harmonia entre as espécies, indicando que seu grupo está fazendo um bom papel. Caso Ruína esteja maior, o universo está entrando em decadência e diversos conflitos estão levando a sua destruição, indicando que seu grupo está perdendo a luta.
 
@@ -35,11 +35,13 @@ O tamanho indicado do medidor é de 2 a 3 para cada lado, assim que um dos dois 
 Prosperidade e Ruína não servem apenas para definir o estado do universo, eles também alteram mecanicamente o jogo. No momento que seu grupo completar uma aventura e desejam começar uma nova aventura, dentro da mesma jornada, considere o seguinte:
 
 Para cada ponto de **Prosperidade**, personagens avançam um atributo extra durante a criação de personagem.  
-Para cada ponto de **Ruína**, personagens recebem um ponto de Caos adicional, porém perdem um ponto de Stress.
+Para cada ponto de **Ruína**, personagens recebem um ponto de Caos adicional, porém perdem um ponto de Stress. -->
 
 ## Aventuras
 
-Uma jornada é composta por múltiplas aventuras e aventuras possuem múltiplos objetivos pequenos e um objeto principal. Uma aventura termina assim que o objetivo principal for alcançado, ou caso seja impossível de alcançá-lo, indicando assim uma falha. Cada aventura será formada por uma equipe de personagens diferente.
+<!-- Uma jornada é composta por múltiplas aventuras e aventuras possuem múltiplos objetivos pequenos e um objeto principal. Uma aventura termina assim que o objetivo principal for alcançado, ou caso seja impossível de alcançá-lo, indicando assim uma falha. Cada aventura será formada por uma equipe de personagens diferente. -->
+
+Uma aventura nada mais é que uma mini-campanha que deve ocorrer em torno de 12 a 15 sessões, onde os personagens alcançarão seus níveis máximos e irão concluir seus objetivos com sucesso ou falhar miseravelmente. Cada aventura será formada por uma equipe de personagens diferentes, onde o grupo (equipe e GM) devem ter decidido um objetivo e sua equipe deve tentar alcançá-lo.
 
 ## Módulos
 

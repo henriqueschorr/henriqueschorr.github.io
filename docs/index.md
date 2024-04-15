@@ -10,15 +10,35 @@ title: Introdução
 
 Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em sci-fi. Neste sistema você irá encontrar regras para mecânicas bases que irão guiar seus jogos nos mais diferentes estilos de aventuras e campanhas. Além disso você também encontra neste módulo o Universo base e as leis que regem ele.
 
-## Jornada
+## Tema
 
-Em Horizon Beyond você e seus amigos irão realizar **Aventuras** com diversos personagens diferentes, contando suas histórias por diversos módulos e locais do universo, com várias espécies. Cabe ao Game Master (GM) e a equipe de jogadores viverem estas histórias, buscando a **Prosperidade** e evitando a **Ruína** do universo.
+Horizon Beyond tem como tema "Cinematic Tactical Adventure Sci-Fi Fantasy". Estas palavras-chaves servem para dar o sentimento do jogo, como ele funciona e como você, jogador, irá jogá-lo.
 
-## Aventura
+### Cinematic
 
-Uma aventura funciona como uma mini campanha, que tem o objetivo de contar uma história de missões e seus personagens, tentando alcançar seus objetivos. Uma aventura deve ocorrer em torno de 12 a 15 sessões, onde os personagens alcançarão seus níveis máximos e irão concluir seus objetivos com sucesso ou falhar miseravelmente.
+Este jogo não tem como objetivo ser um survival, onde você deve manter nota de todo e qualquer recurso como munição, comida, água, etc. Este jogo tem como objetivo contar histórias, viver momentos cinematográficos, ter habilidades legais e matar monstros. Por isso, em HB, você não irá ter que ficar contando munições comuns, alimentos, água, saber se tem uma corda ou garfo ou qualquer outro item utilitário para sua aventura. Você também não terá que ficar se preocupando com peso ou tamanho do inventário, você tem que se preocupar em somente se divertir. Algumas munições especiais e materiais terão contagem, uma vez que são mais poderosos.
 
-Suas aventuras podem ter diversos objetivos, mas um **objetivo** final e de valor significativo deve ser determinado para o fim ser alcançado. O objetivo de sua aventura pode ser destruir um ninho do Enxame, liberar um planeta de uma ditadura ou até mesmo investigar o aparecimento de uma nave que se considerava a muito tempo destruída. Cada módulo irá informar exemplos de aventuras que os personagens podem viver.
+Neste jogo, alguns personagens poderão ter granadas, compostos químicos, armadilhas, munições especiais como dito anteriormente, e outros itens de combate. Mas você não precisa se preocupar qual granada ou armadilha de fato você realmente possui até você precisar usá-la. Você simplesmente irá anotar a quantidade de granadas no seu inventário, e quando a situação chamar, você anuncia qual tipo de granada da lista de granadas da sua espécie irá usar.
+
+Durante combates, você também não precisa se preocupar quais ações você irá fazer no seu turno, só para chegar no seu momento e o cenário ter mudado completamente, forçando você pensar novamente o que irá fazer. Em HB, não temos ordem de iniciativa e turnos propriamente ditos. Existem o Turno de Equipe e Turno do GM. No Turno de Equipe, jogadores podem realizar quantas ações desejarem na hora que desejarem. Você pode correr até um inimigo, lançá-lo no ar de alguma forma, seu companheiro pular, socar ele em direção ao chão e você então cravar uma estaca nele; tudo isso sem se preocupar com limite de ações ou iniciativa, cada jogador joga quando quiser. O Turno do GM acontece quando algum jogador falha em algum check, e como no turno dos jogadores, o GM pode executar ações das suas criaturas na ordem que desejar, mas cada criatura só poderá executar 1 ação, a não ser que dito o contrário.
+
+### Tactical
+
+Apesar da ideia do jogo ser liberdade e diversão, ainda deve ser pensado taticamente o que você irá fazer, principalmente durante um combate. Personagens possuirão Limites de Dano, Feridas, Stress, Caos (usado para habilidades) e outros recursos que garantem a sua sobrevivência e forçam a você pensar como jogar. Combates são melhor realizados em um grid, seja de quadrados ou hexes, pensando em posicionamento e distâncias de ataques.
+
+### Adventure
+
+Em HB você irá criar um personagem de alguma espécie disponível e então irá viver uma aventura, digna de ser contada pelos bares e eventos do universo. Uma aventura nada mais é que uma mini-campanha que deve ocorrer em torno de 12 a 15 sessões, onde os personagens alcançarão seus níveis máximos e irão concluir seus objetivos com sucesso ou falhar miseravelmente.
+
+Suas aventuras podem ter diversos objetivos, mas um **objetivo** final e de valor significativo deve ser determinado para o fim ser alcançado. O objetivo de sua aventura pode ser destruir um ninho do Enxame, liberar um planeta de uma ditadura ou até mesmo investigar o aparecimento de uma nave que se considerava a muito tempo destruída. Cada módulo irá informar exemplos de aventuras ligados as espécies presentes nele.
+
+### Sci-Fi e Fantasy
+
+Ficção Científica e Fantasia são definições as vezes meio subjetivas, em HB o mundo gira mais em torno de tecnologias e ciências, mas também há magia. As habilidades dos seus personagens são alimentadas pelo Caos, força que é matéria e substância de tudo o que há no universo.
+
+<!-- ## Jornada
+
+Em Horizon Beyond você e seus amigos irão realizar **Aventuras** com diversos personagens diferentes, contando suas histórias por diversos módulos e locais do universo, com várias espécies. Cabe ao Game Master (GM) e a equipe de jogadores viverem estas histórias, buscando a **Prosperidade** e evitando a **Ruína** do universo. -->
 
 ## Game Master
 
@@ -26,7 +46,8 @@ Um dos jogadores deve tomar a função de GM. O GM tem como papel trabalhar com 
 
 ## Equipe e Personagens
 
-Todos os jogadores que não forem o GM, serão personagens, os personagens formam uma **Equipe**. Personagens possuem uma **Espécie**, **Recursos**, **Atributos**, **Armas**, **Habilidades** e diversas outras características que os definem e atuam no funcionamento do jogo. Cada aventura será composta de uma equipe de personagens diferentes, portanto ao longo de uma jornada, jogadores viverão diversas vidas.
+Todos os jogadores que não forem o GM, serão personagens, os personagens formam uma **Equipe**. Personagens possuem uma **Espécie**, **Recursos**, **Atributos**, **Armas**, **Habilidades** e diversas outras características que os definem e atuam no funcionamento do jogo. Cada aventura será composta de uma equipe de personagens diferentes.
+<!-- , portanto ao longo de uma jornada, jogadores viverão diversas vidas. -->
 
 ## Módulos e Espécies
 
