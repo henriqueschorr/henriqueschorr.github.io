@@ -10,7 +10,7 @@ Uma vez escolhido o módulo e aventura, a primeira coisa que você deve fazer, c
 
 ## Passo 1: Escolha sua Espécie
 
-Sua espécie define sua aparência física, anatomia, estrutura social, comportamento, armas, armaduras, equipamentos, habilidades e diversas outras características, narrativas e mecânicas. No módulo escolhido por seu grupo você encontrará as espécies disponíveis. Uma breve descrição sobre elas pode ser encontrada [aqui](). Neste passo você realizará as etapas abaixo.
+Sua espécie define sua aparência física, anatomia, estrutura social, comportamento, armas, armaduras, equipamentos, habilidades e diversas outras características, narrativas e mecânicas. No módulo escolhido por seu grupo você encontrará as espécies disponíveis. Uma breve descrição sobre elas pode ser encontrada [aqui](./species.md). Neste passo você realizará as etapas abaixo.
 
 ### Características Gerais
 
@@ -55,7 +55,7 @@ Neste passo você:
 2. **Aplique** qualquer efeito descrito nelas.  
    Exemplos: Se uma carta lhe dá uma arma, anote a arma recebida. Se uma carta lhe dá perícia em uma área da ciência, anote este conhecimento científico.
 
-Para mais informações sobre Cartas, veja este [capítulo]().
+Para mais informações sobre Cartas, veja este [capítulo](./cards.md).
 
 ## Passo 2: Escolha suas Armas
 

@@ -28,11 +28,9 @@ Um dos jogadores deve tomar a função de GM. O GM tem como papel trabalhar com 
 
 Todos os jogadores que não forem o GM, serão personagens, os personagens formam uma **Equipe**. Personagens possuem uma **Espécie**, **Recursos**, **Atributos**, **Armas**, **Habilidades** e diversas outras características que os definem e atuam no funcionamento do jogo. Cada aventura será composta de uma equipe de personagens diferentes, portanto ao longo de uma jornada, jogadores viverão diversas vidas.
 
-## Módulos, Sistemas e Espécies
+## Módulos e Espécies
 
-Como HB é um framework para TTRPGs, aqui você não encontrará muita história sobre o universo ou criaturas que vivem nele, mas sim, mais detalhes de estruturação e regras bases de mecânicas.
-
-Módulos serão entregues separadamente, estes contendo a história de uma parte do sistema, seus habitantes, organizações, conflitos e possibilidades de aventuras. Nestes módulos vocês encontrarão espécies jogáveis que seus personagens podem assumir, e toda a história será em volta deles ou qualquer outra coisa que pode lhes afetar.
+Como HB é um framework para TTRPGs, aqui você encontrará apenas uma visão geral sobre o universo e algumas criaturas que vivem nele. Módulos serão entregues separadamente, estes contendo a história de algumas espécies jogáveis e tudo que gira em volta delas: estrutura social, planetas, pontos de interesse, perigos e ameaças, etc. 
 
 ### Planejamento
 
