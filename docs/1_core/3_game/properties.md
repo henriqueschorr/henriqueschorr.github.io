@@ -3,7 +3,7 @@
 Propriedades de criaturas identificam características pertinentes a certas mecânicas, ou demonstram características físicas importantes para narrativas.
 
 #### Besta
-Craituras do tipo besta são semelhantes aos animais na terra, como leões, raposas, lobos, coelhos, etc.
+Craituras do tipo besta são semelhantes aos animais na terra, como leões, raposas, lobos, coelhos, etc. Entre parênteses será indicado um tipo de animal conhecido para indicar a anatomia geral da criatura.
 
 #### Construto
 Construto são criaturas que têm seu corpo inteiramente ou quase inteiramente feito por materiais inorgânicos, como por exemplo aço, madeira ou qualquer tipo de mineral.
@@ -23,24 +23,34 @@ Criaturas orgânicas têm seu corpo feito por materiais orgânicos, como pele, o
 #### Planta
 Criaturas do tipo planta são criaturas semelhantes às plantas e flores presentes na terra. Pode haver subdivisões mais detalhadas desta propriedade como **Fungus**.
 
-## Propriedades de Armamentos
+## Propriedades de Armas
 
-Propriedades de armamentos identificam características pertinentes a certas mecânicas, ou demonstram características físicas importantes para narrativas.
+Propriedades de armas identificam características pertinentes a certas mecânicas, ou demonstram características físicas importantes para narrativas.
+
+#### Carregar
+Indica que a arma tem um modo de carga de tiro, onde você causa dano adicional baseado na precisão da carga. O tipo de dano será indicado entre parênteses. O atributo utilizado será indicado entre parênteses do atributo original da arma, caso não haja, utilize o mesmo. Geralmente presentes em armas que causam dano de energia. 
+Faça um check de Controle logo antes de atirar com a arma, seu grau de sucesso determina o dano adicional que será rolado no próximo ataque:
+
+- **Falha Crítica:** Countdown 2: A arma emperra e você não pode usá-la. GM pode jogar.
+- **Falha:** Você não causa dano adicional.
+- **Sucesso Parcial:** Você causa (<1d Atributo> / 2) dano adicional.
+- **Sucesso:** Você causa <1d Atributo> dano adicional.
+- **Sucesso Crítico:** Você causa <2d Atributo> dano adicional.
 
 #### Carta
-Indica que o armamento possui propriedades especiais e possui uma carta explicativa.
+Indica que a arma possui propriedades especiais e possui uma carta explicativa.
 
 #### Defesa
-Você pode usar a reação Defender com este armamento.
+Você pode usar a reação Defender com esta arma.
 
 #### Natural
-Indica que o armamento é de origem natural, ou seja, parte do seu corpo. Você não pode ser desarmado.
+Indica que a arma é de origem natural, ou seja, parte do seu corpo. Você não pode ser desarmado.
 
 #### Recarregar
-Caso você role 1 em qualquer dos dados durante o check para atacar com este armamento, você deve recarregar o armamento. Você não pode usar o armamento até Countdown 2. Você pode diminuir em 1 o Countdown para cada Stress marcado.
+Caso você role 1 em qualquer dos dados durante o check para atacar com esta arma, você deve recarregar a arma. Você não pode usar a arma até Countdown 2. Você pode diminuir em 1 o Countdown para cada Stress marcado.
 
 #### Seguro
-Indica que você não pode sofrer a condição Desarmado com este armamento.
+Indica que você não pode sofrer a condição Desarmado com esta arma.
 
 ## Propriedades de Armaduras
 

@@ -2,7 +2,7 @@ Crafting representa a ação/atividade de produzir, ajustar, modificar, aprimora
 
 Para realizar um Crafting, seu personagem precisará:
 
-- Perícia na área (Biologia, Culinária, Engenharia, Física ou Química)
+- Perícia na área (Biologia, Culinária, Engenharia ou Química)
 - Receita (T1, T2 ou T3)
 - Componentes necessários (T1, T2 e T3)
 - Ferramentas necessárias para produzir: Laboratório para química ou biologia, forja ou estação de equipamento para engenharia, etc.
@@ -10,7 +10,7 @@ Para realizar um Crafting, seu personagem precisará:
 
 ## Produção e Aplicação
 
-Algumas receitas como compostos químicos são apenas **produzidas**, podendo ser usadas assim que prontas. Outras receitas serão apenas **aplicadas**, como por exemplo um aprimoramento em alguma armadura ou armamento, ou uma atividade como cirurgia. Já outros itens terão tempo de **produção** e **aplicação**, como o caso do Kit Médico dos Humanos.
+Algumas receitas como compostos químicos são apenas **produzidas**, podendo ser usadas assim que prontas. Outras receitas serão apenas **aplicadas**, como por exemplo um aprimoramento em alguma armadura ou arma, ou uma atividade como cirurgia. Já outros itens terão tempo de **produção** e **aplicação**, como o caso do Kit Médico dos Humanos.
 
 ## Check
 
@@ -53,7 +53,6 @@ Receitas indicam algum projeto que você pode realizar quanto a uma área da ci�
 **Biologia:** Na área de biologia geralmente seu personagem irá poder criar itens como um Kit Médico, realizar procedimentos médicos e aplicar aprimoramentos e modificações de corpo.  
 **Culinária:** Na área da culinária seu personagem irá poder produzir alimentos especiais que garantem bônus a aliados ou causam aflições a inimigos.  
 **Engenharia:** Na área da engenharia seu personagem irá poder construir munições, explosivos, armadilhas e também aprimoramentos para equipamentos e outros itens.  
-**Física:** TBD.  
 **Química:** Na área da química seu personagem irá poder fabricar composições químicas que podem causar os mais diversos tipos de efeitos e condições.  
 
 ### Características

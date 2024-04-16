@@ -22,7 +22,7 @@ Create from https://github.com/mhausenblas/mkdocs-template
 ## Modifying Cards
 
 1. Modify on Photoshop
-2. Save on bth-data/cards
+2. Save on HB-data/cards
 3. Update 'Aprimoramentos' sheet
 4. Update Character Sheet
 5. Update this project

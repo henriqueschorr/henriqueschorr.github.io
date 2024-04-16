@@ -1,10 +1,10 @@
 ## Mapa, Alcance, Movimento e Tamanho
 
-BTH pode ser jogado com mapa ou sem, mas para um combate mais tático, é recomendado que um mapa seja usado. Você pode usar um mapa dividido e tiles ou hexes, onde este último é o mais recomendado. O jogo usa o sistema métrico.
+HB pode ser jogado com mapa ou sem, mas para um combate mais tático, é recomendado que um mapa seja usado. Você pode usar um mapa dividido e tiles ou hexes, onde este último é o mais recomendado. O jogo usa o sistema métrico.
 
 ### Alcances
 
-Em BTH usamos distâncias e alcances mais genéricos, mas cada um tem seu valor em metros especificado.
+Em HB usamos distâncias e alcances mais genéricos, mas cada um tem seu valor em metros especificado.
 
 | Alcance/Distância | Metros   | Tiles/Hexes             |
 | ----------------- | -------- | ----------------------- |

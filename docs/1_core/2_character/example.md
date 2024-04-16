@@ -33,11 +33,11 @@ Ignore o AP por enquanto, uma vez que ele é preenchido quando você receber sua
 
 Cada classe de humanos possui no mínimo duas especializações, estas que definem mais ainda seu papel quanto a uma equipe. A classe de Segurança possui três especializações: Batedor, Brutamonte e Soldado. Remella se intereça pelo [Batedor](../../2_human/classes/security/scout.md), uma vez que parece satisfazer uma temática de assassino silencioso e faz uso de um arco composto e uma lâmina fragmento.
 
-A especialização define mecanicamente seu **Conhecimento Científico**, **Receitas**, **Armamentos**, **Armaduras**, **Equipamentos** e **Aprimoramentos**.
+A especialização define mecanicamente seu **Conhecimento Científico**, **Receitas**, **Armas**, **Armaduras**, **Equipamentos** e **Aprimoramentos**.
 
 A especialização de Batedor diz a Remella para realizar o seguinte:
 
-**Armamentos Principais:** Arco Composto, Lâmina Fragmento       
+**Armas Principais:** Arco Composto, Lâmina Fragmento       
 **Armadura:** A.N.E. Leve     
 **Equipamentos:** 1x Armadilha  (escolha na hora do uso), 1x Kit Médico Simples  
 **Cartas:** Golpe Letal      
@@ -62,7 +62,7 @@ Neste passo aqui, como recebemos a armadura, nós marcamos o AP que foi mostrado
 
 #### Passo 3.1: Decida seu Conhecimento Científico (Humano - Batedor)
 
-A especialização de Batedor diz que você deve escolher seu Conhecimento Científico. Para isto, Remella deve escolher entre uma das áreas da ciência: Biologia, Culinária, Engenharia, Física e Química. Remella deseja ser capaz de destrancar portas, desarmar dispositivos mecânicos ou digitais, portanto decide escolher a área de **Engenharia**.
+A especialização de Batedor diz que você deve escolher seu Conhecimento Científico. Para isto, Remella deve escolher entre uma das áreas da ciência: Biologia, Culinária, Engenharia e Química. Remella deseja ser capaz de destrancar portas, desarmar dispositivos mecânicos ou digitais, portanto decide escolher a área de **Engenharia**.
 
 1. Remella anota que possuí perícia em Engenharia.
 2. Remella toma nota que sabe produzir receitas de engenharia do nível T1.
@@ -92,9 +92,9 @@ Remella gosta da ideia de ser um assassino que suja as mãos, que mata seus inim
 ![](../../0_assets/images/creation/step4%20-%20attributes.png)
 
 ## Passo 5: Escolha Aprimoramentos
-Quando Remella selecionou a especialização de Batedor, ele automaticamente recebeu o aprimoramento Golpe Letal e uma lista de outras cartas de aprimoramento. Esta lista consiste em cartas de aprimoramentos para sua armadura: A.N.E. Leve, e para seus armamentos: Arco Composto e Lâmina Fragmento, todos para seu nível atual, que é 1.
+Quando Remella selecionou a especialização de Batedor, ele automaticamente recebeu o aprimoramento Golpe Letal e uma lista de outras cartas de aprimoramento. Esta lista consiste em cartas de aprimoramentos para sua armadura: A.N.E. Leve, e para seus armas: Arco Composto e Lâmina Fragmento, todos para seu nível atual, que é 1.
 
-Ao total, Remella possui quatro cartas de aprimoramentos, duas para sua armadura e uma para cada armamento. A espécie de humanos diz que apenas duas devem ser selecionadas por nível.
+Ao total, Remella possui quatro cartas de aprimoramentos, duas para sua armadura e uma para cada arma. A espécie de humanos diz que apenas duas devem ser selecionadas por nível.
 
 Como Remella quer ser um assassino silencioso, ele escolhe as seguintes cartas de aprimoramento:
 
@@ -103,7 +103,7 @@ Como Remella quer ser um assassino silencioso, ele escolhe as seguintes cartas d
 
 ## The End
 
-Pronto, Remella acaba de criar seu primeiro personagem em Beyond the Horizon e está pronto para iniciar sua aventura. Abaixo você encontra uma visão geral de como ficou sua ficha por completo.
+Pronto, Remella acaba de criar seu primeiro personagem em Horizon Beyond e está pronto para iniciar sua aventura. Abaixo você encontra uma visão geral de como ficou sua ficha por completo.
 
 ![](../../0_assets/images/creation/sheet1.png)
 ![](../../0_assets/images/creation/sheet2.png)

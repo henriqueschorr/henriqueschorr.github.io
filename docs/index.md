@@ -2,87 +2,131 @@
 title: Introdução
 ---
 
-![BTH logo](./0_assets/images/BTH.png)
+![](./0_assets/images/HB.png)
 
 **Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por esse caminho uma vez que estes termos já estão bem difundidos em qualquer tipo de jogo ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
 
-## O que é Beyond the Horizon (BTH)?
+## Bem Vindo a Horizon Beyond
 
-Beyond the Horizon, ou BTH, é um sistema de RPG que oferece mecânicas bases para jogar em qualquer contexto, porém focado mais no mundo futurístico e sci-fi. O jogo gira em torno de uma narrativa heróica de personagens controlados por jogadores (PCs) que devem ter sucesso em conquistar um objetivo geral no universo, como por exemplo, livrar um planeta de uma raça invasora, desvendar o mistério de uma nave abandonada no espaço que se dava há muito tempo como perdida, extrair e salvar uma civilização de um planeta próximo a uma estrela prestes a entrar em colapso, desbancar um governo tirano e opressor, entre outros. Com isso em mente, BTH é pensado em rodar dentro de mini campanhas que se expandem ao torno de 12 a 15 sessões, onde os personagens de jogadores terão alcançado nível máximo e conquistado ou falhado seu objetivo.
+Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em sci-fi. Neste sistema você irá encontrar regras para mecânicas bases que irão guiar seus jogos nos mais diferentes estilos de aventuras e campanhas. Além disso você também encontra neste módulo o Universo base e as leis que regem ele.
 
-O objetivo do jogo é ter uma narrativa bem aberta focada em ficção antes de realidade, tendo combate como centro das atenções.
+## Tema
 
-O jogo gira em torno do Game Master (GM) descrevendo uma **cena** e os jogadores reagindo a ela, dizendo o que desejam fazer. Dependendo a ação desejada, será necessário realizar um **check** normal ou com oposição, este ligado à um dos **atributos** de personagem. Uma cena pode se agravar a um **combate**, este que é gerenciado de forma fluida, sem iniciativas ou rodadas.
+Horizon Beyond tem como tema "Cinematic Tactical Adventure Sci-Fi Fantasy". Estas palavras-chaves servem para dar o sentimento do jogo, como ele funciona e como você, jogador, irá jogá-lo.
 
-## Mecânicas
+### Cinematic
 
-BTH possui como mecânica de resolução Step Dice Pool-ish. Em resumo, personagens possuem atributos, como Físico e Agilidade, e vinculados a eles, um dado e dois **portões de caos**. Quanto mais eficaz um personagem em um atributo, maior será seu dado, começando em d6 e indo até d12. Este dado é conhecido como **dado principal**. Cada atributo possui dois portões de caos que podem ser abertos, cada um destes dando um dado adicional à pool e outros benefícios que variam para cada atributo. Estes dados são conhecidos como **dados caóticos** e adicionam regras extras aos checks de ações e cálculos de dano.
+Este jogo não tem como objetivo ser um survival, onde você deve manter nota de todo e qualquer recurso como munição, comida, água, etc. Este jogo tem como objetivo contar histórias, viver momentos cinematográficos, ter habilidades legais e matar monstros. Por isso, em HB, você não irá ter que ficar contando munições comuns, alimentos, água, saber se tem uma corda ou garfo ou qualquer outro item utilitário para sua aventura. Você também não terá que ficar se preocupando com peso ou tamanho do inventário, você tem que se preocupar em somente se divertir. Algumas munições especiais e materiais terão contagem, uma vez que são mais poderosos.
 
-Quando for necessário realizar um check para saber a resolução de uma ação de personagem, o GM irá informar qual dos atributos esta ação está vinculada, e então o jogador realizará um check. Checks consistem no jogador rolar um ou mais dados de acordo com o atributo definido, e então verificar o resultado dos dados rolados. Os possíveis resultados variam entre falha crítica, falha, sucesso parcial, sucesso e sucesso crítico. Dados caóticos podem influenciar no resultado do check de maneira positiva ou negativa.
+Neste jogo, alguns personagens poderão ter granadas, compostos químicos, armadilhas, munições especiais como dito anteriormente, e outros itens de combate. Mas você não precisa se preocupar qual granada ou armadilha de fato você realmente possui até você precisar usá-la. Você simplesmente irá anotar a quantidade de granadas no seu inventário, e quando a situação chamar, você anuncia qual tipo de granada da lista de granadas da sua espécie irá usar.
 
-Caso um check for normal, ou seja, sem oposição/disputa, o resultado da resolução é dada inteiramente a rolagem dos dados de seu atributo. Caso um check tenha oposição, ou seja, há **disputa**, o resultado de um participante será comparado com o resultado de outro, para então o resultado da disputa como um todo ser decidido.
+Durante combates, você também não precisa se preocupar quais ações você irá fazer no seu turno, só para chegar no seu momento e o cenário ter mudado completamente, forçando você pensar novamente o que irá fazer. Em HB, não temos ordem de iniciativa e turnos propriamente ditos. Existem o Turno de Equipe e Turno do GM. No Turno de Equipe, jogadores podem realizar quantas ações desejarem na hora que desejarem. Você pode correr até um inimigo, lançá-lo no ar de alguma forma, seu companheiro pular, socar ele em direção ao chão e você então cravar uma estaca nele; tudo isso sem se preocupar com limite de ações ou iniciativa, cada jogador joga quando quiser. O Turno do GM acontece quando algum jogador falha em algum check, e como no turno dos jogadores, o GM pode executar ações das suas criaturas na ordem que desejar, mas cada criatura só poderá executar 1 ação, a não ser que dito o contrário.
 
-## Visão Geral do Universo e Temática
+### Tactical
 
-BTH se passa em um universo vasto e variado, onde vários planetas estão a espera para serem explorados, mistérios a serem desvendados e espécies alieníginas a espera do primeiro contato. O propósito base e temática do jogo é se passar em um universo com espécies avançadas, em um futuro distante onde a viagem espacial é fácil e acessível, mas não vazia de perigos. Naves espaciais, sci-fi gadgets, tecnologias avançadas que parecem mágica, e outras diversas ideias do futuro distante são base para este jogo. 
+Apesar da ideia do jogo ser liberdade e diversão, ainda deve ser pensado taticamente o que você irá fazer, principalmente durante um combate. Personagens possuirão Limites de Dano, Feridas, Stress, Caos (usado para habilidades) e outros recursos que garantem a sua sobrevivência e forçam a você pensar como jogar. Combates são melhor realizados em um grid, seja de quadrados ou hexes, pensando em posicionamento e distâncias de ataques.
 
-Nada impede que, por exemplo, uma temática de Cassette Futurism seja adotada, que é basicamente como os anos 80 imaginava o futuro. Grandes inspirações seriam os filmes Alien, De volta para o Futuro e 2001: Uma odisseia no espaço. Nada impede também que a campanha se passe em apenas um planeta, utilizando uma espécie mais "atrasada", com mais cara de fantasia, como o caso dos Kitsuzen.
+### Adventure
 
-Nesta documentação será oferecido um **universo** criado pelo autor, porém sinta-se a vontade em modificar todo e qualquer ponto para satisfazer o desejo de temática do seu grupo.
+Em HB você irá criar um personagem de alguma espécie disponível e então irá viver uma aventura, digna de ser contada pelos bares e eventos do universo. Uma aventura nada mais é que uma mini-campanha que deve ocorrer em torno de 12 a 15 sessões, onde os personagens alcançarão seus níveis máximos e irão concluir seus objetivos com sucesso ou falhar miseravelmente.
 
-## Caos e Regentes do Universo
+Suas aventuras podem ter diversos objetivos, mas um **objetivo** final e de valor significativo deve ser determinado para o fim ser alcançado. O objetivo de sua aventura pode ser destruir um ninho do Enxame, liberar um planeta de uma ditadura ou até mesmo investigar o aparecimento de uma nave que se considerava a muito tempo destruída. Cada módulo irá informar exemplos de aventuras ligados as espécies presentes nele.
 
-Caos é a energia, matéria e substância que é origem de tudo e todos no universo. Esta energia é retirada de um universo paralelo ao nosso e manipulada pelos Regentes do Universo. Personagens também usarão caos como recurso para poderem acionar **habilidades**, possuindo assim, uma certa manipulação quanto a ele.
+### Sci-Fi e Fantasy
 
-Os Regentes do Universo são dados como três forças diferentes: Expansão, Ordem e Colapso, cada uma com seu papel na criação e desenvolvimento do universo. Varias religiões e outras teorias giram em torno destas forças, algumas inclusive as tratando como divindades e teorizando que elas possuam consciência e racionalidade. Não há provas suficientes para provar a veracidade destas informações.
+Ficção Científica e Fantasia são definições as vezes meio subjetivas, em HB o mundo gira mais em torno de tecnologias e ciências, mas também há magia. As habilidades dos seus personagens são alimentadas pelo Caos, força que é matéria e substância de tudo o que há no universo.
 
-Mais informações sobre Caos e os Regentes podem ser encontrados no capítulo do **Universo**.
+<!-- ## Jornada
 
-## Espécies
+Em Horizon Beyond você e seus amigos irão realizar **Aventuras** com diversos personagens diferentes, contando suas histórias por diversos módulos e locais do universo, com várias espécies. Cabe ao Game Master (GM) e a equipe de jogadores viverem estas histórias, buscando a **Prosperidade** e evitando a **Ruína** do universo. -->
 
-Em um universo vasto e variado não poderia faltar uma grande variação de espécies. As espécies de BTH seguem um formato assimétrico, ou seja, cada espécie é criada e jogada diferente, porém seguindo, claro, as regras core do jogo. Por exemplo Humanos são divididos em classes e especializações e possuem equipamentos tecnológicos que servem como armas, armaduras ou utilidades gerais. Já os Evoras, que são uma raça insectóide, evoluem a cada nível e cada passo em sua evolução escolhem novos aprimoramentos que atuam diretamente em seu corpo, sendo eles armas ou armaduras naturais, melhorias de órgãos ou órgãos extras.
+## Game Master
 
-Com essa diferença em mente, neste módulo você encontra regras gerais do jogo e cada espécie terá seu próprio módulo separado explicando como montar um personagem e evoluí-lo, assim como qualquer outro detalhe disponível para aquela espécie.
+Um dos jogadores deve tomar a função de GM. O GM tem como papel trabalhar com sua equipe de jogadores para decidirem detalhes de suas jornadas, módulos e objetivos de suas aventuras. Durante o jogo, cabe ao GM narrar a história e descrever as consequências das ações dos jogadores.
+
+## Equipe e Personagens
+
+Todos os jogadores que não forem o GM, serão personagens, os personagens formam uma **Equipe**. Personagens possuem uma **Espécie**, **Recursos**, **Atributos**, **Armas**, **Habilidades** e diversas outras características que os definem e atuam no funcionamento do jogo. Cada aventura será composta de uma equipe de personagens diferentes.
+<!-- , portanto ao longo de uma jornada, jogadores viverão diversas vidas. -->
+
+## Módulos e Espécies
+
+Como HB é um framework para TTRPGs, aqui você encontrará apenas uma visão geral sobre o universo e algumas criaturas que vivem nele. Módulos serão entregues separadamente, estes contendo a história de algumas espécies jogáveis e tudo que gira em volta delas: estrutura social, planetas, pontos de interesse, perigos e ameaças, etc. 
+
+### Planejamento
+
+Abaixo você encontra uma tabela com planejamento de módulos e espécies. Leve em consideração que isto é apenas um planejamento e está sujeito a mudança. No momento apenas o módulo Força Galáctica será entregue, contendo a espécie jogável Humano.
+
+| Módulo          | Espécies          | Exemplos de Aventuras                              |
+| --------------- | ----------------- | -------------------------------------------------- |
+| Força Galáctica | Humano            | Eliminar um ninho do Enxame. Explorar Relíquias. |
+| Simbiose        | Hiver e Symbion   |                                                    |
+| Evolução        | Evoras e Realshir |                                                    |
+| Corpo & Alma    | Kitsuzen e Egon   |                                                    |
+
+## Regentes do Universo e Caos
+
+É conhecido que existem três forças regentes do universo: Expansão, Ordem e Colapso. Estas forças, também consideradas entidades por algumas culturas, manipulam o caos e controlam tudo o que é universo.
+
+**Caos** é a matéria, substância, ou qualquer outra coisa que você deseja chamar, base para tudo que existe no universo. Personagens e algumas criaturas podem manipular o Caos, mesmo que de forma limitada, para realizar habilidades, estas que muitos consideram magia.
+
+
+## Narrativa e Checks
+
+O jogo gira em torno de uma narrativa onde o GM descreve uma **Cena** e os jogadores devem reagir a ela dizendo o que desejam fazer. Dependendo a ação desejada, será necessário realizar um **Check**, com ou sem oposição, este último sendo conhecido como **Disputa**.
+
+Uma cena pode se agravar e se tornar um **Combate**, este que é gerenciado de forma fluída, sem iniciativas ou rodadas próprias.
+
+A mecânica de resolução escolhida para HB é Step Dice Pool-ish. Personagens e criaturas possuem atributos, como Físico e Agilidade, e vinculados a eles, um **Dado Principal** que varia entre d6 a d12, quanto mais eficaz uma criatura ou personagem em um atributo, maior o dado. Todo o check é ligado a um atributo, portanto ao realizar um check, o jogador deve rolar o dado do atributo e verificar seu grau de sucesso: Falha, Sucesso Parcial, Sucesso e Sucesso Crítico.
+
+Cada atributo também possui dois **Portões de Caos**. Ao abrir um dos portões, benefícios são obtidos, como por exemplo, ao abrir o portão do caos do atributo Físico, você recebe um ponto de Ferida a mais permanentemente. Além disso, você recebe um **Dado Caótico** que você irá rolar juntamente com o dado principal sempre que for realizar um check. Dados caóticos adicionam regras extras aos checks e cálculos de dano.
+
+## Cartas
+
+Durante a criação de personagem e o decorrer da aventura, você irá receber cartas, estas sendo referentes a espécie, armas, equipamentos, habilidades, passivas, aprimoramentos, etc. Além da ficha de personagem você também irá possuir estas cartas. Esta é uma forma de ajudar e facilitar a visualização do que seu personagem é capaz de fazer.
+
+
+<!--
 
 ## Motivações
 
 Jogando outros sistemas de RPGs eu tive ideias de mecânicas que gostaria de experimentar e também, o principal, resolver diversos aspectos que eu considero problemático ou que não acho divertido. Abaixo você encontra uma lista das minhas motivações e uma breve explicação de como estou tentando implementá-las.
 
 <!-- #### Espécies -->
-
+<!--
 ### Progresso -> Dados maiores e maior quantidade
 
 Uma ideia que vim pensando há um tempo é ter um feedback de senso de progressão de forma física, não apenas números em um papel ou dígitos em uma tela. No D&D usa uma mecânica de _Roll and Add_, onde você sempre rola um d20 e adiciona modificadores que são números inteiros, eu queria algo menos estático do que modificadores e uma progressão de dados. Acabei me deparando com as mecânicas de _Step Dice_ e _Dice Pool_. Resolvi unir ambas e agora seus atributos definem o tamanho do dado (Step Dice), podendo ir de 1d6 até 1d12, e a quantidade portões do caos abertas definem o número de dados caóticos, que são dados extras que influenciam na resolução. Com isso um novato pode acabar rodando 1d6, enquanto alguém mais avançado pode acabar rolando 3d12! Dando um senso de progresso bem alto, através de feedback físico: tamanho e quantidade de dados.
 
 ### Remover "Set difficulty value"
 
-Em D&D e vários outros sistemas, para saber se você foi bem sucedido em uma ação, o GM deve setar uma dificuldade e o jogador deve alcançar valor igual ou maior que ela. Um dos grandes problemas desse sistema é o GM de fato pensar em um valor apropriado de dificuldade. Com isso os GMs devem pensar em um valor pré-aventura ou improvisar na hora, tendo que pensar em diversos fatores e rolar um calculo quase que matemático pra decidir um valor satisfatório. Não é atoa que há centenas de horas e linhas de conteúdo sobre esse assunto. Em BTH o único fator que diz se você foi bem sucedido ou não, é o seu próprio valor rolado em um check. Se uma ação é feita com oposição, esse valor será comparado a rolagem do openente. 
+Em D&D e vários outros sistemas, para saber se você foi bem sucedido em uma ação, o GM deve setar uma dificuldade e o jogador deve alcançar valor igual ou maior que ela. Um dos grandes problemas desse sistema é o GM de fato pensar em um valor apropriado de dificuldade. Com isso os GMs devem pensar em um valor pré-aventura ou improvisar na hora, tendo que pensar em diversos fatores e rolar um calculo quase que matemático pra decidir um valor satisfatório. Não é atoa que há centenas de horas e linhas de conteúdo sobre esse assunto. Em HB o único fator que diz se você foi bem sucedido ou não, é o seu próprio valor rolado em um check. Se uma ação é feita com oposição, esse valor será comparado a rolagem do openente.
 
 ### Skills fixadas em atributos
 
-Um dos maiores problemas que vejo ao realizar ações no D&D e sistemas parecido, é que estas estão ligadas a skills, e estas skills estão ligadas de forma fixa a um atributo. Um exemplo claro é a _intimidação_ que está fixada ao atributo de _carisma_, fazendo assim, um Ogro gigante, feio e forte que possui 0 carisma, não conseguir intimidar um humano comum mesmo com sua força bruta e presença ameaçadora. Em BTH possuímos apenas atributos e em cada um deles, alguns exemplos simples de uso, deixando ao GM e aos jogadores decidirem qual atributo é mais apropriada para cada ação. O GM sempre possui a palavra final.
+Um dos maiores problemas que vejo ao realizar ações no D&D e sistemas parecido, é que estas estão ligadas a skills, e estas skills estão ligadas de forma fixa a um atributo. Um exemplo claro é a _intimidação_ que está fixada ao atributo de _carisma_, fazendo assim, um Ogro gigante, feio e forte que possui 0 carisma, não conseguir intimidar um humano comum mesmo com sua força bruta e presença ameaçadora. Em HB possuímos apenas atributos e em cada um deles, alguns exemplos simples de uso, deixando ao GM e aos jogadores decidirem qual atributo é mais apropriada para cada ação. O GM sempre possui a palavra final.
 
-<!-- #### Atributos impactam outras características -->
+
 
 ### Matemática e cáculos
 
-Cálculos matemáticos sempre atrapalham o desandar do jogo, quem nunca precisou pegar um número rolado no dado, somar diversos modificadores e então subtrair de outro. Em BTH eu tentei resolver esse problema da seguinte forma:
+Cálculos matemáticos sempre atrapalham o desandar do jogo, quem nunca precisou pegar um número rolado no dado, somar diversos modificadores e então subtrair de outro. Em HB eu tentei resolver esse problema da seguinte forma:
 
-**Remover valores de defesa:** Valores fixos de evasão, defesa ou armor class sempre geram a necessidade de algum cálculo de subtração. Em BTH, se você rolou sucesso no check, você acerta o alvo, a não ser que este tente esquivar ou defender, mesmo assim, nenhum cálculo é realizado, há apenas a comparação entre números para decidir o resultado final do ataque.
+**Remover valores de defesa:** Valores fixos de evasão, defesa ou armor class sempre geram a necessidade de algum cálculo de subtração. Em HB, se você rolou sucesso no check, você acerta o alvo, a não ser que este tente esquivar ou defender, mesmo assim, nenhum cálculo é realizado, há apenas a comparação entre números para decidir o resultado final do ataque.
 
-**Feridas > HP:** Em diversos sistemas, quando alguma criatura toma dano, o valor é subtraído diretamente de seu HP, levando a cenários onde você deve calcular, por exemplo, 137 - 68. Em BTH temos **limites de dano** e Feridas. A Ferida sempre será representado por alguma forma geométrica como um quadrado e sempre terá quantidade baixa, por exemplo, 10. Os limites de dano indicam quantas Feridas você marcará, podendo ser de 1 a 4. Se você receber dano que atinja seu limite de dano severo, você preenche 3 quadradinhos, simples assim. Ideia retirada do sistema Daggerheart.
+**Feridas > HP:** Em diversos sistemas, quando alguma criatura toma dano, o valor é subtraído diretamente de seu HP, levando a cenários onde você deve calcular, por exemplo, 137 - 68. Em HB temos **limites de dano** e Feridas. A Ferida sempre será representado por alguma forma geométrica como um quadrado e sempre terá quantidade baixa, por exemplo, 10. Os limites de dano indicam quantas Feridas você marcará, podendo ser de 1 a 4. Se você receber dano que atinja seu limite de dano severo, você preenche 3 quadradinhos, simples assim. Ideia retirada do sistema Daggerheart.
 
 Infelizmente não consegui me livrar de todos os cálculos, a soma ainda está presente na hora de comparar resultados de checks quando há disputa, oposição ou na hora de calcular o dano causado. O lado bom é que a soma é a operação mais fácil de se resolver dentre elas.
 
-<!-- **Distâncias, Movimento e alcance:**  -->
+
 
 ### Combate engessado
 
-Rolar iniciativa é emocionante, porém a ordem de turnos acaba engessando as opções dos participantes. Digamos que o jogador A teve a ideia de uma ação no seu turno, mas ela depende da ação de outro jogador B. Jogador A então deve fazer seu turno, esperar o turno do jogador B e depois de toda uma volta na rodada, aí sim realizar sua ação, sendo que no momento pode acabar sendo tarde demais ou não fazer mais sentido. Por isso BTH segue uma ideia de combate fluído, bem parecida com a de Daggerheart. Jogadores agem primeiro na ordem que quiserem, executando uma ação, o GM pode agir com seus NPCs assim que algum jogador falhar ou ter sucesso parcial em algum check, após um certo número de ações do GM ou caso ele falhe em algo, os jogadores voltam a realizar ações e assim vai até a resolução do combate. Para mais informações veja **Combate**.
+Rolar iniciativa é emocionante, porém a ordem de turnos acaba engessando as opções dos participantes. Digamos que o jogador A teve a ideia de uma ação no seu turno, mas ela depende da ação de outro jogador B. Jogador A então deve fazer seu turno, esperar o turno do jogador B e depois de toda uma volta na rodada, aí sim realizar sua ação, sendo que no momento pode acabar sendo tarde demais ou não fazer mais sentido. Por isso HB segue uma ideia de combate fluído, bem parecida com a de Daggerheart. Jogadores agem primeiro na ordem que quiserem, executando uma ação, o GM pode agir com seus NPCs assim que algum jogador falhar ou ter sucesso parcial em algum check, após um certo número de ações do GM ou caso ele falhe em algo, os jogadores voltam a realizar ações e assim vai até a resolução do combate. Para mais informações veja **Combate**.
 
 ### Cooperação
 
-Em muitos sistemas de RPG cada um faz seu turno individualmente tentando alcançar um objetivo geral, causando assim um senso de individualidade, competição, mesmo que pertençam ao mesmo time. Em BTH possui maneiras de cooperar diretamente com outros jogadores, criando um senso maior de time e pertencer. Jogadores podem ajudar outros durante checks, ou ainda mais, o time recebe pontos de **karma** que podem ser gastados para realizar ações em conjunto que causam efeitos e danos poderosos.
+Em muitos sistemas de RPG cada um faz seu turno individualmente tentando alcançar um objetivo geral, causando assim um senso de individualidade, competição, mesmo que pertençam ao mesmo time. Em HB possui maneiras de cooperar diretamente com outros jogadores, criando um senso maior de time e pertencer. Jogadores podem ajudar outros durante checks, ou ainda mais, o time recebe pontos de **karma** que podem ser gastados para realizar ações em conjunto que causam efeitos e danos poderosos.  -->
 
 <!-- #### Karma -->
 
@@ -98,4 +142,3 @@ Inventory
 Encounter Easier
 Conditions
 Mini Campanha -->
-

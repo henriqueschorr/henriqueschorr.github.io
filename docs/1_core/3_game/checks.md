@@ -1,6 +1,6 @@
-Quando uma ação/reação for realizada em uma situação de perigo ou tensão, ou quando esta deve ser realizada com cuidado e atenção, um check será requisitado. Um check em BTH consiste em rolar um dado do Atributo associado a ação e então verificar seu resultado. Um check sem **disputa** tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com disputa é comparado com o lado oposto.
+Quando uma ação/reação for realizada em uma situação de perigo ou tensão, ou quando esta deve ser realizada com cuidado e atenção, um check será requisitado. Um check em HB consiste em rolar um dado do Atributo associado a ação e então verificar seu resultado. Um check sem disputa tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com disputa é comparado com o lado oposto.
 
-Checks também podem ser modificados por [dados caóticos](#dados-caóticos), [conhecimento](actions.md#ações-com-ciência), [condições]() e outros efeitos situacionais.
+Checks também podem ser modificados por [dados caóticos](#dados-caóticos), [conhecimento](actions.md#ações-com-ciência), [condições](./conditions.md) e outros efeitos situacionais.
 
 #### Resultados
 
@@ -12,7 +12,7 @@ Checks também podem ser modificados por [dados caóticos](#dados-caóticos), [c
 | Sucesso Crítico |       |       |        |   12   |
 
 **Falha Crítica**  
-Pode acontecer somente quando [dados caóticos](#dados-caóticos) são introduzidos ao check.  
+Pode acontecer somente quando [Dados Caóticos](#dados-caóticos) são introduzidos ao check.  
 Falha Crítica acontece quando você <ins>falha</ins> no check e <ins>ao menos 1 de seus dados caóticos</ins> rola o mesmo número do dado principal.
 
 ### Resoluções
@@ -29,44 +29,44 @@ Abaixo segue os efeitos que as diferentes resoluções causam quando o check é 
 
 ### Exemplo de Check
 
-O Humano Batedor de Remella, Beck, está tentando abrir uma fechadura digital de uma porta mexendo em seus componentes. O GM diz para Remella fazer um check com Controle e que envolve o conhecimento de Engenharia. Beck possui conhecimento em Engenharia, portanto o check será realizado normalmente, sem vantagem.
+_Remella está tentando abrir uma fechadura digital de uma porta mexendo em seus componentes. O GM diz para Remella fazer um check com Controle e que envolve o conhecimento de Engenharia. Remella possui conhecimento em Engenharia, portanto o check será realizado normalmente, sem vantagem._
 
 Abaixo segue as possíveis resoluções para esse evento:
 
 **Sucesso Crítico**  
-Remella rola 10, o que representa um sucesso crítico! Beck escuta o som de guardas atrás da porta e aguarda eles se afastarem. Beck consegue desativar a fechadura digital e abrir a porta silenciosamente. O GM dá a opção a Remella de atacar um dos guardas usando o mesmo resultado de check ou passar despercebido para a próxima sala.
+_Remella rola 12 no d12 atribuido a Controle, o que representa um sucesso crítico! Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital e abrir a porta silenciosamente. O GM dá a opção a Remella de atacar um dos guardas usando o mesmo resultado de check ou passar despercebido para a próxima sala._
 
 **Sucesso**  
-Remella rola 8, o que representa um sucesso. Beck escuta o som de guardas atrás da porta e aguarda eles se afastarem. Beck consegue desativar a fechadura digital e abrir a porta silenciosamente.
+_Remella rola 8, o que representa um sucesso. Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital e abrir a porta silenciosamente._
 
 **Sucesso Parcial**  
-Remella rola 4, o que representa um sucesso parcial. Beck escuta o som de guardas atrás da porta e aguarda eles se afastarem. Beck consegue desativar a fechadura digital porém faz barulho ao abrir a porta, chamando a atenção dos guardas.
+_Remella rola 6, o que representa um sucesso parcial. Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital porém faz barulho ao abrir a porta, chamando a atenção dos guardas._
 
 **Falha**  
-Remella rola 2, o que representa uma falha. Beck não consegue desativar a fechadura digital.
+_Remella rola 2, o que representa uma falha. Remella não consegue desativar a fechadura digital._
 
 **Falha Crítica**  
-Este resultado não poderia acontecer sem dados caóticos, mas vamos fingir que seja possível.  
-Remella rola uma falha crítica. Beck não consegue desativar a fechadura digital e ainda toma um choque, recebendo dano. Além disso um alarme toca, avisando de sua presença aos guardas.
+_Este resultado não poderia acontecer sem dados caóticos, mas vamos fingir que seja possível._  
+_Remella rola uma falha crítica. Remella não consegue desativar a fechadura digital e ainda toma um choque, recebendo dano. Além disso um alarme toca, avisando de sua presença aos guardas._
 
 ### Vantagem e Desvantagem
 
-Certas situações, efeitos ou **Condições** irão modificar o jeito que você realiza o check, lhe dando vantagem ou desvantagem.
+Certas situações, efeitos ou [Condições](./conditions.md) irão modificar o jeito que você realiza o check, lhe dando vantagem ou desvantagem.
 
 **Vantagem:** Use o <ins>maior</ins> valor entre seu dado principal e um dado caótico. Caso não possua dado caótico, role dois principais.  
 **Desvantagem:** Use o <ins>menor</ins> valor entre seu dado principal e um dado caótico. Caso não possua dado caótico, role dois principais.
 
 ### Dados Caóticos
 
-Ao abrir portões do caos de um atributo, além de receber outros benefícios, você recebe dados caóticos para rolar junto com os checks daquele atributo. Atualmente você pode ter um ou dois dados caóticos para cada atributo.  
+Ao abrir Portões do Caos de um Atributo, além de receber outros benefícios, você recebe Dados Caóticos para rolar junto com os checks daquele atributo. Você pode ter no máximo dois dados caóticos para cada atributo.  
 Estes dados influenciam tanto nos seus checks quanto no cálculo de dano.
 
 **Check**
 
 - Caso você role 1 em qualquer dado caótico, sua equipe recebe Karma.
-- Caso você tenha <ins>sucesso</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>sucesso crítico</ins>.
+- Caso você tenha qualquer grau de <ins>sucesso</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>sucesso crítico</ins>.
 <!-- - Caso você tenha <ins>sucesso crítico</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>explosão</ins>. -->
-- Caso você <ins>falhe</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>falha crítica</ins>.
+- Caso você tenha qualquer grau de <ins>falha</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>falha crítica</ins>.
 - Em caso de disputa, some o valor dos dados caóticos ao valor do dado principal para equiparar os resultados e determinar a resolução.
 
 **Dano**
@@ -78,24 +78,24 @@ Estes dados influenciam tanto nos seus checks quanto no cálculo de dano.
 
 ### Disputa
 
-Uma disputa acontece quando você tenta realizar uma ação contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela esquiva, ou quando você tenta negociar um valor de um item e o vendedor considera se será persuadido ou não.  
+Uma disputa acontece quando você tenta realizar uma ação contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela esquiva, ou quando você tenta negociar um valor de um item e o vendedor considera se será persuadido ou não. O mesmo vale quando você reage a ação de algum inimigo.    
 Na disputa ambos os lados irão rolar seu check e então comparar os resultados para determinar a resolução.
 
 1. Se quem iniciou a disputa falhar, o outro lado automaticamente vence.
 2. Se quem iniciou a disputa ter sucesso, compare o grau de sucesso entre os lados: Sucesso Crítico vence Sucesso, Sucesso vence Sucesso Parcial, Sucesso Parcial vence Falha, etc.
 3. Se ambos tiverem o mesmo grau de sucesso, some o valor de todos os dados, incluindo os dados caóticos e então compare os valores. Vence aquele que tiver maior valor.
 
-Sempre que houver uma disputa, para facilitar a resolução, informe seu grau de sucesso juntamente com a soma dos dados:  
+Para facilitar a resolução sempre que houver uma disputa, informe seu grau de sucesso juntamente com a soma dos dados:  
 "Eu tive Sucesso com 13".  
 "Eu tive Sucesso Crítico com 6".
 
 ### Modificadores Situacionais
 
-Algumas situações, acontecimentos ou características do ambiente podem alterar a forma que você realiza um check, ou fazer você realizar um check.
+Algumas situações, acontecimentos ou características do ambiente podem alterar a forma que você realiza um check, ou forçar você realizar um check.
 
 #### Ataque a distância com inimigos adjacentes
 
-Quando você for realizar algum ataque com um armamento que possua alcance maior que adjacente e houver criaturas adjacentes a você, o check é realizado com Desvantagem.
+Quando você for realizar algum ataque com um arma que possua alcance maior que adjacente e houver criaturas adjacentes a você, o check é realizado com Desvantagem.
 
 #### Terreno difícil
 

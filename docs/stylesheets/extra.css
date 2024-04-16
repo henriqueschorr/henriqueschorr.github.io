@@ -1,13 +1,30 @@
 /*https://squidfunk.github.io/mkdocs-material/getting-started/*/
-h2 { 
-  color: #7D55C7;
-  margin-top:0;  
+
+/* ------------ Headings ------------- */
+
+
+.md-typeset h2 {
+  color: #7d55c7;
+  margin-top: 0;
+  font-family: fantasy;
 }
-p { 
-  /* margin-top: -1.0em; */
-  /* margin-bottom: -1.0em; */
-  text-align: justify; 
+
+.md-typeset h3 {
+  color: #7d55c7;
+  margin-top: 0;
+  font-weight: 600;
+  /* font-family: fantasy; */
 }
+
+/* ------------ Text ------------- */
+
+p {
+  text-align: justify;
+}
+
+
+
+/* ------------ Table ------------- */
 
 th,
 td {
@@ -21,14 +38,6 @@ td {
 .markdown-block {
   background: grey;
 }
-
-/* .CodeMirror {
-  line-height: 3.5 !important;
-}
-
-div.CodeMirror { line-height: 3.5 !important; }
-
-.CodeMirror.CodeMirror { line-height: 3.5 !important; } */
 
 .md-typeset__table {
   line-height: 1;

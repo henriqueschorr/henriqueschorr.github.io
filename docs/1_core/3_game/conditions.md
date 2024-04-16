@@ -10,7 +10,7 @@ Condições estão separadas em Aflições, que causam efeitos negativos, e Buff
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Confuso          | Uma criatura confusa ataca o alvo mais próximo, independente que seja um aliado. Caso haja mais de uma criatura no mesmo alcance, escolha aleatoriamente uma delas. |
 | Debilitado       | Criatura realiza ações e reações com Desvantagem.                                                                                                                   |
-| Desarmado        | Criatura não pode atacar. Funciona apenas para armamentos do tipo equipamento.                                                                                      |
+| Desarmado        | Criatura não pode atacar. Funciona apenas para armas do tipo equipamento.                                                                                      |
 | Dano Persistente | Criatura marca 1 Ferida ou Stress sempre que o countdown diminuir.                                                                                                      |
 | Incapacitado     | Criatura não pode realizar ações ou reações e está Vulnerável.                                                                                                      |
 | Preso            | Criatura não pode se movimentar.                                                                                                                                    |
