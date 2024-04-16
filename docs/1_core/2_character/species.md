@@ -12,7 +12,7 @@
 
 ### Humano
 
-Após levarem seu planeta natal, Terra, a beira do colapso, Humanos migraram para outros sistemas solares em busca de uma nova casa. Fazendo uso de tecnologias avançadas e de toda sua versatilidade, Humanos foram capaz de terraformar e colonizar um novo planeta. Sua ambição levou a criação da Força Galáctica, que se expande constantemente por todos os cantos do universo, em busca de novos planetas a serem conquistados, respostas para os mais diversos mistérios e espécies alienígenas para interação. Com acesso a tecnologias de ponta como a Armadura Nano Evolutiva (A.N.E.) e armas de fogo, Humanos são mais que capazes a explorar o universo em busca de novas aventuras.
+Após levarem seu planeta natal, Terra, a beira do colapso, Humanos migraram para outros sistemas solares em busca de uma nova casa. Fazendo uso de tecnologias avançadas e de toda sua versatilidade, Humanos foram capazes de terraformar e colonizar um novo planeta, Gaia. Sua ambição levou a criação da Força Galáctica, que se expande constantemente por todos os cantos do universo em busca de novos planetas a serem conquistados, respostas para os mais diversos mistérios e espécies alienígenas para interação. Com acesso a tecnologias de ponta como a Armadura Nano Evolutiva (A.N.E.) e armas de fogo, Humanos são mais que capazes a explorar o universo em busca de novas aventuras.
 
 <!-- #### HIVER
 

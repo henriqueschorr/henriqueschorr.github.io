@@ -80,7 +80,7 @@ Alguns ataques ou itens do cenário irão causar [Condições](./conditions.md) 
 
 ## Habilidades
 
-PCs e alguns NPCs possuirão **Habilidades**, estas que também são consideradas ações e/ou reações caso informada, que possuem efeitos fortes e perigosos. Habilidades geralmente terão um custo em Caos, Terror ou outro recurso.
+PCs e alguns NPCs possuirão Habilidades, estas que também são consideradas ações e/ou reações caso informada, que possuem efeitos fortes e perigosos. Habilidades geralmente terão um custo em Caos, Terror ou outro recurso.
 
 ## Ações de Equipe
 
