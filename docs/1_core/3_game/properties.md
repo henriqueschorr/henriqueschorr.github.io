@@ -37,20 +37,29 @@ Faça um check de Controle logo antes de atirar com a arma, seu grau de sucesso 
 - **Sucesso:** Você causa <1d Atributo> dano adicional.
 - **Sucesso Crítico:** Você causa <2d Atributo> dano adicional.
 
-#### Carta
+#### Defender
+Você pode usar a reação Defender com esta arma.
+
+#### Especial
 Indica que a arma possui propriedades especiais e possui uma carta explicativa.
 
-#### Defesa
-Você pode usar a reação Defender com esta arma.
+#### Impacto
+Quando você causar dano durante um ataque com esta arma, você pode empurrar o alvo até distância Muito Perto.
 
 #### Natural
 Indica que a arma é de origem natural, ou seja, parte do seu corpo. Você não pode ser desarmado.
 
+#### Prender
+Quando você causar dano durante um ataque com esta arma, você pode causar a condição Preso no alvo.
+
+#### Rápida
+Criaturas alvos de ataques com esta arma não podem realizar Reações.
+
 #### Recarregar
-Caso você role 1 em qualquer dos dados durante o check para atacar com esta arma, você deve recarregar a arma. Você não pode usar a arma até Countdown 2. Você pode diminuir em 1 o Countdown para cada Stress marcado.
+Caso você role 1 ou 2 em qualquer dos dados durante o check para atacar com esta arma, você deve recarregar a arma. Você não pode usar a arma até Countdown 2. Você pode marcar 1 Stress para diminuir o Countdown em 1.
 
 #### Seguro
-Indica que você não pode sofrer a condição Desarmado com esta arma.
+Você não pode sofrer a condição Desarmado com esta arma.
 
 ## Propriedades de Armaduras
 

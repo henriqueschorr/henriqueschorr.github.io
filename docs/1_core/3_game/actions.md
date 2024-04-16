@@ -5,7 +5,22 @@ PCs e NPCs podem executar basicamente todas as ações básicas como mover, empu
 Algumas ações, principalmente durante combate ou uma situação de perigo necessitarão de um [Check](./checks.md) para resolver, indicando assim seu grau de sucesso.
 
 ## Ataques
-TODO
+
+Ataques são ações realizadas com armas e habilidades com o propósito de causar dano em criaturas inimigas. Um ataque sempre seguirá a seguinte linha de resolução:
+
+### Passo 1: Ataque
+
+1. Escolha 1 ou mais alvo (dependendo da arma/habilidade).
+2. PC/NPC deve indicar se irá usar alguma [Reação](#reações), gerando uma [Disputa](./checks.md#disputa).
+3. Role o Check com o Atributo indicado.   
+   Mantenha os dados na "mesa" ou o resultado anotado pois o dano é calculado a partir deles na maioria das vezes.
+4. Verifique o grau de sucesso. Resolva a Disputa caso o alvo tenha usado alguma Reação.
+5. Aplique o [Dano](./damage.md#calculando-dano) de acordo com o grau de sucesso.  
+   Algumas Habilidades ou Propriedades de armas podem modificar o dano.
+
+### Passo 2: Efeitos
+
+Algumas armas/habilidades irão ter efeitos adicionais devido a alguma [Propriedade](./properties.md#propriedades-de-armas) ou outra característica, como por exemplo [Recarregar](./properties.md#recarregar), ou aplicarão [Condições](./conditions.md). Condições só serão aplicadas caso o ataque tenha causado dano, a não ser que indicado o contrário.
 
 ## Ações com Ciência
 
