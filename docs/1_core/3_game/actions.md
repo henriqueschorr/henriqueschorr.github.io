@@ -70,13 +70,13 @@ Caso o alvo seja outra criatura:
 **Vence a Disputa:** Criatura consegue defender e não recebe dano algum.  
 **Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após.  
 
-### Resistir
+<!-- ### Resistir
 
 Alguns ataques ou itens do cenário irão causar [Condições](./conditions.md) ou outros efeitos nocivos a uma criatura, podendo ser somente dano. Para se proteger deste efeitos a criatura deve Resistir com algum Atributo. A fonte de efeito sempre irá dizer qual Atributo a criatura levará em consideração para realizar o check de Resistir.
 
 **Falha ou Falha Crítica:** Criatura recebe efeito da fonte normalmente.  
 **Sucesso Parcial:** Criatura recebe efeito pela metade. Arredonde para cima.  
-**Sucesso ou Sucesso Crítico:** Criatura resiste ao efeito da fonte por completo.
+**Sucesso ou Sucesso Crítico:** Criatura resiste ao efeito da fonte por completo. -->
 
 ## Habilidades
 

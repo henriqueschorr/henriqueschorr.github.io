@@ -36,11 +36,8 @@ Como um Humano você será um agente da Força Galáctica ou um mercenário dese
 
 ## Armas
 
-**Escolha:**
-
-1. Armas dessa [lista](./weapons.md#armas) até você ter um máximo de 2 armas (3 caso Soldado).  
+**Escolha:** Armas dessa [lista](./weapons.md#armas) até você ter um máximo de 2 armas (3 caso Soldado).  
    Armas que você recebeu ao escolher a carta de espécie contam para este total.
-2. Uma Pistola ou Faca de Combate.
 
 ## Armadura
 
