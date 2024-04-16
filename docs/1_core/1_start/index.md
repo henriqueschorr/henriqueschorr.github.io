@@ -69,4 +69,4 @@ Uma equipe é composta por todos os personagens e seus jogadores. Uma equipe pos
 - **Integrantes:** Nome dos personagens que integram a equipe.
 - **Objetivo**: Este é o objetivo principal da aventura e deve ser definido durante a sessão 0 em acordo com todos do grupo.
 <!-- - **Momentum**: Recurso ganho quando sua equipe vence conflitos. Para mais detalhes veja [Momentum](../3_game/resources.md#momentum). -->
-- **Karma**: Recurso ganho quando jogadores falham miseravelmente em ações. Para mais detalhes veja [Karma](../3_game/resources.md#karma).
+- **Karma**: Recurso ganho quando jogadores falham em ações. Para mais detalhes veja [Karma](../3_game/resources.md#karma).

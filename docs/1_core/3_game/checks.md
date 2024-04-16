@@ -19,35 +19,42 @@ Falha Crítica acontece quando você <ins>falha</ins> no check e <ins>ao menos 1
 
 Abaixo segue os efeitos que as diferentes resoluções causam quando o check é realizado por um jogador que não seja o GM.
 
-| Resultado       | Narrativa                                                                            | Mecânica                                                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Sucesso Crítico | Você consegue o que quer e mais.                                                     | Você recupera 1 Stress. Em caso de ataque, você causa <ins>alto</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)). |
-| Sucesso         | Você consegue o que quer.                                                            | Você causa <ins>moderado</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)).                                        |
-| Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.                    | Você causa <ins>baixo</ins> dano extra (veja [Calculando Dano](./damage.md#calculando-dano)).                                           |
-| Falha           | Você não consegue o que quer e deve enfrentar consequências moderadas.               | -                                                                                                                                       |
-| Falha Crítica   | Catástrofe. Você não consegue o que quer e deve enfrentar alguma consequência grave. | Equipe recebe Karma, você recebe Stress e GM recebe Terror.                                                                             |
+| Resultado       | Narrativa                                                                            | Mecânica                                                                                                                          |
+| --------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Sucesso Crítico | Você consegue o que quer e mais.                                                     | Você causa <ins>alto</ins> dano extra. Turno da Equipe.                                                                           |
+| Sucesso         | Você consegue o que quer.                                                            | Você causa <ins>moderado</ins> dano extra. Turno da Equipe.                                                                       |
+| Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.                    | Você causa <ins>baixo</ins> dano extra. Turno do GM caso gaste 3 [Terror](./resources.md#terror), caso contrário Turno da Equipe. |
+| Falha           | Você não consegue o que quer e deve enfrentar consequências moderadas.               | Equipe recebe Karma. Turno do GM caso desejar.                                                                                    |
+| Falha Crítica   | Catástrofe. Você não consegue o que quer e deve enfrentar alguma consequência grave. | Equipe recebe Karma e GM recebe Terror. Turno do GM caso desejar.                                                                 |
+
+Para informações sobre dano, veja [Calculando Dano](./damage.md#calculando-dano).
 
 ### Exemplo de Check
 
-_Remella está tentando abrir uma fechadura digital de uma porta mexendo em seus componentes. O GM diz para Remella fazer um check com Controle e que envolve o conhecimento de Engenharia. Remella possui conhecimento em Engenharia, portanto o check será realizado normalmente, sem vantagem._
+_Remella está tentando abrir uma fechadura digital de uma porta mexendo em seus componentes. O GM diz para Remella fazer um check com Controle e que envolve o conhecimento de Engenharia. Remella possui conhecimento em Engenharia, portanto o check será realizado normalmente, sem vantagem. Remella possui d12 em Controle._
 
 Abaixo segue as possíveis resoluções para esse evento:
 
 **Sucesso Crítico**  
-_Remella rola 12 no d12 atribuido a Controle, o que representa um sucesso crítico! Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital e abrir a porta silenciosamente. O GM dá a opção a Remella de atacar um dos guardas usando o mesmo resultado de check ou passar despercebido para a próxima sala._
+_Remella rola 12 no d12 atribuido a Controle, o que representa um sucesso crítico! Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital e abrir a porta silenciosamente. O GM dá a opção a Remella de atacar um dos guardas usando o mesmo resultado de check ou passar despercebido para a próxima sala._  
+O turno continua com a equipe de jogadores.
 
 **Sucesso**  
-_Remella rola 8, o que representa um sucesso. Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital e abrir a porta silenciosamente._
+_Remella rola 8, o que representa um sucesso. Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital e abrir a porta silenciosamente._  
+O turno continua com a equipe de jogadores.
 
 **Sucesso Parcial**  
-_Remella rola 6, o que representa um sucesso parcial. Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital porém faz barulho ao abrir a porta, chamando a atenção dos guardas._
+_Remella rola 6, o que representa um sucesso parcial. Remella escuta o som de guardas atrás da porta e aguarda eles se afastarem. Remella consegue desativar a fechadura digital porém faz barulho ao abrir a porta, chamando a atenção dos guardas._  
+GM pode gastar 3 [Terror](./resources.md#terror) para ter seu turno, caso contrário o Turno da Equipe continua.
 
 **Falha**  
-_Remella rola 2, o que representa uma falha. Remella não consegue desativar a fechadura digital._
+_Remella rola 2, o que representa uma falha. Remella não consegue desativar a fechadura digital._    
+Equipe recebe Karma e é Turno do GM caso ele desejar.
 
 **Falha Crítica**  
 _Este resultado não poderia acontecer sem dados caóticos, mas vamos fingir que seja possível._  
-_Remella rola uma falha crítica. Remella não consegue desativar a fechadura digital e ainda toma um choque, recebendo dano. Além disso um alarme toca, avisando de sua presença aos guardas._
+_Remella rola uma falha crítica. Remella não consegue desativar a fechadura digital e ainda toma um choque, recebendo dano. Além disso um alarme toca, avisando de sua presença aos guardas._  
+Equipe recebe Karma, GM recebe Terror e é o turno dele caso desejar.
 
 ### Vantagem e Desvantagem
 
@@ -63,7 +70,6 @@ Estes dados influenciam tanto nos seus checks quanto no cálculo de dano.
 
 **Check**
 
-- Caso você role 1 em qualquer dado caótico, sua equipe recebe Karma.
 - Caso você tenha qualquer grau de <ins>sucesso</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>sucesso crítico</ins>.
 <!-- - Caso você tenha <ins>sucesso crítico</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>explosão</ins>. -->
 - Caso você tenha qualquer grau de <ins>falha</ins> no check e role o mesmo número em ao menos um de seus dados caóticos, o resultado do check é <ins>falha crítica</ins>.
@@ -78,7 +84,7 @@ Estes dados influenciam tanto nos seus checks quanto no cálculo de dano.
 
 ### Disputa
 
-Uma disputa acontece quando você tenta realizar uma ação contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela esquiva, ou quando você tenta negociar um valor de um item e o vendedor considera se será persuadido ou não. O mesmo vale quando você reage a ação de algum inimigo.    
+Uma disputa acontece quando você tenta realizar uma ação contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela esquiva, ou quando você tenta negociar um valor de um item e o vendedor considera se será persuadido ou não. O mesmo vale quando você reage a ação de algum inimigo.  
 Na disputa ambos os lados irão rolar seu check e então comparar os resultados para determinar a resolução.
 
 1. Se quem iniciou a disputa falhar, o outro lado automaticamente vence.

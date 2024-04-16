@@ -4,6 +4,9 @@ PCs e NPCs podem executar basicamente todas as ações básicas como mover, empu
 
 Algumas ações, principalmente durante combate ou uma situação de perigo necessitarão de um [Check](./checks.md) para resolver, indicando assim seu grau de sucesso.
 
+## Ataques
+TODO
+
 ## Ações com Ciência
 
 Personagens possuem Conhecimento em áreas da ciência: Biologia, Culinária, Engenharia e Química. Algumas espécies não possuirão conhecimento em uma ou mais áreas e nem todos personagens possuirão perícia em todas as áreas. Checks que envolvam estas áreas devem levar isso em consideração.

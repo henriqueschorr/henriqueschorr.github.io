@@ -52,9 +52,7 @@ Caos é a força e matéria que compõem tudo no universo. Os Regentes do Univer
 Karma é um recurso que sua equipe pode ter e qualquer integrante da equipe pode utilizar para realizar algumas ações poderosas.
 
 Sua equipe recebe Karma quando:
-- Você ou outro integrante role Falha Crítica como resultado de algum check.
-- Você ou outro integrante da equipe role 1 em um de seus dados caóticos.
-- GM role Sucesso Crítico como resultado de algum check.
+- Você ou outro integrante rola Falha ou Falha Crítica como resultado de algum check.
 
 Sua equipe pode ter um número máximo de 5 karmas por vez. Cada integrante pode usar Karma apenas uma vez por sessão.
 
@@ -63,7 +61,7 @@ Sua equipe pode gastar Karma para:
 
 ## Terror
 
-Terror é um recurso exclusivo do GM e utilizado para balancear o campo de batalho com habilidades poderosas de inimigos.
+Terror é um recurso exclusivo do GM e é utilizado para balancear o campo de batalho com habilidades poderosas de inimigos.
 
 GM recebe Terror quando:
 - Sempre que um jogador realizar uma ação enquanto todas as criaturas do GM já estiverem ativas.
@@ -75,3 +73,5 @@ GM pode gastar Terror para:
 - Realizar habilidades especiais descritas em criaturas.
 
 ## Token de Ativação
+
+Recurso exclusivo do GM e é utilizado para ativar criaturas durante combates.

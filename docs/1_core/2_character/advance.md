@@ -27,7 +27,7 @@ Abrir um Portão do Caos impacta em seu personagem estar mais próximo do Caos e
 Mas afinal de contas, que impacto mecânico abrir um portão do caos lhe traz?
 
 - Sobrevivência e poder: O fato de você aumentar recursos ou ter acesso a novas opções quando você abre um portão do caos, lhe garante maiores chances de sobrevivência ou maior poder.
-- Falha Crítica: Nem tudo é bom quando você introduz dados caóticos. Ao rolar dados caóticos você tem a possibilidade de rolar Falha Crítica. Mas nem tudo está perdido, quando você falha criticamente, sua equipe recebe [Karma](../3_game/resources.md#karma).
+- Falha Crítica: Nem tudo é bom quando você introduz dados caóticos. Ao rolar dados caóticos você tem a possibilidade de rolar Falha Crítica. Mas nem tudo está perdido, quando você falha, sua equipe recebe [Karma](../3_game/resources.md#karma).
 - Sucesso Crítico: A introdução de dados caóticos também lhe dá a chance de conseguir Sucesso Crítico mesmo que seu dado não tenha esse grau de sucesso.
 - Maiores chances de vencer [disputas](../3_game/checks.md#disputa) uma vez que os valores dos dados caóticos são somados ao valor de comparação.
 - Você causa maior dano uma vez que os valores dos dados caóticos são somados ao dano de seus ataques.
