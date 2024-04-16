@@ -2,6 +2,8 @@ Quando uma ação/reação for realizada em uma situação de perigo ou tensão,
 
 Checks também podem ser modificados por [dados caóticos](#dados-caóticos), [conhecimento](actions.md#ações-com-ciência), [condições](./conditions.md) e outros efeitos situacionais.
 
+Sempre é importante manter o resultado dos checks na "mesa" ou anotados em caso de [Ataques](./actions.md#ataques), pois eles também determinando o dano.
+
 #### Resultados
 
 |                 |  d6   |  d8   |  d10   |  d12   |

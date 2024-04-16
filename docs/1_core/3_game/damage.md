@@ -1,34 +1,37 @@
 ## Dano
 
-Quando você ter sucesso em um check de ataque contra um alvo, você irá **rolar dano** para determinar quanto dano e quantas Feridas você infringirá no alvo.
-
-Os dados que você precisará rolar estarão descritos no arma ou na habilidade que você usou durante o ataque. Além disso dados caóticos também podem influenciar no dano.
+Quando você ter sucesso em um [Check](./checks.md) de [Ataque](./actions.md#ataques) contra um alvo, você irá utilizar os mesmos dados do check para determinar quanto dano e quantas Feridas você infringirá no alvo, ou AP caso ele possua. Algumas Habilidades ou Propriedades de armas podem modificar o dano.
 
 ### Calculando Dano
 
-Para calcular o dano você rolará o(s) dado(s) informados no arma ou habilidade que você usou no ataque, e somará ou não o valor dos dados caóticos dependendo seu grau de sucesso. Para facilitar a leitura vamos chamar os dados da arma/habilidade como dados da fonte.
+Após rolar o Check e determinar que você irá causar de fato dano no alvo, calcule o dano de acordo com o grau de sucesso.
 
-**Sucesso Parcial:** dados da fonte + <ins>menor</ins> valor rolado em um dado caótico.  
-**Sucesso:** dados da fonte + <ins>maior</ins> valor rolado em um dado caótico.  
-**Sucesso Crítico:** dados da fonte + valor de <ins>todos os dados</ins> caóticos + [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano.  
+**Sucesso Parcial:** <ins>Maior</ins> valor rolado no check.  
+**Sucesso:** <ins>Soma</ins> dos 2 <ins>maiores</ins> valores rolado no check.  
+**Sucesso Crítico:** <ins>Soma</ins> dos 3 <ins>maiores</ins> valores rolado no check + [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano.
+
 <!-- **Explosão: Dado Caótico com maior valor possível** você soma o valor do dado caótico e rola ele novamente, somando o novo valor. Caso seja o maior valor possível, você rola ele novamente e assim segue o ciclo. -->
-
-Em caso de Sucesso Crítico, verifique o efeito crítico de cada [tipo de dano](#tipos-de-dano-e-efeitos-críticos).
 
 #### Exemplo de cálculo de Dano
 
-_Remella tenta realizar um ataque contra um dos guardas a sua frente. Remella rola 3d8 que é a quantidade de dados de seu atributo. Seu arma causa 1d6 de dano._
+_Remella tenta realizar um ataque contra um dos guardas a sua frente. Remella rola 3d12 que é a quantidade de dados de seu atributo._
 
 Abaixo segue como é calculado o dano para cada grau de sucesso:
 
+**Falha ou Falha Crítica**  
+_Remella erra o ataque e não causa dano algum._
+
 **Sucesso Parcial**  
-_Remella rola 1d6 que é o dano da arma, tirando um 3. Remella verifica seu dado caótico com <ins>menor</ins> valor, que é 2, e soma-o ao dano total. Remella causa 5 de dano no alvo._
+_Remella tira 5 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 5 de dano no alvo._  
+_Remella tira 6 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 8 de dano no alvo._
 
 **Sucesso**  
-_Remella rola 1d6 que é o dano da arma, tirando um 3. Remella verifica seu dado caótico com <ins>maior</ins> valor, que é 6, e soma-o ao dano total. Remella causa 9 de dano no alvo._
+_Remella tira 5 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 8 de dano no alvo._  
+_Remella tira 6 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 14 de dano no alvo._
 
 **Sucesso Crítico**  
-_Remella rola 1d6 que é o dano da arma, tirando um 3. Remella verifica o valor de <ins>todos os dados caóticos</ins>, que é 2 e 6, e soma-os ao dano total. Remella causa 11 de dano no alvo._
+_Remella tira 5 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 10 de dano no alvo mais o [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano._  
+_Remella tira 6 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 16 de dano no alvo mais o [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano._
 
 <!-- **Explosão**
 Remella teve qualquer nível de sucesso e percebe que tirou 8 em um de seus dados caóticos, sendo o maior valor possível de 1d8, isso lhe concede explosão de dano.
@@ -46,12 +49,12 @@ Você verá em algumas habilidades, armas, equipamentos ou qualquer outro item q
 
 Em HB temos diversos tipos de dano e cada um deles possui seu efeito crítico. Este efeito acontece sempre que o resultado de um check de ataque seja Sucesso Crítico. Quando um ataque possui mais de um tipo de dano, o jogador que realizou o ataque escolhe apenas um dos efeitos críticos para ser aplicado ao alvo.
 
-| Dano    | Efeito Crítico                                  | Exemplos                                                                                                                                          |
-| ------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Físico  | + maior valor possível do dado do atributo ao dano. | Basicamente qualquer lâmina ou arma que lança projéteis são exemplos de dano físico.                                                              |
-| Químico | Debilitado 2 ou Dano Persistente 2.             | Fogo, gelo, ácido e veneno são exemplos de dano químico.                                                                                          |
-| Energia | Debilitado 2.                                   | Descarga elétrica ou radiação são exemplos de dano energia.                                                                                       |
-| Neural  | Incapacitado 1.                                 | Alguns ataques podem causar dano direto na mente, sistema nervoso ou algum sentido. Este tipo de dano geralmente causa dano em forma de Stress. |
+| Dano    | Efeito Crítico                                      | Exemplos                                                                                                                                        |
+| ------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Físico  | + maior valor possível do dado do atributo ao dano. | Basicamente qualquer lâmina ou arma que lança projéteis são exemplos de dano físico.                                                            |
+| Químico | Debilitado 2 ou Dano Persistente 2.                 | Fogo, gelo, ácido e veneno são exemplos de dano químico.                                                                                        |
+| Energia | Debilitado 2.                                       | Descarga elétrica ou radiação são exemplos de dano energia.                                                                                     |
+| Neural  | Incapacitado 1.                                     | Alguns ataques podem causar dano direto na mente, sistema nervoso ou algum sentido. Este tipo de dano geralmente causa dano em forma de Stress. |
 
 ## Resiliência
 
