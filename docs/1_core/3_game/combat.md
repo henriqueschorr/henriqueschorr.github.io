@@ -1,33 +1,45 @@
-## Combate
-Quando uma situação agrava para mais que simples ameaças, ou quando os jogadores encontrarem alguma criatura selvagem e perigosa e devem lutar para sobreviver, o modo de jogo passa para combate. Em HB o combate não segue uma ordem de iniciativa e não há rodadas ou turnos por se dizer. Caso o GM não tenha surpreendido a equipe, os jogadores começam jogando e dizendo quantas e quaisquer ações desejam realizar, na ordem que desejar. O GM pode jogar com seus NPCs no momento que os jogadores falham algum check. O mesmo vale para a vez do GM. Efeitos temporários ou ações com tempo de uso são acompanhadas por [Countdowns](./countdown.md).
-O fluxo do combate geralmente segue os passos abaixo:
+# Combate
 
-### Determinar Surpresa
+Criaturas hostis atacam os jogadores enquanto estão atravessando uma floresta, uma discussão em algum bar se agrava para agressão, estes são exemplos de combate. Em HB o combate não segue uma ordem de iniciativa e não há rodadas ou turnos para cada jogador; existem dois turnos: do GM e da equipe de jogadores. Caso não haja ataque surpresa por parte do GM, a equipe começa jogando e qualquer jogador executa quaisquer ações desejar, na ordem em que desejar. O GM pode jogar com seus NPCs no momento que os jogadores falham algum check, ou caso pague 3 [Terror](./resources.md#terror) quando Sucesso Parcial. Efeitos temporários ou ações com tempo de uso são acompanhadas por [Countdowns](./countdown.md). O fluxo do combate segue os seguintes passos:
+
+## Passo 1: Determinar Surpresa
 O primeiro passo de um combate é determinar se houve surpresa tanto do lado do GM, quanto dos jogadores.
 
-**GM Surpreendeu:** Caso os NPCs surpreendam a equipe de jogadores, o GM poderá ativar e jogar com todas suas criaturas antes dos jogadores. No momento que não houver mais criaturas ativas, a vez passa para os jogadores e o combate segue normalmente.  
+### GM Surpreende Equipe
+Caso os NPCs surpreendam a equipe de jogadores, todas as criaturas do GM estão ativas e ele pode executar seu turno. No momento que não houver mais criaturas ativas e ações não podem mais ser executadas, a vez passa para os jogadores e o combate segue normalmente.  
 
-**Jogadores Surpreenderam:** Caso os PCs surpreendam os NPCs, os jogadores começam jogando e a primeira ação de cada jogador é realizada com **Vantagem**. No momento que um jogador <ins>falhar</ins> em algum check, a vez passa para o GM e o combate segue normalmente.  
+### Equipe Surpreende GM
+Caso os PCs surpreendam os NPCs, os jogadores começam jogando e a primeira ação de cada jogador é realizada com **Vantagem**. No momento que um jogador <ins>falhar</ins> em algum check, ou caso o GM pague 3 Terror quando Sucesso Parcial, a vez passa para o GM e o combate segue normalmente.  
 
-**Não Houve Supresas**: Caso ninguém surpreenda ninguém, todas as criaturas do GM ficam Inativos e o combate segue normalmente.
+### Não Houve Surpresas
+Caso ninguém surpreenda ninguém, todas as criaturas do GM estão Inativos e o combate segue normalmente.
 
-### Turnos
-No momento que a primeira rodada de surpresa passa ou caso não tenha havido surpresa, o combate segue da seguinte maneira:
+## Passo 2: Turno da Equipe
+No momento que a primeira rodada de surpresa passa ou caso não tenha havido surpresa, a equipe de jogadores executa seu turno. Considere os seguintes pontos durante o turno da Equipe de jogadores:
 
-#### Jogadores: Realizam Ações 
-Em HB não há um turno definido, jogadores podem realizar quantas e quaisquer ações desejarem, na ordem que desejarem. Na vez dos jogadores o GM pode realizar apenas **Reações** com seus NPCs, estando ativos ou inativos. Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
+- Não há ordem de iniciativa, qualquer jogador pode executar ações na ordem que quiser.
+- Não há limites de [Ações](./actions.md) que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantas e quaisquer ações desejarem.  
+  Há apenas limitações de recursos, como por exemplo Habilidades que custam Caos.  
+- GM pode realizar apenas [Reações](./actions.md#reações) com seus NPCs, estando ativos ou inativos.
+- GM recebe 1 [Token de Ativação](./resources.md#token-de-ativação) para cada ação que um jogador realizar. Caso a quantidade de Tokens de Ativação seja igual a quantidade de NPCs, para cada ação que um jogador fizer, o GM recebe 1 [Terror](./resources.md#terror).
 
-1. **Sucesso ou Sucesso Crítico:** Jogadores seguem jogando.  
-2. **Sucesso Parcial:** GM pode jogar caso gaste 3 [Terror](./resources.md#terror), caso contrário jogadores seguem jogando.
-3. **Falha ou Falha Crítica:** GM pode jogar.
+Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 
-**Para cada ação** que um jogador fizer, o GM pode ativar uma criatura. Caso todas as criaturas já estiverem ativas, para cada ação que um jogador fizer, o GM recebe um [Terror](./resources.md#terror).
-   
-#### GM: Realiza Ações
-Na vez do GM ele pode jogar com qualquer criatura ativa, podendo realizar uma ação de cada. Assim que uma criatura realizar alguma ação, ela fica inativa. Algumas criaturas podem realizar mais de uma ação por vez. Jogadores neste momento podem realizar apenas **Reações** com seus personagems. A vez passa para os jogadores assim que não houver mais criaturas ativas ou caso o GM queira passar antes.
+**Sucesso ou Sucesso Crítico:** Jogadores seguem jogando.   
+**Sucesso Parcial:** GM pode jogar caso gaste 3 [Terror](./resources.md#terror), caso contrário jogadores seguem jogando.  
+**Falha ou Falha Crítica:** GM pode jogar.  
 
-#### Resolução
-O Combate segue o fluxo repetindo os passos descritos anteriormente, intercalando entre a vez dos jogadores e a vez do GM, até um dos lados ser completamente eliminado, fugir, ou aceitar alguma negociação de paz ou rendição.
+## Passo 3: Turno do GM
+Considere os seguintes pontos durante o turno do GM:
+
+- GM pode **ativar** criaturas gastando Tokens de Ativação. 1 Token = 1 Criatura ativa.
+- O GM pode realizar uma ação para cada criatura ativa, deixando-a então inativa.  
+  Algumas criaturas podem realizar mais de uma ação por ativação.
+- Jogadores neste momento podem realizar apenas Reações com seus personagens.
+- A vez passa para a equipe de jogadores assim que não houver mais criaturas ativas ou caso o GM queira passar antes.
+
+## Passo 4: Resolução
+O Combate segue o fluxo repetindo os passos 2 e 3, intercalando entre turnos de equipe e turnos do GM, até um dos lados ser completamente eliminado, fugir, ou aceitar alguma negociação de paz ou rendição, ou qualquer outra interação em acordo entre o grupo.
 
 ## Exemplo de Combate
 TODO

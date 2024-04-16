@@ -4,13 +4,15 @@ title: Introdução
 
 ![](./0_assets/images/HB.png)
 
-**Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por esse caminho uma vez que estes termos já estão bem difundidos em qualquer tipo de jogo ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
+**Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que esses termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
 
 ## Bem Vindo a Horizon Beyond
 
-Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em sci-fi. Neste sistema você irá encontrar regras para mecânicas bases que irão guiar seus jogos nos mais diferentes estilos de aventuras e campanhas. Além disso você também encontra neste módulo o Universo base e as leis que regem ele.
+Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em _**Cinematic Tactical Adventure Sci-Fi Fantasy**_. Neste módulo você encontrará regras para mecânicas bases do jogo, garantindo seu funcionamento para os mais diversos temas de aventuras.
 
-## Tema
+ <!-- com ênfase em sci-fi. Neste sistema você irá encontrar regras para mecânicas bases que irão guiar seus jogos nos mais diferentes estilos de aventuras e campanhas. Além disso você também encontra neste módulo o Universo base e as leis que regem ele. -->
+
+<!-- ## Tema
 
 Horizon Beyond tem como tema "Cinematic Tactical Adventure Sci-Fi Fantasy". Estas palavras-chaves servem para dar o sentimento do jogo, como ele funciona e como você, jogador, irá jogá-lo.
 
@@ -34,22 +36,22 @@ Suas aventuras podem ter diversos objetivos, mas um **objetivo** final e de valo
 
 ### Sci-Fi e Fantasy
 
-Ficção Científica e Fantasia são definições as vezes meio subjetivas, em HB o mundo gira mais em torno de tecnologias e ciências, mas também há magia. As habilidades dos seus personagens são alimentadas pelo Caos, força que é matéria e substância de tudo o que há no universo.
+Ficção Científica e Fantasia são definições as vezes meio subjetivas, em HB o mundo gira mais em torno de tecnologias e ciências, mas também há magia. As habilidades dos seus personagens são alimentadas pelo Caos, força que é matéria e substância de tudo o que há no universo. -->
 
 <!-- ## Jornada
 
 Em Horizon Beyond você e seus amigos irão realizar **Aventuras** com diversos personagens diferentes, contando suas histórias por diversos módulos e locais do universo, com várias espécies. Cabe ao Game Master (GM) e a equipe de jogadores viverem estas histórias, buscando a **Prosperidade** e evitando a **Ruína** do universo. -->
 
-## Game Master
+<!-- ## Game Master
 
 Um dos jogadores deve tomar a função de GM. O GM tem como papel trabalhar com sua equipe de jogadores para decidirem detalhes de suas jornadas, módulos e objetivos de suas aventuras. Durante o jogo, cabe ao GM narrar a história e descrever as consequências das ações dos jogadores.
 
 ## Equipe e Personagens
 
-Todos os jogadores que não forem o GM, serão personagens, os personagens formam uma **Equipe**. Personagens possuem uma **Espécie**, **Recursos**, **Atributos**, **Armas**, **Habilidades** e diversas outras características que os definem e atuam no funcionamento do jogo. Cada aventura será composta de uma equipe de personagens diferentes.
+Todos os jogadores que não forem o GM, serão personagens, os personagens formam uma **Equipe**. Personagens possuem uma **Espécie**, **Recursos**, **Atributos**, **Armas**, **Habilidades** e diversas outras características que os definem e atuam no funcionamento do jogo. Cada aventura será composta de uma equipe de personagens diferentes. -->
 <!-- , portanto ao longo de uma jornada, jogadores viverão diversas vidas. -->
 
-## Módulos e Espécies
+<!-- ## Módulos e Espécies
 
 Como HB é um framework para TTRPGs, aqui você encontrará apenas uma visão geral sobre o universo e algumas criaturas que vivem nele. Módulos serão entregues separadamente, estes contendo a história de algumas espécies jogáveis e tudo que gira em volta delas: estrutura social, planetas, pontos de interesse, perigos e ameaças, etc. 
 
@@ -83,7 +85,7 @@ Cada atributo também possui dois **Portões de Caos**. Ao abrir um dos portões
 
 ## Cartas
 
-Durante a criação de personagem e o decorrer da aventura, você irá receber cartas, estas sendo referentes a espécie, armas, equipamentos, habilidades, passivas, aprimoramentos, etc. Além da ficha de personagem você também irá possuir estas cartas. Esta é uma forma de ajudar e facilitar a visualização do que seu personagem é capaz de fazer.
+Durante a criação de personagem e o decorrer da aventura, você irá receber cartas, estas sendo referentes a espécie, armas, equipamentos, habilidades, passivas, aprimoramentos, etc. Além da ficha de personagem você também irá possuir estas cartas. Esta é uma forma de ajudar e facilitar a visualização do que seu personagem é capaz de fazer. -->
 
 
 <!--

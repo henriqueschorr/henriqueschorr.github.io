@@ -1,4 +1,5 @@
-Terra, planeta natal dos Humanos, estava entrando em colapso e a beira de ruínas devido a superpulação e escassez de recursos, em 2408 três naves mães contendo embriões de Humanos e animais, sementes de plantas e qualquer outro recurso suficiente para garantir a sobrevivência da raça humana, foram lançadas em direções a sistemas separados. Seus propósito: Encontrar um novo lar.
+TODO
+<!-- Terra, planeta natal dos Humanos, estava entrando em colapso e a beira de ruínas devido a superpulação e escassez de recursos, em 2408 três naves mães contendo embriões de Humanos e animais, sementes de plantas e qualquer outro recurso suficiente para garantir a sobrevivência da raça humana, foram lançadas em direções a sistemas separados. Seus propósito: Encontrar um novo lar.
 
 Uma das naves, Afrodite, se encontra perdida até hoje, no ano de 3623. Gaia chegou em seu sistema de destino e encontrou um planeta devidamente apropriado para começar o processo de terraformação, garantindo assim a continuação da espécie humana. Freia também chegou em seu planeta destino, mas seus integrantes acharam uma atrocidade o fato de ter que acabar com vidas já existentes para terraformar um planeta a sua imagem, assim surgiram os Hivers, mas isto é história para outro momento.
 
@@ -24,4 +25,4 @@ Não se sabe muito ainda sobre a Ascensão, qual seu objetivo e qual forma de vi
 
 ## Aventuras
 
-Como um Humano você irá tentar descobrir os mistérios das Relíquias, tentar impedir a expansão do Enxame e da Ascensão, fazer contato com espécies alieníginas e investigar seus planetas assim como seus mistérios.
+Como um Humano você irá tentar descobrir os mistérios das Relíquias, tentar impedir a expansão do Enxame e da Ascensão, fazer contato com espécies alieníginas e investigar seus planetas assim como seus mistérios. -->

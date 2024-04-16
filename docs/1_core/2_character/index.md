@@ -6,7 +6,7 @@ Neste capítulo você encontra informações sobre como criar um personagem e se
 
 # Criação de Personagem
 
-Uma vez escolhido o módulo e aventura, a primeira coisa que você deve fazer, caso não seja o GM,  é criar um personagem. Siga os passos abaixo para criar um.
+<!-- Uma vez escolhido o módulo e aventura, a primeira coisa que você deve fazer, caso não seja o GM,  é criar um personagem. Siga os passos abaixo para criar um. -->
 
 ## Passo 1: Escolha sua Espécie
 

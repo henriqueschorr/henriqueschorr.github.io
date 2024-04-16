@@ -20,7 +20,7 @@ nav:
     - Links Úteis: links.md
     - Manuscrito:
       - 1_core/index.md
-      - Comece Aqui: 1_core/1_start/index.md
+      # - Comece Aqui: 1_core/1_start/index.md
       - Personagem:
         - 1_core/2_character/index.md
         - Exemplo: 1_core/2_character/example.md
