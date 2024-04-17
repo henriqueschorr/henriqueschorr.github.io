@@ -26,12 +26,12 @@ _Remella tira 5 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 
 _Remella tira 6 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 8 de dano no alvo._
 
 **Sucesso**  
-_Remella tira 5 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 8 de dano no alvo._  
-_Remella tira 6 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 14 de dano no alvo._
+_Remella tira 10 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 13 de dano no alvo._  
+_Remella tira 10 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 18 de dano no alvo._
 
 **Sucesso Crítico**  
-_Remella tira 5 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 10 de dano no alvo mais o [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano._  
-_Remella tira 6 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 16 de dano no alvo mais o [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano._
+_Remella tira 12 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 15 de dano no alvo mais o [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano._  
+_Remella tira 12 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 20 de dano no alvo mais o [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano._
 
 <!-- **Explosão**
 Remella teve qualquer nível de sucesso e percebe que tirou 8 em um de seus dados caóticos, sendo o maior valor possível de 1d8, isso lhe concede explosão de dano.
