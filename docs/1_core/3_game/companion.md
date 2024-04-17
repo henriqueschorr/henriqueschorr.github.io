@@ -1,7 +1,7 @@
 Companions são criaturas que acompanham seu personagem durante a aventura. Podem ser animais de combate, montarias ou até mesmo construtos como é o caso do drone de combate do humano engenheiro.
 
 ## Comando
-Seu companion sempre seguirá seus comandos, sem necessitar de checks. Você pode comandar seu companion a realizar qualquer ação, desde que esteja dentro das limitações do mesmo. Companions também possuem uma reação com Countdown 3. Você pode realizar comandos juntamente como parte de uma ação sua. Exemplos de comandos:
+Seu companion sempre seguirá seus comandos, sem necessitar de checks. Você pode comandar seu companion a realizar qualquer ação, desde que esteja dentro das limitações do mesmo. Companions também possuem uma reação com Countdown 2. Você pode realizar comandos juntamente como parte de uma ação sua. Exemplos de comandos:
 
 - Mova até local X e ataque alvo Y
 - Defenda alvo X

@@ -1,4 +1,8 @@
-Segue abaixo um exemplo de criação de personagem da espécie Humano. 
+Segue abaixo um exemplo de criação de personagem. 
+
+## Passo 1: Escolha sua Espécie
+
+Olhando todas as espécies disponíveis no momento, Remella decide seguir o padrão e fazer um Humano.
 <!-- Como alguns detalhes mudam entre espécies, os passos podem e irão variar dependendo a espécie escolhida. Os passos exclusivos dos humanos terão (Humano) ao final, qualquer outro passo sem prefixo é de uso geral. -->
 
 <!-- ### Passo 1: Escolha sua Espécie

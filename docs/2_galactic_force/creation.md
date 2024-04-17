@@ -7,7 +7,7 @@ Como um Humano você será um agente da Força Galáctica ou um mercenário dese
 **Anote:**  
 
 1. **Nível** inicial do seu personagem, geralmente começando em 1. Definido pelo grupo.
-2. **Countdown de Reação:** 3.
+2. **Countdown de Reação:** 2.
 3. **Atributos:** d6 em todos.
 4. **Propriedades:** Orgânico, Humanoid, Inseto, etc.
 5. **Tamanho:** Minúsculo, Pequeno, Médio, Grande ou Gigante.

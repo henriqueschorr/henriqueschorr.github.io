@@ -60,8 +60,8 @@ Você pode produzir e aplicar os seguintes items em Engenharia.
 | Nome                 | Efeito                                                                                                                                                                |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Construto: Blindagem | Criatura recebe 3 AP adicional. Uma criatura pode receber este aprimoramento apenas uma vez.                                                                          |
-| Fio Etéreo           | Adiciona 1 dado de dano a armas de alcance adjacente. Se um arma tem dano 1d6, ele causa 2d6 agora. Um arma pode receber este aprimoramento apenas uma vez.           |
-| Potência             | Adiciona 1 dado de dano a armas de alcance maior que adjacente. Se um arma tem dano 1d6, ele causa 2d6 agora. Um arma pode receber este aprimoramento apenas uma vez. |
+<!-- | Fio Etéreo           | Adiciona 1 dado de dano a armas de alcance adjacente. Se um arma tem dano 1d6, ele causa 2d6 agora. Um arma pode receber este aprimoramento apenas uma vez.           |
+| Potência             | Adiciona 1 dado de dano a armas de alcance maior que adjacente. Se um arma tem dano 1d6, ele causa 2d6 agora. Um arma pode receber este aprimoramento apenas uma vez. | -->
 
 ## Química
 

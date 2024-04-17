@@ -19,7 +19,7 @@ Características que independem de espécie, sendo padrão para todos no início
 **Anote:**  
 
 1. **Nível** inicial do seu personagem, geralmente começando em 1. Definido pelo grupo.
-2. **Countdown de Reação:** 3. Para mais informações veja [Reação](../3_game/actions.md#reações) e [Countdown](../3_game/countdown.md).
+2. **Countdown de Reação:** 2. Para mais informações veja [Reação](../3_game/actions.md#reações) e [Countdown](../3_game/countdown.md).
 3. **Atributos:** d6 em todos.
 
 ### Características de Espécie
@@ -109,37 +109,58 @@ Quer intimidar a criatura quebrando algum objeto e ameaçando apenas com sua pre
 _Quer desativar um dipositivo digital tentando hack? Use Cérebro.   
 Quer desativar um dispositivo digital abrindo-o e mexendo em seus componentes? Use Controle._  
 
-#### FÍSICO: Elevar, Agarrar, Quebrar
+### FÍSICO: Elevar, Agarrar, Quebrar
 
 Físico indica o quão forte você é, sua força física e sua fortitude do corpo, quanta punição física pode suportar. Você irá realizar checks de Físico para atacar com armas pesadas, quebrar uma porta, levantar objetos ou criaturas, ou prender alguém.  
-**Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Ferida permanentemente.
 
-#### AGILIDADE: Esquivar, Saltar, Esgueirar
+**Portão do Caos:**  
+
+1. Aumente 2 pontos de Ferida permanentemente.
+2. Aumente em 1 os Limites de Dano Leve e Alto, aumente em 2 o Severo.
+<!-- Para cada portão do caos aberto neste atributo, aumente um ponto em Ferida permanentemente. -->
+
+### AGILIDADE: Esquivar, Saltar, Esgueirar
 
 Agilidade indica o quão rápido você é, sua mobilidade em terrenos difíceis, reflexos e velocidade de reação a perigos. Também indica o quão bom você é ao se esgueirar e esconder. Você irá realizar checks de Agilidade para atacar com armas leves, subir uma corda, saltar entre telhados, fugir das garras de inimigos, esgueirar ou se esconder de inimigos, ou esquivar de um ataque.  
-**Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**.
 
-#### CONTROLE: Atirar, Desativar, Crafting
+**Portão do Caos:**  
+
+1. Diminua em 1 seu Countdown de Reação permanentemente.
+2. Você tem 1 Reação a mais.
+   
+<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
+
+### CONTROLE: Atirar, Desativar, Crafting
 
 Controle indica o quão hábil e preciso você é. Você irá realizar checks de Controle para tarefas que necessitam de um bom controle motor do corpo, como ser preciso ao atacar com armas de alcance alto, cuidadoso e habilidoso ao usar ferramentas, ou mexer em dispositivos mecânicos ou digitais.  
 <!-- TODO: definir bonus portão -->
 <!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
 
-#### ATENÇÃO: Perceber, Sentir, Procurar
+### ATENÇÃO: Perceber, Sentir, Procurar
 
 Atenção indica o quão você é atento a detalhes ao seu redor. Você irá realizar checks de Atenção para perceber perigos, procurar e notar detalhes no ambiente ao seu redor, notar se alguma criatura está tentando lhe manipular, ou rastrear uma criatura ou objeto.
 <!-- TODO: definir bonus portão -->
 <!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
 
-#### CÉREBRO: Lembrar, Analisar, Compreender
+### CÉREBRO: Lembrar, Analisar, Compreender
 
 Cérebro indica o quão bom você é ao deduzir e inferir informações para resolução de problemas complexos, seu conhecimento e memória e sua calma perante momentos estressantes. Você irá realizar checks de Cérebro para interpretar fatos, resolver problemas complexos, enxergar padrões, ou relembrar informações importantes.  
-**Portão do Caos:** Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2 abrindo o primeiro portão, e T3 abrindo o segundo.
 
-#### INFLUÊNCIA: Persuardir, Manipular, Performar
+**Portão do Caos:**  
+
+1. Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2.
+2. Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T3.
+<!-- **Portão do Caos:** Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2 abrindo o primeiro portão, e T3 abrindo o segundo. -->
+
+### INFLUÊNCIA: Persuardir, Manipular, Performar
 
 Influência indica o quão influente você é socialmente, sua força de personalidade, sua presença quanto a perigo e outras situações. Você irá realizar checks de Influência para persuardir, enganar, intimidar ou manipular uma criatura.  
-**Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente.
+
+**Portão do Caos:**  
+
+1. Aumente 1 ponto de Stress permanentemente.
+2. Aumente 2 pontos de Stress permanentemente.
+<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente. -->
 
 ## Passo 7: Escolha Aprimoramentos
 

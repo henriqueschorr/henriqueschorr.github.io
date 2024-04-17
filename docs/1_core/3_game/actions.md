@@ -10,13 +10,16 @@ Ataques são ações realizadas com armas e habilidades com o propósito de caus
 
 ### Passo 1: Ataque
 
-1. Escolha 1 ou mais alvo (dependendo da arma/habilidade).
-2. PC/NPC deve indicar se irá usar alguma [Reação](#reações), gerando uma [Disputa](./checks.md#disputa).
+1. Escolha 1 ou mais alvos (dependendo da arma/habilidade).
+2. Alvo deve indicar se irá usar alguma [Reação](#reações), gerando uma [Disputa](./checks.md#disputa).
 3. Role o Check com o Atributo indicado.   
    Mantenha os dados na "mesa" ou o resultado anotado pois o dano é calculado a partir deles na maioria das vezes.
 4. Verifique o grau de sucesso. Resolva a Disputa caso o alvo tenha usado alguma Reação.
-5. Aplique o [Dano](./damage.md#calculando-dano) de acordo com o grau de sucesso.  
+5. Calcule o [Dano](./damage.md#calculando-dano) de acordo com o grau de sucesso.  
    Algumas Habilidades ou Propriedades de armas podem modificar o dano.
+6. Verifique se o alvo possui alguma Resistência, Vulnerabilidade ou Imunidade. Modifique o valor do Dano de acordo.
+7. Compare o Dano aos Limites de Dano do alvo.
+8. Marque a quantidade de AP/Feridas de acordo com o Limite de Dano atingido. 
 
 ### Passo 2: Efeitos
 
@@ -60,7 +63,7 @@ Você pode ajudar um integrante da sua equipe a realizar uma ação.
 
 Apesar das ações serem completamente livres, as reações possuem uma lista predefenida do que pode ser realizado. Personagens e NPCs podem possuir habilidades que se comportam como reação, dando-os assim mais opções. Quase todas as reações usam checks de [Disputa](./checks.md#disputa).
 
-Assim que seu personagem realizar uma reação, ele deve criar um countdown 3, onde irá diminuir em 1 sempre que o GM terminar um turno. Enquanto este countdown estiver ativo você não pode realizar reações. Portões do Caos de Agilidade e outros detalhes permitem a você ter valor de countdown de reação menores.
+Assim que seu personagem realizar uma reação, ele deve criar um countdown 2, onde irá diminuir em 1 sempre que o GM terminar um turno. Enquanto este countdown estiver ativo você não pode realizar reações. Portões do Caos de Agilidade e outros detalhes permitem a você ter valor de countdown de reação menores.
 
 ### Esquivar
 
@@ -72,7 +75,7 @@ Criatura tenta esquivar de um ataque inimigo realizando um check de Agilidade.
 
 ### Defender
 
-Criatura possui um escudo, outro objeto ou arma natural com a propriedade **Defesa**, e defende a si mesmo ou alguma criatura adjacente.
+Criatura possui um escudo, outro objeto ou arma natural com a propriedade **Defender**, e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste check depende da arma usada para realizar a defesa.
 
 Caso o alvo seja si própria:
 
@@ -88,13 +91,13 @@ Caso o alvo seja outra criatura:
 **Vence a Disputa:** Criatura consegue defender e não recebe dano algum.  
 **Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após.  
 
-<!-- ### Resistir
+### Resistir
 
-Alguns ataques ou itens do cenário irão causar [Condições](./conditions.md) ou outros efeitos nocivos a uma criatura, podendo ser somente dano. Para se proteger deste efeitos a criatura deve Resistir com algum Atributo. A fonte de efeito sempre irá dizer qual Atributo a criatura levará em consideração para realizar o check de Resistir.
+Alguns ataques ou itens do cenário irão causar [Condições](./conditions.md) ou outros efeitos nocivos a uma criatura. Para se proteger deste efeitos a criatura deve Resistir com algum Atributo. A fonte de efeito sempre irá dizer se é possível Resistir e qual Atributo a criatura levará em consideração para realizar este check.
 
 **Falha ou Falha Crítica:** Criatura recebe efeito da fonte normalmente.  
 **Sucesso Parcial:** Criatura recebe efeito pela metade. Arredonde para cima.  
-**Sucesso ou Sucesso Crítico:** Criatura resiste ao efeito da fonte por completo. -->
+**Sucesso ou Sucesso Crítico:** Criatura resiste ao efeito da fonte por completo.
 
 ## Habilidades
 

@@ -30,6 +30,10 @@ Ao longo da aventura seu personagem irá receber componentes de algum dos três 
 **Tier 2 (T2):** Componentes mais completos como chips, soluções compostas, etc.  
 **Tier 3 (T3):** Componentes bem mais avançados e muitas vezes raros, como a placa mãe de um construto, material radioativo, minério com propriedades especiais, etc.  
 
+#### Conversão
+
+Você pode converter componentes de um tier superior para dois do tier inferior, por exemplo, 1 T3 pode ser convertido para 2 T2 ou 4 T1. O contrário não pode ser feito.
+
 ## Quantidade de Componentes
 
 A quantidade de componentes por receita é sempre fixa para cada Tier.
