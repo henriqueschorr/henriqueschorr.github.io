@@ -23,7 +23,7 @@ _Remella erra o ataque e não causa dano algum._
 
 **Sucesso Parcial**  
 _Remella tira 5 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 5 de dano no alvo._  
-_Remella tira 6 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 8 de dano no alvo._
+_Remella tira 5 no seu Dado Principal, 8 e 2 nos Dados Caóticos. Remella causa 8 de dano no alvo._
 
 **Sucesso**  
 _Remella tira 10 no seu Dado Principal, 3 e 2 nos Dados Caóticos. Remella causa 13 de dano no alvo._  
