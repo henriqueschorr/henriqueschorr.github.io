@@ -14,7 +14,7 @@ Após rolar o Check e determinar que você irá causar de fato dano no alvo, cal
 
 #### Exemplo de cálculo de Dano
 
-_Remella tenta realizar um ataque contra um dos guardas a sua frente. Remella rola 3d12 que é a quantidade de dados de seu atributo._
+_Remella tenta realizar um ataque contra um dos guardas a sua frente. Remella rola 3d12 que é a quantidade de dados de seu atributo, sendo um o Dado Principal e os outros dois os Dado Caóticos._
 
 Abaixo segue como é calculado o dano para cada grau de sucesso:
 
