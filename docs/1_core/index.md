@@ -1,6 +1,5 @@
 # Sumário
 
-
 ## Personagem
 - #### [Criação de Personagem](./2_character/index.md)
     - [Passo 1: Escolha sua Espécie](./2_character/index.md#passo-1-escolha-sua-espécie)
@@ -14,7 +13,7 @@
 - #### [Exemplo](./2_character/example.md)
 - #### [Espécies](./2_character/species.md)
 - #### [Cartas](./2_character/cards.md)
-
+  
 ## Jogo
 - #### [Fluxo do Jogo](./3_game/index.md#fluxo-do-jogo)
 - #### [Modos de Jogo](./3_game/index.md#modos-de-jogo)
