@@ -16,7 +16,7 @@ Assim como qualquer tipo de criatura, companions também terão suas propriedade
 **Nome:** Nome do companion.  
 **Propriedades:** [Propriedades](./properties.md#propriedades-de-espécies-e-criaturas) da criatura.  
 **Tamanho:** Informa o [Tamanho](./distance.md#tamanho) da criatura.  
-**Movimento:** Informa a velocidade e tipo de movimento da criatura, geralmente quando for uma [Montaria](./transport.md#montaria). Caso não informado, a velocidade é Muito Perto.
+**Movimento:** Informa a velocidade e tipo de movimento da criatura.
 **Recursos:** Informa recursos como Limites de Dano, AP, Ferida e Stress da criatura. Habilidades de seu companion irão utilizar o Caos do seu personagem.  
 **Resiliência:** Informa se a criatura possui Resistência, Imunidade ou Vulnerabilidade a algum tipo de dano.  
 **Dano:** 1d6 -> 1d20  

@@ -22,7 +22,7 @@ Armas do tipo equipamento, que não possuam a propriedade [Natural](./properties
 Indica qual [Atributo](../2_character/index.md#atributos) você irá utilizar para realizar ações com a arma (Exemplo: Controle).
 
 #### Alcance
-Indica o [Alcance](./distance.md#alcances) máximo que você pode atacar com a arma (Exemplo: Muito Longe).
+Indica o [Alcance](./distance.md#alcances) máximo que você pode atacar com a arma (Exemplo: 50).
 
 #### Dano
 Indica o dado que você deve rolar para [calcular o dano](./damage.md#calculando-dano) e o [tipo de dano](./damage.md#tipos-de-dano-e-efeitos-críticos) (Exemplo: 2d12 Físico).

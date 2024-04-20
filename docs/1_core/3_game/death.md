@@ -58,8 +58,8 @@ Quando seu personagem chegar a 0 Stress, você deve rolar 1d4 e então fazer **A
 
 | Resultado d4 | Efeito                                                                                                                                                |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1            | **Fugir**: Você corre para uma área Muito Longe se distanciando cada mais do perigo. Você ganha 1 Trauma.                                                 |
-| 2            | **Esconder**: Você corre e se esconde em algum lugar com distância Longe. Você ganha 1 Trauma.                                                            |
+| 1            | **Fugir**: Você corre para uma área até distância 50 se distanciando cada mais do perigo. Você ganha 1 Trauma.                                                 |
+| 2            | **Esconder**: Você corre e se esconde em algum lugar com distância 20. Você ganha 1 Trauma.                                                            |
 | 3            | **Congelar**: Você congela no lugar que se encontra e não se move por countdown 2. Você ganha 1 Trauma.                                                   |
 | 4            | **Raiva**: Você tem um ataque de raiva e ataca todas criaturas que não façam parte da sua equipe até todas morrerem ou você morrer ou ficar inconsciente. |
 

@@ -98,4 +98,4 @@ Você pode produzir e aplicar os seguintes componentes químicos.
 
 | Nome             | Limitador | Consumo | Efeito                                                                                                                                                         |
 | ---------------- | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Evento Horizonte |           | Toque   | Puxa todas as criaturas até distância Perto para o centro de impacto. Causa <6d Cérebro> + < seu nível> dano Energia (Radiação) e todos ficam Incapacitados 1. |
+| Evento Horizonte |           | Toque   | Puxa todas as criaturas até distância 10 para o centro de impacto. Causa <6d Cérebro> + < seu nível> dano Energia (Radiação) e todos ficam Incapacitados 1. |

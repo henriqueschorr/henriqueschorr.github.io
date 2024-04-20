@@ -44,7 +44,7 @@ Você pode usar a reação Defender com esta arma.
 Indica que a arma possui propriedades especiais e possui uma carta explicativa.
 
 #### Impacto
-Quando você causar dano durante um ataque com esta arma, você pode empurrar o alvo até distância Muito Perto.
+Quando você causar dano durante um ataque com esta arma, você pode empurrar o alvo até distância 3.
 
 #### Natural
 Indica que a arma é de origem natural, ou seja, parte do seu corpo. Você não pode ser desarmado.
@@ -69,7 +69,7 @@ Propriedades de armaduras identificam características pertinentes a certas mec�
 Indica que a armadura possui propriedades especiais e possui uma carta explicativa.
 
 #### Comunicador
-Armadura possui um comunicador integrado que permite conversação a distâncias Muito Longe.
+Armadura possui um comunicador integrado que permite conversação a distâncias 50.
 
 #### Lanterna
-Armadura possui uma lanterna que permite iluminar áreas até distância Perto com escuridão.
+Armadura possui uma lanterna que permite iluminar áreas até distância 10 com escuridão.

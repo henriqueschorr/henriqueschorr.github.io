@@ -107,7 +107,7 @@ Quando você for realizar algum ataque com um arma que possua alcance maior que 
 
 #### Terreno difícil
 
-Escombros, pântanos e outras coisas podem tornar um terreno difícil de transversar. Caso seu personagem for mover para uma distância Muito Perto em um terreno difícil, ele deve realizar um check de Agilidade, se falhar move apenas metade do caminho. Para mover para distâncias Perto ou maior, o check de Agilidade deve ser realizado com Desvantagem.
+Escombros, pântanos e outras coisas podem tornar um terreno difícil de transversar. Caso seu personagem for mover para distância 3 em um terreno difícil, ele deve realizar um check de Agilidade, se falhar move apenas metade do caminho. Para mover para distâncias maiores que 3, o check de Agilidade deve ser realizado com Desvantagem.
 
 ### Checks Passivos
 

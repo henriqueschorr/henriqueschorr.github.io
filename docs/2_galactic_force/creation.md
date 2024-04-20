@@ -11,7 +11,7 @@ Como um Humano você será um agente da Força Galáctica ou um mercenário dese
 3. **Atributos:** d6 em todos.
 4. **Propriedades:** Orgânico, Humanoid, Inseto, etc.
 5. **Tamanho:** Minúsculo, Pequeno, Médio, Grande ou Gigante.
-6. **Movimento:**. Geralmente sendo Terrestre, Muito Perto.
+6. **Movimento:**. Geralmente sendo Terrestre 3.
 
 ### Recursos
 

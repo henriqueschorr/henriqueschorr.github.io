@@ -46,9 +46,9 @@ Para ações de **Crafting**, veja o seguinte [link](crafting.md#check).
 
 ## Movimento
 
-Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover a uma distância Muito Perto (2 a 4m) como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, alguma complicação acontece que impede seu movimento.
+Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover até distância 3 (6m) como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, alguma complicação acontece que impede seu movimento.
 
-NPCs podem se mover para uma distância Muito Perto (2 a 4m) e fazer alguma ação como parte de sua ativação. Caso o GM deseje mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar ações, mas também não precisando fazer um check de Agilidade. Algumas criaturas podem ter sua velocidade modificada, podendo mover a distâncias maiores e ainda sim fazer alguma ação.
+NPCs podem se mover para uma distância 3 e fazer alguma ação como parte de sua ativação. Caso o GM deseje mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar ações, mas também não precisando fazer um check de Agilidade. Algumas criaturas podem ter sua velocidade modificada, podendo mover a distâncias maiores e ainda sim fazer alguma ação.
 
 ## Ajudando um Aliado
 

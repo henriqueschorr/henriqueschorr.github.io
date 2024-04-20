@@ -30,7 +30,7 @@ Características gerais que variam entre espécies.
 
 1. [**Propriedades**](../3_game/properties.md): Orgânico, Humanoid, Inseto, etc.
 2. [**Tamanho**](../3_game/distance.md#tamanho): Minúsculo, Pequeno, Médio, Grande ou Gigante.
-3. [**Movimento**](../3_game/distance.md#movimento): Geralmente Terrestre, Muito Perto.
+3. [**Movimento**](../3_game/distance.md#movimento): Geralmente Terrestre 3.
 
 ### Recursos
 

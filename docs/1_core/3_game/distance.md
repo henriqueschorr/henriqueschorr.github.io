@@ -2,9 +2,11 @@
 
 HB pode ser jogado com mapa ou sem, mas para um combate mais tático, é recomendado que um mapa seja usado. Você pode usar um mapa dividido e tiles ou hexes, onde este último é o mais recomendado. O jogo usa o sistema métrico.
 
-### Alcances
+### Alcance e Distância
 
-Em HB usamos distâncias e alcances mais genéricos, mas cada um tem seu valor em metros especificado.
+Como HB foi projetado para se jogar em um grid/hex, todo alcance e distância é metido em valores numéricos de tiles/hex. Cada tile/hex equivale a 2m. Por exemplo, uma arma com alcance 10 pode atacar até uma distância de 10, ou seja, 20m. A única exceção é a distância Adjacente, que significa que uma criatura está ao lado uma da outra.
+
+<!-- Em HB usamos distâncias e alcances mais genéricos, mas cada um tem seu valor em metros especificado.
 
 | Alcance/Distância | Metros   | Tiles/Hexes             |
 | ----------------- | -------- | ----------------------- |
@@ -14,13 +16,13 @@ Em HB usamos distâncias e alcances mais genéricos, mas cada um tem seu valor e
 | Longe             | Até 50m  | Até 25                  |
 | Muito Longe       | Até 100m | Até 50                  |
 
-Qualquer distância acima de Muito Longe é considerado Fora de Alcance e geralmente não pode ser mirado/alvo.
+Qualquer distância acima de Muito Longe é considerado Fora de Alcance e geralmente não pode ser mirado/alvo. -->
 
 ### Movimento
 
-Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover a uma distância Muito Perto (2 a 4m) como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, você anda apenas metade do caminho ou alguma outra complicação acontece, a desejo do GM.
+Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover a distância 3 como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, você anda apenas metade do caminho ou alguma outra complicação acontece, a desejo do GM.
 
-NPCs podem se mover para uma distância Muito Perto (2 a 4m) e fazer alguma ação como parte de sua ativação. Caso o GM deseje mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar ações, mas também não precisando fazer um check de Agilidade. Algumas criaturas podem ter sua velocidade modificada, podendo mover a distâncias maiores e ainda sim fazer alguma ação.
+NPCs podem se mover para uma distância 3 e fazer alguma ação como parte de sua ativação. Caso o GM deseje mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar ações, mas também não precisando fazer um check de Agilidade. Algumas criaturas podem ter sua velocidade modificada, podendo mover a distâncias maiores e ainda sim fazer alguma ação.
 
 Existem tipos de movimento, estes que identificam como você pode ser mover pelo ambiente. Caso não informado, seu tipo de movimento é apenas Terrestre.
 

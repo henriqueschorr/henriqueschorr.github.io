@@ -4,13 +4,13 @@
 
 **Propriedades:** Construto.  
 **Tamanho:** Pequeno.  
-**Movimento:** Terrestre, Muito Perto.  
+**Movimento:** Terrestre 3.  
 **Recursos:** 5 AP.  
 **Dano:** 1d6  
 **Reações:** 1
 
 ### Ações
 
-**Rifle Montado:** Longe, dano Físico.  
+**Rifle Montado:** 20, dano Físico.  
 **Lâmina Montada:** Adjacente, dano Físico.
 
