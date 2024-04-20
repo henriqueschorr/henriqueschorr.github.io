@@ -37,6 +37,9 @@ Faça um check de Controle logo antes de atirar com a arma, seu grau de sucesso 
 - **Sucesso:** Você causa <1d Atributo> dano adicional.
 - **Sucesso Crítico:** Você causa <2d Atributo> dano adicional. -->
 
+#### Confiável
+Ao atacar com esta arma, você pode re-rolar um dado caótico uma vez caso seu valor seja 1.
+
 #### Defender
 Você pode usar a reação Defender com esta arma.
 
@@ -57,6 +60,9 @@ Criaturas alvos de ataques com esta arma não podem realizar Reações.
 
 #### Recarregar
 Caso você role 1 ou 2 em qualquer dos dados durante o check para atacar com esta arma, você deve recarregar a arma. Você não pode usar a arma até Countdown 2. Você pode marcar 1 Stress para diminuir o Countdown em 1.
+
+#### Silenciosa
+Indica que a arma é silenciosa ao atirar seus projéteis, não alertando inimigos com seu barulho.
 
 #### Seguro
 Você não pode sofrer a condição Desarmado com esta arma.
