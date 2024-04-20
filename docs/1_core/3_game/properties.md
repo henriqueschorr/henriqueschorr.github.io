@@ -59,7 +59,7 @@ Quando você causar dano durante um ataque com esta arma, você pode causar a co
 Criaturas alvos de ataques com esta arma não podem realizar Reações.
 
 #### Recarregar
-Caso você role 1 ou 2 em qualquer dos dados durante o check para atacar com esta arma, você deve recarregar a arma. Você não pode usar a arma até Countdown 2. Você pode marcar 1 Stress para diminuir o Countdown em 1.
+Caso você role 1 ou 2 no dado principal durante o check para atacar com esta arma, você deve recarregá-la. Você não pode usar a arma até Countdown 2. Você pode marcar 1 Stress para diminuir o Countdown em 1.
 
 #### Silenciosa
 Indica que a arma é silenciosa ao atirar seus projéteis, não alertando inimigos com seu barulho.

@@ -20,11 +20,11 @@ Qualquer distância acima de Muito Longe é considerado Fora de Alcance e geralm
 
 ### Movimento
 
-Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover a distância 3 como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, você anda apenas metade do caminho ou alguma outra complicação acontece, a desejo do GM.
+Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover até distância informada em seu personagem, como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, alguma complicação acontece que impede seu movimento.
 
-NPCs podem se mover para uma distância 3 e fazer alguma ação como parte de sua ativação. Caso o GM deseje mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar ações, mas também não precisando fazer um check de Agilidade. Algumas criaturas podem ter sua velocidade modificada, podendo mover a distâncias maiores e ainda sim fazer alguma ação.
+NPCs podem se mover até distância informada em sua ficha e fazer alguma ação como parte de sua ativação. Caso o GM deseje mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar ações, mas também não precisando fazer um check de Agilidade.
 
-Existem tipos de movimento, estes que identificam como você pode ser mover pelo ambiente. Caso não informado, seu tipo de movimento é apenas Terrestre.
+Existem tipos de movimento, estes que identificam como você pode ser mover pelo ambiente.
 
 | Tipo        | Descrição                                                                |
 | ----------- | ------------------------------------------------------------------------ |

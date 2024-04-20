@@ -1,6 +1,6 @@
 Como um Humano você será um agente da Força Galáctica ou um mercenário desertor da mesma. Suas cartas de espécie representam classes que desempenham papeis voltados ao funcionamento de uma nave exploradora, como Capitão, Soldado, Engenheiro, etc.
 
-## Espécie: Humanos
+## Passo 1: Espécie: Humanos
 
 ### Características
 
@@ -9,9 +9,10 @@ Como um Humano você será um agente da Força Galáctica ou um mercenário dese
 1. **Nível** inicial do seu personagem, geralmente começando em 1. Definido pelo grupo.
 2. **Reações:** 1.
 3. **Atributos:** d6 em todos.
-4. **Propriedades:** Orgânico, Humanoid, Inseto, etc.
-5. **Tamanho:** Minúsculo, Pequeno, Médio, Grande ou Gigante.
-6. **Movimento:**. Geralmente sendo Terrestre 3.
+4. **Propriedades:** Orgânico, Humanoid.
+5. **Tamanho:** Médio.
+6. **Movimento:** Terrestre 3, Aquático 2.
+7. **Conhecimento Científico:** Todas as áreas.
 
 ### Recursos
 
@@ -34,12 +35,15 @@ Como um Humano você será um agente da Força Galáctica ou um mercenário dese
 2. **Aplique** qualquer efeito descrito nelas.  
    Exemplos: Se uma carta lhe dá uma arma, anote a arma recebida. Se uma carta lhe dá perícia em uma área da ciência, anote este conhecimento científico.
 
-## Armas
+## Passo 2: Armas
 
-**Escolha:** Armas dessa [lista](./weapons.md#armas) até você ter um máximo de 2 armas (3 caso Soldado).  
-   Armas que você recebeu ao escolher a carta de espécie contam para este total.
+**Escolha:**
 
-## Armadura
+- Armas dessa [lista](./weapons.md#armas) até você ter um máximo de 2 armas (3 caso Soldado).   
+   Armas que você recebeu ao escolher a carta de espécie contam para este total.  
+- Uma Pistola ou Faca de Combate.
+
+## Passo 3: Armadura
 
 1. **Escolha:** Uma Armadura entre as seguintes:
       - A.N.E. Leve
@@ -47,17 +51,19 @@ Como um Humano você será um agente da Força Galáctica ou um mercenário dese
       - A.N.E. Média-Pesada
 2. **Anote:** Pontos de Armadura (AP) providos pela armadura escolhida.
 
-## Equipamentos
+## Passo 4: Equipamentos
 
-1. **Escolha:** 1x Granada ou 1x Armadilha. (Qual granada ou armadilha você decide somente quando for usar).
-2. **Receba:** 1x Kit Médico Simples.
+**Receba:** 
 
-## Conhecimento Científico
+1. 1x Kit Médico Simples.
+2. Provisões.
+
+## Passo 5: Conhecimento Científico
 
 1. **Escolha** uma área da ciência para adquirir Perícia.
 2. **Anote** Nível T1 de Receitas da área de ciência escolhida.
 
-## Atributos
+## Passo 6: Atributos
 
 1. **Avance** e tome nota de 2 **Atributos** diferentes.  
    Avançar significa aumentar o tamanho de um dado. Por exemplo, avançar o atributo Físico que possui um d6, seria aumentá-lo para um d8.
@@ -72,7 +78,7 @@ Como um Humano você será um agente da Força Galáctica ou um mercenário dese
 - **Piloto**: Agilidade e Controle
 - **Soldado**: Controle
 
-## Aprimoramentos
+## Passo 7: Aprimoramentos
 
 1. **Separe** todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem: armas, armadura, equipamentos, companion e transporte.
 2. **Escolha** 2 cartas para receber.

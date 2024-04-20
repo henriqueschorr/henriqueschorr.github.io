@@ -2,114 +2,95 @@ Segue abaixo um exemplo de criação de personagem.
 
 ## Passo 1: Escolha sua Espécie
 
-Olhando todas as espécies disponíveis no momento, Remella decide seguir o padrão e fazer um Humano.
-<!-- Como alguns detalhes mudam entre espécies, os passos podem e irão variar dependendo a espécie escolhida. Os passos exclusivos dos humanos terão (Humano) ao final, qualquer outro passo sem prefixo é de uso geral. -->
+Olhando todas as espécies disponíveis no momento, Remella decide seguir o padrão e fazer um Humano. Os passos para criar um Humano podem ser vistos [aqui](../../2_galactic_force/creation.md).
 
-<!-- ### Passo 1: Escolha sua Espécie
+Remella **anota** em sua ficha o seguinte:
 
-Nosso jogador escolhido, vamos chamá-lo de Remella, decidiu escolher a espécie Humano. Uma vez feita a escolha, Remella anota os seguintes itens abaixo, de acordo com as informações encontradas no módulo dos Humanos:
+### Características
 
-![](../../0_assets/images/creation/step1%20-%20species.png)
+1. **Nível** 1.
+2. **Reações:** 1.
+3. **Atributos:** d6 em todos.
+4. **Propriedades:** Orgânico, Humanoid.
+5. **Tamanho:** Médio.
+6. **Movimento:**. Terrestre 3, Aquático 2.
+7. **Conhecimento Científico:** Todas as áreas.
 
-**Nível:** 1  
-**Reação:** 3  
-**Propriedades:** Orgânico, Humanoid  
-**Tamanho:** Médio  
-**Movimento:** Terrestre, Muito Perto   
+![](../../0_assets/images/creation_example/step_1_characteristics.png)
 
-Remella já decide nomear seu personagem **Beck**.
+![](../../0_assets/images/creation_example/step_1_science.png)
 
-### Passo 2: Escolha sua Classe (Humano)
+### Recursos
 
-O primeiro passo na criação de um personagem humano é a escolha de classe, essa que representa uma ideia geral do papel do seu personagem na comunidade. Humanos possuem atualmente as classes de Agente, Segurança e Técnico. Remella gosta mais da ideia de um personagem ofensivo e voltado totalmente ao combate, portanto ele escolhe a classe [Segurança](../../2_human/classes/security/index.md).
+1. **Limites de dano:** 2 - 5 - 8  
+2. **Feridas:** 5
+3. **Stress:** 5
+4. **Caos:** 2
 
-A classe define de maneira narrativa seu papel quanto a uma equipe e, de maneira mecânica, seus **Limites de Dano**, **Ferida**, **Stress** e **Caos**. Remella toma nota dos valores concedidos em sua ficha de personagem:
+![](../../0_assets/images/creation_example/step_1_resources.png)  
+_Aqui você pode ver 2 AP marcado, ele fará sentido somente no passo 3, quando você escolhe sua armadura._
 
-![](../../0_assets/images/creation/step2%20-%20class.png)
+### Cartas de Espécie
 
-**Limites de Dano:** 4 <- 9 <- 14  
-**Feridas:** 4  
-**Stress:** 4  
-**Caos:** 2  
+Ao escolher um Humano, Remella pode **escolher** uma carta de espécie que representa sua classe: Batedor, Capitão, Cientista, Engenheiro, etc. Remella gosta da ideia do Batedor:
 
-Ignore o AP por enquanto, uma vez que ele é preenchido quando você receber sua Armadura.
+![](../../0_assets/images/human/cards/batedor.png){ width="280" }
 
-### Passo 3: Escolha sua Especialização (Humano)
+Uma vez escolhida a carta, Remella deve **aplicar** suas instruções, no caso ele **anota** em sua ficha:
 
-Cada classe de humanos possui no mínimo duas especializações, estas que definem mais ainda seu papel quanto a uma equipe. A classe de Segurança possui três especializações: Batedor, Brutamonte e Soldado. Remella se intereça pelo [Batedor](../../2_human/classes/security/scout.md), uma vez que parece satisfazer uma temática de assassino silencioso e faz uso de um arco composto e uma lâmina fragmento.
+![](../../0_assets/images/creation_example/step_1_card_1.png)
+![](../../0_assets/images/creation_example/step_1_card_2.png)
 
-A especialização define mecanicamente seu **Conhecimento Científico**, **Receitas**, **Armas**, **Armaduras**, **Equipamentos** e **Aprimoramentos**.
+## Passo 2: Escolha suas Armas
 
-A especialização de Batedor diz a Remella para realizar o seguinte:
+Lendo a passiva presente na carta do Batedor, Remella percebe que ela funciona com armas que possuem a propriedade Silenciosa. Olhando a lista de armas a escolher, Remella **escolhe** o Arco Composto. Uma vez escolhido sua segunda arma, Remella pode escolher entre uma Pistola ou Faca de Combate. Como seu personagem já possui uma arma corpo-a-corpo boa, Remella decide escolher uma Pistola. Remella **anota** suas armas.
 
-**Armas Principais:** Arco Composto, Lâmina Fragmento       
-**Armadura:** A.N.E. Leve     
-**Equipamentos:** 1x Armadilha  (escolha na hora do uso), 1x Kit Médico Simples  
-**Cartas:** Golpe Letal      
-**Cartas de Aprimoramentos:** Separe as cartas de aprimoramentos para A.N.E., Arco Composto e Lâmina Fragmento    
+![](../../0_assets/images/creation_example/step_2_weapons.png)
 
-![](../../0_assets/images/creation/step3%20-%20specialization1.png)
-![](../../0_assets/images/creation/step3%20-%20specialization2.png)
+## Passo 3: Escolha suas Armaduras
 
-Neste passo aqui, como recebemos a armadura, nós marcamos o AP que foi mostrado na imagem do passo 2.
+Olhando a lista de armaduras disponíveis para seu personagem, e suas respectivas habilidades, Remella percebe que a A.N.E. Leve pode usar a habilidade Camuflagem. Remella curte a ideia de ser um assassino silencioso que surpreende seus inimigos. Remella **escolhe** A.N.E. Leve e **anota** em sua ficha, juntamente com o AP provido por ela.
 
-#### Carta Recebida: Golpe Letal
+![](../../0_assets/images/creation_example/step_3_armor.png)
 
-![](../../0_assets/images/human/cards/golpe_letal.png){ width="280" }
+## Passo 4: Escolha seus Equipamentos
 
-#### Cartas de Aprimoramentos para escolha no passo 5
+Neste passo Humanos **recebem** 1x Kit Médico Simples e Provisões, Remella **anota** em sua ficha, juntamente com a Armadilha que recebeu ao escolher sua carta Batedor.
 
+![](../../0_assets/images/creation_example/step_4_equipment.png)
+
+## Passo 5: Escolha seu Conhecimento Científico
+
+Como um Batedor e assassino silencioso, Remella gosta da ideia de boter destrancar travas eletrônicas, desativar dispositivos ou desarmar armadilhas, por isso ele **escolhe** Engenharia como área da ciência para adquirir Perícia. Remella **anota** essa informação em sua ficha, juntamente com sua capacadidade de Crafting de receitas de Engenharia T1.
+
+![](../../0_assets/images/creation_example/step_5_science.png)
+
+## Passo 6: Avance Atributos
+
+Remella olha pra sua ficha e entende que os Atributos mais utilizados por seu personagem serão Agilidade e Controle, afinal de contas são os atributos usados ao atacar com suas armas. Remella **anota** o avanço destes atributos em sua ficha, juntamente com seus graus de sucesso.
+
+![](../../0_assets/images/creation_example/step_6_attributes.png)
+
+## Passo 7: Escolha Aprimoramentos
+
+Remella **separa** todas as cartas de aprimoramentos nível 1 disponíveis para o personagem que construiu, sendo:
+
+- 2 da A.N.E. Leve (Visão Aprimorada e Camuflagem)
+- 1 da Lâmina Fragmento (Broca)
+- 1 do Arco Composto (Flecha Silenciadora)
+
+![](../../0_assets/images/human/cards/visao_aprimorada.png){ width="280" }
 ![](../../0_assets/images/human/cards/camuflagem.png){ width="280" }
-![](../../0_assets/images/human/cards/visao_aprimorada.png){ width="280"}
 
-![](../../0_assets/images/human/cards/flecha_silenciadora.png){ width="280"}
-![](../../0_assets/images/human/cards/serra.png){ width="280"}
+![](../../0_assets/images/human/cards/broca.png){ width="280" }
+![](../../0_assets/images/human/cards/flecha_silenciadora.png){ width="280" }
 
-#### Passo 3.1: Decida seu Conhecimento Científico (Humano - Batedor)
+Remella possui 4 cartas mas pode escolher apenas 2. Uma das razões de ter escolhido A.N.E. Leve no passo 3 era justamente a possibilidade de usar Camuflagem, Remella **escolhe** esta carta. Remella também acha interessante a carta Broca, que permite deixar um inimigo sangrando e morrendo enquanto ele pode lidar com outro, Remella **escolhe** esta carta também.
 
-A especialização de Batedor diz que você deve escolher seu Conhecimento Científico. Para isto, Remella deve escolher entre uma das áreas da ciência: Biologia, Culinária, Engenharia e Química. Remella deseja ser capaz de destrancar portas, desarmar dispositivos mecânicos ou digitais, portanto decide escolher a área de **Engenharia**.
+## Passo 8: Finalização
 
-1. Remella anota que possuí perícia em Engenharia.
-2. Remella toma nota que sabe produzir receitas de engenharia do nível T1.
+Remella quer sair jogando logo e não pensa muito em detalhes do seu personagem, apenas seu nome: Beck.
 
-![](../../0_assets/images/creation/step3%20-%20specialization3.png)
+## Ficha de Personagem
 
-### Passo 4: Avance Atributos
-
-Neste passo Remella deve escolher atributos para avançar, ou seja, melhorar. Lembrando que neste passo você:
-
-1. Você pode aumentar o tamanho do dado ou abrir um portão do caos de um atributo.
-      1. Todas as espécies começam com d6 em todos os atributos, aumentar o tamanho de um dado seria aumentar o d6 para um d8, um d8 para um d10 e assim por diante.
-      2. Caso você abra um portão do caos:  
-            1. Separe um dado extra de cor diferente do dado principal e com o mesmo tamanho. Este será seu <ins>dado caótico</ins> e você irá rolá-lo sempre que precisar rolar seu dado principal.  
-            2. Modifique as características influenciadas pelo portão do caos do atributo. Como por exemplo, para cada portão do caos aberto no atributo Físico, você ganha um ponto de Ferida permanentemente.
-2. Faça novamente o passo 1.
-3. Tome nota dos valores de <ins>Sucesso Parcial</ins>, <ins>Sucesso</ins> e <ins>Sucesso Crítico</ins> para facilitar a resolução de um check.
-
-Remella gosta da ideia de ser um assassino que suja as mãos, que mata seus inimigos de forma próxima e pessoal, olhando em seus olhos enquanto estes perdem o brilho...Por isso Remella decide avançar seus atributos de forma que aprimore seu uso com a lâmina fragmento, esta que usa o atributo de Agilidade.
-
-1. Remella aumenta o tamanho do seu dado de Agilidade, podendo usar um d6 agora.
-2. Remella decide abrir um portão do caos no atributo de Agilidade também.
-   1. Remella possui agora um dado caótico em Agilidade. Em resumo, sempre que for necessário rolar um check de Agilidade, Remella deve rolar 2d6, sendo um dos dados o principal e o outro caótico.
-   2. Como foi aberto um portão de caos em Agilidade, Remella diminui em 1 seu countdown de reação.
-3. Remella também toma nota dos valores de Sucesso Parcial, Sucesso e Sucesso Crítico para facilitar a resolução de um check.
-
-![](../../0_assets/images/creation/step4%20-%20attributes.png)
-
-## Passo 5: Escolha Aprimoramentos
-Quando Remella selecionou a especialização de Batedor, ele automaticamente recebeu o aprimoramento Golpe Letal e uma lista de outras cartas de aprimoramento. Esta lista consiste em cartas de aprimoramentos para sua armadura: A.N.E. Leve, e para seus armas: Arco Composto e Lâmina Fragmento, todos para seu nível atual, que é 1.
-
-Ao total, Remella possui quatro cartas de aprimoramentos, duas para sua armadura e uma para cada arma. A espécie de humanos diz que apenas duas devem ser selecionadas por nível.
-
-Como Remella quer ser um assassino silencioso, ele escolhe as seguintes cartas de aprimoramento:
-
-![](../../0_assets/images/human/cards/camuflagem.png){ width="280" }
-![](../../0_assets/images/human/cards/flecha_silenciadora.png){ width="280"}
-
-## The End
-
-Pronto, Remella acaba de criar seu primeiro personagem em Horizon Beyond e está pronto para iniciar sua aventura. Abaixo você encontra uma visão geral de como ficou sua ficha por completo.
-
-![](../../0_assets/images/creation/sheet1.png)
-![](../../0_assets/images/creation/sheet2.png)
-![](../../0_assets/images/creation/sheet3.png) -->
+Você pode acessar esse [link](https://docs.google.com/spreadsheets/d/19w17pxwF-46oYBTceI109gJkN0Po3Q7_iUlrXDpy-CM/edit#gid=1720517164){:target="_blank"} para visualizar como ficou a ficha final do personagem de Remella, Beck.
