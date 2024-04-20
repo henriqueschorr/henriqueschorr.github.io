@@ -1,7 +1,7 @@
 Companions são criaturas que acompanham seu personagem durante a aventura. Podem ser animais de combate, montarias ou até mesmo construtos como é o caso do drone de combate do humano engenheiro.
 
 ## Comando
-Seu companion sempre seguirá seus comandos, sem necessitar de checks. Você pode comandar seu companion a realizar qualquer ação, desde que esteja dentro das limitações do mesmo. Companions também possuem uma reação com Countdown 2. Você pode realizar comandos juntamente como parte de uma ação sua. Exemplos de comandos:
+Seu companion sempre seguirá seus comandos, sem necessitar de checks. Você pode comandar seu companion a realizar qualquer ação, desde que esteja dentro das limitações do mesmo. Você pode realizar comandos juntamente como parte de uma ação sua. Exemplos de comandos:
 
 - Mova até local X e ataque alvo Y
 - Defenda alvo X
@@ -21,6 +21,7 @@ Assim como qualquer tipo de criatura, companions também terão suas propriedade
 **Resiliência:** Informa se a criatura possui Resistência, Imunidade ou Vulnerabilidade a algum tipo de dano.  
 **Dano:** 1d6 -> 1d20  
 **Ações:** Informa ações, reações e habilidades que a criatura pode usar. Ações básicas como mover não estarão listadas aqui mas não significam que o companion não possa realizar.  
+**Reações:** Informa quantidade de reações.  
 
 ## Causando Dano
 O dano de seu companion escala juntamente com o nível do seu personagem, começando em 1d6 no nível 1 e indo até 1d20 no nível 5. Esse é o dano base de um ataque simples qualquer, alguns ataques ou habilidades especiais do seu companion poderão causar dano adicional e até mesmo condições.

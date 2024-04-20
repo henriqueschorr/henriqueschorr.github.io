@@ -63,7 +63,7 @@ Você pode ajudar um integrante da sua equipe a realizar uma ação.
 
 Apesar das ações serem completamente livres, as reações possuem uma lista predefenida do que pode ser realizado. Personagens e NPCs podem possuir habilidades que se comportam como reação, dando-os assim mais opções. Quase todas as reações usam checks de [Disputa](./checks.md#disputa).
 
-Assim que seu personagem realizar uma reação, ele deve criar um countdown 2, onde irá diminuir em 1 sempre que o GM terminar um turno. Enquanto este countdown estiver ativo você não pode realizar reações. Portões do Caos de Agilidade e outros detalhes permitem a você ter valor de countdown de reação menores.
+Seu personagem possui um número limitado de reações, que uma vez usadas, são recuperadas no começo do turno de equipe. Portões do Caos de Agilidade e outras fontes permitem você ter reações adicionais.
 
 ### Esquivar
 

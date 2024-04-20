@@ -50,11 +50,7 @@ Você fica inconsciente e não pode realizar ação alguma. Crie um countdown co
 
 ### Ressureição
 
-Alguns equipamentos, itens ou habilidades podem ressucitar um personagem, ou seja, fazê-lo voltar a vida mesmo após morto, porém há um tempo e um custo.
-
-<!-- Um personagem pode ser ressucitado em até uma quantidade de minutos igual ao valor máximo do seu dado de atributo físico, ou seja, se seu personagem possui Físico d6, crie um countdown 6 minutos. -->
-
-Um personagem só pode ser ressucitado caso tenha morrido em um período de até 24 horas. Ele volta com 1 [Trauma](#trauma), e 1 Ferida e 1 Stress a menos permanentemente.
+Alguns equipamentos, itens ou habilidades podem ressucitar um personagem, ou seja, fazê-lo voltar a vida mesmo após morto, porém há um tempo e um custo. Um personagem só pode ser ressucitado caso tenha morrido em um período de até 24 horas. Ele volta com 1 [Trauma](#trauma), e 1 Ferida e 1 Stress a menos permanentemente.
 
 ## Pânico
 

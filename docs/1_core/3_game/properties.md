@@ -27,7 +27,7 @@ Criaturas do tipo planta são criaturas semelhantes às plantas e flores present
 
 Propriedades de armas identificam características pertinentes a certas mecânicas, ou demonstram características físicas importantes para narrativas.
 
-#### Carregar
+<!-- #### Carregar
 Indica que a arma tem um modo de carga de tiro, onde você causa dano adicional baseado na precisão da carga. O tipo de dano será indicado entre parênteses. O atributo utilizado será indicado entre parênteses do atributo original da arma, caso não haja, utilize o mesmo. Geralmente presentes em armas que causam dano de energia. 
 Faça um check de Controle logo antes de atirar com a arma, seu grau de sucesso determina o dano adicional que será rolado no próximo ataque:
 
@@ -35,7 +35,7 @@ Faça um check de Controle logo antes de atirar com a arma, seu grau de sucesso 
 - **Falha:** Você não causa dano adicional.
 - **Sucesso Parcial:** Você causa (<1d Atributo> / 2) dano adicional.
 - **Sucesso:** Você causa <1d Atributo> dano adicional.
-- **Sucesso Crítico:** Você causa <2d Atributo> dano adicional.
+- **Sucesso Crítico:** Você causa <2d Atributo> dano adicional. -->
 
 #### Defender
 Você pode usar a reação Defender com esta arma.

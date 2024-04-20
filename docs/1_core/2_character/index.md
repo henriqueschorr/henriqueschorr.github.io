@@ -19,7 +19,7 @@ Características que independem de espécie, sendo padrão para todos no início
 **Anote:**  
 
 1. **Nível** inicial do seu personagem, geralmente começando em 1. Definido pelo grupo.
-2. **Countdown de Reação:** 2. Para mais informações veja [Reação](../3_game/actions.md#reações) e [Countdown](../3_game/countdown.md).
+2. **Reações:** 1. Para mais informações veja [Reação](../3_game/actions.md#reações).
 3. **Atributos:** d6 em todos.
 
 ### Características de Espécie
@@ -125,22 +125,16 @@ Agilidade indica o quão rápido você é, sua mobilidade em terrenos difíceis,
 
 **Portão do Caos:**  
 
-1. Diminua em 1 seu Countdown de Reação permanentemente.
-2. Você tem 1 Reação a mais.
+1. Você possui 1 Reação a mais.
+2. Você possui 1 Reação a mais.
    
-<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
-
 ### CONTROLE: Atirar, Desativar, Crafting
 
 Controle indica o quão hábil e preciso você é. Você irá realizar checks de Controle para tarefas que necessitam de um bom controle motor do corpo, como ser preciso ao atacar com armas de alcance alto, cuidadoso e habilidoso ao usar ferramentas, ou mexer em dispositivos mecânicos ou digitais.  
-<!-- TODO: definir bonus portão -->
-<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
 
 ### ATENÇÃO: Perceber, Sentir, Procurar
 
 Atenção indica o quão você é atento a detalhes ao seu redor. Você irá realizar checks de Atenção para perceber perigos, procurar e notar detalhes no ambiente ao seu redor, notar se alguma criatura está tentando lhe manipular, ou rastrear uma criatura ou objeto.
-<!-- TODO: definir bonus portão -->
-<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, diminua em um seu **countdown de reação**. -->
 
 ### CÉREBRO: Lembrar, Analisar, Compreender
 

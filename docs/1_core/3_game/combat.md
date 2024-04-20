@@ -17,6 +17,8 @@ Caso ninguém surpreenda ninguém, todas as criaturas do GM estão Inativos e o 
 ## Passo 2: Turno da Equipe
 No momento que a primeira rodada de surpresa passa ou caso não tenha havido surpresa, a equipe de jogadores executa seu turno. Considere os seguintes pontos durante o turno da Equipe de jogadores:
 
+- Todos jogadores recuperam todas suas reações.
+- Todos os [Countdown](./countdown.md#countdown-turno) dos jogadores diminuem em 1.
 - Não há ordem de iniciativa, qualquer jogador pode executar ações na ordem que quiser.
 - Não há limites de [Ações](./actions.md) que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantas e quaisquer ações desejarem.  
   Há apenas limitações de recursos, como por exemplo Habilidades que custam Caos.  
@@ -32,6 +34,8 @@ Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 ## Passo 3: Turno do GM
 Considere os seguintes pontos durante o turno do GM:
 
+- Todas criaturas recuperam todas suas reações.
+- Todos os [Countdown](./countdown.md#countdown-turno) do GM diminuem em 1.
 - GM pode **ativar** criaturas gastando Tokens de Ativação. 1 Token = 1 Criatura ativa.
 - O GM pode realizar uma ação para cada criatura ativa, deixando-a então inativa.  
   Algumas criaturas podem realizar mais de uma ação por ativação.

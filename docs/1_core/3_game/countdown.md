@@ -8,7 +8,10 @@ Countdowns andam apenas para frente, nunca para trás, ou seja, cada vez que um 
 
 Quando o countdown chega a 0 ou a ultima parte do relógio é marcada, o evento acontece.
 
-**Countdown Turno:** Algumas mecânicas como **condições** ou reação possuem valores fixos atrelados (exemplo Debilitado 2). Nesse tipo de countdown, o evento segue sempre que o turno do lado oposto de um combate termina/é passado. O exemplo mais comum é o **countdown de reação**, onde seu personagem possui um valor fixo de 2. Como é um countdown no seu personagem, ele irá progredir sempre que o GM passar a vez de volta para os jogadores, ou seja, o GM irá possuir 2 "turnos" antes de você poder usar a sua reação novamente.
+## Countdown Turno
 
-**Countdown Dinâmico:** Nem todos countdowns terão um tempo específico para diminuir como a passagem de um turno. Pode haver eventos maiores e difíceis de medir em uma medida de tempo, como por exemplo "término da construção e uma bomba". O GM pode decidir que este countdown baixa por diversos motivos: Sempre que um jogador falhar criticamente, sempre que os jogadores façam um descanso curto ou longo, etc. O GM não necessariamente precisa dizer para os jogadores quando o countdown irá diminuir, mas sempre precisa mostrar quando acontecer para eles terem uma ideia.
-<!-- TODO exemplo: investigação, interrogação, negociação -->
+Alguns efeitos como **condições** possuem valores fixos atrelados (exemplo Debilitado 2). Nesse tipo de countdown, o evento segue sempre que o turno do lado afetado começa. Por exemplo, se uma criatura do GM aplica a condição Debilitado 2 em seu personagem, o countdown diminui em 1 sempre que o turno de equipe começa.
+
+## Countdown Dinâmico
+
+Nem todos countdowns terão o começo de turno como gatilho para diminuir seu valor. Pode haver eventos maiores e difíceis de medir em uma medida de tempo, como por exemplo "término da construção de uma bomba". O GM pode decidir que este countdown baixa por diversos motivos: Sempre que um jogador falhar criticamente, sempre que os jogadores façam um descanso curto ou longo, etc. O GM não necessariamente precisa dizer para os jogadores quando o countdown irá diminuir, mas sempre precisa mostrar quando acontecer para eles terem uma ideia. Algumas habilidades também poderão ter countdowns baseados em outros fatores, como por exemplo, baixar sempre que você ou uma criatura do GM realizar uma ação.
