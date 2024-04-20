@@ -8,12 +8,14 @@ Quando um ataque é feito em uma área, você não faz um check, mas sim os alvo
 
 Quando você causar dano em mais de uma criatura, você rola o dano apenas uma vez e então aplica ele em cada alvo.
 
-## Proteção, Linha de Visão e Escuridão
+## Proteção
 
-Personagens e NPCs podem querer buscar cobertura durante um combate, seja se escondendo atrás de um muro, barricada, árvore ou qualquer obstáculo. Quando isso acontece, você possui **Proteção** e ataques contra você são feitos com desvantagem.
+Personagens e NPCs podem querer buscar cobertura durante um combate, seja se escondendo atrás de um muro, barricada, árvore ou qualquer obstáculo. Quando isso acontece, você possui Proteção e ataques contra você são feitos com desvantagem.
 
-Se um alvo se encontra atrás de uma estrutura, objeto ou até mesmo uma criatura que cubra todo seu corpo, ele possui **Proteção Total** e não pode ser alvo de ataques.
+Se um alvo se encontra atrás de uma estrutura, objeto ou até mesmo uma criatura que cubra todo seu corpo, ele possui Proteção Total e não pode ser alvo de ataques.
 
-Algumas habilidades irão indicar que você deve possuir **"Linha de Visão"**. Isso indica que você deve possuir visão de um alvo. Criaturas com Proteção Total podem ainda estar em sua Linha de Visão.
+## Linha de Visão
+Algumas habilidades irão indicar que você deve possuir Linha de Visão. Isso indica que você deve possuir visão de um alvo. Criaturas com Proteção Total podem ainda estar em sua Linha de Visão.
 
-**Escuridão** faz certas ações serem mais difíceis, principalmente as que precisam de visão. Geralmente ações dentro de Escuridão devem ser realizadas com desvantagem ou não são nem possíveis, mas isso deve ser analisado de caso a caso e decidido pelo GM.
+## Escuridão
+Escuridão faz certas ações serem mais difíceis, principalmente as que precisam de visão. Geralmente ações dentro de Escuridão devem ser realizadas com desvantagem ou não são nem possíveis, mas isso deve ser analisado de caso a caso e decidido pelo GM.

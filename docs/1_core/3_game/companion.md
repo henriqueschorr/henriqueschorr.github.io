@@ -32,6 +32,6 @@ Companions, assim como qualquer outra criatura, possuem Limites de Dano, Ferida 
 ## Cura
 Assim como qualquer integrante de equipe ou aliado, seu companion recebe cura e conserto normalmente.
 
-## Evoluindo
+## Evolução
 Todos os recursos de companion aumentam em 1 para cada nível seu acima do nível 1.
 

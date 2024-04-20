@@ -4,7 +4,7 @@ Checks também podem ser modificados por [dados caóticos](#dados-caóticos), [c
 
 Sempre é importante manter o resultado dos checks na "mesa" ou anotados em caso de [Ataques](./actions.md#ataques), pois eles também determinando o dano.
 
-#### Resultados
+#### Graus de Sucesso
 
 |                 |  d6   |  d8   |  d10   |  d12   |
 | --------------- | :---: | :---: | :----: | :----: |

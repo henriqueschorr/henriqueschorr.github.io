@@ -2,9 +2,9 @@
 
 Algumas espécies, como os Humanos, poderão usar e carregar equipamentos, itens e outros recursos consigo durante a aventura. Qualquer item será considerado um equipamento e, se não estiver em uso, deverá estar anotado em seu inventário. Algumas espécies, como o Evoras, não podem usar itens ou equipamentos, portanto não terão inventário. Não há limite mecanicamente para o número de itens que você pode carregar, mas tente usar o bom senso e o GM também poderá limitar.
 
-### Usando Equipamentos
+<!-- ### Usando Equipamentos
 
-Durante combates ou momentos de tensão, você deve gastar 1 Stress para usar um equipamento. Por exemplo se seu personagem quer lançar uma granada, você deve gastar 1 **Stress** para fazê-la durante combate. Agora se você estiver apenas no modo exploração, sem estar correndo perigo, você pode usar equipamentos livremente.
+Durante combates ou momentos de tensão, você deve gastar 1 Stress para usar um equipamento. Por exemplo se seu personagem quer lançar uma granada, você deve gastar 1 **Stress** para fazê-la durante combate. Agora se você estiver apenas no modo exploração, sem estar correndo perigo, você pode usar equipamentos livremente. -->
 
 ## Munição
 

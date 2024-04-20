@@ -60,11 +60,11 @@ Em HB temos diversos tipos de dano e cada um deles possui seu efeito crítico. E
 
 Algumas criaturas possuem algum tipo de resiliência, ou falta dele, que influenciam diretamente ao dano.
 
-**Resistência**  
+#### Resistência
 Quando uma criatura possui resistência a um tipo de dano, ela receberá 1 dano de AP/Ferida a menos de ataques daquele tipo. Por exemplo, você recebe dano severo do tipo químico, mas você possui resistência a químico, portanto recebe 2 de dano ao AP/Ferida em vez de 3. Resistência não interfere nada no efeito crítico e você nunca tomará menos de 1 de dano.
 
-**Imunidade**  
+#### Imunidade
 Uma criatura com imunidade não recebe dano do tipo de dano que possui imunidade. Também não será afetada pelo efeito crítico.
 
-**Vulnerabilidade**  
+#### Vulnerabilidade
 Exatamente o oposto de Resistência. Uma criatura com vulnerabilidade a um tipo de dano receberá 1 dano de AP/Ferida a mais de ataques daquele tipo. Por exemplo, você recebe dano severo do tipo químico, e você possui vulnerabilidade a químico, portanto recebe 4 de dano ao AP/Ferida em vez de 3. Vulnerabilidade não interfere nada no efeito crítico.
