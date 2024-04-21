@@ -36,6 +36,7 @@ Considere os seguintes pontos durante o turno do GM:
 
 - Todas criaturas recuperam todas suas reações.
 - Todos os [Countdown](./countdown.md#countdown-turno) do GM diminuem em 1.
+- Converter Tokens de Ativação extras em Terror.
 - GM pode **ativar** criaturas gastando Tokens de Ativação. 1 Token = 1 Criatura ativa.
 - O GM pode realizar uma ação para cada criatura ativa, deixando-a então inativa.  
   Algumas criaturas podem realizar mais de uma ação por ativação.
@@ -46,19 +47,96 @@ Considere os seguintes pontos durante o turno do GM:
 O Combate segue o fluxo repetindo os passos 2 e 3, intercalando entre turnos de equipe e turnos do GM, até um dos lados ser completamente eliminado, fugir, ou aceitar alguma negociação de paz ou rendição, ou qualquer outra interação em acordo entre o grupo.
 
 ## Exemplo de Combate
-TODO
-<!-- _O personagem de Remella, Beck, e seu aliado, Mari'Jonna, estão andando por uma nave abandonada quando ao abrir uma porta, se deparam com três criaturas hostis. Como ninguém foi surpreendido, o combate começa normalmente. Todas as três criaturas do GM estão inativas._
+_O personagem de Remella, Beck, e seu aliado, Mari'Jonna, estão andando por uma nave abandonada quando ao abrir uma porta, se deparam com três criaturas hostis. Como ninguém foi surpreendido, o combate começa normalmente. Todas as três criaturas do GM estão inativas._
 
-_**Turno dos Jogadores:** Beck ataca com seu arco uma das criaturas. Remella faz um check de Controle e tira 6 em um d6, resultando em Sucesso. Remella então rola os dados de dano e o GM compara com os Limites de Dano da criatura para definir quantas Feridas deverá marcar. O GM ativa uma de suas criaturas. Como o resultado do ataque foi Sucesso a vez continua com os jogadores._
+### Fichas
+Segue abaixo um resumo dos atributos e recursos dos personagens e criaturas envolvidas no combate:
 
-_Mari'Jonna decide agir agora, se movendo até a criatura que Beck atacou e realiza um ataque com suas garras. Antes do jogador realizar o check o GM anuncia que a criatura irá usar sua reação de esquivar. Mari'Jonna tira Sucesso Parcial no check enquanto o GM tira Sucesso. A criatura do GM consegue esquivar sem receber dano algum. O GM ativa sua outra criatura. Como o ataque do jogador foi Sucesso Parcial, a vez continua com os jogadores._
+#### Remella
+![](../../0_assets/images/combat_example/remella.png)
 
-_Mari'Jonna pede para agir novamente e Remella concede. Mari'Jonna resolve atacar e falha, assim passando a vez para o GM._
+#### Mari'Jonna
+![](../../0_assets/images/combat_example/mari'jonna.png)
 
-_**Turno do GM:** Com todas as criaturas ativas o GM decide que todas irão mover e atacar Mari'Jonna, que anuncia que tentará esquivar do primeiro ataque. A primeira criatura tira Sucesso e Mari'Jonna falha, recebendo assim o dano. A segunda e terceira criaturas também têm Sucesso e causam dano em Mari'Jonna. Como o GM não possui mais criaturas ativas para jogar, a vez passa para os jogadores._
+#### Inimigos
 
-_**Jogadores:** Mari'Jonna decide agir primeiro atacando a criatura com menos vida. O ataque tem resultado Sucesso Crítico e o dano causado é suficiente para matar a criatura. O GM ativa uma de suas criaturas ainda viva e a vez continua com os jogadores._
+**Nome:** Ruptores
+**Limites de Dano:** 2 | 5 | 8  
+**Feridas:** 2  
+**Reações:** 1  
+**Atributos:** d8 em Físico e Agilidade, d6 em todos outros  
 
-_Remella decide agir e faz Beck usar uma de suas habilidades que atinge múltiplos alvos. Remella tira um Sucesso Crítico e causa dano suficiente para matar as duas criaturas restantes._
+Para fins de melhor leitura, vamos chamar as criaturas do GM de Ruptor A, Ruptor B e Ruptor C.
 
-_**Fim do Combate:** Como não há mais inimigos na cena, o combate acaba e o jogo volta para exploração._ -->
+#### Turno da Equipe
+_Remella decide agir primeiro e atacar com seu arco o Ruptor A, ele faz um check de Controle e rola 5 no seu d8, resultando em Sucesso Parcial e simultaneamente causando 5 de dano._
+
+```
+O GM verifica os Limites de Dano de suas criaturas e 5 de dano resulta em Dano 
+Alto, portanto ele marca 2 Feridas no Ruptor A. Como a criatura possui 
+apenas 2 Feridas, ela morre. O GM recebe um Token de Ativação, mas a 
+vez continua com a Equipe.
+```
+
+_Mari'Jonna decide agir agora, se movendo até o Ruptor C e realizando um ataque com suas Garras._ 
+
+```
+Antes do jogador realizar o check, o GM anuncia que o Ruptor C irá usar sua 
+reação de Esquivar, gerando uma Disputa.
+```
+
+ _Mari'Jonna faz um check de Agilidade e rola um 7, resultando em um Sucesso Parcial, enquanto o GM faz seu check de Agilidade e rola 8, resultando em Sucesso. O Ruptor C consegue Esquivar sem receber dano algum._
+
+```
+O GM recebe seu segundo Token de Ativação e a vez continua com os jogadores.
+```
+
+_Mari'Jonna pede para agir novamente e Remella concede. Mari'Jonna ataca novamente o Ruptor C, mas desta vez com sua Mandíbula. Como esta criatura já usou sua reação no ataque anterior, ela simplesmente tomará o ataque. Mari'Jonna faz um check Físico com seus 2d8 e rola 8 no seu Dado Principal e 3 no seu Dado Caótico, resultando em Sucesso e causando 11 de dano na criatura do GM._
+
+```
+O Ruptor C morre uma vez que Mari'Jonna causou Dano Alto, resultando em 
+2 Feridas enquanto a criatura pode receber apenas até 2. Como há apenas 1
+criatura viva no momento, em vez do GM receber um Token de Ativação, ele 
+receber 1 Terror.
+```
+
+_Remella decide agir agora, atacando o Ruptor B com seu arco._
+
+```
+Antes do jogador realizar o check, o GM anuncia que o Ruptor B irá usar sua 
+reação de Esquivar, gerando uma Disputa.
+```
+
+_Remella faz um check de Controle e rola 2, resultando em Falha e perdendo automaticamente a Disputa._
+
+```
+O GM recebe mais 1 Terror e a vez agora passa para ele.
+```
+
+#### Turno do GM
+
+_Ruptor B recupera sua Reação._  
+_O GM ativa o Ruptor B com um de seus Tokens de Ativação e converte o que sobrou em Terror. O GM possui 3 Terror no momento._
+
+_O GM decide fazer o Ruptor B atacar Mari'Jonna que está mais próxima._
+
+```
+Antes do GM realizar o check, Mari'Jonna anuncia que irá Esquivar.
+```
+
+_Ruptor faz um check Físico e rola 8, resultando em Sucesso, enquanto Mari'Jonna Falha._
+
+```
+Mari'Jonna marca seus 3 AP uma vez que 8 de dano representam Dano Severo.
+```
+
+_Uma vez que o GM não possui mais criaturas ativas e sua única criatura já realizou uma ação, a vez passa para a Equipe._
+
+#### Turno da Equipe
+
+_Mari'Jonna recupera sua reação gasta._
+
+_Remella decide agir primeiro e dessa vez se aproximar do Ruptor B e atacar com sua Lâmina Fragmento. Remella rola 4 no seu ataque com Agilidade, resultando em Sucesso Parcial e matando a criatura, uma vez que 4 representa Dano Alto e a criatura possui apenas 2 Feridas._ 
+
+#### Fim do Combate
+Como não há mais inimigos na cena, o combate acaba e o jogo volta para exploração._
