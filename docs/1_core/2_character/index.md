@@ -118,7 +118,6 @@ Físico indica o quão forte você é, sua força física e sua fortitude do cor
 
 1. Aumente 2 pontos de Ferida permanentemente.
 2. Aumente em 1 os Limites de Dano Leve e Alto, aumente em 2 o Severo.
-<!-- Para cada portão do caos aberto neste atributo, aumente um ponto em Ferida permanentemente. -->
 
 ### AGILIDADE: Esquivar, Saltar, Esgueirar
 
@@ -133,9 +132,19 @@ Agilidade indica o quão rápido você é, sua mobilidade em terrenos difíceis,
 
 Controle indica o quão hábil e preciso você é. Você irá realizar checks de Controle para tarefas que necessitam de um bom controle motor do corpo, como ser preciso ao atacar com armas de alcance alto, cuidadoso e habilidoso ao usar ferramentas, ou mexer em dispositivos mecânicos ou digitais.  
 
+**Portão do Caos:**  
+
+1. Você pode transformar uma <ins>Falha</ins> em <ins>Sucesso Parcial</ins> duas vezes por Descanso Longo.
+2. Você pode transformar uma <ins>Falha</ins> em <ins>Sucesso</ins> uma vez por Saga. Esta regra substitui a anterior.
+
 ### ATENÇÃO: Perceber, Sentir, Procurar
 
 Atenção indica o quão você é atento a detalhes ao seu redor. Você irá realizar checks de Atenção para perceber perigos, procurar e notar detalhes no ambiente ao seu redor, notar se alguma criatura está tentando lhe manipular, ou rastrear uma criatura ou objeto.
+
+**Portão do Caos:**  
+
+1. Você possui 1 Ação adicional antes do turno Surpresa do GM.
+2. Você possui 1 Ação adicional antes do turno Surpresa do GM.
 
 ### CÉREBRO: Lembrar, Analisar, Compreender
 
@@ -143,9 +152,8 @@ Cérebro indica o quão bom você é ao deduzir e inferir informações para res
 
 **Portão do Caos:**  
 
-1. Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2.
-2. Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T3.
-<!-- **Portão do Caos:** Você poderá realizar [Crafting](../3_game/crafting.md) de receitas T2 abrindo o primeiro portão, e T3 abrindo o segundo. -->
+1. Você pode realizar [Crafting](../3_game/crafting.md) de receitas T2.
+2. Você pode realizar [Crafting](../3_game/crafting.md) de receitas T3.
 
 ### INFLUÊNCIA: Persuardir, Manipular, Performar
 
@@ -155,7 +163,6 @@ Influência indica o quão influente você é socialmente, sua força de persona
 
 1. Aumente 1 ponto de Stress permanentemente.
 2. Aumente 2 pontos de Stress permanentemente.
-<!-- **Portão do Caos:** Para cada portão do caos aberto neste atributo, aumente um ponto em Stress permanentemente. -->
 
 ## Passo 7: Escolha Aprimoramentos
 

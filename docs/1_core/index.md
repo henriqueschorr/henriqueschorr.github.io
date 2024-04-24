@@ -129,4 +129,4 @@
     - [Ações e Combate em Transportes](./3_game/transport.md#ações-e-combate-em-transportes)
 - #### [Criaturas e Monstros](./3_game/creatures.md)
     - [Tamanho](./3_game/creatures.md#tamanho-de-criaturas)
-    - [Nível de Ameaça](./3_game/creatures#nível-de-ameaça-de-criaturas)
+    - [Nível de Ameaça](./3_game/creatures.md#nível-de-ameaça-de-criaturas)

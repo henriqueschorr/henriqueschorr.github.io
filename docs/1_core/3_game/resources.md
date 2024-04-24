@@ -44,32 +44,30 @@ Assim como AP e Ferida, você pode recuperar Stress durante descansos ou com o u
 
 Caos é a força e matéria que compõem tudo no universo. Os Regentes do Universo são os grandes mestres especialistas em uso dessa força, construindo e modificando constantemente o universo. Algumas criaturas, como seu personagem, podem utilizar a força do Caos de maneira limitada para realizar ações especiais conhecidas como Habilidades.
 
-<!-- ## Momentum -->
+<!-- ## Saga -->
 
 
 ## Karma
 
-Karma é um recurso que sua equipe pode ter e qualquer integrante da equipe pode utilizar para realizar algumas ações poderosas.
+Karma é um recurso que sua equipe pode ter e qualquer integrante da equipe pode utilizar para realizar algumas ações poderosas. Sua equipe pode ter um número máximo de 5 karmas por vez. Cada integrante pode usar Karma apenas uma vez por sessão.
 
-Sua equipe recebe Karma quando:
+**Sua equipe recebe Karma quando:**  
 - Você ou outro integrante rola Falha ou Falha Crítica como resultado de algum check.
 
-Sua equipe pode ter um número máximo de 5 karmas por vez. Cada integrante pode usar Karma apenas uma vez por sessão.
-
-Sua equipe pode gastar Karma para:
+**Sua equipe pode gastar Karma para:**  
 - Realizar [Ações de Equipe](./actions.md#ações-de-equipe).
 
 ## Terror
 
 Terror é um recurso exclusivo do GM e é utilizado para balancear o campo de batalho com habilidades poderosas de inimigos.
 
-GM recebe Terror quando:
-- Sempre que um jogador realizar uma ação enquanto todas as criaturas do GM já estiverem ativas.
-- Sempre que um jogador tiver Falha Crítica em algum check.
+**GM recebe Terror quando:**  
+- Sempre que um jogador realizar uma ação enquanto todas as criaturas do GM já estiverem ativas.  
+- Sempre que um jogador tiver Falha Crítica em algum check.  
 
-GM pode gastar Terror para:
-- 1 Terror: Diminuir em 1 o Countdown de alguma Aflição causada em uma de suas criaturas. Pode ser usado apenas uma vez por turno do GM.
-- 3 Terror: GM pode realizar um turno quando algum jogador tiver Sucesso Parcial em um check.
+**GM pode gastar Terror para:**  
+- 1 Terror: Diminuir em 1 o Countdown de alguma Aflição causada em uma de suas criaturas. Pode ser usado apenas uma vez por turno do GM.  
+- 3 Terror: GM pode realizar um turno quando algum jogador tiver Sucesso Parcial em um check.  
 - Realizar habilidades especiais descritas em criaturas.
 
 ## Token de Ativação
