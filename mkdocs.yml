@@ -59,6 +59,10 @@ nav:
       # - Mapa:
       # - Perigos:
       # - Aventuras:
+    - Cursed Set:
+        - 666_cursed_set/index.md  
+        - Atos: 666_cursed_set/acts.md
+        - Profissões: 666_cursed_set/professions.md
 
 extra_css:
   - stylesheets/extra.css
