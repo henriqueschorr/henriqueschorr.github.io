@@ -1,4 +1,4 @@
-## Ato 1: Intro, Hooks & Escape
+## Ato I: Intro, Hooks & Escape
 
 Neste ato o diretor irá começar apresentando uma **Introdução** do cenário, ela deve contar a ambienteção e o filme que estão gravando, NPCs, detalhes da filmagem e do set, como os Personagens chegaram aqui e o que estão fazendo. Exemplo:
 
@@ -24,11 +24,11 @@ Quando o perigo apresentado pelos Hooks se torna claro, o Diretor irá apresenta
 
 ### Resumo do Ato
 
-No Ato 1 o clima deve começar descontraído, um dia normal de filmagem e interação entre os Personagens e membros da equipe de filmagem (controlados pelo Diretor). Aos poucos o clima começa a ficar estranho com os Hooks, até culminar no Horror se manifestando e os Personagens precisarem correr desesperadamente procurando um lugar seguro. Personagens irão se machucar e poderão morrer neste Ato.
+No Ato I o clima deve começar descontraído, um dia normal de filmagem e interação entre os Personagens e membros da equipe de filmagem (controlados pelo Diretor). Aos poucos o clima começa a ficar estranho com os Hooks, até culminar no Horror se manifestando e os Personagens precisarem correr desesperadamente procurando um lugar seguro. Personagens irão se machucar e poderão morrer neste Ato.
 
-## Ato 2: Revelação & Preparação
+## Ato II: Revelação & Preparação
 
-Uma vez que o perigo iminitente passar, o Ato 2 começa. Neste ato os Personagens irão caminhar pelo set e seus arredores, Os Personagens devem procurar por [Pistas](./index.md#pistas) espalhadas pelo Diretor. Estas Pistas irão **Revelar** qual Horror os Personagens estão enfrentando e como podem matá-lo. Exemplos:
+Uma vez que o perigo iminitente passar, o Ato II começa. Neste ato os Personagens irão caminhar pelo set e seus arredores, Os Personagens devem procurar por [Pistas](./index.md#pistas) espalhadas pelo Diretor. Estas Pistas irão **Revelar** qual Horror os Personagens estão enfrentando e como podem matá-lo. Exemplos:
 
 - _Cartas escondidas em um quarto previamente trancado revelam que o ator era de fato o Drácula, assim como o castelo onde estão é o castelo verdadeiro das lendas_
 - _Um livro presente na mala de um dos membros da equipe, Van Helsing, revela como matar o Drácula: Cravar uma estaca de madeira em seu coração enquanto dorme em seu caixão, ou expô-lo para a luz do sol_
@@ -45,9 +45,9 @@ Com as pistas reunidas os Personagens devem começar a se **Preparar** para enfr
 
 ### Resumo do Ato
 
-No Ato 2 o clima é tenso mas não essencialmente mortal. Os Personagens estarão vagando pelo local, descobrindo segredos e se preparando para o Confronto. O Horror não irá se manifestar como um todo neste Ato, porém eventos de terror podem acontecer, como armadilhas ou os Assistentes atuando. Neste Ato é raro Personagens morrerem, mas não estão isentos de sofrer Marcas.
+No Ato II o clima é tenso mas não essencialmente mortal. Os Personagens estarão vagando pelo local, descobrindo segredos e se preparando para o Confronto. O Horror não irá se manifestar como um todo neste Ato, porém eventos de terror podem acontecer, como armadilhas ou os Assistentes atuando. Neste Ato é raro Personagens morrerem, mas não estão isentos de sofrer Marcas.
 
-## Ato 3: Confronto & Outro
+## Ato III: Confronto & Outro
 
 Com os Personagens preparados, o plano começa a entrar em ação. Neste momento o Horror se manifesta em sua força total, perseguindo e caçando os Personagens com a ajuda de seus Assistentes (Personagens mortos). O jogo acaba no momento que todos Personagens estarem mortos ou caso o Horror seja morto. Os Assistentes morrem juntamente com o Horror. Exemplos:
 
@@ -61,4 +61,4 @@ Com os Personagens preparados, o plano começa a entrar em ação. Neste momento
 
 ### Resumo do Ato
 
-O Ato 3 deve ser o Ato mais intenso do jogo, onde o Horror e seus Assistentes revelam seus maiores poderes, trazendo altos perigos para os Personagens, matando vários no processo. Idealmente o jogo acaba com o Horror derrotado com apenas um Personagem restante, o herói.
+O Ato III deve ser o Ato mais intenso do jogo, onde o Horror e seus Assistentes revelam seus maiores poderes, trazendo altos perigos para os Personagens, matando vários no processo. Idealmente o jogo acaba com o Horror derrotado com apenas um Personagem restante, o herói.

@@ -4,7 +4,7 @@ As gravações de um filme de terror foram iniciadas, os atores e toda a equipe 
 
 Em Cursed Set um jogador assumirá o papel do **Diretor Almadiçoado**, guiando a história através de um script de terror de **3 Atos** e controlando os **Horrores** (Lobisomem, Vampiro, Fantasma, etc). Os demais jogadores serãos os **Personagens**, estes que assumirão o papel de outros membros da equipe do filme (Estrela, Dublê, Escritor, etc) e tentarão sobreviver e derrotar o Horror do filme.
 
-"Mas moço, e se eu morrer no Ato 1, devo ficar assistindo meus amigos jogarem?"  
+"Mas moço, e se eu morrer no Ato I, devo ficar assistindo meus amigos jogarem?"  
 Não! Os jogadores que morrerem não estão fora do jogo, estes assumirão o papel de **Assistente do Diretor**, ajudando ele e seu Horror a matar o restante dos Personagens.
 
 Como todo bom filme de terror, Personagens irão ganhar **Esperança** tomando decisões idiotas (Separar o Grupo, Ir Sozinho no Porão, etc). Esperança é gasta para acionar **Habilidades** específicas de cada Personagem.
@@ -75,15 +75,19 @@ Abaixo você encontra os pontos importantes que guiarão seu jogo.
 
 O jogo gira em torno de 3 Atos, assim como nos filmes/scripts/livros, etc. Em cada Ato os Personagens irão enfrentar situações diferentes, mas sempre ligadas a sobrevivência e derrota do Horror.
 
-**Ato 1:** Neste ato o Diretor apresentará a Introdução, os Hooks e uma cena de fuga (Escape) acontece.  
-**Ato 2:** Neste ato os Personagens encontrarão Pistas indicando o Horror que estão enfrentando e como derrotá-lo. Também irão formar um plano e se preparar para o Confronto final.  
-**Ato 3:** Neste ato o Confronto final acontece entre os Personagens, o Horror e seus Assistentes. O jogo acaba idealmente quando o Horror é derrotado e apenas 1 Personagem resta.
+**Ato I:** Neste ato o Diretor apresentará a Introdução, os Hooks e uma cena de fuga (Escape) acontece.  
+**Ato II:** Neste ato os Personagens encontrarão Pistas indicando o Horror que estão enfrentando e como derrotá-lo. Também irão formar um plano e se preparar para o Confronto final.  
+**Ato III:** Neste ato o Confronto final acontece entre os Personagens, o Horror e seus Assistentes. O jogo acaba idealmente quando o Horror é derrotado e apenas 1 Personagem resta.
 
 Para mais informações sobre os Atos, veja este [Capítulo](acts.md).
 
 ### Direção (Diretor)
 
+A Direção é basicamente a narração do jogo, como você apresenta o mundo e o cenário aos Personagens. Nas descrições dos Atos você aprende a criar bulletpoints para guiar a história, porém a ideia não é você mostrá-los aos Personagens, mas sim contar uma história, narrar os acontecimentos, guiar o jogo através da narrativa para chegar a um final.
+
 ### Horror (Diretor)
+
+O Horror não é necessariamente uma criatura, geralmente você irá ter uma criatura que serve como o carro chefe da história, como por exemplo um vampiro, um lobisomem, fantasma, múmia, etc; mas o Horror é tudo de ruim e assustador que pode acontecer aos Personagens, como uma tempestade, alagamentos, animais selvagens, qualquer coisa que aja contra o sucesso dos Personagens.
 
 ### Ação (Personagens)
 
@@ -98,13 +102,15 @@ Para realizar um Check, você irá:
 - Somar ao resultado qualquer bônus provido por alguma Ferramenta
 - Diminuir do resultado qualquer penalidade provida por Empecilhos
 
-e comparar com a tabela abaixo.
+Com o valor final calculado, compare o resultado com a tabela abaixo.
 
 | Resultado    | Resolução                      |
 | ------------ | ------------------------------ |
 | >= 12        | Sucesso                        |
 | >= 6 e <= 11 | Falha                          |
 | <=5          | Falha Crítica e recebe 1 Marca |
+
+Sempre que um Personagem não tem Sucesso em algum Check, o Horror e seus Assistentes podem realizar 1 Move cada.
 
 Exemplos:
 
@@ -116,15 +122,77 @@ _Beck tenta fazer um colar de alhos, ela rola 2d12 e a soma resulta em 6, o que 
 
 ### Ferramentas (Personagens)
 
-Ferramentas são objetos mundanos quaisquer que Personagens podem possuir, como uma lanterna, uma faca, uma corda, etc. Estas Ferramentas terão utilidades gerais aos Personagens mas também poderão prover +1 de bônus a certos Checks, de acordo com o Diretor. Exemplo:
+Ferramentas são objetos mundanos quaisquer que Personagens podem possuir, como uma lanterna, uma faca, uma corda, etc. Estas Ferramentas terão utilidades gerais aos Personagens mas também poderão prover +1 de bônus a certos Checks, de acordo com o Diretor. Cada Personagem pode carregar no máximo três Ferramentas ao mesmo tempo Exemplo:
 
 _Beck encontra uma caixa de madeira selada que estava relativamente escondida no porão do castelo onde as filmagens estavam acontecendo. Uma caixa assim provavelmente deve conter algo importante. Beck usa seu pé-de-cabra para tentar abrir a caixa, garantindo assim um bônus de +1 ao Check de Atletismo._
 
 ### Esperança (Personagens)
 
+Esperança é um recurso que Personagens ganham ao tomar decisões/fazer ações idiotas. Cada Personagem pode ter até 5 Esperanças de uma vez. Esperança é usada para alimentar Habilidades. Abaixo você encontra as maneiras de como receber Esperança.
+
+| O quê?                                                               | Esperança Recebida |
+| -------------------------------------------------------------------- | ------------------ |
+| Fazer perguntas como "Quem tá aí" quando ouvir algum som estranho    | 1                  |
+| Tentar assustar outros Personagens                                   | 1                  |
+| Sucumbir a algum vicio como beber, fumar, transar, etc               | 1                  |
+| Propor a separação do grupo                                          | 1                  |
+| Investigar algum barulho ou situação estranha                        | 2                  |
+| Tocar/Mexer em algum objeto claramente perigoso                      | 2                  |
+| Ir sozinho em algum lugar perigoso como porão, terraço, celeiro, etc | 3                  |
+
+Exemplos:
+
+_A porta de um quarto se fecha fortemente mesmo sem haver ventos. Beck decidir ir abrir a porta e investigar o quarto. Beck recebe 2 Esperanças._
+
+_Medroson está caminhando pelos corredores do castelo quando escuta um som vindo da biblioteca, como se fosse um sussuro, ele pergunta "Tem alguém aí?". Medroson recebe 1 Esperança._
+
+_Chutney encontra um objeto hexagonal de metal flutuante e sujo de sangue, ele não resiste e decide tocá-lo. Chutney recebe 2 Esperanças._
+
 ### Habilidades (Personagens)
 
+Todo Personagem terá uma Habilidade que é recebida de acordo com sua [Profissão](./professions.md). Apesar de ser apenas uma Habilidade, o efeito dela muda de acordo com o Ato que você se encontra, assim como seu custo. Além disso, há um número limitado de usos da Habilidade por Ato.
+
+| Ato | Custo (Esperança) | Usos |
+| --- | ----------------- | ---- |
+| I   | 1                 | 2    |
+| II  | 2                 | 1    |
+| III | 3                 | 1    |
+
 ### Moves (Diretor)
+
+Quando um Personagem não tem Sucesso em algum Check, ou seja, Falha ou Falha Crítica, o Horror e seus Assistentes podem realizar 1 Move cada. A ideia é você ir criando tensão e deixando as situações mais perigosas aos poucos, não sair matando os Personagens o mais rápido possível; uma dica é realizar os Moves na ordem em que eles são apresentados ou rolar 1d6 para determinar aleatoriamente. No Ato I você tem 6 Moves, no Ato II você ganha 6 novos Moves e no Ato III, mais 6, tendo um total de 18 Moves possíveis ao final do jogo.
+
+#### Ato I
+
+| Move                                                                                         | Exemplos                                                                   |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Crie um Empecilho que atrapalhe a visão dos Personagens                                      | Luzes piscantes, neblina                                                   |
+| Crie um Empecilho que atrapalhe a movimentação dos Personagens                               | Chão quebrado, escombros                                                   |
+| Sussurre algo no ouvido de um Personagem ou faça um barulho em alguma área                   | "Você não irá escapar", "Venha aqui Chutney"                               |
+| Mova um objeto de lugar com força, podendo causar 1 Marca se for jogado contra um Personagem | Uma cadeira voa contra um Personagem                                       |
+| Temporariamente bloqueie uma passagem                                                        | Uma porta se fecha, uma escada cai                                         |
+| Temporariamente torne um Personagem incapacitado, recebendo 1 Marca                          | Personagem torce o tornozelo e cai, bate a cabeça numa porta ficando tonto |
+
+#### Ato II
+
+| Move                                                                                                              | Exemplos                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Desligue a energia                                                                                                | Um fuzil queima, acaba o combustível do gerador, um poste cai                                          |
+| Prenda um Personagem em uma área                                                                                  | Porta do quarto se fecha e tranca, teto desaba impedindo a passagem pela única saída                   |
+| Cause um Jumpscary, podendo causar 1 Marca no Personagem                                                          | Um gato pula na cara do Personagem quando ele abre um balcão, um reflexo assustador aparece no espelho |
+| Separe Personagens                                                                                                | Uma ponte cai, uma porta se fecha entre dois Personagens                                               |
+| Crie uma armadilha que causa 1 Marca em um Personagem e machuca um membro, deixando-o com um Empecilho permanente | Personagem cai em um buraco e quebra o pé, algo pesado cai em cima dele e quebra o braço esquerdo      |
+
+#### Ato III
+
+| Move                                                                                      | Exemplos                                                |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Faça um personagem ficar cego ou surdo, fazendo todos seus Checks serem realizados com -2 | Algum químico cai no olho do Personagem deixando-o cego |
+| Quebre uma Ferramenta de um Personagem                                                    | Personagem cai e a estaca que ele segurava quebra       |
+| Solte um grito atterorizante que causa 1 Marca em 2 Personagens diferentes                | -                                                       |
+| Um Personagem desaparece                                                                  | Assistentes capturam um Personagem e o levam ao porão   |
+| Apareça atrás de um Personagem                                                            | -                                                       |
+| Ataque diretamente um Personagem, causando 2 Marcas nele                                  | -                                                       |
 
 ### Empecilhos (Diretor)
 
@@ -138,6 +206,18 @@ Pistas serão livros, documentos, papéis ou qualquer outro meio de prover infor
 
 ### Marcas e Morte (Personagens)
 
+Cada Personagem possui 5 Marcas, que representam sua vida e seu estado mental, stress. Ações perigosas ou Moves do Horror irão causar Marcas. Quando o Personagem recebe sua última Marca, ele morre e vira um Assistente.
+
 ### Assistente (Personagens Mortos)
 
+Assistentes são Personagens que foram mortos. Eles irão ajudar o Horror, Diretor, a matar os Personagens, porém diferente do Horror, Assistentes sempre serão criaturas possuindo 2 Marcas. Sempre que um Personagem falhar em algum Check, cada Assistente pode realizar 1 Move além do Horror. Personagens podem causar 1 Marca em Assistentes ao suceder em um Check de Luta contra ele, ao causar 2 Marcas, o Assistente morre e o jogador de fato pára de jogar.
+
+Exemplos:
+
+_Ao ser morto pelo Drácula, Chutney se transforma em um vampiro._
+_Medroson morre ao ser atacado por um fantasma, ele se torna um possuído._
+_Uvandro é ataco por uma horda de zumbis e se torna um ao morrer._
+
 ## The End
+
+Idealmente o jogo chega ao fim no Ato III, com o Horror derrotado (os Assistentes são derrotados juntamente), e apenas 1 Personagem vivo, o Herói. Mas em momentos raros o jogo pode acabar com mais Personagens vivos, ou no pior dos casos, todos mortos, indicando uma vitória do Horror e o possível fim do mundo.
