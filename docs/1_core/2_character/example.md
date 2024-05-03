@@ -34,7 +34,7 @@ _Aqui você pode ver 2 AP marcado, ele fará sentido somente no passo 3, quando 
 
 Ao escolher um Humano, Remella pode **escolher** uma carta de espécie que representa sua classe: Batedor, Capitão, Cientista, Engenheiro, etc. Remella gosta da ideia do Batedor:
 
-![](../../0_assets/images/human/cards/batedor.png){ width="280" }
+![](../../0_assets/images/human/cards/lvl_1/batedor.png){ width="280" }
 
 Uma vez escolhida a carta, Remella deve **aplicar** suas instruções, no caso ele **anota** em sua ficha:
 
@@ -79,11 +79,11 @@ Remella **separa** todas as cartas de aprimoramentos nível 1 disponíveis para 
 - 1 da Lâmina Fragmento (Broca)
 - 1 do Arco Composto (Flecha Silenciadora)
 
-![](../../0_assets/images/human/cards/visao_aprimorada.png){ width="280" }
-![](../../0_assets/images/human/cards/camuflagem.png){ width="280" }
+![](../../0_assets/images/human/cards/lvl_1/visao_aprimorada.png){ width="280" }
+![](../../0_assets/images/human/cards/lvl_1/camuflagem.png){ width="280" }
 
-![](../../0_assets/images/human/cards/broca.png){ width="280" }
-![](../../0_assets/images/human/cards/flecha_silenciadora.png){ width="280" }
+![](../../0_assets/images/human/cards/lvl_1/broca.png){ width="280" }
+![](../../0_assets/images/human/cards/lvl_1/flecha_silenciadora.png){ width="280" }
 
 Remella possui 4 cartas mas pode escolher apenas 2. Uma das razões de ter escolhido A.N.E. Leve no passo 3 era justamente a possibilidade de usar Camuflagem, Remella **escolhe** esta carta. Remella também acha interessante a carta Broca, que permite deixar um inimigo sangrando e morrendo enquanto ele pode lidar com outro, Remella **escolhe** esta carta também.
 

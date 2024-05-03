@@ -3,7 +3,7 @@
 
 Você receberá cartas de espécie, armas, armaduras, habilidades, aprimoramentos, etc durante a criação do seu personagem e durante a aventura. As cartas foram criadas com o intuito de melhorar a leitura, visualização e entedimento do que seu personagem pode fazer. Elas são apresentadas da seguinte forma:
 
-![](../../0_assets/images/human/cards/tiro_certeiro.png){ width="350", align="right" }
+![](../../0_assets/images/human/cards/lvl_1/tiro_certeiro.png){ width="350", align="right" }
 
 **Nível:** No canto superior esquerdo você encontra o nível que a carta é desbloqueada e seu personagem pode escolhê-la. (1)   
 **Fonte:** Ao lado do nível você encontra o nome da fonte da carta, a "quem" ela pertence. (Rifle de Precisão)   
