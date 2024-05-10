@@ -2,6 +2,10 @@
 
 Condições são recebidas exclusivamente durante partidas de CarnArk e através de ações de adversários ou [Perigos](./hazards.md), e aplicam punições ao seu Personagem. Toda condição dura apenas 1 turno a não ser que diga o contrário.
 
+### Caído
+
+Um jogador caído deve gastar uma ação para se levantar e poder realizar outras ações. Se o jogador estiver com a posse do Arco, este cai em um hex adjacente.
+
 ### Cego
 
 Você não enxerga um palmo a sua frente devido a uma tinta no visor, neblina, ou qualquer outro efeito. Ao Mover ou realizar qualquer ação que envolva o arremesso do Arco, a direção é aleatória.
@@ -12,7 +16,7 @@ Alguém da torcida segura uma placa com algum texto direcionado a você, uma mul
 
 ### Hemorragia
 
-Você não pode recuperar Marcas a não ser que pare o sangramento através de uma [Cirurgia](./pre_game.md#cirurgia) provida graças a Patrocinadores.
+Você não pode recuperar Marcas a não ser que pare o sangramento através de uma [Cirurgia](../pre_game.md#cirurgia) provida graças a Patrocinadores.
 
 ### Medo
 

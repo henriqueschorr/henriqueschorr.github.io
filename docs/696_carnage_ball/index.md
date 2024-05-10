@@ -23,7 +23,8 @@ Para participar em O JOGO! Você deve ter uma família disposta e estruturada, a
 
 1. Todos os jogadores não-Narrador devem decidir um nome de família
 2. Todos os jogadores não-Narrador devem decidir qual membro da família será seu personagem
-3. Cada jogador não-Narrador deve montar seu Personagem:
+3. Todos os jogadores não-Narrador devem decidir seu uniforme de CarnArk (Cores, desenhos, etc)
+4. Cada jogador não-Narrador deve montar seu Personagem:
       1. Decida seu gênero
       2. Decida seu nome 
       3. Decida sua idade
@@ -41,11 +42,11 @@ Atributos representam o quão bem seu personagem pode realizar uma ação ligada
 
 ### Marcas
 
-Cada personagem possui um máximo de 4 Marcas, estas que representam sua resiliência física e mental. Ações físicas brutais ou stress lhe causarão Marcas. Quando seu personagem marca sua última Marca, ele morre. Marcas podem ser recuperadas através de consumíveis, itens ou ações de [Patrocinadores](./sponsor.md).
+Cada personagem possui um máximo de 4 Marcas, estas que representam sua resiliência física e mental. Ações físicas brutais ou stress lhe causarão Marcas. Quando seu personagem marca sua última Marca, ele morre. Marcas podem ser recuperadas através de consumíveis, itens ou ações de [Patrocinadores](./balls/sponsor.md).
 
 ### Estilo e Torcida
 
-Ao fazer ações durante a partida de [CarnArk](carnark.md) de formas não convencionais, causar Marcas em adversários de forma brutal, descrever elaboramente sua vestimenta/entrada em [Bailes](ball.md), vencer brigas ou se relacionar intimamente com adversários durante o [Pré-Jogo](pre_game.md), você ganha pontos de Estilo. O recebimento destes pontos é totalmente subjetivo ao Narrador. Ao final de cada Pré-Jogo, os pontos de Estilo são convertidos em 1:1 para nível de Torcida. Para cada 1 nível de Torcida, sua família recebe 1 Broto ao final de cada partida de CarnArk, podendo ser distribuído igualmente ou da forma que vocês quiserem entre os membros.
+Ao fazer ações durante a partida de [CarnArk](./carnark/index.md) de formas não convencionais, causar Marcas em adversários de forma brutal, descrever elaboramente sua vestimenta/entrada em [Bailes](./balls/index.md), vencer brigas ou se relacionar intimamente com adversários durante o [Pré-Jogo](pre_game.md), você ganha pontos de Estilo. O recebimento destes pontos é totalmente subjetivo ao Narrador. Ao final de cada Pré-Jogo, os pontos de Estilo são convertidos em 1:1 para nível de Torcida. Para cada 1 nível de Torcida, sua família recebe 1 Broto ao final de cada partida de CarnArk, podendo ser distribuído igualmente ou da forma que vocês quiserem entre os membros.
 
 ### Broto
 
@@ -59,11 +60,11 @@ O jogo gira em torno de uma partida de CarnArka entre duas famílias, seguidas p
 
 ### CarnArk
 
-CarnArk é um esporte de agilidade e brutalidade; Duas famílias competem em uma quadra retangular com dois Arcos-Gol de cada lado, um pequeno e outro maior. O jogo intercala entre os atacantes e defensores, onde os atacantes tentam fazer pontos ao acertar lançamentos de Arcos nos Arcos-Gol, e os defensores tentam capturar o Arco para se tornarem os atacantes. A brutalidade também é recompensada, garantindo pontos pela carnificina. Entre cada Gol, todos os jogadores podem realizar compras no Shop para o próximo turno. Para mais informações de como jogar CarnArk, veja sua [seção](./carnark.md).
+CarnArk é um esporte de agilidade e brutalidade; Duas famílias competem em uma quadra retangular com dois Arcos-Gol de cada lado, um pequeno e outro maior. O jogo intercala entre os atacantes e defensores, onde os atacantes tentam fazer pontos ao acertar lançamentos de Arcos nos Arcos-Gol, e os defensores tentam capturar o Arco para se tornarem os atacantes. A brutalidade também é recompensada, garantindo pontos pela carnificina. Entre cada Intervalo, todos os jogadores podem realizar compras no Shop para o próximo turno. Para mais informações de como jogar CarnArk, veja sua [seção](./carnark/index.md).
 
 ### O Baile
 
-Depois da brutalidade e cansaço de uma partida de CarnArk, nada melhor do que descansar e se deliciar em um grande e fabuloso Baile. Cada Baile terá um tema, podendo ser um baile a fantasia, de máscaras, de gala ou até mesmo roupas de banho. Você deve ir a caráter e jogar todo seu charme para tentar conseguir Patrocinadores, estes que proverão Brotos ou items especiais a sua família, tentar descobrir segredos dos seus adversários ou espalhar mentiras, buscando vantagens sobre a concorrência. Você também pode interagir de qualquer forma com seus adversários, buscando relações amigáveis, hostis ou até mesmo íntimas. Para mais informações sobre o Baile, veja sua [seção](./ball.md).
+Depois da brutalidade e cansaço de uma partida de CarnArk, nada melhor do que descansar e se deliciar em um grande e fabuloso Baile. Cada Baile terá um tema, podendo ser um baile a fantasia, de máscaras, de gala ou até mesmo roupas de banho. Você deve ir a caráter e jogar todo seu charme para tentar conseguir Patrocinadores, estes que proverão Brotos ou items especiais a sua família, tentar descobrir segredos dos seus adversários ou espalhar mentiras, buscando vantagens sobre a concorrência. Você também pode interagir de qualquer forma com seus adversários, buscando relações amigáveis, hostis ou até mesmo íntimas. Para mais informações sobre o Baile, veja sua [seção](./balls/index.md).
 
 ### Pré-Jogo
 
@@ -85,4 +86,4 @@ Você também recebe 1 Broto para cada 5 rolado e 2 Brotos para cada 6 rolado.
 
 ### Disputa
 
-Durante o jogo haverá ações ou reações que gerarão disputas, como por exemplo [Desviar](./carnark.md#desviar). Em Disputas você não irá verificar o valor do maior dado, e sim, irá comparar a soma de todos os dados com seu adversário. Ganha aquele com o maior valor. Caso há empate, desempate comparando o valor do maior dado de cada um, caso empate novamente, desempate comparando o valor dos segundos maiores, e assim por diante. Caso empate tudo, decidam no cara ou coroa ou par ou ímpar.
+Durante o jogo haverá ações ou reações que gerarão disputas, como por exemplo [Desviar](./carnark/index.md#desviar). Em Disputas você não irá verificar o valor do maior dado, e sim, irá comparar a soma de todos os dados com seu adversário. Ganha aquele com o maior valor. Caso há empate, desempate comparando o valor do maior dado de cada um, caso empate novamente, desempate comparando o valor dos segundos maiores, e assim por diante. Caso empate tudo, decidam no cara ou coroa ou par ou ímpar.

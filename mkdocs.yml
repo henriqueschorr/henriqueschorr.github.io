@@ -64,6 +64,17 @@ nav:
         - 666_cursed_set/index.md  
         - Atos: 666_cursed_set/acts.md
         - Profissões: 666_cursed_set/professions.md
+    - Baile Carnificina:
+        - 696_carnage_ball/index.md
+        - CarnArk:
+            - 696_carnage_ball/carnark/index.md
+            - Loja: 696_carnage_ball/carnark/shop.md
+            - Perigos: 696_carnage_ball/carnark/hazards.md
+            - Condições: 696_carnage_ball/carnark/conditions.md
+        - Bailes:
+            - 696_carnage_ball/balls/index.md
+            - Patrocínio: 696_carnage_ball/balls/sponsor.md
+        - Pré-Jogo: 696_carnage_ball/pre_game.md
 
 extra_css:
   - stylesheets/extra.css
