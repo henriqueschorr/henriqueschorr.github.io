@@ -6,7 +6,7 @@ Um combate segue uma receita dos passos mostrados abaixo.
 O primeiro passo de um combate é determinar se houve surpresa tanto do lado do GM, quanto dos jogadores.
 
 **GM Surpreende Equipe**  
-Caso os NPCs surpreendam a equipe de jogadores, todas as criaturas do GM estão ativas e ele pode executar seu turno. No momento que não houver mais criaturas ativas e ações não podem mais ser executadas, a vez passa para os jogadores e o combate segue normalmente.  
+Caso os NPCs surpreendam a equipe de jogadores, todas as criaturas do GM estão ativas e ele pode executar seu turno. No momento que não houver mais criaturas ativas e moves não podem mais ser executadas, a vez passa para os jogadores e o combate segue normalmente.  
 
 **Equipe Surpreende GM**  
 Caso os PCs surpreendam os NPCs, os jogadores começam jogando e a primeira ação de cada jogador é realizada com **Vantagem**. No momento que um jogador <ins>falhar</ins> em algum check, ou caso o GM pague 3 Terror quando Sucesso Parcial, a vez passa para o GM e o combate segue normalmente.  
@@ -18,24 +18,24 @@ Caso ninguém surpreenda ninguém, todas as criaturas do GM estão Inativas e o 
 No momento que a primeira rodada de surpresa passa ou caso não tenha havido surpresa, a equipe de jogadores executa seu turno. Considere os seguintes pontos durante o turno da Equipe de jogadores:
 
 - Todos jogadores recuperam todas suas reações.
-- Todos os [Countdown]() dos jogadores diminuem em 1.
-- Não há ordem de iniciativa, qualquer jogador pode executar ações na ordem que quiser.
-- Não há limites de [Ações]() que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantas e quaisquer ações desejarem.  
+- Todos os [Countdown de turno](./countdown.md#countdown-turno) dos jogadores diminuem em 1.
+- Não há ordem de iniciativa, qualquer jogador pode executar moves na ordem que quiser.
+- Não há limites de [Moves](./moves.md) que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantos e quaisquer moves desejarem.  
   Há apenas limitações de recursos, como por exemplo Habilidades que custam Caos.  
-- GM pode realizar apenas [Reações]() com seus NPCs, estando ativos ou inativos.
-- GM recebe 1 [Terror]() para cada ação que um jogador realizar.
+- GM pode realizar apenas [Reações](./moves.md#reações) com seus NPCs, estando ativos ou inativos.
+- GM recebe 1 [Terror](./resources.md#terror) para cada ação que um jogador realizar.
 
 Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 
 **Sucesso ou Sucesso Crítico:** Jogadores seguem jogando.   
-**Sucesso Parcial:** GM pode jogar caso gaste 3 [Terror](), caso contrário jogadores seguem jogando.  
+**Sucesso Parcial:** GM pode jogar caso gaste 3 [Terror](./resources.md#terror), caso contrário jogadores seguem jogando.  
 **Falha ou Falha Crítica:** GM pode jogar.  
 
 ## Passo 3: Turno do GM
 Considere os seguintes pontos durante o turno do GM:
 
 - Todas criaturas recuperam todas suas reações.
-- Todos os [Countdown]() do GM diminuem em 1.
+- Todos os [Countdown de turno](./countdown.md#countdown-turno) do GM diminuem em 1.
 - GM pode **ativar** criaturas gastando Terror. 1 Terror = 1 Criatura ativa.
 - O GM pode realizar uma ação para cada criatura ativa, deixando-a então inativa.  
   Algumas criaturas podem realizar mais de uma ação por ativação.

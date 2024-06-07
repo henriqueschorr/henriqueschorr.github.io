@@ -21,11 +21,11 @@ Abaixo segue os efeitos que as diferentes resoluções causam quando o check é 
 | --------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | Sucesso Crítico | Você consegue o que quer e mais.                                                     | Você causa <ins>alto</ins> dano extra. Turno da Equipe.                                                                           |
 | Sucesso         | Você consegue o que quer.                                                            | Você causa <ins>moderado</ins> dano extra. Turno da Equipe.                                                                       |
-| Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.                    | Você causa <ins>baixo</ins> dano extra. Turno do GM caso gaste 3 [Terror](), caso contrário Turno da Equipe. |
+| Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.                    | Você causa <ins>baixo</ins> dano extra. Turno do GM caso gaste 3 [Terror](./resources.md#terror), caso contrário Turno da Equipe. |
 | Falha           | Você não consegue o que quer e deve enfrentar consequências moderadas.               | Equipe recebe Karma. Turno do GM caso desejar.                                                                                    |
 <!-- | Falha Crítica   | Catástrofe. Você não consegue o que quer e deve enfrentar alguma consequência grave. | Equipe recebe Karma e GM recebe Terror. Turno do GM caso desejar.                                                                 | -->
 
-Para informações sobre dano, veja [Calculando Dano]().
+Para informações sobre dano, veja [Calculando Dano](./damage.md#calculando-dano).
 
 ### Vantagem e Desvantagem
 

@@ -18,66 +18,83 @@ theme:
 nav:
     - index.md
     - Links Úteis: links.md
-    - Simplified:
+    - Manuscrito:
       - Personagem:
         - 0_simplified/2_character/index.md
-    - Manuscrito:
-      - 1_core/index.md
-      # - Comece Aqui: 1_core/1_start/index.md
-      - Personagem:
-        - 1_core/2_character/index.md
-        - Exemplo: 1_core/2_character/example.md
-        - Espécies: 1_core/2_character/species.md
-        - Cartas: 1_core/2_character/cards.md
       - O Jogo:
-        - 1_core/3_game/index.md
-        - Combate: 1_core/3_game/combat.md
-        - Conflito Social: 1_core/3_game/social.md
-        - Ações e Reações:  1_core/3_game/actions.md
-        - Checks: 1_core/3_game/checks.md
-        - Recursos: 1_core/3_game/resources.md
-        - Dano e Resiliência: 1_core/3_game/damage.md
-        - Condições: 1_core/3_game/conditions.md
-        - Countdowns: 1_core/3_game/countdown.md
-        - Distância, Movimento e Tamanho: 1_core/3_game/distance.md
-        - Alvos, Proteção e Visão: 1_core/3_game/target.md        
-        - Descanso, Morte e Trauma: 1_core/3_game/death.md              
-        - Armas e Armaduras: 1_core/3_game/weapon_armor.md
-        - Propriedades: 1_core/3_game/properties.md
-        - Inventário, Equipamentos e Munições: 1_core/3_game/inventory.md    
-        - Crafting: 1_core/3_game/crafting.md  
-        - Companion: 1_core/3_game/companion.md   
-        - Transporte: 1_core/3_game/transport.md
-        - Criaturas e Monstros: 1_core/3_game/creatures.md
-    - Força Galáctica:
-      - 2_galactic_force/index.md
-      - Criando um Humano: 2_galactic_force/creation.md
-      - Armas: 2_galactic_force/weapons.md
-      - Armaduras: 2_galactic_force/armor.md
-      - Equipamentos: 2_galactic_force/equipment.md
-      - Crafting: 2_galactic_force/crafting.md
-      - Companion: 2_galactic_force/companion.md
-      - Transporte: 2_galactic_force/transport.md   
-      - Cartas: 2_galactic_force/cards.md   
-      # - Humanos:
-      # - Mapa:
-      # - Perigos:
-      # - Aventuras:
-    - Cursed Set:
-        - 666_cursed_set/index.md  
-        - Atos: 666_cursed_set/acts.md
-        - Profissões: 666_cursed_set/professions.md
-    - Baile Carnificina:
-        - 696_carnage_ball/index.md
-        - CarnArk:
-            - 696_carnage_ball/carnark/index.md
-            - Loja: 696_carnage_ball/carnark/shop.md
-            - Perigos: 696_carnage_ball/carnark/hazards.md
-            - Condições: 696_carnage_ball/carnark/conditions.md
-        - Bailes:
-            - 696_carnage_ball/balls/index.md
-            - Patrocínio: 696_carnage_ball/balls/sponsor.md
-        - Pré-Jogo: 696_carnage_ball/pre_game.md
+        - 0_simplified/3_game/index.md
+        - Combate: 0_simplified/3_game/combat.md
+        - Moves: 0_simplified/3_game/moves.md
+        - Checks: 0_simplified/3_game/checks.md
+        - Resiliência: 0_simplified/3_game/resilience.md
+        - Recursos: 0_simplified/3_game/resources.md
+        - Dano: 0_simplified/3_game/damage.md
+        - Condições: 0_simplified/3_game/conditions.md
+        - Countdowns: 0_simplified/3_game/countdown.md
+        - Distância e Tamanho: 0_simplified/3_game/distance.md
+        - Alvos e Proteção: 0_simplified/3_game/target.md
+        - Descanso: 0_simplified/3_game/rest.md
+        - Armas e Armaduras: 0_simplified/3_game/weapon_armor.md
+        - Inventário, Equipamento e Munições: 0_simplified/3_game/inventory.md
+        - Criaturas e Monstros: 0_simplified/3_game/creatures.md
+        - Propriedades: 0_simplified/3_game/properties.md
+    # - Manuscrito:
+    #   - 1_core/index.md
+    #   # - Comece Aqui: 1_core/1_start/index.md
+    #   - Personagem:
+    #     - 1_core/2_character/index.md
+    #     - Exemplo: 1_core/2_character/example.md
+    #     - Espécies: 1_core/2_character/species.md
+    #     - Cartas: 1_core/2_character/cards.md
+    #   - O Jogo:
+    #     - 1_core/3_game/index.md
+    #     - Combate: 1_core/3_game/combat.md
+    #     - Conflito Social: 1_core/3_game/social.md
+    #     - Ações e Reações:  1_core/3_game/actions.md
+    #     - Checks: 1_core/3_game/checks.md
+    #     - Recursos: 1_core/3_game/resources.md
+    #     - Dano e Resiliência: 1_core/3_game/damage.md
+    #     - Condições: 1_core/3_game/conditions.md
+    #     - Countdowns: 1_core/3_game/countdown.md
+    #     - Distância, Movimento e Tamanho: 1_core/3_game/distance.md
+    #     - Alvos, Proteção e Visão: 1_core/3_game/target.md        
+    #     - Descanso, Morte e Trauma: 1_core/3_game/death.md              
+    #     - Armas e Armaduras: 1_core/3_game/weapon_armor.md
+    #     - Propriedades: 1_core/3_game/properties.md
+    #     - Inventário, Equipamentos e Munições: 1_core/3_game/inventory.md    
+    #     - Crafting: 1_core/3_game/crafting.md  
+    #     - Companion: 1_core/3_game/companion.md   
+    #     - Transporte: 1_core/3_game/transport.md
+    #     - Criaturas e Monstros: 1_core/3_game/creatures.md
+    # - Força Galáctica:
+    #   - 2_galactic_force/index.md
+    #   - Criando um Humano: 2_galactic_force/creation.md
+    #   - Armas: 2_galactic_force/weapons.md
+    #   - Armaduras: 2_galactic_force/armor.md
+    #   - Equipamentos: 2_galactic_force/equipment.md
+    #   - Crafting: 2_galactic_force/crafting.md
+    #   - Companion: 2_galactic_force/companion.md
+    #   - Transporte: 2_galactic_force/transport.md   
+    #   - Cartas: 2_galactic_force/cards.md   
+    #   # - Humanos:
+    #   # - Mapa:
+    #   # - Perigos:
+    #   # - Aventuras:
+    # - Cursed Set:
+    #     - 666_cursed_set/index.md  
+    #     - Atos: 666_cursed_set/acts.md
+    #     - Profissões: 666_cursed_set/professions.md
+    # - Baile Carnificina:
+    #     - 696_carnage_ball/index.md
+    #     - CarnArk:
+    #         - 696_carnage_ball/carnark/index.md
+    #         - Loja: 696_carnage_ball/carnark/shop.md
+    #         - Perigos: 696_carnage_ball/carnark/hazards.md
+    #         - Condições: 696_carnage_ball/carnark/conditions.md
+    #     - Bailes:
+    #         - 696_carnage_ball/balls/index.md
+    #         - Patrocínio: 696_carnage_ball/balls/sponsor.md
+    #     - Pré-Jogo: 696_carnage_ball/pre_game.md
 
 extra_css:
   - stylesheets/extra.css

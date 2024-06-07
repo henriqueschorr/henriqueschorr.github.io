@@ -48,7 +48,7 @@ Assim como AP e Ferida, você pode recuperar Stress durante descansos ou com o u
 
 ## Caos
 
-Caos é a força e matéria que compõem tudo no universo. Os Regentes do Universo são os grandes mestres especialistas em uso dessa força, construindo e modificando constantemente o universo. Algumas criaturas, como seu personagem, podem utilizar a força do Caos de maneira limitada para realizar ações especiais conhecidas como Habilidades.
+Caos é a força e matéria que compõem tudo no universo. Os Regentes do Universo são os grandes mestres especialistas em uso dessa força, construindo e modificando constantemente o universo. Algumas criaturas, como seu personagem, podem utilizar a força do Caos de maneira limitada para realizar moves especiais conhecidos como Habilidades.
 
 <!-- ## Saga -->
 

@@ -1,6 +1,6 @@
 ## Alvos
 
-Diversas ações, como ataques e habilidades, muitas vezes indicarão para fazer um ataque em um ou mais alvos, ou uma área. Quando o alvo for uma área, todas criaturas, inclusive aliados, presentes na área serão afetados, a não ser que informado o contrário.
+Diversos moves, como ataques e habilidades, muitas vezes indicarão para fazer um ataque em um ou mais alvos, ou uma área. Quando o alvo for uma área, todas criaturas, inclusive aliados, presentes na área serão afetados, a não ser que informado o contrário.
 
 Quando um ataque é feito contra <ins>mais de um alvo</ins>, você realiza apenas um check para determinar se acerta os alvos ou não.
 

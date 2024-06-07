@@ -15,7 +15,7 @@ Indica o nome da arma (Exemplo: Rifle de Precisão).
 Armas do tipo equipamento, que não possuam a propriedade [Natural](./properties.md#natural), terão indicado se é necessário usar uma ou duas mãos. Caso você esteja usando um arma de duas mãos, você não pode usar outro arma ao mesmo tempo.
 
 #### Atributo
-Indica qual [Atributo](../2_character/index.md#atributos) você irá utilizar para realizar ações com a arma (Exemplo: Controle).
+Indica qual [Atributo](../2_character/index.md#atributos) você irá utilizar para realizar moves com a arma (Exemplo: Controle).
 
 #### Alcance
 Indica o [Alcance](./distance.md#alcance-e-distância) máximo que você pode atacar com a arma (Exemplo: 50).
