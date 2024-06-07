@@ -1,13 +1,13 @@
 # Criação de Personagem
 
-Antes de começar a jogar você precisa criar seu personagem. Siga os passos abaixo. Para cada informação recebida durante os passos, tome nota em sua [Ficha de Personagem]().
+Antes de começar a jogar você precisa criar seu personagem. Siga os passos abaixo. Para cada informação recebida durante os passos, tome nota em sua [Ficha de Personagem](https://docs.google.com/spreadsheets/d/19w17pxwF-46oYBTceI109gJkN0Po3Q7_iUlrXDpy-CM/edit?usp=sharing).
 
 ## Passo 1: Escolha sua Espécie
 
 Atualmente você tem acesso somente a espécie Humano, encontrada no módulo da [Força Galáctica](). Ao escolher uma espécie você receberá:
 
-- [Tamanho](): Minúsculo, Pequeno, Médio, Grande ou Gigante.
-- [Movimento](): Geralmente Terrestre 3.
+- [Tamanho](../3_game/distance.md): Minúsculo, Pequeno, Médio, Grande ou Gigante.
+- [Movimento](../3_game/distance.md#movimento): Geralmente Terrestre 3.
 
 ## Passo 2: Escolha seu Kit
 
@@ -17,17 +17,17 @@ Um kit <ins>sempre terá</ins>:
 
 - Nome
 - Descrição
-- [Resiliência](): Limites de Dano, Feridas, Stress e Caos.
+- [Resiliência](../3_game/resilience.md): Limites de Dano, Feridas, Stress e Caos.
 - [Aprimoramentos](): Lista de aprimoramentos que você poderá escolher entre.
 
 Um kit <ins>pode conter</ins>:
 
 - [Passivas](): Habilidades ou características/efeitos de seu personagem que estão sempre ativas.
-- [Movimento](): Seu personagem pode possuir movimentos adicionais dependendo o kit escolhido.
-- [Armas](): Equipamentos ou Armas Naturais que servem para causar dano em outras criaturas.
-- [Armaduras](): Equipamentos ou Armaduras Naturais que servem para proteger seu personagem.
-- [Equipamentos](): Itens de uso geral.
-- [Moves (inglês)](): Ações, Reações e Habilidades que seu personagem poderá realizar, além das comuns.
+- [Movimento](../3_game/distance.md#movimento): Seu personagem pode possuir movimentos adicionais dependendo o kit escolhido.
+- [Armas](../3_game/weapon_armor.md#armas): Equipamentos ou Armas Naturais que servem para causar dano em outras criaturas.
+- [Armaduras](../3_game/weapon_armor.md#armaduras): Equipamentos ou Armaduras Naturais que servem para proteger seu personagem.
+- [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário): Itens de uso geral.
+- [Moves (inglês)](../3_game/moves.md): Ações, Reações e Habilidades que seu personagem poderá realizar, além das comuns.
 
 Para cada item acima, o seguinte pode ser informado:
 
@@ -87,9 +87,13 @@ Neste passo você irá separar todas as cartas de aprimoramentos nível 1 relaci
 
 Todo aprimoramento terá um tipo que indica como ele se comporta e os efeitos que aplica. Os tipos variam entre:
 
-#### Moves (inglês) - Ação/Reação/Habilidade
+#### Ação/Reação
 
-Ações, Reações ou Habilidades quase que exclusiva do seu personagem e suas escolhas.
+Ações e Reações quase que exclusiva do seu personagem e suas escolhas.
+
+#### Habilidade - Ação/Reação
+
+Habilidade quase que exclusiva do seu personagem, podendo ser ação ou reação.
 
 #### Passiva
 

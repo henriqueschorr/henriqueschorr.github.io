@@ -9,7 +9,7 @@ O primeiro passo de um combate é determinar se houve surpresa tanto do lado do 
 Caso os NPCs surpreendam a equipe de jogadores, todas as criaturas do GM estão ativas e ele pode executar seu turno. No momento que não houver mais criaturas ativas e moves não podem mais ser executadas, a vez passa para os jogadores e o combate segue normalmente.  
 
 **Equipe Surpreende GM**  
-Caso os PCs surpreendam os NPCs, os jogadores começam jogando e a primeira ação de cada jogador é realizada com **Vantagem**. No momento que um jogador <ins>falhar</ins> em algum check, ou caso o GM pague 3 Terror quando Sucesso Parcial, a vez passa para o GM e o combate segue normalmente.  
+Caso os PCs surpreendam os NPCs, os jogadores começam jogando e o primeiro move de cada jogador é realizada com **Vantagem**. No momento que um jogador <ins>falhar</ins> em algum check, ou caso o GM pague 3 Terror quando Sucesso Parcial, a vez passa para o GM e o combate segue normalmente.  
 
 **Não Houve Surpresas**  
 Caso ninguém surpreenda ninguém, todas as criaturas do GM estão Inativas e o combate segue normalmente.
@@ -23,7 +23,7 @@ No momento que a primeira rodada de surpresa passa ou caso não tenha havido sur
 - Não há limites de [Moves](./moves.md) que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantos e quaisquer moves desejarem.  
   Há apenas limitações de recursos, como por exemplo Habilidades que custam Caos.  
 - GM pode realizar apenas [Reações](./moves.md#reações) com seus NPCs, estando ativos ou inativos.
-- GM recebe 1 [Terror](./resources.md#terror) para cada ação que um jogador realizar.
+- GM recebe 1 [Terror](./resources.md#terror) para cada move que um jogador realizar.
 
 Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 
@@ -37,8 +37,8 @@ Considere os seguintes pontos durante o turno do GM:
 - Todas criaturas recuperam todas suas reações.
 - Todos os [Countdown de turno](./countdown.md#countdown-turno) do GM diminuem em 1.
 - GM pode **ativar** criaturas gastando Terror. 1 Terror = 1 Criatura ativa.
-- O GM pode realizar uma ação para cada criatura ativa, deixando-a então inativa.  
-  Algumas criaturas podem realizar mais de uma ação por ativação.
+- O GM pode realizar um move para cada criatura ativa, deixando-a então inativa.  
+  Algumas criaturas podem realizar mais de um move por ativação.
 - Jogadores neste momento podem realizar apenas Reações com seus personagens.
 - A vez passa para a equipe de jogadores assim que não houver mais criaturas ativas ou caso o GM queira passar antes.
 

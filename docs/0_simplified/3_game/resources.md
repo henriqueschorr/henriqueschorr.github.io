@@ -3,7 +3,7 @@
 Terror é um recurso exclusivo do GM e é utilizado para ativar suas criaturas ou balancear o campo de batalho com habilidades poderosas de inimigos.
 
 **GM recebe Terror quando:**  
-- Sempre que um jogador realizar uma ação enquanto todas as criaturas do GM já estiverem ativas.  
+- Sempre que um jogador realizar um move durante o turno de equipe.  
 <!-- - Sempre que um jogador tiver Falha Crítica em algum check.   -->
 
 **GM pode gastar Terror para:**  

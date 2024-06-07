@@ -35,9 +35,9 @@ Stress representa seu estado mental, o quão estressado, desgastado você está 
 
 Você pode receber Stress quando:  
 
-- Alguma ação de uma criatura contra você, armadilha, dispositivo ou qualquer outro tipo de perigo diga explicitamente que causa dano em Stress.
-- Você realiza alguma ação que explicitamente diga que você recebe Stress.
-- Você realiza alguma ação e falha ou deve encarar complicações, e o GM indica que você deve receber Stress como consequência.
+- Algum move de uma criatura contra você, armadilha, dispositivo ou qualquer outro tipo de perigo diga explicitamente que causa dano em Stress.
+- Você realiza algum move que explicitamente diga que você recebe Stress.
+- Você realiza algum move e falha ou deve encarar complicações, e o GM indica que você deve receber Stress como consequência.
 <!-- - Você role Falha Crítica em algum check. -->
 
 Se você marcar seu último Stress, você cai incosciente no chão e deve repousar por 24 horas para voltar a consciência.

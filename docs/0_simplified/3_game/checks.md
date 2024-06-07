@@ -1,6 +1,6 @@
 # Checks
 
-Quando uma ação/reação for realizada em uma situação de perigo ou tensão, ou quando esta deve ser realizada com cuidado e atenção, um check será requisitado. Um check em HB consiste em rolar um dado do Atributo associado a ação e então verificar seu resultado. Um check sem disputa tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com disputa é comparado com o lado oposto.
+Quando um move for realizada em uma situação de perigo ou tensão, ou quando esta deve ser realizada com cuidado e atenção, um check será requisitado. Um check em HB consiste em rolar um dado do Atributo associado ao move e então verificar seu resultado. Um check sem disputa tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com disputa é comparado com o lado oposto.
 
 Sempre é importante manter o resultado dos checks na "mesa" ou anotados em caso de [Ataques](./moves.md#ataques), pois eles também determinam o dano.
 
@@ -39,7 +39,7 @@ Certas situações, efeitos ou [Condições](./conditions.md) irão modificar o 
 
 ### Disputa
 
-Uma disputa acontece quando você tenta realizar uma ação contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela esquiva, ou quando você tenta negociar um valor de um item e o vendedor considera se será persuadido ou não. O mesmo vale quando você reage a ação de algum inimigo.  
+Uma disputa acontece quando você tenta realizar um move contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela esquiva, ou quando você tenta negociar um valor de um item e o vendedor considera se será persuadido ou não. O mesmo vale quando você reage ao move de algum inimigo.  
 Na disputa ambos os lados irão rolar seu check e então comparar os resultados para determinar a resolução.
 
 1. Se quem iniciou a disputa falhar, o outro lado vence automaticamente.

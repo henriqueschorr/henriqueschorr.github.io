@@ -5,7 +5,7 @@ O jogo segue uma narrativa em ciclo, onde um vai e volta de perguntas e resposta
 1. **GM Narra a Cena:** GM irá descrever o ambiente que vocês se encontram, qualquer coisa pertinente a cena, como descrição do local, dos NPCs presentes, detalhes para sentidos como cheiro, sons, etc.
 2. **Jogador e GM Fazem Perguntas:** O jogador faz perguntas sobre a cena como "Há alguma armadilha?". O GM faz perguntas como "Tu quer procurar?".
 3. **Jogador e GM Respondem Perguntas:** O Jogador irá responder as perguntas do GM de como deseja realizar algo. O GM irá responder perguntas claras para o jogador como se há algum cheiro de queimado, se existe alguma corda na área, etc.
-4. **Resolução de Moves:** Alguns moves (inglês), como por exemplo, procurar por armadilhas, pode necessitar um [Check](./checks.md), este é feito por uma rolagem do(s) dado(s) atribuídos a um atributo. O resultado do check irá influenciar se o jogador ou o NPC é bem sucedido na ação.
+4. **Resolução de Moves:** Alguns moves (inglês), como por exemplo, procurar por armadilhas, pode necessitar um [Check](./checks.md), este é feito por uma rolagem do(s) dado(s) atribuídos a um atributo. O resultado do check irá influenciar se o jogador ou o NPC é bem sucedido no move.
 5. **Repita o Ciclo.**
 
 ## Modos de Jogo
