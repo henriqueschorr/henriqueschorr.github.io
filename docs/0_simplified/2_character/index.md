@@ -18,11 +18,11 @@ Um kit <ins>sempre terá</ins>:
 - Nome
 - Descrição
 - [Resiliência](../3_game/resilience.md): Limites de Dano, Feridas, Stress e Caos.
-- [Aprimoramentos](): Lista de aprimoramentos que você poderá escolher entre.
+- [Aprimoramentos](../3_game/upgrades.md): Lista de aprimoramentos que você poderá escolher entre.
 
 Um kit <ins>pode conter</ins>:
 
-- [Passivas](): Habilidades ou características/efeitos de seu personagem que estão sempre ativas.
+- [Passivas](../3_game/passives.md): Habilidades, características ou efeitos de seu personagem que estão sempre ativos.
 - [Movimento](../3_game/distance.md#movimento): Seu personagem pode possuir movimentos adicionais dependendo o kit escolhido.
 - [Armas](../3_game/weapon_armor.md#armas): Equipamentos ou Armas Naturais que servem para causar dano em outras criaturas.
 - [Armaduras](../3_game/weapon_armor.md#armaduras): Equipamentos ou Armaduras Naturais que servem para proteger seu personagem.
@@ -79,25 +79,9 @@ Influência indica o quão influente você é socialmente, sua força de persona
 
 ## Passo 4: Escolha Aprimoramentos
 
-Quando você escolheu seu kit no passo #2, você recebeu a informação de quais aprimoramentos você poderá ter acesso, sendo geralmente uma lista de 4 ou mais.
+Quando você escolheu seu kit no passo #2, você recebeu a informação de quais [Aprimoramentos](../3_game/upgrades.md) você poderá ter acesso, sendo geralmente uma lista de 4 ou mais.
 
 Neste passo você irá separar todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem e indicadas no kit, e então escolher duas. 
-
-### Tipos de Aprimoramentos
-
-Todo aprimoramento terá um tipo que indica como ele se comporta e os efeitos que aplica. Os tipos variam entre:
-
-#### Ação/Reação
-
-Ações e Reações quase que exclusiva do seu personagem e suas escolhas.
-
-#### Habilidade - Ação/Reação
-
-Habilidade quase que exclusiva do seu personagem, podendo ser ação ou reação.
-
-#### Passiva
-
-Um efeito passivo que está sempre ativo.
 
 ## Passo 5: Finalização
 

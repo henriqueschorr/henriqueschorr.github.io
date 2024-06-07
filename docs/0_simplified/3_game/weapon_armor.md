@@ -2,7 +2,6 @@
 
 Armas são equipamentos ou qualquer parte do seu corpo que você pode causar dano ou efeitos negativos em outra criatura. Seu personagem quase sempre possuíra ao menos um arma. A quantidade e os tipos de armas variam entre espécies.
 
-
 ### Características
 
 Armas possuem características que indicam seu modo de uso.
@@ -22,6 +21,9 @@ Indica o [Alcance](./distance.md#alcance-e-distância) máximo que você pode at
 
 #### Propriedades
 Indica as [Propriedades](./properties.md#propriedades-de-armas), se alguma, ligada ao arma.
+
+#### Moves
+Armas podem lhe dar acesso a moves exclusivos que podem ser usados com ela.
 
 ## Armaduras
 
@@ -43,4 +45,7 @@ Indica quanto APs a armadura lhe concede (Exemplo: 3 AP).
 Armaduras podem prover Resistências e Imunidades (Exemplo: Resistência Energia). -->
 
 #### Propriedades
-Indica as [Propriedades](./properties.md#propriedades-de-armaduras), se alguma, ligada a armadura.
+Indica as [Propriedades](./properties.md#propriedades-de-armaduras), se alguma, ligada a armadura. Geralmente utilizado para indicar que a armadura possui alguns equipamentos básicos embutidos como lanterna, comunicadores, etc.
+
+#### Moves
+Armaduras podem lhe dar acesso a moves exclusivos que podem ser usados com ela.

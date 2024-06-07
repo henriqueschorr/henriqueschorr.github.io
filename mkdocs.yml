@@ -25,6 +25,7 @@ nav:
         - 0_simplified/3_game/index.md
         - Combate: 0_simplified/3_game/combat.md
         - Moves: 0_simplified/3_game/moves.md
+        - Passivas: 0_simplified/3_game/passives.md
         - Checks: 0_simplified/3_game/checks.md
         - Resiliência: 0_simplified/3_game/resilience.md
         - Recursos: 0_simplified/3_game/resources.md
@@ -38,6 +39,7 @@ nav:
         - Inventário, Equipamento e Munições: 0_simplified/3_game/inventory.md
         - Criaturas e Monstros: 0_simplified/3_game/creatures.md
         - Propriedades: 0_simplified/3_game/properties.md
+        - Aprimoramentos: 0_simplified/3_game/upgrades.md
     # - Manuscrito:
     #   - 1_core/index.md
     #   # - Comece Aqui: 1_core/1_start/index.md

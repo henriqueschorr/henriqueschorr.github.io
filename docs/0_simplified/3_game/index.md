@@ -22,4 +22,4 @@ Situação de perigo intenso, onde os jogadores estarão enfrentando outras cria
 
 ### Descanso
 
-Uma pausa para um lanche e/ou para recuperar as energias, uma noite de sono, ou até uma semana em algum hotel luxuoso podem ser considerados como descanso. Neste modo os personagens irão recuperar resilências, interagir entre si e até mesmo realizar Crafting. Para mais informações sobre descanso, veja este [link](./rest.md).
+Uma pausa para um lanche e/ou para recuperar as energias, uma noite de sono, ou até uma semana em algum hotel luxuoso podem ser considerados como descanso. Neste modo os personagens irão recuperar resilências, interagir entre si e até mesmo realizar [Crafting](./crafting.md). Para mais informações sobre descanso, veja este [link](./rest.md).

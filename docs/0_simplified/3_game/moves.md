@@ -7,11 +7,30 @@ PCs e NPCs podem executar basicamente todas as ações básicas como mover, empu
 
 Algumas ações, principalmente durante combate ou uma situação de perigo necessitarão de um [Check](./checks.md) para resolver, indicando assim seu grau de sucesso e o desfecho de sua narrativa.
 
-### Movimento
+Exemplos de ações básicas são:
+
+- [Mover](#mover)
+- [Usar um Equipamento](#uso-de-equipamentos)
+- [Ações envolvendo Ciência](#ações-envolvendo-ciência)
+- Saltar
+- Empurrar
+- Falar
+- Comunicar
+- etc
+
+### Mover
 
 Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover até distância informada em seu personagem, como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, alguma complicação acontece que impede seu movimento.
 
 NPCs podem se mover até distância informada em sua ficha e fazer alguma ação como parte de sua ativação. Caso o GM desejar mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar moves, mas também não precisando fazer um check de Agilidade.
+
+### Uso de Equipamentos
+
+Usar equipamentos conta como um move porém não é necessário realizar checks, a não ser que indicado o contrário, ou caso você esteja usando o equipamento para auxiliar em alguma tarefa. Por exemplo, se você for simplesmente usar uma lanterna, não há necessidade alguma de realizar um check; porém se você estiver usando um pé-de-cabra para arrombar uma porta, provavelmente seu GM irá requisitar um check.
+
+### Ações envolvendo Ciência
+
+Ações envolvendo ciência englobam [Crafting](./crafting.md) ou interações com o ambiente, como por exemplo hackear um dispositivo digital para desbloquear uma porta, pilotar uma nave, operar uma máquina, etc. Todo personagem que pertença a uma espécie com conhecimento científico base pode realizar moves envolvendo ciência normalmente.
 
 ## Ataques
 
@@ -28,7 +47,6 @@ Ataques são moves realizados com armas e habilidades com o propósito de causar
    Algumas Habilidades ou Propriedades de armas podem modificar o dano.
 6. Compare o Dano aos Limites de Dano do alvo.
 7. Marque a quantidade de AP/Feridas de acordo com o Limite de Dano atingido. 
-
 
 Quando um ataque é feito contra <ins>mais de um alvo</ins>, você realiza apenas um check para determinar se acerta os alvos ou não.
 
