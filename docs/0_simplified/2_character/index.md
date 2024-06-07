@@ -27,7 +27,7 @@ Um kit <ins>pode conter</ins>:
 - [Armas](): Equipamentos ou Armas Naturais que servem para causar dano em outras criaturas.
 - [Armaduras](): Equipamentos ou Armaduras Naturais que servem para proteger seu personagem.
 - [Equipamentos](): Itens de uso geral.
-- [Moves (inglês)](): Ações, Reações, Habilidades e Ações Livres que seu personagem poderá realizar, além das comuns.
+- [Moves (inglês)](): Ações, Reações e Habilidades que seu personagem poderá realizar, além das comuns.
 
 Para cada item acima, o seguinte pode ser informado:
 
@@ -87,9 +87,9 @@ Neste passo você irá separar todas as cartas de aprimoramentos nível 1 relaci
 
 Todo aprimoramento terá um tipo que indica como ele se comporta e os efeitos que aplica. Os tipos variam entre:
 
-#### Moves (inglês) - Ação/Reação/Habilidade/Ação Livre
+#### Moves (inglês) - Ação/Reação/Habilidade
 
-Ações, Reações, Habilidades ou Ações Livres quase que exclusiva do seu personagem e suas escolhas.
+Ações, Reações ou Habilidades quase que exclusiva do seu personagem e suas escolhas.
 
 #### Passiva
 
