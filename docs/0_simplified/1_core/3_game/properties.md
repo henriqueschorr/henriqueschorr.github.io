@@ -54,7 +54,7 @@ Caso você role 1 no dado principal durante o check para atacar com esta arma, v
 #### Silenciosa
 Indica que a arma é silenciosa ao atirar seus projéteis, não alertando inimigos com seu barulho.
 
-#### Seguro
+#### Segura
 Você não pode sofrer a condição Desarmado com esta arma.
 
 ## Propriedades de Armaduras

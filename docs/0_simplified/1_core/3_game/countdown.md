@@ -2,7 +2,7 @@
 
 Algumas mecânicas podem querer introduzir um **countdown**. Cowntdowns são uma maneira dos jogadores e GM acompanharem o andamento de um evento. Podem ser representados de duas formas: um dado ou um relógio de progresso dividido em partes (veja exemplo abaixo). Podem representar qualquer forma de tempo: turno, minutos, horas, dias, semanas, etc.
 
-![](../../0_assets/images/progressClock.png)
+![](../../../0_assets/images/progressClock.png)
 
 O GM ou a própria regra define um valor do countdown, este que será representado por um dado do mesmo valor ou um relógio com divisões. Por exemplo, para um countdown 4 será usado um dado no valor 4 ou um relógio com 4 partes.
 

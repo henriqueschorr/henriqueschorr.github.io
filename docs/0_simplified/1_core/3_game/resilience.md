@@ -6,7 +6,7 @@ Resiliência representa um conjunto de características que determinam sua forti
 
 **Limites de Dano** são valores numéricos associados a Leve, Alto e Severo. Para evitar cálculos matemáticos, quando você recebe dano você deve comparar o valor com seus limites de dano e então marcar o número de AP/Feridas correspondente.
 
-![](../../0_assets/images/wound_stress_damage.png)
+![](../../../0_assets/images/wound_stress_damage.png)
 
 **Armor Points (AP)** aparecem quando seu personagem possui armadura, seja ela um equipamento ou natural. Seu tipo de armadura determina a quantidade de AP que você possui. Quando você recebe dano, caso possua AP, você irá marcar de 1 a 3 AP, representando o quanto sua armadura foi danificada.
 

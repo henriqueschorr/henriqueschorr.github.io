@@ -20,26 +20,29 @@ nav:
     - Links Úteis: links.md
     - Manuscrito:
       - Personagem:
-        - 0_simplified/2_character/index.md
+        - 0_simplified/1_core/2_character/index.md
       - O Jogo:
-        - 0_simplified/3_game/index.md
-        - Combate: 0_simplified/3_game/combat.md
-        - Moves: 0_simplified/3_game/moves.md
-        - Passivas: 0_simplified/3_game/passives.md
-        - Checks: 0_simplified/3_game/checks.md
-        - Resiliência: 0_simplified/3_game/resilience.md
-        - Recursos: 0_simplified/3_game/resources.md
-        - Dano: 0_simplified/3_game/damage.md
-        - Condições: 0_simplified/3_game/conditions.md
-        - Countdowns: 0_simplified/3_game/countdown.md
-        - Distância e Tamanho: 0_simplified/3_game/distance.md
-        - Alvos e Proteção: 0_simplified/3_game/target.md
-        - Descanso: 0_simplified/3_game/rest.md
-        - Armas e Armaduras: 0_simplified/3_game/weapon_armor.md
-        - Inventário, Equipamento e Munições: 0_simplified/3_game/inventory.md
-        - Criaturas e Monstros: 0_simplified/3_game/creatures.md
-        - Propriedades: 0_simplified/3_game/properties.md
-        - Aprimoramentos: 0_simplified/3_game/upgrades.md
+        - 0_simplified/1_core/3_game/index.md
+        - Combate: 0_simplified/1_core/3_game/combat.md
+        - Moves: 0_simplified/1_core/3_game/moves.md
+        - Passivas: 0_simplified/1_core/3_game/passives.md
+        - Checks: 0_simplified/1_core/3_game/checks.md
+        - Resiliência: 0_simplified/1_core/3_game/resilience.md
+        - Recursos: 0_simplified/1_core/3_game/resources.md
+        - Dano: 0_simplified/1_core/3_game/damage.md
+        - Condições: 0_simplified/1_core/3_game/conditions.md
+        - Countdowns: 0_simplified/1_core/3_game/countdown.md
+        - Distância e Tamanho: 0_simplified/1_core/3_game/distance.md
+        - Alvos e Proteção: 0_simplified/1_core/3_game/target.md
+        - Descanso: 0_simplified/1_core/3_game/rest.md
+        - Armas e Armaduras: 0_simplified/1_core/3_game/weapon_armor.md
+        - Inventário, Equipamento e Munições: 0_simplified/1_core/3_game/inventory.md
+        - Crafting: 0_simplified/1_core/3_game/crafting.md
+        - Criaturas e Monstros: 0_simplified/1_core/3_game/creatures.md
+        - Propriedades: 0_simplified/1_core/3_game/properties.md
+        - Aprimoramentos: 0_simplified/1_core/3_game/upgrades.md
+    - Força Galáctica:
+      - 0_simplified/2_galactic_force/index.md
     # - Manuscrito:
     #   - 1_core/index.md
     #   # - Comece Aqui: 1_core/1_start/index.md
