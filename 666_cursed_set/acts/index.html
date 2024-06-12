@@ -1,0 +1,1393 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../professions/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.6">
+    
+    
+      
+        <title>Atos - Horizon Beyond</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.558e4712.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ato-i-intro-hooks-escape" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Horizon Beyond" class="md-header__button md-logo" aria-label="Horizon Beyond" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Horizon Beyond
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Atos
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Introdução
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../links/" class="md-tabs__link">
+      Links Úteis
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../0_simplified/1_core/2_character/" class="md-tabs__link">
+        Manuscrito
+      </a>
+    </li>
+  
+
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../0_simplified/2_galactic_force/" class="md-tabs__link">
+        Força Galáctica
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link md-tabs__link--active">
+        Cursed Set
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../696_carnage_ball/" class="md-tabs__link">
+        Baile Carnificina
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Horizon Beyond" class="md-nav__button md-logo" aria-label="Horizon Beyond" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Horizon Beyond
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Introdução
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../links/" class="md-nav__link">
+        Links Úteis
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Manuscrito
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Manuscrito" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Manuscrito
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3_1" type="checkbox" id="__nav_3_1" >
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../0_simplified/1_core/2_character/">Personagem</a>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Personagem" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Personagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3_2" type="checkbox" id="__nav_3_2" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../0_simplified/1_core/3_game/">O Jogo</a>
+          
+            <label for="__nav_3_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="O Jogo" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_2">
+          <span class="md-nav__icon md-icon"></span>
+          O Jogo
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/combat/" class="md-nav__link">
+        Combate
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/moves/" class="md-nav__link">
+        Moves
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/passives/" class="md-nav__link">
+        Passivas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/checks/" class="md-nav__link">
+        Checks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/resilience/" class="md-nav__link">
+        Resiliência
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/resources/" class="md-nav__link">
+        Recursos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/damage/" class="md-nav__link">
+        Dano
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/conditions/" class="md-nav__link">
+        Condições
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/countdown/" class="md-nav__link">
+        Countdowns
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/distance/" class="md-nav__link">
+        Distância e Tamanho
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/target/" class="md-nav__link">
+        Alvos e Proteção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/rest/" class="md-nav__link">
+        Descanso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/weapon_armor/" class="md-nav__link">
+        Armas e Armaduras
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/inventory/" class="md-nav__link">
+        Inventário, Equipamento e Munições
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/crafting/" class="md-nav__link">
+        Crafting
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/creatures/" class="md-nav__link">
+        Criaturas e Monstros
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/properties/" class="md-nav__link">
+        Propriedades
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../0_simplified/1_core/3_game/upgrades/" class="md-nav__link">
+        Aprimoramentos
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../0_simplified/2_galactic_force/">Força Galáctica</a>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Força Galáctica" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Força Galáctica
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../">Cursed Set</a>
+          
+            <label for="__nav_5">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Cursed Set" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Cursed Set
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Atos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Atos
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ato-i-intro-hooks-escape" class="md-nav__link">
+    Ato I: Intro, Hooks &amp; Escape
+  </a>
+  
+    <nav class="md-nav" aria-label="Ato I: Intro, Hooks &amp; Escape">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resumo-do-ato" class="md-nav__link">
+    Resumo do Ato
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ato-ii-revelacao-preparacao" class="md-nav__link">
+    Ato II: Revelação &amp; Preparação
+  </a>
+  
+    <nav class="md-nav" aria-label="Ato II: Revelação &amp; Preparação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resumo-do-ato_1" class="md-nav__link">
+    Resumo do Ato
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ato-iii-confronto-outro" class="md-nav__link">
+    Ato III: Confronto &amp; Outro
+  </a>
+  
+    <nav class="md-nav" aria-label="Ato III: Confronto &amp; Outro">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resumo-do-ato_2" class="md-nav__link">
+    Resumo do Ato
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../professions/" class="md-nav__link">
+        Profissões
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../696_carnage_ball/">Baile Carnificina</a>
+          
+            <label for="__nav_6">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Baile Carnificina" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Baile Carnificina
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../696_carnage_ball/carnark/">CarnArk</a>
+          
+            <label for="__nav_6_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="CarnArk" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          CarnArk
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../696_carnage_ball/carnark/shop/" class="md-nav__link">
+        Loja
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../696_carnage_ball/carnark/hazards/" class="md-nav__link">
+        Perigos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../696_carnage_ball/carnark/conditions/" class="md-nav__link">
+        Condições
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6_3" type="checkbox" id="__nav_6_3" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../696_carnage_ball/balls/">Bailes</a>
+          
+            <label for="__nav_6_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Bailes" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Bailes
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../696_carnage_ball/balls/sponsor/" class="md-nav__link">
+        Patrocínio
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../696_carnage_ball/pre_game/" class="md-nav__link">
+        Pré-Jogo
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ato-i-intro-hooks-escape" class="md-nav__link">
+    Ato I: Intro, Hooks &amp; Escape
+  </a>
+  
+    <nav class="md-nav" aria-label="Ato I: Intro, Hooks &amp; Escape">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resumo-do-ato" class="md-nav__link">
+    Resumo do Ato
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ato-ii-revelacao-preparacao" class="md-nav__link">
+    Ato II: Revelação &amp; Preparação
+  </a>
+  
+    <nav class="md-nav" aria-label="Ato II: Revelação &amp; Preparação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resumo-do-ato_1" class="md-nav__link">
+    Resumo do Ato
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ato-iii-confronto-outro" class="md-nav__link">
+    Ato III: Confronto &amp; Outro
+  </a>
+  
+    <nav class="md-nav" aria-label="Ato III: Confronto &amp; Outro">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resumo-do-ato_2" class="md-nav__link">
+    Resumo do Ato
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Atos</h1>
+
+<h2 id="ato-i-intro-hooks-escape">Ato I: Intro, Hooks &amp; Escape<a class="headerlink" href="#ato-i-intro-hooks-escape" title="Permanent link"></a></h2>
+<p>Neste ato o diretor irá começar apresentando uma <strong>Introdução</strong> do cenário, ela deve contar a ambienteção e o filme que estão gravando, NPCs, detalhes da filmagem e do set, como os Personagens chegaram aqui e o que estão fazendo. Exemplo:</p>
+<ul>
+<li><em>Os Personagens (Beck, Chutney, Medroson e Uvandro) estão no set de filmagem do Drácula</em></li>
+<li><em>O set se encontra em um castelo</em></li>
+<li><em>Estão há 3 dias de finalizar a filmagem</em></li>
+<li><em>As filmagens estão acontecendo no ano de 1979</em></li>
+</ul>
+<p>Uma vez feito a Introdução, o Diretor irá introduzir os <strong>Hooks</strong> do Horror, que é basicamente onde as coisas começam a dar errado. Onde o Horror começa a se manifestar e o filme passa de ser apenas um filme e se torna realidade, fazendo os Personagens desconfiarem que algo de estranho está acontecendo. Exemplo:</p>
+<ul>
+<li><em>2 pessoas da equipe de filmagem desapareceram na última semana</em></li>
+<li><em>O Diretor começou a ficar mais recluso e suas cenas estão mais violentas</em></li>
+<li><em>Barulhos estranhos podem ser ouvidos durante a noite</em></li>
+<li><em>Um morcego começou a atormentar a equipe</em></li>
+</ul>
+<p>Quando o perigo apresentado pelos Hooks se torna claro, o Diretor irá apresentar uma cena de perigo real com o Horror e então os personagens deverão realizar um <strong>Escape</strong>, buscando um lugar seguro. Exemplo:</p>
+<ul>
+<li><em>Durante uma cena onde o Drácula morde o pescoço de uma vítima, a atriz atacada começa a gritar de forma muito mais convincente</em></li>
+<li><em>O "ator" do Drácula revela sua aparência grotesca real: O HORROR</em></li>
+<li><em>Todos começam a fugir, procurando algum abrigo, mas muitos são mortos</em></li>
+<li><em>Os Personagens devem fugir e procurar lugares seguros dentro do castelo (ou fora) onde possam se esconder até o perigo passar (final da noite)</em></li>
+<li><em>Uvandro é pego pelo Horror e morto, virando um Assistente</em></li>
+</ul>
+<h3 id="resumo-do-ato">Resumo do Ato<a class="headerlink" href="#resumo-do-ato" title="Permanent link"></a></h3>
+<p>No Ato I o clima deve começar descontraído, um dia normal de filmagem e interação entre os Personagens e membros da equipe de filmagem (controlados pelo Diretor). Aos poucos o clima começa a ficar estranho com os Hooks, até culminar no Horror se manifestando e os Personagens precisarem correr desesperadamente procurando um lugar seguro. Personagens irão se machucar e poderão morrer neste Ato.</p>
+<h2 id="ato-ii-revelacao-preparacao">Ato II: Revelação &amp; Preparação<a class="headerlink" href="#ato-ii-revelacao-preparacao" title="Permanent link"></a></h2>
+<p>Uma vez que o perigo iminitente passar, o Ato II começa. Neste ato os Personagens irão caminhar pelo set e seus arredores, Os Personagens devem procurar por <a href="../#pistas">Pistas</a> espalhadas pelo Diretor. Estas Pistas irão <strong>Revelar</strong> qual Horror os Personagens estão enfrentando e como podem matá-lo. Exemplos:</p>
+<ul>
+<li><em>Cartas escondidas em um quarto previamente trancado revelam que o ator era de fato o Drácula, assim como o castelo onde estão é o castelo verdadeiro das lendas</em></li>
+<li><em>Um livro presente na mala de um dos membros da equipe, Van Helsing, revela como matar o Drácula: Cravar uma estaca de madeira em seu coração enquanto dorme em seu caixão, ou expô-lo para a luz do sol</em></li>
+<li><em>Um conto de fadas encontrado em uma biblioteca escondida revela que um colar de alhos impede um vampiro de se transformar em morcego</em></li>
+<li><em>O Assistente atua aterrorizando os Personagens e causando Marcas em Medroson e Chutney</em></li>
+</ul>
+<p>Com as pistas reunidas os Personagens devem começar a se <strong>Preparar</strong> para enfrentar o Horror e matá-lo. Nesta etapa do segundo ato os Pesonagens possivelmente também irão adquirir <a href="../#ferramentas-personagens">Ferramentas</a>. Exemplos:</p>
+<ul>
+<li><em>Personagens discutem o plano para matar o Horror</em></li>
+<li><em>Chutney e Medroson procuram por madeiras e começam a fazer estacas (Ferramenta)</em></li>
+<li><em>O Assistente ataca Chutney na floresta enquanto procurava por madeira, causando Marcas suficientes para matá-lo e criar um novo Assistente</em></li>
+<li><em>Beck cria um colar de alhos (Ferramenta)</em></li>
+<li><em>Beck e Medroson tentam bolar uma armadilha (Ferramenta) para expor o Drácula ao sol caso o plano da estaca falhe</em></li>
+</ul>
+<h3 id="resumo-do-ato_1">Resumo do Ato<a class="headerlink" href="#resumo-do-ato_1" title="Permanent link"></a></h3>
+<p>No Ato II o clima é tenso mas não essencialmente mortal. Os Personagens estarão vagando pelo local, descobrindo segredos e se preparando para o Confronto. O Horror não irá se manifestar como um todo neste Ato, porém eventos de terror podem acontecer, como armadilhas ou os Assistentes atuando. Neste Ato é raro Personagens morrerem, mas não estão isentos de sofrer Marcas.</p>
+<h2 id="ato-iii-confronto-outro">Ato III: Confronto &amp; Outro<a class="headerlink" href="#ato-iii-confronto-outro" title="Permanent link"></a></h2>
+<p>Com os Personagens preparados, o plano começa a entrar em ação. Neste momento o Horror se manifesta em sua força total, perseguindo e caçando os Personagens com a ajuda de seus Assistentes (Personagens mortos). O jogo acaba no momento que todos Personagens estarem mortos ou caso o Horror seja morto. Os Assistentes morrem juntamente com o Horror. Exemplos:</p>
+<ul>
+<li><em>Personagens com suas estacas começam a procurar pelo caixão do Drácula</em></li>
+<li><em>Chega a noite e o Drácula começa a caçar os Personagens</em></li>
+<li><em>Os Assistentes ajudam o Drácula</em></li>
+<li><em>Os 2 Personagens restantes conseguem capturar o Drácula com uma armadilha de urso</em></li>
+<li><em>Medroson se sacrifica colocando o colar de alho em volta do pescoço do Drácula</em></li>
+<li><em>Beck, o único Personagem restante tira os panos das janelas, fazendo o sol queimar o Drácula, acabando assim com o Horror e todos os Assistentes</em></li>
+<li><em>Outro: A polícia chega, guiada por um membro da equipe que conseguiu escapar pra cidade na noite passada, e socorre o herói</em></li>
+</ul>
+<h3 id="resumo-do-ato_2">Resumo do Ato<a class="headerlink" href="#resumo-do-ato_2" title="Permanent link"></a></h3>
+<p>O Ato III deve ser o Ato mais intenso do jogo, onde o Horror e seus Assistentes revelam seus maiores poderes, trazendo altos perigos para os Personagens, matando vários no processo. Idealmente o jogo acaba com o Horror derrotado com apenas um Personagem restante, o herói.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.path", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.51d95adb.min.js"></script>
+      
+    
+  </body>
+</html>
