@@ -11,8 +11,9 @@
 
 .md-typeset h3 {
   color: #7d55c7;
+  /* color: #05C3DD; */
   margin-top: 0;
-  font-weight: 600;
+  font-weight: 475;
   /* font-family: fantasy; */
 }
 
