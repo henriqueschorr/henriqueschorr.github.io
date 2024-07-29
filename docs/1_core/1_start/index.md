@@ -3,12 +3,10 @@
 O primeiro passo a se fazer ao querer jogar Horizon Beyond, é ter uma sessão 0. O intuito desta sessão não é jogar, mas sim, definir a estrutura do jogo que seu grupo deseja jogar e os temas a serem abordados. Nesta sessão seu grupo deve:
 
 1. Definir quem será o GM e quem serão os jogadores
-<!-- 2. Desejam iniciar uma jornada ou fazer um One Shot?
-      1. Caso desejem iniciar uma jornada, devem definir o tamanho do medidor de prosperidade e ruína -->
 2. Qual módulo irão jogar? Irão misturar módulos?
 3. Qual aventura desejam viver? Qual o objetivo desta aventura?
 4. Jogadores devem criar seus personagens
-5. Jogadores devem definir sua equipe da aventura
+5. Jogadores devem definir sua equipe de aventura
 
 Uma vez definido a estrutura do jogo e os jogadores terem criado seus personagens, o GM deve criar a aventura e então vocês estarão prontos para vivê-la.
 
@@ -45,7 +43,7 @@ Uma aventura nada mais é que uma mini-campanha que deve ocorrer em torno de 12 
 
 ## Módulos
 
-Em um módulo você encontrará a história de uma ou mais espécies e tudo o que as afeta. Módulos são os responsáveis por dar a vida ao universo, trazendo detalhes narrativos, oportunidades de aventuras e detalhes de mecânica para uma ou mais espécies de personangens.
+Em um módulo você encontrará a história de uma ou mais espécies e tudo o gira ao redor delas. Módulos são os responsáveis por dar vida ao universo, trazendo detalhes narrativos, oportunidades de aventuras e detalhes de mecânica para uma ou mais espécies de personangens.
 
 Você encontrará o seguinte em módulos:
 
@@ -59,7 +57,7 @@ Você encontrará o seguinte em módulos:
 
 ## Personagem
 
-Cada jogador tomará um papel de um personagem diferente, cabendo a ele contar sua história. Na sessão 0 ou em algum momento antes de começar uma aventura, cada jogador deverá escolher sua espécie e criar seu personagem. Para mais detalhes sobre personagem e criação, veja o capítulo [Personagem](../2_character/index.md).
+Cada jogador (exceto o GM) tomará um papel de um personagem diferente, cabendo a ele contar sua história. Na sessão 0 ou em algum momento antes de começar uma aventura, cada jogador deverá escolher sua espécie e criar seu personagem. Para mais detalhes sobre personagem e criação, veja o capítulo [Personagem](../2_character/index.md).
 
 ## Equipe
 
@@ -69,4 +67,4 @@ Uma equipe é composta por todos os personagens e seus jogadores. Uma equipe pos
 - **Integrantes:** Nome dos personagens que integram a equipe.
 - **Objetivo**: Este é o objetivo principal da aventura e deve ser definido durante a sessão 0 em acordo com todos do grupo.
 <!-- - **Momentum**: Recurso ganho quando sua equipe vence conflitos. Para mais detalhes veja [Momentum](../3_game/resources.md#momentum). -->
-- **Karma**: Recurso ganho quando jogadores falham em ações. Para mais detalhes veja [Karma](../3_game/resources.md#karma).
+<!-- - **Karma**: Recurso ganho quando jogadores falham em ações. Para mais detalhes veja [Karma](../3_game/resources.md#karma). -->

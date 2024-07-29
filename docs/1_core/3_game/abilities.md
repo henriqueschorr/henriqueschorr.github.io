@@ -1,0 +1,3 @@
+Passive
+Trigger
+Active

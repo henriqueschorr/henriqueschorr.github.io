@@ -2,9 +2,6 @@
 title: O Jogo
 ---
 
-Primeiramente: você perdeu "O Jogo" :D.  
-Neste capítulo você encontra informações de como será o andamento do jogo.
-
 ## Fluxo do Jogo
 HB é um jogo de narrativa cooperativa onde o GM e os jogadores estarão em um constante bate-e-volta de interações. Uma boa forma de pensar é que o jogo é dividido em cenas, cada cena geralmente seguindo esse fluxo:
 

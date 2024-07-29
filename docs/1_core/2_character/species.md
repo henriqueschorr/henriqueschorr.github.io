@@ -1,18 +1,18 @@
 ## Visão Geral
 
-| Espécie  | Propriedades              | Características de Destaque     |
-| -------- | ------------------------- | ------------------------------- |
-| Humano   | Orgânico, Humanoid        | A.N.E., Classes e Equipamentos  |
-| Hiver    | Orgânico, Humanoid        | Simbiose, Casta                 |
-| Symbion  | Orgânico, Planta (Fungus) | Simbiose, Arquétipos e Evolução |
-| Evoras   | Orgânico, Inseto          | Evolução                        |
-| Realshir | Elemental                 | Reinos e Elementos              |
-| Kitsuzen | Orgânico, Besta (Raposa)  | Ligação de Alma                 |
-| Egon     | Orgânico, Besta (Lagarto) | Projeção e Elementos            |
+| Espécie  | Propriedades    | Características de Destaque     | Módulo          |
+| -------- | --------------- | ------------------------------- | --------------- |
+| Humano   | Humanoid        | A.N.E., Classes e Equipamentos  | Força Galáctica |
+| Hiver    | Humanoid        | Simbiose, Casta                 |                 |
+| Symbion  | Planta (Fungus) | Simbiose, Arquétipos e Evolução |                 |
+| Evoras   | Inseto          | Evolução                        |                 |
+| Realshir | Elemental       | Reinos e Elementos              |                 |
+| Kitsuzen | Besta (Raposa)  | Ligação de Alma                 |                 |
+| Egon     | Besta (Lagarto) | Projeção e Elementos            |                 |
 
 ### Humano
 
-Após levarem seu planeta natal, Terra, a beira do colapso, Humanos migraram para outros sistemas solares em busca de uma nova casa. Fazendo uso de tecnologias avançadas e de toda sua versatilidade, Humanos foram capazes de terraformar e colonizar um novo planeta, Gaia. Sua ambição levou a criação da Força Galáctica, que se expande constantemente por todos os cantos do universo em busca de novos planetas a serem conquistados, respostas para os mais diversos mistérios e espécies alienígenas para interação. Com acesso a tecnologias de ponta como a Armadura Nano Evolutiva (A.N.E.) e armas de fogo, Humanos são mais que capazes a explorar o universo em busca de novas aventuras.
+Após levarem seu planeta natal, Terra, a beira do colapso, Humanos migraram para outros sistemas solares em busca de uma nova casa. Fazendo uso de tecnologias avançadas e de toda sua versatilidade, foram capazes de terraformar e colonizar um novo planeta, Gaia. Sua ambição levou a criação da Força Galáctica, que se expande constantemente por todos os cantos do universo em busca de novos planetas a serem conquistados, respostas para os mais diversos mistérios e espécies alienígenas para interação. Com acesso a tecnologias de ponta como a Armadura Nano Evolutiva (A.N.E.) e armas de fogo, Humanos são mais que capazes de explorar o universo em busca de novas aventuras.
 
 <!-- #### HIVER
 
