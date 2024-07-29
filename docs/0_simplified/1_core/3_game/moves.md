@@ -1,17 +1,19 @@
 # Moves
 
-Moves (inglês) engloba qualquer ação, reação ou habilidade que um personagem (PC) ou NPC pode realizar.
+Moves (inglês) engloba qualquer ação ou reação que uma criatura (PC ou NPC) pode realizar.
 
 ## Ações Básicas
-PCs e NPCs podem executar basicamente todas as ações básicas como mover, empurrar, saltar, etc. Não há uma lista de ações fixa que deve ser seguida, o céu é o limite, use sua imaginação. Qualquer ação pode ser proposta mas nem toda ação será válida, os jogadores juntamente com o GM entrarão em acordo se algo é possível ou não, sendo o GM a pessoa com palavra final. Um lobo não pode atirar com uma arma por exemplo uma vez que não possui mãos, seja criativo, porém sensato.
+PCs e NPCs podem executar basicamente todas as ações básicas como mover, empurrar, saltar, etc. Não há uma lista de ações fixa que deve ser seguida, o céu é o limite, use sua imaginação. Qualquer ação pode ser proposta, mas nem toda ação será válida. Os jogadores, juntamente com o GM, entrarão em acordo se algo é possível ou não, sendo o GM a pessoa com a palavra final. Um lobo não pode atirar com uma arma, por exemplo, uma vez que não possui mãos. Seja criativo, porém sensato.
 
-Algumas ações, principalmente durante combate ou uma situação de perigo necessitarão de um [Check](./checks.md) para resolver, indicando assim seu grau de sucesso e o desfecho de sua narrativa.
+Algumas ações, principalmente durante combate ou em situação de perigo, necessitarão de um [Check](./checks.md) para resolver, indicando assim seu grau de sucesso e o desfecho de sua narrativa.
 
 Exemplos de ações básicas são:
 
 - [Mover](#mover)
 - [Usar um Equipamento](#uso-de-equipamentos)
 - [Ações envolvendo Ciência](#ações-envolvendo-ciência)
+- Atacar??????
+- Usar Habilidade?????
 - Saltar
 - Empurrar
 - Falar
@@ -20,28 +22,28 @@ Exemplos de ações básicas são:
 
 ### Mover
 
-Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover até distância informada em seu personagem, como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, alguma complicação acontece que impede seu movimento.
+Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover até distância informada em suas ficha, como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, alguma complicação acontece que impede seu movimento.
 
 NPCs podem se mover até distância informada em sua ficha e fazer alguma ação como parte de sua ativação. Caso o GM desejar mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar moves, mas também não precisando fazer um check de Agilidade.
 
 ### Uso de Equipamentos
 
-Usar equipamentos conta como um move porém não é necessário realizar checks, a não ser que indicado o contrário, ou caso você esteja usando o equipamento para auxiliar em alguma tarefa. Por exemplo, se você for simplesmente usar uma lanterna, não há necessidade alguma de realizar um check; porém se você estiver usando um pé-de-cabra para arrombar uma porta, provavelmente seu GM irá requisitar um check.
+Usar equipamentos conta como um move, porém não é necessário realizar checks, a não ser que indicado o contrário, ou caso você esteja usando o equipamento para auxiliar em alguma tarefa. Por exemplo, se você for simplesmente usar uma lanterna, não há necessidade alguma de realizar um check; porém se você estiver usando um pé-de-cabra para arrombar uma porta, provavelmente seu GM irá requisitar um.
 
 ### Ações envolvendo Ciência
 
-Ações envolvendo ciência englobam [Crafting](./crafting.md) ou interações com o ambiente, como por exemplo hackear um dispositivo digital para desbloquear uma porta, pilotar uma nave, operar uma máquina, etc. Todo personagem que pertença a uma espécie com conhecimento científico base pode realizar moves envolvendo ciência normalmente.
+Ações envolvendo ciência englobam [Crafting](./crafting.md) ou interações com o ambiente, como por exemplo, hackear um dispositivo digital para desbloquear uma porta, pilotar uma nave, operar uma máquina, etc. Todo personagem que pertença a uma espécie com conhecimento científico base pode realizar moves envolvendo ciência normalmente.
 
 ## Ataques
 
-Ataques são moves realizados com armas e habilidades com o propósito de causar dano em criaturas inimigas. Um ataque sempre seguirá a seguinte linha de resolução:
+Ataques são moves realizados com armas e habilidades, com o propósito de causar dano em criaturas inimigas. Um ataque sempre seguirá a seguinte linha de resolução:
 
 ### Passo 1: Ataque
 
 1. Escolha 1 ou mais alvos (dependendo da arma/habilidade).
 2. Alvo deve indicar se irá usar alguma [Reação](#reações), gerando uma [Disputa](./checks.md#disputa).
 3. Role o [Check](./checks.md) com o atributo indicado.   
-   Mantenha os dados na "mesa" ou o resultado anotado pois o dano é calculado a partir deles na maioria das vezes.
+   Mantenha os dados na "mesa", ou o resultado anotado, pois o dano é calculado a partir deles na maioria das vezes.
 4. Verifique o [Grau de Sucesso](./checks.md#graus-de-sucesso). Resolva a disputa caso o alvo tenha usado alguma reação.
 5. Calcule o [Dano](./damage.md#calculando-dano) de acordo com o grau de sucesso.  
    Algumas Habilidades ou Propriedades de armas podem modificar o dano.
@@ -50,9 +52,9 @@ Ataques são moves realizados com armas e habilidades com o propósito de causar
 
 Quando um ataque é feito contra <ins>mais de um alvo</ins>, você realiza apenas um check para determinar se acerta os alvos ou não.
 
-Quando um ataque é feito em uma <ins>área</ins>, você não faz um check, mas sim os alvos presentes na área terão que esquivar ou realizar outra reação para evitar o ataque.
+Quando um ataque é feito em uma <ins>área</ins>, você não faz um check, os alvos presentes na área terão que esquivar ou realizar outra reação para evitar o ataque.
 
-Quando você causar <ins>dano em mais de uma criatura</ins>, você rola o dano apenas uma vez e então aplica ele em cada alvo.
+Quando você causar <ins>dano em mais de uma criatura</ins>, você rola o dano apenas uma vez, aplicando o mesmo dano em todos os alvos atingidos.
 
 <!-- 6. Verifique se o alvo possui alguma Resistência, Vulnerabilidade ou Imunidade. Modifique o valor do Dano de acordo. -->
 
@@ -77,28 +79,28 @@ Criatura tenta esquivar de um ataque inimigo realizando um check de Agilidade.
 
 ### Defender
 
-Criatura possui um escudo, outro objeto ou arma natural com a propriedade **Defender**, e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste check depende da arma usada para realizar a defesa.
+Criatura possui um escudo, outro objeto ou arma natural com a propriedade **Defender**, e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste check depende do item usado para realizar a defesa.
 
-Caso o alvo seja si própria:
+Caso o alvo seja si próprio:
 
 **Falha ou Falha Crítica:** Criatura não consegue defender e recebe o dano completo.  
 **Perde a Disputa:** Criatura não consegue defender e recebe o dano completo.  
 **Vence a Disputa:** Criatura consegue defender e não recebe dano algum.  
-**Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após. 
+**Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação imediatamente. 
 
 Caso o alvo seja outra criatura:
 
 **Falha ou Falha Crítica:** Criatura não consegue defender e alvo do ataque recebe o dano completo.   
-**Perde a Disputa:** Criatura defende parcial e o dano completo é dividido (round up) entre ela e o alvo do ataque.   
-**Vence a Disputa:** Criatura consegue defender e não recebe dano algum.  
-**Sucesso Crítico:** Criatura consegue defender, não recebe dano algum e pode realizar uma ação logo após.  
+**Perde a Disputa:** Criatura defende parcialmente e o dano completo é dividido (round up) entre ela e o alvo do ataque.   
+**Vence a Disputa:** Criatura consegue defender e ninguém recebe dano.  
+**Sucesso Crítico:** Criatura consegue defender, ninguém recebe dano e pode realizar uma ação imediatamente.  
 
 ### Resistir
 
 Alguns ataques ou itens do cenário irão causar [Condições](./conditions.md) ou outros efeitos nocivos a uma criatura. Para se proteger deste efeitos a criatura deve Resistir com algum Atributo. A fonte de efeito sempre irá dizer se é possível Resistir e qual Atributo a criatura levará em consideração para realizar este check.
 
 **Falha ou Falha Crítica:** Criatura recebe efeito da fonte normalmente.  
-**Sucesso Parcial:** Criatura recebe efeito pela metade. Arredonde para cima.  
+**Sucesso Parcial:** Criatura recebe efeito pela metade. Divida qualquer número encontrado no efeito (round up).
 **Sucesso ou Sucesso Crítico:** Criatura resiste ao efeito da fonte por completo.
 
 ## Habilidades
