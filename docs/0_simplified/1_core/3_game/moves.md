@@ -9,22 +9,32 @@ Algumas ações, principalmente durante combate ou em situação de perigo, nece
 
 Exemplos de ações básicas são:
 
-- [Mover](#mover)
+<!-- no toc -->
+- [Mover, Saltar, Nadar](#movimento)
+- [Hackear, Desativar, Calcular](#ações-envolvendo-ciência)
 - [Usar um Equipamento](#uso-de-equipamentos)
-- [Ações envolvendo Ciência](#ações-envolvendo-ciência)
-- Atacar??????
-- Usar Habilidade?????
-- Saltar
+- [Atacar](#ataques)
+- [Usar Habilidade](#habilidades)
 - Empurrar
-- Falar
-- Comunicar
+- Negociar
+- Ameaçar
 - etc
 
-### Mover
+### Movimento
 
 Quando sob pressão ou em situações de perigo, como em combate, seu personagem pode se mover até distância informada em suas ficha, como qualquer parte de alguma outra ação, ou fazer um check de Agilidade caso queira se mover para uma distância maior. Caso falhar no check de Agilidade, alguma complicação acontece que impede seu movimento.
 
 NPCs podem se mover até distância informada em sua ficha e fazer alguma ação como parte de sua ativação. Caso o GM desejar mover o NPC para uma distância maior, esse movimento será toda sua ativação, não podendo realizar moves, mas também não precisando fazer um check de Agilidade.
+
+Existem tipos de movimento, estes que identificam como você pode ser mover pelo ambiente.
+
+| Tipo        | Descrição                                                                |
+| ----------- | ------------------------------------------------------------------------ |
+| Aéreo       | Criatura pode voar como um pássaro.                                      |
+| Aquático    | Criatura pode se movimentar livremente quando submersa como um peixe.    |
+| Subterrâneo | Criatura pode cavar túneis e se movimentar por sólidos como uma topeira. |
+| Terrestre   | Criatura se movimenta em chão firme e horizontal como um humano.         |
+| Vertical    | Criatura pode escalar paredes e tetos livremente como uma aranha.        |
 
 ### Uso de Equipamentos
 
@@ -32,7 +42,7 @@ Usar equipamentos conta como um move, porém não é necessário realizar checks
 
 ### Ações envolvendo Ciência
 
-Ações envolvendo ciência englobam [Crafting](./crafting.md) ou interações com o ambiente, como por exemplo, hackear um dispositivo digital para desbloquear uma porta, pilotar uma nave, operar uma máquina, etc. Todo personagem que pertença a uma espécie com conhecimento científico base pode realizar moves envolvendo ciência normalmente.
+Ações envolvendo ciência englobam [Crafting](./crafting.md) ou interações com itens no ambiente, como por exemplo, hackear um dispositivo digital para desbloquear uma porta, desativar uma bomba, etc. Todo personagem que pertença a uma espécie com conhecimento científico base pode realizar moves envolvendo ciência normalmente.
 
 ## Ataques
 
@@ -105,7 +115,7 @@ Alguns ataques ou itens do cenário irão causar [Condições](./conditions.md) 
 
 ## Habilidades
 
-PCs e alguns NPCs possuirão Habilidades, estas que também são consideradas ações e/ou reações caso informada, que possuem efeitos fortes e perigosos. Habilidades geralmente terão um custo em Caos, Stress, Terror ou outro recurso.
+PCs e alguns NPCs possuirão Habilidades Ativas. Habilidades são ações e/ou reações com efeitos poderosos.Habilidades geralmente terão um custo em Caos, Stress, Terror ou outro recurso.
 <!-- 
 ## Ações de Equipe
 
