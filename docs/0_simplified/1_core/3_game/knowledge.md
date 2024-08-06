@@ -42,5 +42,6 @@ Receitas possuem níveis, seu Cérebro determinar o nível que você pode realiz
 Receitas sempre serão apresentadas da seguinte forma:
 
 **Nome:** Nome da receita.  
+**Nível:** Simples, Avançada ou Especial.  
 **Tempo:** Tempo necessário para realizar a receita, geralmente 10min.  
-**Efeito:** Efeito da receita ao ser completada.
+**Efeito:** Efeito da receita ao ser completada.  

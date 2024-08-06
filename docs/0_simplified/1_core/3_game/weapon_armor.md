@@ -25,6 +25,9 @@ Indica as [Propriedades](./properties.md#propriedades-de-armas), se alguma, liga
 #### Moves
 Armas podem lhe dar acesso a moves exclusivos que podem ser usados com ela.
 
+#### Habilidades
+Armas podem lhe dar acesso a habilidades exclusivas que podem ser usados com ela.
+
 ## Armaduras
 
 Armaduras são equipamentos ou qualquer parte do seu corpo que serve como proteção. Armaduras lhe concederão Armor Points (AP). Em geral você poderá usar apenas uma armadura por vez. Assim como armas, as armaduras variam entre espécies, mas todas possuem características em comuns.
@@ -49,3 +52,6 @@ Indica as [Propriedades](./properties.md#propriedades-de-armaduras), se alguma, 
 
 #### Moves
 Armaduras podem lhe dar acesso a moves exclusivos que podem ser usados com ela.
+
+#### Habilidades
+Armaduras podem lhe dar acesso a habilidades exclusivas que podem ser usados com ela.
