@@ -14,14 +14,14 @@ Resiliência representa um conjunto de características que determinam sua forti
 
 ### Marcando AP e Ferida
 
-Quando o GM lhe diz para tomar dano, compare o valor do dano com os limites e marque a quantidade de AP ou Ferida de acordo com o nível de dano:
+Quando o GM lhe diz para receber dano, compare o valor do dano com os limites e marque a quantidade de AP ou Ferida de acordo com o nível de dano:
 
 - **Dano abaixo de Leve:** você não recebe dano.
 - **Dano Leve:** marque 1 AP/Ferida.
 - **Dano Alto:** marque 2 AP/Feridas.
 - **Dano Severo:** marque 3 AP/Feridas.
 
-Se você marcar seu último AP, narrativamente sua armadura fica danificada e mecanicamente você fica sem AP até você recuperar de alguma forma, sendo ela automática com o tempo ou através de consertos ou recursos, isso vai depender da sua espécie.
+Se você marcar seu último AP, narrativamente sua armadura fica danificada, mecanicamente você fica sem AP até recuperá-lo de alguma forma. AP pode ser recuperado de forma automática ao longo do tempo, ou através de consertos, habilidades, recursos, etc. A maneira que isto acontece depende de sua espécie e armadura.
 
 Se você marcar sua última Ferida, você morre.
 

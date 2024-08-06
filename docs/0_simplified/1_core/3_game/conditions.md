@@ -1,8 +1,8 @@
 # Condições
 
-Condições são efeitos ou circustâncias que influenciam em como checks ou moves são executadas, ou como criaturas se comportam.
+Condições são efeitos ou circustâncias que influenciam em como checks ou moves são executados, ou como criaturas se comportam.
 
-Algumas condições são temporárias e virão acompanhadas de um número que representa o [Countdown](./countdown.md) informado logo após, como por exemplo Debilitado 2. Outras será necessário que a criatura realize algum tipo de move para acabar com o efeito da condição, este geralmente descrito no ataque que causou a condição ou especificado pelo GM. Outras terão countdown e também podem ter seu efeito interrompido por algum move.
+Algumas condições são temporárias e virão acompanhadas de um número que representa o [Countdown](./countdown.md) informado logo após, como por exemplo Debilitado 2. Outras é necessário que a criatura realize algum tipo de move para acabar com o efeito da condição, este geralmente descrito no ataque que causou a condição, ou especificado pelo GM. Outras terão countdown e também podem ter seu efeito interrompido por algum move.
 
 Condições estão separadas em Aflições, que causam efeitos negativos, e Buffs, que causam efeitos positivos.
 

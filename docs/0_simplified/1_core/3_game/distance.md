@@ -6,7 +6,7 @@ HB pode ser jogado com mapa ou sem, mas para um combate mais tático, é recomen
 
 Como HB foi projetado para se jogar em um grid/hex, todo alcance e distância é metido em valores numéricos de tiles/hex. Cada tile/hex equivale a 2m. Por exemplo, uma arma com alcance 10 pode atacar até uma distância de 10, ou seja, 20m. A única exceção é a distância Adjacente, que significa que uma criatura está ao lado uma da outra.
 
-### Tamanho
+## Tamanho
 
 Tamanho indica de forma genérica uma faixa de tamanho em que seu personagem se encaixa, em metros. Esse indicador serve para ajudar na determinação de mecânicas como proteção, e indicar quantos tiles/hexes seu personagem ocupa em um mapa.
 

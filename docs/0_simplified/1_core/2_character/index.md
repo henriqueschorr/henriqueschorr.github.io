@@ -8,6 +8,7 @@ Atualmente você tem acesso somente a espécie Humano, encontrada no módulo da 
 
 - [Tamanho](../3_game/distance.md): Minúsculo, Pequeno, Médio, Grande ou Gigante.
 - [Movimento](../3_game/distance.md#movimento): Geralmente Terrestre 3.
+- [Conhecimento](../3_game/knowledge.md): Nível de conhcimento científico e receitas que pode produzir.
 
 ## Passo 2: Escolha seu Caminho
 
@@ -29,6 +30,7 @@ Um caminho <ins>pode conter</ins>:
 - [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário): Itens utilitários de uso geral.
 - [Moves (inglês)](../3_game/moves.md): Ações e Reações que seu personagem poderá realizar, além das comuns.
 - [Habilidades](../3_game/abilities.md): Passivas, Engatilhadas ou Ativas.
+- [Conhecimento](../3_game/knowledge.md): Nível de conhcimento científico e receitas que pode produzir.
 
 Para cada item acima, o seguinte pode ser informado:
 

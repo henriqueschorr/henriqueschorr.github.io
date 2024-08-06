@@ -1,6 +1,6 @@
 ## Dano
 
-Quando você ter sucesso em um [Check](./checks.md) de [Ataque](./actions.md#ataques) contra um alvo, você irá utilizar os mesmos dados do check para determinar quanto dano e quantas Feridas você infringirá no alvo, ou AP caso ele possua. Algumas Habilidades ou Propriedades de armas podem modificar o dano.
+Quando você tem sucesso em um [Check](./checks.md) de [Ataque](./actions.md#ataques) contra um alvo, você utiliza os mesmos dados do check para determinar quanto dano e quantas Feridas você infringirá no alvo, ou AP caso ele possua. Algumas Habilidades ou Propriedades de armas podem modificar o dano.
 
 ### Calculando Dano
 

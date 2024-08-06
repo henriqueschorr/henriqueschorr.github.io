@@ -1,10 +1,10 @@
 # Dano
 
-Quando você ter sucesso em um [Check](./checks.md) de [Ataque](./moves.md#ataques) contra um alvo, você irá utilizar os mesmos dados do check para determinar quanto dano e quantas Feridas você infringirá no alvo, ou AP caso ele possua. Algumas Habilidades ou Propriedades de armas podem modificar o dano.
+Quando você tem sucesso em um [Check](./checks.md) de [Ataque](./moves.md#ataques) contra um alvo, você utiliza os mesmos dados do check para determinar quanto de dano e quantos AP/Feridas o alvo deve marcar. Algumas Habilidades ou Propriedades de armas podem modificar cálculo abaixo.
 
 ## Calculando Dano
 
-Após rolar o check e determinar que você irá causar dano no alvo, calcule o dano de acordo com o grau de sucesso:
+Considere o grau de sucesso do seu check para calcular o dano, como abaixo:
 
 **Sucesso Parcial:** <ins>Maior</ins> valor rolado no check.  
 **Sucesso:** <ins>Soma</ins> dos 2 <ins>maiores</ins> valores rolado no check.  
@@ -40,7 +40,7 @@ Remella rola 1d6 que é o dano da arma, tirando um 3. Remella verifica o valor d
 
 ## Dano Dinâmico
 
-Você verá em algumas habilidades, armas, equipamentos ou qualquer outro item que cause dano, algumas frases entre sinais de maior/menor: <>. Isto serve para indicar formas de calcular o dano dinamicamente, geralmente para acompanhar a progressão do seu personagem e ameaça das criaturas. Os exemplos mais comuns são:
+Você verá em algumas habilidades, armas, equipamentos ou qualquer outro item que cause dano, algumas frases entre sinais de maior/menor: <>. Isto serve para indicar formas de calcular o dano dinamicamente, geralmente para acompanhar a progressão de ameaça das criaturas quanto ao seu personagem. Os exemplos mais comuns são:
 
 **< Xd Atributo>:** Indica que você deve rolar X dados do atributo informado. Por exemplo <3d Força> indica que você deve rolar 3 dados Força para calcular o dano.  
 **< seu nível>:** Indica que você deve somar o seu nível ao dano. Por exemplo, se você estiver nível 3, você soma 3 ao dano.

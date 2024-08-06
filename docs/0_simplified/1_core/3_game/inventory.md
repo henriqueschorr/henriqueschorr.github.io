@@ -15,6 +15,8 @@ _Em seu inventário Remella ainda possui "1x granada", que seu tipo será decidi
 
 Usar equipamentos conta como um move porém não é necessário realizar checks, a não ser que indicado o contrário, ou caso você esteja usando o equipamento para auxiliar em alguma tarefa. Por exemplo, se você for simplesmente usar uma lanterna, não há necessidade alguma de realizar um check; porém se você estiver usando um pé-de-cabra para arrombar uma porta, provavelmente seu GM irá requisitar um check.
 
+Equipamentos também podem prover Moves exclusivos.
+
 ## Munição
 
 Alguns armas e equipamentos podem fazer uso de munição. Em HB não fazemos a contagem de munição para armas que usam munições comuns, por exemplo, você não precisará contar quantas flechas ainda tem para atirar com seu arco, ou balas para sua pistola. Munições também irão varia entre armas e espécies, mas você sempre usará os nomes genéricos descritos abaixo.

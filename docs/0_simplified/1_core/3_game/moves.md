@@ -2,7 +2,7 @@
 
 Moves (inglês) engloba qualquer ação ou reação que uma criatura (PC ou NPC) pode realizar.
 
-## Ações Básicas
+## Ações
 PCs e NPCs podem executar basicamente todas as ações básicas como mover, empurrar, saltar, etc. Não há uma lista de ações fixa que deve ser seguida, o céu é o limite, use sua imaginação. Qualquer ação pode ser proposta, mas nem toda ação será válida. Os jogadores, juntamente com o GM, entrarão em acordo se algo é possível ou não, sendo o GM a pessoa com a palavra final. Um lobo não pode atirar com uma arma, por exemplo, uma vez que não possui mãos. Seja criativo, porém sensato.
 
 Algumas ações, principalmente durante combate ou em situação de perigo, necessitarão de um [Check](./checks.md) para resolver, indicando assim seu grau de sucesso e o desfecho de sua narrativa.
@@ -12,8 +12,8 @@ Exemplos de ações básicas são:
 <!-- no toc -->
 - [Mover, Saltar, Nadar](#movimento)
 - [Hackear, Desativar, Calcular](#ações-envolvendo-ciência)
-- [Usar um Equipamento](#uso-de-equipamentos)
 - [Atacar](#ataques)
+- [Usar um Equipamento](#uso-de-equipamentos)
 - [Usar Habilidade](#habilidades)
 - Empurrar
 - Negociar
@@ -42,13 +42,20 @@ Usar equipamentos conta como um move, porém não é necessário realizar checks
 
 ### Ações envolvendo Ciência
 
-Ações envolvendo ciência englobam [Crafting](./crafting.md) ou interações com itens no ambiente, como por exemplo, hackear um dispositivo digital para desbloquear uma porta, desativar uma bomba, etc. Todo personagem que pertença a uma espécie com conhecimento científico base pode realizar moves envolvendo ciência normalmente.
+Se sua espécie possui um nível de [conhecimento de ciência](./knowledge.md#ciência) Base, você pode realizar ações, como: 
 
-## Ataques
+* Hackear um dispositivo digital para desbloquear uma porta
+* Desativar uma bomba
+* Fazer uma ligação direta de um veículo
+* [Crafting](./crafting.md)
+
+Caso você seja perito em alguma das áreas da ciência, seu check de ação envolvendo aquela área é realizado com Vantagem.
+
+### Ataques
 
 Ataques são moves realizados com armas e habilidades, com o propósito de causar dano em criaturas inimigas. Um ataque sempre seguirá a seguinte linha de resolução:
 
-### Passo 1: Ataque
+#### Passo 1: Ataque
 
 1. Escolha 1 ou mais alvos (dependendo da arma/habilidade).
 2. Alvo deve indicar se irá usar alguma [Reação](#reações), gerando uma [Disputa](./checks.md#disputa).
@@ -68,7 +75,7 @@ Quando você causar <ins>dano em mais de uma criatura</ins>, você rola o dano a
 
 <!-- 6. Verifique se o alvo possui alguma Resistência, Vulnerabilidade ou Imunidade. Modifique o valor do Dano de acordo. -->
 
-### Passo 2: Efeitos
+#### Passo 2: Efeitos
 
 Algumas armas/habilidades irão ter efeitos adicionais devido a alguma [Propriedade](./properties.md#propriedades-de-armas) ou outra característica, como por exemplo [Recarregar](./properties.md#recarregar), ou aplicarão [Condições](./conditions.md). Condições só serão aplicadas caso o ataque tenha causado dano, a não ser que indicado o contrário.
 
@@ -110,7 +117,7 @@ Caso o alvo seja outra criatura:
 Alguns ataques ou itens do cenário irão causar [Condições](./conditions.md) ou outros efeitos nocivos a uma criatura. Para se proteger deste efeitos a criatura deve Resistir com algum Atributo. A fonte de efeito sempre irá dizer se é possível Resistir e qual Atributo a criatura levará em consideração para realizar este check.
 
 **Falha ou Falha Crítica:** Criatura recebe efeito da fonte normalmente.  
-**Sucesso Parcial:** Criatura recebe efeito pela metade. Divida qualquer número encontrado no efeito (round up).
+**Sucesso Parcial:** Criatura recebe efeito pela metade. Divida qualquer número encontrado no efeito (round up).  
 **Sucesso ou Sucesso Crítico:** Criatura resiste ao efeito da fonte por completo.
 
 ## Habilidades

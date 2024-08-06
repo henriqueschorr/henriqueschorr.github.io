@@ -3,7 +3,7 @@
 Abaixo você encontra a lista dos atributos do seu personagem, assim como uma breve explicação do que eles representam e exemplos de cenários onde eles serão aplicados. Ao lado do nome de cada um segue exemplos de ações que seu personagem pode executar, sendo elas apenas inspirações, não se limite a elas. O uso de atributos para ações é <ins>dinâmico</ins> e depende do contexto, exemplos:
 
 _Quer intimidar uma criatura com ameaças verbais? Use Influência.  
-Quer intimidar a criatura quebrando algum objeto e ameaçando apenas com sua presença? Use Físico._ 
+Quer intimidar a criatura quebrando algum objeto e ameaçando apenas com sua presença? Use Força._ 
 
 _Quer desativar um dipositivo digital tentando hack? Use Cérebro.   
 Quer desativar um dispositivo digital abrindo-o e mexendo em seus componentes? Use Controle._  

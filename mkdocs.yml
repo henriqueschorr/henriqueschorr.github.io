@@ -23,12 +23,15 @@ nav:
         - 0_simplified/1_core/2_character/index.md
       - O Jogo:
         - 0_simplified/1_core/3_game/index.md
+        - Atributos: 0_simplified/1_core/3_game/attributes.md
         - Combate: 0_simplified/1_core/3_game/combat.md
         - Moves: 0_simplified/1_core/3_game/moves.md
-        - Passivas: 0_simplified/1_core/3_game/passives.md
+        - Habilidades: 0_simplified/1_core/3_game/abilities.md
+        # - Passivas: 0_simplified/1_core/3_game/passives.md
         - Checks: 0_simplified/1_core/3_game/checks.md
         - Resiliência: 0_simplified/1_core/3_game/resilience.md
         - Recursos: 0_simplified/1_core/3_game/resources.md
+        - Conhecimento: 0_simplified/1_core/3_game/knowledge.md
         - Dano: 0_simplified/1_core/3_game/damage.md
         - Condições: 0_simplified/1_core/3_game/conditions.md
         - Countdowns: 0_simplified/1_core/3_game/countdown.md

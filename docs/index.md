@@ -4,11 +4,11 @@ title: Introdução
 
 ![](./0_assets/images/HB.png)
 
-**Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que esses termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
-
 ## Bem Vindo a Horizon Beyond
 
 Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em _**Cinematic Tactical Adventure Sci-Fi Fantasy**_. Neste módulo você encontrará regras para mecânicas bases do jogo, garantindo seu funcionamento para os mais diversos temas de aventuras.
+
+**Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que esses termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
 
  <!-- com ênfase em sci-fi. Neste sistema você irá encontrar regras para mecânicas bases que irão guiar seus jogos nos mais diferentes estilos de aventuras e campanhas. Além disso você também encontra neste módulo o Universo base e as leis que regem ele. -->
 
