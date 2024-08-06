@@ -24,13 +24,13 @@ Um caminho <ins>sempre terá</ins>:
 Um caminho <ins>pode conter</ins>:
 
 <!-- - [Passivas](../3_game/passives.md): Habilidades, características ou efeitos de seu personagem que estão sempre ativos. -->
+- [Conhecimento](../3_game/knowledge.md): Nível de conhcimento científico e receitas que pode produzir.
 - [Movimento](../3_game/distance.md#movimento): Seu personagem pode possuir movimentos adicionais dependendo do caminho escolhido.
 - [Armas](../3_game/weapon_armor.md#armas): Equipamentos ou Armas Naturais que podem ser usadas ofensivamente.
 - [Armaduras](../3_game/weapon_armor.md#armaduras): Equipamentos ou Armaduras Naturais que podem ser usadas defensivamente.
 - [Equipamentos](../3_game/inventory.md#equipamentos-e-inventário): Itens utilitários de uso geral.
 - [Moves (inglês)](../3_game/moves.md): Ações e Reações que seu personagem poderá realizar, além das comuns.
 - [Habilidades](../3_game/abilities.md): Passivas, Engatilhadas ou Ativas.
-- [Conhecimento](../3_game/knowledge.md): Nível de conhcimento científico e receitas que pode produzir.
 
 Para cada item acima, o seguinte pode ser informado:
 

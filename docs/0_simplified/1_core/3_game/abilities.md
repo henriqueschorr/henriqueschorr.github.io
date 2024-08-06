@@ -5,7 +5,7 @@ Habilidades podem ser passivas, engatilhas ou ativas exclusivas de espécie e, a
 Habilidades Passivas hão características e/ou efeitos que estão sempre ativos. Exemplos:
 
 - Ao escolher um aprimoramento que lhe dá um estômago reforçado, você recebe a seguinte passiva:
-  - Você pode consumir qualquer tipo de criatura orgânica e em qualquer estado de decomposição, ignorando qualquer efeito nocivo previamente a sua saúde.
+    - Você pode consumir qualquer tipo de criatura orgânica e em qualquer estado de decomposição, ignorando qualquer efeito nocivo previamente a sua saúde.
 - Você escolhe uma espécie que lhe permite respirar embaixo da água além de na superfície.
 
 ## Habilidades Engatilhadas
