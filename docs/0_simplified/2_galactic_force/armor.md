@@ -9,4 +9,4 @@ Abaixo segue as características de A.N.E.
 **Nome:** A.N.E.  
 **Carga:** Leve/Média/Média-Pesada/Pesada  
 **AP:** 2/3/4/6
-**Propriedades:** Comunicador, Lanterna.
+**Equipamentos:** 1x Comunicador, 1x Lanterna.
