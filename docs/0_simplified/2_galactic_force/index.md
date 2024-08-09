@@ -27,7 +27,7 @@
 - **Conhecimento:** Perícia em Biologia ou Química
 - **Armas:** Multigun
 - **Armadura:** A.N.E. Leve ou Média
-- **Equipamentos:** 3x Componentes Químicos
+- **Equipamentos:** 3x Dardos Infusores com conteúdo
 - **Habilidades:** Scan - Orgânicos
 - **Aprimoramentos:** A.N.E. e Multigun
 

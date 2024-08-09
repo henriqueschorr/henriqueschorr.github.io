@@ -10,6 +10,7 @@
 | Calmante Simples          | Inalação. Desmarca 1 Stress.                                                                                                                          |
 | Composto Elemental        | Toque. Todas as criaturas em uma área de 4m recebem dano igual a <2d Cérebro> + < seu nível>. O tipo de dano é Químico (Fogo, Gelo, Ácido ou Veneno). |
 | Comunicador               |                                                                                                                                                       |
+| Dardo Infusor             | Dardo que pode conter um Composto Químico. Pode ser aplicado manualmente ou lançado pela Multigun.                                                    |
 | Eclipse                   | Inalação. Criatura perde todos os sentidos e fica Incapacitado 2.                                                                                     |
 | Escorregação              | Toque. Todas as criaturas em uma área de 4m caem e ficam Vulnerável 1.                                                                                |
 | Ferrugem                  | Toque. Causa Dano Alto em AP. Dano Severo caso Construto.                                                                                             |
@@ -40,13 +41,15 @@ Toque: Indica que o componente químico é acionado assim que entrar em contato 
 
 ## Drone Forja
 
-Possui a forma de um cubo cinza sem nenhum orifício, interface ou dispositivo aparente. Acompanha seu Engenheiro, geralmente flutuando próximo a um de seus ombros. Mantém um tamanho de 15cm³, mas estende seu tamanho indefinadamente para assumir novas formas.  
+Possui a forma de um cubo cinza sem nenhum orifício, interface ou dispositivo aparente. Acompanha seu Engenheiro, geralmente flutuando próximo a um de seus ombros. Mantém um tamanho de 15cm³, mas estende seu tamanho indefinadamente para assumir novas formas.
 
-* Possui apenas AP e, quando chega a 0, se torna inutilizável pelas próximas 24 horas.
-* Ao utilizar Habilidades do Drone Forja, use o Caos do seu próprio personagem.
-* Você não gasta moves para dar comandos ao drone.
-* Seus comandos podem ser realizados através de comandos mentais.
-* O drone pode se afastar até 100m de você antes de se tornar inoperável e ficar em espera.
+- O drone conta como uma criatura e age durante o turno da equipe, possuindo 2 ações e 1 reação.
+- Você não gasta moves para dar comandos ao drone.
+- Seus comandos podem ser realizados através de comandos mentais.
+- Ações do drone que necessitam checks utilizam seus Atributos para realizá-los.
+- Ao utilizar Habilidades do Drone Forja, use o Caos do seu próprio personagem.
+- O drone pode se afastar até 100m de você antes de se tornar inoperável e ficar em espera.
+- Possui apenas AP e, quando chega a 0, se torna inutilizável pelas próximas 24 horas.
 
 ### Características
 
@@ -58,14 +61,15 @@ Possui a forma de um cubo cinza sem nenhum orifício, interface ou dispositivo a
 
 ## Hoverboard
 
-Uma Hoverboard que pode voar rapidamente e carregar até uma criatura média. 
+Uma Hoverboard que pode voar rapidamente e carregar até uma criatura média.
 
-* Possui apenas AP e, quando chega a 0, se torna inutilizável pelas próximas 24 horas.
-* Ao utilizar Habilidades da Hoverboard, use o Caos do seu próprio personagem.
+- Ações da Hoverboard que necessitam checks utilizam seus Atributos para realizá-los.
+- Ao utilizar Habilidades da Hoverboard, use o Caos do seu próprio personagem.
+- Possui apenas AP e, quando chega a 0, se torna inutilizável pelas próximas 24 horas.
 
 ### Características
 
 - **Movimento:** Aéreo 6
 - **Limites de Dano:** 1 | 3 | 5
 - **AP:** 4
-- **Equipamentos:** 1x Lanterna
+- **Equipamentos:** 1x Lanterna, 2x Lâmina Montada
