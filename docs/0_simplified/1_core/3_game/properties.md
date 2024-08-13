@@ -64,11 +64,11 @@ Propriedades de armaduras identificam características pertinentes a certas mec�
 <!-- #### Carta
 Indica que a armadura possui propriedades especiais e possui uma carta explicativa.-->
 
-#### Comunicador
-Armadura possui um comunicador integrado que permite conversação a distâncias 50.
+<!-- #### Comunicador
+Armadura possui um comunicador integrado que permite conversação a distâncias 50. -->
 
-#### Lanterna
-Armadura possui uma lanterna que permite iluminar áreas até distância 10 com escuridão. 
+<!-- #### Lanterna
+Armadura possui uma lanterna que permite iluminar áreas até distância 10 com escuridão.  -->
 
 #### Monitor
 Monitor de informações básicas de saúde, resiliência e outros detalhes como temperatura do ambiente e níveis de oxigênio. Também possui memória interna que pode armazenar notas e outros dados desejados.

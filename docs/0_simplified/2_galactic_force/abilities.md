@@ -30,6 +30,19 @@ Seus próximos 3 ataques com esta arma causam dano Químico (Fogo ou Gelo) em ve
 
 Sempre que você realizar um ataque com Vantagem, adicione <2x seu nível> ao dano.
 
+## Ciencista
+
+### Scan: Orgânicos
+
+**Moves:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Você obtém as seguintes informações até alcance 20:
+
+- Materiais orgânicos nocivos no ambiente
+- Criaturas orgânicas escondidas
+- Informações sobre resiliência de uma criatura orgânica de ameaça Campeão ou inferior, a sua escolha
+
 ## Coilgun
 
 ### Esfera Tesla
@@ -47,6 +60,19 @@ Faça um ataque contra uma criatura, todos inimigos no caminho e até distância
 **Custo:** 1 Caos.
 
 Drone se transforma em uma torre metralhadora montada em alguma superfície. Neste modo o Drone não pode se mover, mas pode atacar com seu Rifle Montado. Além disso, pode realizar um ataque como Reação quando um inimigo se mover em direção a um aliado.
+
+## Engenheiro
+
+### Scan: Construtos
+
+**Moves:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Você obtém as seguintes informações até alcance 20:
+
+- Armadilhas ou dispositivos no ambiente
+- Criaturas construtos escondidas
+- Informações sobre resiliência de uma criatura construto de ameaça Campeão ou inferior, a sua escolha
 
 ## Hoverboard
 

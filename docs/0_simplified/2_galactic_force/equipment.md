@@ -2,26 +2,27 @@
 
 | Nome                      | Efeito                                                                                                                                                |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Armadilha de Atordoamento |                                                                                                                                                       |
-| Armadilha de Congelamento |                                                                                                                                                       |
-| Armadilha de Trovão       |                                                                                                                                                       |
+| Armadilha de Atordoamento | Criatura fica Incapacitado 2.                                                                                                                         |
+| Armadilha de Congelamento | Todos em área 4 ficam Presos 2.                                                                                                                       |
+| Armadilha de Trovão       | Todos em área 4 ficam Debilitados 2.                                                                                                                  |
 | Asfalto                   | Toque. Criatura fica Preso 2. Inflámavel: Caso a criatura sofra dano Fogo, ela recebe Dano Persistente 2.                                             |
 | Calmante Avançado         | Inalação. Desmarca 3 Stress.                                                                                                                          |
 | Calmante Simples          | Inalação. Desmarca 1 Stress.                                                                                                                          |
 | Composto Elemental        | Toque. Todas as criaturas em uma área de 4m recebem dano igual a <2d Cérebro> + < seu nível>. O tipo de dano é Químico (Fogo, Gelo, Ácido ou Veneno). |
-| Comunicador               |                                                                                                                                                       |
+| Comunicador               | Permite conversação via subvocalização até distância 100.                                                                                             |
 | Dardo Infusor             | Dardo que pode conter um Composto Químico. Pode ser aplicado manualmente ou lançado pela Multigun.                                                    |
 | Eclipse                   | Inalação. Criatura perde todos os sentidos e fica Incapacitado 2.                                                                                     |
 | Escorregação              | Toque. Todas as criaturas em uma área de 4m caem e ficam Vulnerável 1.                                                                                |
 | Ferrugem                  | Toque. Causa Dano Alto em AP. Dano Severo caso Construto.                                                                                             |
-| Granada de Atordoamento   |                                                                                                                                                       |
-| Granada de Fragmentação   |                                                                                                                                                       |
-| Granada de Luz            |                                                                                                                                                       |
-| Granada Termobárica       |                                                                                                                                                       |
+| Granada de Atordoamento   | Todos em área 4 ficam Incapacitado 1.                                                                                                                 |
+| Granada de Fragmentação   | Todos em área 4 recebem <4d Controle> + < seu nível> de dano Físico.                                                                                  |
+| Granada de Luz            | Todos em área 6 recebem <1d Controle> + < seu nível> de dano Neural e ficam Debilitados e Vulnerável 2.                                               |
+| Granada Termobárica       | Todos em área 4 recebem <4d Controle> + < seu nível> de dano Químico.                                                                                 |
 | Hemofólico                | Aplicação. Countdown 1: Causa 1 Ferida toda vez que a criatura recebe dano de um ataque.                                                              |
 | Kit Médico Avançado       | Desmarca 5 Feridas e 2 Stress. 10 minutos de aplicação.                                                                                               |
 | Kit Médico Simples        | Desmarca 3 Feridas e 1 Stress. 10 minutos de aplicação.                                                                                               |
-| Lanterna                  |                                                                                                                                                       |
+| Lanterna                  | Permite iluminar áreas até distância 10.                                                                                                              |
+| Lázarus                   | Permite ressucitar uma criatura que morreu nas últimas 24 horas.                                                                                      |
 | Liberador                 | Inalação. Diminui em 2 algum Countdown de aflição.                                                                                                    |
 | Lobotomia                 | Aplicação. Causa 2 Stress em alguma criatura.                                                                                                         |
 | Med-Gel Avançado          | Aplicação. Desmarca 3 Feridas.                                                                                                                        |
