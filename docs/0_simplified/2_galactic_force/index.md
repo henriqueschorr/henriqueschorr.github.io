@@ -1,7 +1,7 @@
 ## Humanos
 
 - **Tamanho:** Médio
-- **Movimento:** Terrestre 3
+- **Movimento:** Terrestre 3, Aquático 2
 - **Conhecimento:** Base em todas as áreas da ciência
 
 ## Caminhos
