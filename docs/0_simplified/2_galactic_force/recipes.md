@@ -17,7 +17,7 @@
 | Nome                    | Nível    | Tempo   | Efeito                                                                                                                                          |
 | ----------------------- | -------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nano-Fix                | Simples  | 10min   | Recupera 1 AP.                                                                                                                                  |
-| Munição Avançada        | Simples  | 5min    | Tipo pode ser decidido quando for usá-la.                                                                                                       |
+| Munição Avançada        | Avançado  | 5min    | Tipo pode ser decidido quando for usá-la.                                                                                                       |
 | Armadilha               | Avançado | 30min   | Tipo pode ser decidido quando for usá-la.                                                                                                       |
 | Construto: Movimento    | Avançado | 3 horas | Criatura recebe um tipo de movimento adicional: Aquático, Subterrâneo ou Vertical. Uma criatura pode receber este aprimoramento apenas uma vez. |
 | Construto: Revestimento | Avançado | 3 horas | Criatura tem seus Limites de Dano aumentado em 2. Uma criatura pode receber este aprimoramento apenas uma vez.                                  |

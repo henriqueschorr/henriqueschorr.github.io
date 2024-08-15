@@ -14,7 +14,7 @@
 - **Caos:** 2
 - **Armas:** Arco-Caos, Lâmina Fragmento
 - **Armadura:** A.N.E. Leve
-- **Equipamentos:** 1x Armadilha
+- **Equipamentos:** 1x Armadilha, 1x Kit Médico Simples
 - **Habilidades:** Assassinato
 - **Aprimoramentos:** A.N.E., Arco-Caos e Lâmina Fragmento
 - **Atributos Recomendados:** Agilidade e Controle
@@ -28,7 +28,7 @@
 - **Conhecimento:** Perícia em Biologia ou Química
 - **Armas:** Multigun
 - **Armadura:** A.N.E. Leve ou Média
-- **Equipamentos:** 3x Dardos Infusores com conteúdo
+- **Equipamentos:** 3x Dardos Infusores com conteúdo, 1x Kit Médico Simples
 - **Habilidades:** Scan - Orgânicos
 - **Aprimoramentos:** A.N.E. e Multigun
 - **Atributos Recomendados:** Controle e Cérebro
@@ -42,7 +42,7 @@
 - **Conhecimento:** Perícia em Engenharia
 - **Armas:** Coilgun
 - **Armadura:** A.N.E. Leve ou Média
-- **Equipamentos:** Drone Forja
+- **Equipamentos:** Drone Forja, 1x Kit Médico Simples
 - **Habilidades:** Scan - Construtos
 - **Aprimoramentos:** A.N.E., Coilgun e Drone Forja
 - **Atributos Recomendados:** Controle e Cérebro
@@ -55,9 +55,9 @@
 - **Caos:** 2
 - **Armas:** Pistola Cinética
 - **Armadura:** A.N.E. Leve
-- **Equipamentos:** Hoverboard
+- **Equipamentos:** Hoverboard, 1x Kit Médico Simples
 - **Aprimoramentos:** A.N.E., Pistola Cinética e Hoverboard
-- **Atributos Recomendados:** Agilidade e Controle
+- **Atributos Recomendados:** Controle e Atenção
 
 ### Soldado
 
@@ -67,7 +67,7 @@
 - **Caos:** 2
 - **Armas:** Omnigun
 - **Armadura:** A.N.E. Leve ou Média
-- **Equipamentos:** 1x Granada
+- **Equipamentos:** 1x Granada, 1x Kit Médico Simples
 - **Aprimoramentos:** A.N.E. e Omnigun
 - **Atributos Recomendados:** Controle
 
