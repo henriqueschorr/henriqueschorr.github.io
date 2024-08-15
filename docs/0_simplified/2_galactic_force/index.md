@@ -17,6 +17,7 @@
 - **Equipamentos:** 1x Armadilha
 - **Habilidades:** Assassinato
 - **Aprimoramentos:** A.N.E., Arco-Caos e Lâmina Fragmento
+- **Atributos Recomendados:** Agilidade e Controle
 
 ### Cientista
 
@@ -30,6 +31,7 @@
 - **Equipamentos:** 3x Dardos Infusores com conteúdo
 - **Habilidades:** Scan - Orgânicos
 - **Aprimoramentos:** A.N.E. e Multigun
+- **Atributos Recomendados:** Controle e Cérebro
 
 ### Engenheiro
 
@@ -43,6 +45,7 @@
 - **Equipamentos:** Drone Forja
 - **Habilidades:** Scan - Construtos
 - **Aprimoramentos:** A.N.E., Coilgun e Drone Forja
+- **Atributos Recomendados:** Controle e Cérebro
 
 ### Piloto
 
@@ -54,6 +57,7 @@
 - **Armadura:** A.N.E. Leve
 - **Equipamentos:** Hoverboard
 - **Aprimoramentos:** A.N.E., Pistola Cinética e Hoverboard
+- **Atributos Recomendados:** Agilidade e Controle
 
 ### Soldado
 
@@ -65,4 +69,5 @@
 - **Armadura:** A.N.E. Leve ou Média
 - **Equipamentos:** 1x Granada
 - **Aprimoramentos:** A.N.E. e Omnigun
+- **Atributos Recomendados:** Controle
 

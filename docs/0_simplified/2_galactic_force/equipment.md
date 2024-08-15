@@ -22,7 +22,7 @@
 | Kit Médico Avançado       | Desmarca 5 Feridas e 2 Stress. 10 minutos de aplicação.                                                                                               |
 | Kit Médico Simples        | Desmarca 3 Feridas e 1 Stress. 10 minutos de aplicação.                                                                                               |
 | Lanterna                  | Permite iluminar áreas até distância 10.                                                                                                              |
-| Lázarus                   | Permite ressucitar uma criatura que morreu nas últimas 24 horas.                                                                                      |
+| Lázarus                   | Permite ressucitar uma criatura que morreu nas últimas 24 horas. Descartado após uso.                                                                 |
 | Liberador                 | Inalação. Diminui em 2 algum Countdown de aflição.                                                                                                    |
 | Lobotomia                 | Aplicação. Causa 2 Stress em alguma criatura.                                                                                                         |
 | Med-Gel Avançado          | Aplicação. Desmarca 3 Feridas.                                                                                                                        |
@@ -30,15 +30,15 @@
 | Munição Avançada          | Munição do tipo Avançada que causa 1d6 dano extra do tipo Químico, Energia ou Neural. Escolha na hora do uso.                                         |
 | Nano Fix Avançado         | Recupera 3 AP.                                                                                                                                        |
 | Nano Fix Simples          | Recupera 1 AP.                                                                                                                                        |
-| Neutralizador             | Aplicação. Diminui em 1 algum Countdown de aflição seu.                                                                                               |
+| Neutralizador             | Aplicação. Diminui em 1 algum Countdown de aflição.                                                                                               |
 | Parede                    | Toque. Cria uma estrutura de 2m x 2m e 30cm de espessura. A estrutura possui 5 AP.                                                                    |
 | Ritalina                  | Inalação. Criatura fica Incentivado 1.                                                                                                                |
 | Sobrecarga                | Inalação. Criatura fica Acelerado 2.                                                                                                                  |
 | Ventania                  | Toque. Todas as criaturas em uma área de 4m são empurradas 4m para trás e ficam Debilitado 1.                                                         |
 
-Aplicação: Indica que o acionamento do componente químico ocorre quando ele entra no corpo da criatura, seja por vias sanguíneas, ingestão, etc.  
-Inalação: Indica que é necessário respirar o gás.  
-Toque: Indica que o componente químico é acionado assim que entrar em contato com alguma superfície.
+**Aplicação:** Indica que o acionamento do componente químico ocorre quando ele entra no corpo da criatura, seja por vias sanguíneas, ingestão, etc. Só tem efeito em inimigos caso estes estejam sem AP.   
+**Inalação:** Indica que é necessário respirar o gás.  
+**Toque:** Indica que o componente químico é acionado assim que entrar em contato com alguma superfície.
 
 ## Drone Forja
 
