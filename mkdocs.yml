@@ -46,12 +46,12 @@ nav:
         - Aprimoramentos: 0_simplified/1_core/3_game/upgrades.md
     - Força Galáctica:
       - 0_simplified/2_galactic_force/index.md
-      - Moves: 0_simplified\2_galactic_force\moves.md
-      - Habilidades: 0_simplified\2_galactic_force\abilities.md
-      - Armas: 0_simplified\2_galactic_force\weapons.md
-      - Armaduras: 0_simplified\2_galactic_force\armor.md
-      - Equipamentos: 0_simplified\2_galactic_force\equipment.md
-      - Receitas: 0_simplified\2_galactic_force\recipes.md
+      - Moves: 0_simplified\test\moves.md
+      - Habilidades: 0_simplified\test\abilities.md
+      - Armas: 0_simplified\test\weapons.md
+      - Armaduras: 0_simplified\test\armor.md
+      - Equipamentos: 0_simplified\test\equipment.md
+      - Receitas: 0_simplified\test\recipes.md
 
     # - Manuscrito:
     #   - 1_core/index.md
