@@ -21,49 +21,41 @@ theme:
 nav:
     - index.md
     # - Links Úteis: links.md
-    - Manuscrito:
-      - 0_complete/1_manuscript/index.md
-      - Seu Personagem: 
-        - 0_complete/1_manuscript/character/index.md
-        - Inventário: 0_complete/1_manuscript/character/inventory.md
-        - Progressão: 0_complete/1_manuscript/character/progression.md
+    - Manuscrito (Jogador):
+      - 0_complete/1_manuscript_player/index.md
+      - Seu Personagem:
+        - 0_complete/1_manuscript_player/character/index.md
+        # properties
+        - Atributos: 0_complete/1_manuscript_player/character/attributes.md
+        # - Conhecimento: ciencia e receitas
+        # Senses
+        - Resiliência: 0_complete/1_manuscript_player/character/resilience.md #resiliencia, nível de stress, panic roll, parando panico, recuperação
+        - Moves: 0_complete/1_manuscript_player/character/moves.md #ações, reações, habilidades, movimento, ambushes e sneak attack, usando equipamento, comunicação
+        - Habilidades: 0_complete/1_manuscript_player/character/abilities.md #passiva, engatilhadas, ativas        
+        - Armas: 0_complete/1_manuscript_player/character/weapons.md #features, propriedades
+        - Armadura: 0_complete/1_manuscript_player/character/armor.md
+        #   Equipamentos: features, propriedades
+        #   Consumíveis: composto químicos e etc
+        # recursos e suprimentos
+        # - Inventário: 0_complete/1_manuscript_player/character/inventory.md
+        #   Transport: veículos e montarias
+        #   Companions: orgânicos e sintéticos 
+        # - Progressão: 0_complete/1_manuscript_player/character/progression.md
     #   Equipe:
     #     Geral: nome, membros, etc
     #     Agenda: objetivos, missão, etc
     #     Suprimentos: agua, comida, ar, energia, checks de suprimentos
     #     Recursos: momentum e karma
-      - Checks: 0_complete/1_manuscript/checks.md         
-    #   Scene Modes: exploration, combat, conflito social (negociação e interrogação), investigação, perseguição ou fuga, rest
-      - Combate:  
-        - 0_complete/1_manuscript/combat/index.md
-        - Dano e Morte: 0_complete/1_manuscript/combat/damage.md
-        - Stress e Pânico: 0_complete/1_manuscript/combat/stress.md
-
-
- 
-
-
-
-    #     Dano: cálculo, dinâmico, tipos de dano e efeitos, recuperação, critical injuries, morte
-    #     Stress e Panico: nível de stress, panic roll, parando panico, recuperação
-    #   Descanso: bla bla recuperação e crafting
-    #   Atributos: list
-    #   Moves: ações, reações, habilidades, movimento, ambushes e sneak attack, usando equipamento, comunicação
-    #   Habilidades: habilidades
-    #   Resiliência: resiliencia
-    #   Recursos: recursos
-    #   Conhecimento: ciencia e receitas
-    #   Habilidades: passiva, engatilhadas, ativas
+      # - Checks: 0_complete/1_manuscript_player/checks.md         
+    #   Scene Modes: exploration, combat, conflito social (negociação e interrogação), investigação, perseguição ou fuga, stealth, rest
+      # - Combate: 0_complete/1_manuscript_player/combat/index.md
+      # - Dano e Pânico: 0_complete/1_manuscript_player/combat/damage.md      
     #   Condições: buffs e aflições
     #   Hazards: armadilhas, vacuo, explosões, radiação, starving, desidratação, exaustão, freezing, queda, fogo, doença, afogamento, sufocamento
-    #   Armas: features, propriedades
-    #   Armadura: features, propriedades
-    #   Equipamentos: features, propriedades
-    #   Consumíveis: composto químicos e etc
-    #   Transport: veículos e montarias
-    #   Companions: orgânicos e sintéticos
+    #   Descanso: bla bla recuperação e crafting    
     #   Crafting: e tal
     #   Criaturas: propriedades, nível de ameaça
+    
 
     # Força Galática:
     #   overview: o que é, espécies, temas

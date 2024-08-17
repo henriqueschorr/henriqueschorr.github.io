@@ -12,7 +12,7 @@ Atualmente você tem acesso somente a espécie Humano, encontrada no módulo da 
 
 - [Tamanho](): Minúsculo, Pequeno, Médio, Grande ou Gigante.
 - [Movimento](): Representa o terreno que você pode se movimentar e velocidade.
-- [Conhecimento](): Nível de conhecimento científico e receitas que pode produzir.
+<!-- - [Conhecimento](): Nível de conhecimento científico e receitas que pode produzir. -->
 
 ## Passo 2: Escolha seu Caminho
 
@@ -30,7 +30,7 @@ Um caminho <ins>sempre tem</ins>:
 
 Um caminho <ins>pode conter</ins>:
 
-- [Conhecimento](): Nível de conhecimento científico e receitas que pode produzir.
+<!-- - [Conhecimento](): Nível de conhecimento científico e receitas que pode produzir. -->
 - [Movimento](): Você pode possuir movimentos adicionais dependendo do caminho escolhido.
 - [Armas](): Equipamentos ou Armas Naturais que podem ser usadas ofensivamente.
 - [Armaduras](): Equipamentos ou Armaduras Naturais que podem ser usadas defensivamente.

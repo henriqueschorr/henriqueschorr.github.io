@@ -121,6 +121,7 @@ Para jogar este jogo, você precisa das seguintes ferramentas:
 
 - [Ficha de Personagem]()
 - 1 a 3 conjuntos de dados (d6 a d12)
+- Tokens para Ação, Reação e Terror
 - Cartas de Moves, Habilidades, etc (opcional)
 
 <!-- Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em _**Cinematic Tactical Adventure Sci-Fi Fantasy**_. Neste módulo você encontrará regras para mecânicas bases do jogo, garantindo seu funcionamento para os mais diversos temas de aventuras.

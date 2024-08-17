@@ -1,6 +1,6 @@
 Quando a resolução de um Move é dúbio e pode resultar em consquências diferentes e interessantes - como por exemplo, um ataque - o GM pode requisitar a realização de um Check.
 
-Um check em BTH consiste em rolar um dado do Atributo associado ao Move e então verificar seu resultado. Este dado recebe o nome de Dado Base e pode variar entre d6 a d12. Um check sem disputa tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com [Disputa](#disputa) é comparado com o resultado da oposição.
+Um check em BTH consiste em rolar um dado do [Atributo]() associado ao Move e então verificar seu resultado. Este dado recebe o nome de Dado Base e pode variar entre d6 a d12. Um check sem disputa tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com [Disputa](#disputa) é comparado com o resultado da oposição.
 
 Sempre é importante manter o resultado dos checks na "mesa", ou anotados, em caso de [Ataques](), pois eles também determinam o dano.
 
