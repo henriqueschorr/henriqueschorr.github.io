@@ -4,6 +4,9 @@ theme:
   font:
     title: Orbitron
     text: Roboto
+  palette:
+    primary: black
+    accent: deep purple
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -19,34 +22,28 @@ nav:
     - index.md
     # - Links Úteis: links.md
     - Manuscrito:
-      - 0_complete/index.md
-    #     Introdução: o que é, universo, PC e NPC
-    #     Módulos: espécies, sistemas, mundos, histórias
-    #     Modos de Jogo: One Shot & Aventura
-    #     Temas: Exploração espacial, sci-fi, fantasia, terror e ação
-    #     Ferramentas de Jogo: character sheet, dices, cards
-    #   Personagens:
-    #     Criação: espécies, caminhos, avançar atributos, escolher aprimoramentos, personal stuff
-    #     Geral: atributos, moves, habilidades, resiliência, recursos, conhecimento, propriedades
-    #     Inventário: invetário
-    #     Geral 2: armas, armaduras, equipamentos, consumíveis,         
-    #     Personal stuff: nome, aparência, manerismos, tamanho, agenda (objetivos), conexões (pessoas e organizações)  
-    #     Progressão: Subindo de nível, aprimoramentos
+      - 0_complete/1_manuscript/index.md
+      - Seu Personagem: 
+        - 0_complete/1_manuscript/character/index.md
+        - Inventário: 0_complete/1_manuscript/character/inventory.md
+        - Progressão: 0_complete/1_manuscript/character/progression.md
     #   Equipe:
     #     Geral: nome, membros, etc
     #     Agenda: objetivos, missão, etc
     #     Suprimentos: agua, comida, ar, energia, checks de suprimentos
     #     Recursos: momentum e karma
-    #   Checks: roll, possible outcomes, pushing roll (stress), modifications, difficulty, opposed rolls, group roll, help from others            
-    #   Scene Modes: exploration, combat, social disput, rest
-    #   Combat:  
-    #     Tempo e espaço: mapa, grids, tamanhos, distânica, movimento, bordas e linha de visão, tempo
-    #     Organização: tokens de ação, tokens de Terror, dados de reação
-    #     Turnos: surpresa, equipe e GM  
-    #     Countdown: turno, dinâmico     
-    #     Alvo: alvos 
-    #     close combat: block, grapple, retreat
-    #     ranged attack: cover, munição
+      - Checks: 0_complete/1_manuscript/checks.md         
+    #   Scene Modes: exploration, combat, conflito social (negociação e interrogação), investigação, perseguição ou fuga, rest
+      - Combate:  
+        - 0_complete/1_manuscript/combat/index.md
+        - Dano e Morte: 0_complete/1_manuscript/combat/damage.md
+        - Stress e Pânico: 0_complete/1_manuscript/combat/stress.md
+
+
+ 
+
+
+
     #     Dano: cálculo, dinâmico, tipos de dano e efeitos, recuperação, critical injuries, morte
     #     Stress e Panico: nível de stress, panic roll, parando panico, recuperação
     #   Descanso: bla bla recuperação e crafting
@@ -101,39 +98,39 @@ nav:
     #   Aventura exemplo: aqui
 
 
-      - Personagem:
-        - 1_simplified/1_core/2_character/index.md
-      - O Jogo:
-        - 1_simplified/1_core/3_game/index.md
-        - Atributos: 1_simplified/1_core/3_game/attributes.md
-        - Combate: 1_simplified/1_core/3_game/combat.md
-        - Moves: 1_simplified/1_core/3_game/moves.md
-        - Habilidades: 1_simplified/1_core/3_game/abilities.md
+      # - Personagem:
+      #   - 1_simplified/1_core/2_character/index.md
+      # - O Jogo:
+      #   - 1_simplified/1_core/3_game/index.md
+      #   - Atributos: 1_simplified/1_core/3_game/attributes.md
+      #   - Combate: 1_simplified/1_core/3_game/combat.md
+      #   - Moves: 1_simplified/1_core/3_game/moves.md
+      #   - Habilidades: 1_simplified/1_core/3_game/abilities.md
         # - Passivas: 1_simplified/1_core/3_game/passives.md
-        - Checks: 1_simplified/1_core/3_game/checks.md
-        - Resiliência: 1_simplified/1_core/3_game/resilience.md
-        - Recursos: 1_simplified/1_core/3_game/resources.md
-        - Conhecimento: 1_simplified/1_core/3_game/knowledge.md
-        - Dano: 1_simplified/1_core/3_game/damage.md
-        - Condições: 1_simplified/1_core/3_game/conditions.md
-        - Countdowns: 1_simplified/1_core/3_game/countdown.md
-        - Distância e Tamanho: 1_simplified/1_core/3_game/distance.md
-        - Alvos e Proteção: 1_simplified/1_core/3_game/target.md
-        - Descanso: 1_simplified/1_core/3_game/rest.md
-        - Armas e Armaduras: 1_simplified/1_core/3_game/weapon_armor.md
-        - Inventário, Equipamento e Munições: 1_simplified/1_core/3_game/inventory.md
-        - Crafting: 1_simplified/1_core/3_game/crafting.md
-        - Criaturas e Monstros: 1_simplified/1_core/3_game/creatures.md
-        - Propriedades: 1_simplified/1_core/3_game/properties.md
-        - Aprimoramentos: 1_simplified/1_core/3_game/upgrades.md
-    - Força Galáctica:
-      - 1_simplified/2_galactic_force/index.md
-      - Moves: 1_simplified/2_galactic_force/moves.md
-      - Habilidades: 1_simplified/2_galactic_force/abilities.md
-      - Armas: 1_simplified/2_galactic_force/weapons.md
-      - Armaduras: 1_simplified/2_galactic_force/armor.md
-      - Equipamentos: 1_simplified/2_galactic_force/equipment.md
-      - Receitas: 1_simplified/2_galactic_force/recipes.md
+    #     - Checks: 1_simplified/1_core/3_game/checks.md
+    #     - Resiliência: 1_simplified/1_core/3_game/resilience.md
+    #     - Recursos: 1_simplified/1_core/3_game/resources.md
+    #     - Conhecimento: 1_simplified/1_core/3_game/knowledge.md
+    #     - Dano: 1_simplified/1_core/3_game/damage.md
+    #     - Condições: 1_simplified/1_core/3_game/conditions.md
+    #     - Countdowns: 1_simplified/1_core/3_game/countdown.md
+    #     - Distância e Tamanho: 1_simplified/1_core/3_game/distance.md
+    #     - Alvos e Proteção: 1_simplified/1_core/3_game/target.md
+    #     - Descanso: 1_simplified/1_core/3_game/rest.md
+    #     - Armas e Armaduras: 1_simplified/1_core/3_game/weapon_armor.md
+    #     - Inventário, Equipamento e Munições: 1_simplified/1_core/3_game/inventory.md
+    #     - Crafting: 1_simplified/1_core/3_game/crafting.md
+    #     - Criaturas e Monstros: 1_simplified/1_core/3_game/creatures.md
+    #     - Propriedades: 1_simplified/1_core/3_game/properties.md
+    #     - Aprimoramentos: 1_simplified/1_core/3_game/upgrades.md
+    # - Força Galáctica:
+    #   - 1_simplified/2_galactic_force/index.md
+    #   - Moves: 1_simplified/2_galactic_force/moves.md
+    #   - Habilidades: 1_simplified/2_galactic_force/abilities.md
+    #   - Armas: 1_simplified/2_galactic_force/weapons.md
+    #   - Armaduras: 1_simplified/2_galactic_force/armor.md
+    #   - Equipamentos: 1_simplified/2_galactic_force/equipment.md
+    #   - Receitas: 1_simplified/2_galactic_force/recipes.md
 
     # - Manuscrito:
     #   - 1_core/index.md

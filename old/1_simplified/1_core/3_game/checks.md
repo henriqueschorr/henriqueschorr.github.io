@@ -39,7 +39,7 @@ Certas situações, efeitos ou [Condições](./conditions.md) irão modificar o 
 
 ### Disputa
 
-Uma disputa acontece quando você tenta realizar um move contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela esquiva, ou quando você tenta negociar um valor de um item com um vendedor. O mesmo vale quando você reage ao move de algum inimigo.  
+Uma disputa acontece quando você tenta realizar um move contra alguma criatura que irá reagir, como por exemplo, quando você ataca uma criatura e ela tenta esquivar, ou quando você tenta negociar um valor de um item com um vendedor. O mesmo vale quando você reage ao move de algum inimigo.  
 Na disputa, ambos os lados irão rolar seu check e então comparar os resultados para determinar a resolução.
 
 1. Se quem iniciou a disputa falhar, o outro lado vence automaticamente.
