@@ -23,7 +23,7 @@ Mais do que tudo, é sobre diversão e saber o que lhe espera Além do Horizonte
 ## Como ler o jogo?
 
 Nesta página você encontra informações gerais, um resumo do que o jogo se trata e como é jogado.  
-No [Manuscrito](./0_complete/1_manuscript/index.md), você encontra as mecânicas e regras bases para jogar um jogo neste modelo.  
+No [Manuscrito](./0_complete/1_manuscript_player/index.md), você encontra as mecânicas e regras bases para jogar um jogo neste modelo.  
 Na [Força Galáctica](./0_complete/2_galactic-force/index.md), você contra as espécies de Humanos (Ordinário e A.N.E.) e o meio em que habitam, assim como seus itens.
 
 ## Universo
@@ -50,7 +50,7 @@ A tecnologia depende do módulo e espécie que você decide jogar. Enquanto Huma
 
 ## Módulos
 
-Enquanto no [Manuscrito](./0_complete/1_manuscript/index.md) você encontra as mecânicas e regras bases para jogar BTH, detalhes do mundo e espécies serão encontradas em módulos separados. Quando você e seus amigos decidirem começar um jogo, um dos primeiros passos é a decisão do módulo e espécies que desejam jogar. Abaixo você encontra um preview do planejamento de módulos e espécies presentes em cada um.
+Enquanto no [Manuscrito](./0_complete/1_manuscript_player/index.md) você encontra as mecânicas e regras bases para jogar BTH, detalhes do mundo e espécies serão encontradas em módulos separados. Quando você e seus amigos decidirem começar um jogo, um dos primeiros passos é a decisão do módulo e espécies que desejam jogar. Abaixo você encontra um preview do planejamento de módulos e espécies presentes em cada um.
 
 | Espécie             | Características                                                           | Módulo           |
 | ------------------- | ------------------------------------------------------------------------- | ---------------- |
@@ -81,7 +81,7 @@ O GM descreve os resultados e consequências das ações dos PCs, mas o que acon
 
 ## O Jogo
 
-O jogo é uma conversação entre os jogadores e o GM, um bate e volta de narrativa. O GM descreve o que está presente e acontece em volta dos PCs, os jogadores descrevem como desejam reagir, o GM narra as consequências e resultados. Se uma situação crítica - como um combate - aparece, é hora de começar a rolar dados - veja mais em [Checks](./0_complete/1_manuscript/checks.md).
+O jogo é uma conversação entre os jogadores e o GM, um bate e volta de narrativa. O GM descreve o que está presente e acontece em volta dos PCs, os jogadores descrevem como desejam reagir, o GM narra as consequências e resultados. Se uma situação crítica - como um combate - aparece, é hora de começar a rolar dados - veja mais em [Checks](./0_complete/1_manuscript_player/checks.md).
 
 ### Modos de Jogo
 

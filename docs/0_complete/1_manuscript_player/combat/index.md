@@ -43,12 +43,6 @@ Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se en
 
 Alcances e Distâncias, quando curtas a moderadas, sempre serão indicadas em um valor de Grid/Hexes. Basta então multiplcar o valor por 2 para ter a medida em metros. Por exemplo, se uma arma tem alcance 10, quer dizer que ela consegue atingir alvos até 10 Grids/Hexes - ou 20m - de distância.
 
-### Movimento
-
-Qualquer movimento voluntário, acima de 2m, durante o turno de equipe, conta como uma Ação e 1 Token de Ação deve ser entregue ao GM. Para cada Ação de movimento, você pode mover-se até a distância indicada em seu personagem. Você tem a opção de se movimentar o dobro da distância realizando um check de Agilidade.
-
-Qualquer movimento em Terreno Difícil, ou se arrastando, necessita de um check de Agilidade.
-
 ### Alvos
 
 Certos Moves, como ataques, terão como requisito a escolha de um alvo. Um alvo pode ser único, múltiplos ou uma área. Um alvo é válido somente quando você tem linha de visão, alcance e bordas abertas entre você e ele. Exceções podem acontecer; estas estarão escritas explicitamente.
@@ -96,16 +90,16 @@ Caso não haja surpresa por parte do GM, a equipe de jogadores executa seu turno
 Considere os seguintes pontos durante o turno da Equipe de jogadores:
 
 - Todos jogadores recuperam todas suas Reações.
-- Todos os [Countdown de Turno]() presentes nos PCs diminuem em 1.
+- Todos os [Countdown de Turno](#countdown-turno) presentes nos PCs diminuem em 1.
 - Não há ordem de iniciativa, qualquer jogador pode executar Moves na ordem que quiser.
-- Não há limites de [Moves]() que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantos e quaisquer Moves desejarem.
+- Não há limites de [Moves](./moves.md) que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantos e quaisquer Moves desejarem.
 - Para cada Move que um jogador realizar durante este turno, 1 Token de Ação deve ser alcançado ao GM.
-- NPCs podem realizar apenas [Reações](), estando ativos ou inativos.
+- NPCs podem realizar apenas [Reações](./moves.md#reações), estando ativos ou inativos.
 
 Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 
 **Sucesso ou Sucesso Crítico:** Turno de Equipe continua normalmente.  
-**Sucesso Parcial:** GM pode jogar caso gaste 3 [Tokens de Ação](), caso contrário, Turno de Equipe continua normalmente.  
+**Sucesso Parcial:** GM pode jogar caso gaste 3 Tokens de Ação, caso contrário, Turno de Equipe continua normalmente.  
 **Falha ou Falha Crítica:** GM pode jogar.
 
 ### Turdo do GM
@@ -113,7 +107,7 @@ Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 Considere os seguintes pontos durante o turno do GM:
 
 - Todos os NPCs recuperam todas suas Reações.
-- Todos os [Countdown de Turno]() presentes nos NPCs diminuem em 1.
+- Todos os [Countdown de Turno](#countdown-turno) presentes nos NPCs diminuem em 1.
 - GM pode **ativar** criaturas gastando Tokens de Ação. 1 Token de Ação = 1 Criatura ativa.
 - O GM pode realizar 1 Move para cada criatura ativa, deixando-a então inativa. Exceções podem acontecer; estas estarão escritas explicitamente.
 - PCs podem realizar apenas Reações.
@@ -145,7 +139,7 @@ Quando o countdown chega a 0 ou a ultima parte do relógio é marcada, o evento 
 
 ### Countdown Turno
 
-Alguns efeitos, como **condições**, têm valores fixos atrelados (exemplo Debilitado 2). Nesse tipo de countdown, o evento segue sempre que o turno do lado afetado começa. Por exemplo, se uma criatura do GM aplica a condição Debilitado 2 em seu personagem, o countdown diminui em 1 sempre que o turno de equipe começa.
+Alguns efeitos, como [Condições](), têm valores fixos atrelados (exemplo Debilitado 2). Nesse tipo de countdown, o evento segue sempre que o turno do lado afetado começa. Por exemplo, se uma criatura do GM aplica a condição Debilitado 2 em seu personagem, o countdown diminui em 1 sempre que o turno de equipe começa.
 
 ### Countdown Dinâmico
 

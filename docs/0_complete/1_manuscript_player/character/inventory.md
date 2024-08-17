@@ -1,4 +1,10 @@
-Algumas espécies, como os Humanos, poderão usar e carregar equipamentos, consumíveis e outros consigo durante a aventura. Estes devem estar anotados em seu Inventário. Algumas espécies, como o Evoras, não podem usar itens ou equipamentos, portanto não terão inventário. Não há limite mecanicamente para o número de itens que você pode carregar, mas tente usar o bom senso; por exemplo, não tente carregar um carro no seu bolso; ou ainda, 35 armas diferentes na sua mochila.
+Algumas espécies, como os Humanos, podem usar e carregar itens -objetos - consigo durante a aventura. Todo e qualquer objeto em uso, ou no inventário do seu personagem, é considerado um equipamento. Porém, alguns possuem classificações especiais - o caso de [armas](./weapons.md), [armaduras](./armor.md) e [consumíveis]().
+
+Enquanto armas, armaduras e consumíveis possuem suas áreas próprias na ficha de personagem, equipamentos ficam em seu inventário. São itens de uso geral e variam entre espécies, podendo ir de uma simples caneta até bombas nucleares.
+
+O uso de Equipamentos durante combate segue certas regras que podem ser vistas [aqui](../combat/moves.md#usando-equipamento-ou-consumível).
+
+Algumas espécies, como o Evoras, não podem usar itens ou equipamentos, portanto não terão inventário. Não há limite mecanicamente para o número de itens que você pode carregar, mas tente usar o bom senso; por exemplo, não tente carregar um carro no seu bolso; ou ainda, 35 armas diferentes na sua mochila.
 
 ### Equipamentos com Variações Semelhantes
 
