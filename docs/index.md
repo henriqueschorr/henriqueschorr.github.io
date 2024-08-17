@@ -2,13 +2,130 @@
 title: Introdução
 ---
 
-![](./0_assets/images/HB.png)
+<!-- # Beyond the Horizon -->
 
-## Bem Vindo a Horizon Beyond
+# Seja bem vindo a Beyond the Horizon
 
-Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em _**Cinematic Tactical Adventure Sci-Fi Fantasy**_. Neste módulo você encontrará regras para mecânicas bases do jogo, garantindo seu funcionamento para os mais diversos temas de aventuras.
+![](0_assets/images/event_horizon.jpg)
 
-**Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que esses termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
+<!-- ![](./0_assets/images/HB.png) -->
+
+Beyond the Horizon (BTH) é um framework design para Tabletop Role-Playing Games (TTRPGs). Aqui você encontrará todas as regras e mecânicas base necessárias para jogar qualquer módulo entregue neste fomato. O universo é brevemente explicado aqui, porém informações mais detalhadas serão encontradas em módulos separados.
+
+**Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que estes termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
+
+## O que é Beyond the Horizon?
+
+O espaço é vasto, e nada amigável. Vácuo, radiação, buracos negros, supernovas, meteoros, tudo pode te matar ou até, antes disso, cozinhar seu cérebro. O espaço também não é vazio, diversas criaturas e outras formas de vida, além de Humanos, transitam e vivem por ele.  
+BTH é sobre as variedade de espécies, é sobre contato e exploração, é sobre enfrentar seus medos, é sobre descobrir respostas para os mistérios do universo e sobreviver o tempo bastante para gritá-las, correndo o perigo de ninguém lhe escutar.  
+Mais do que tudo, é sobre diversão e saber o que lhe espera Além do Horizonte.
+
+## Como ler o jogo?
+
+Nesta página você encontra informações gerais, um resumo do que o jogo se trata e como é jogado.  
+No [Manuscrito](./0_complete/1_manuscript/index.md), você encontra as mecânicas e regras bases para jogar um jogo neste modelo.  
+Na [Força Galáctica](./0_complete/2_galactic-force/index.md), você contra as espécies de Humanos (Ordinário e A.N.E.) e o meio em que habitam, assim como seus itens.
+
+## Universo
+
+O universo de Beyond the Horizon é equivalente ao nosso; mesmo sistema solar, galáxias parecidas, mesmas leis da física, porém, também tem grandes diferenças.
+
+### Galáxias, Planetas e outros corpos celeste
+
+No universo de BTH você verá nomes conhecidos de galáxias, estrelas, sóis, planetas e qualquer outro corpo celeste, porém, seus posicionamentos, composições e outros detalhes podem ser completamente diferentes.
+
+### Regentes do Universo e Caos
+
+O universo é regido por três forças (algumas culturas o classificam como entidades): Expansão, Ordem e Colapso. Estas três forças manipulam o Caos, que é a matéria que compõem tudo e todos, em ordem para manter o universo.  
+O Caos pode ser trazido de seu plano para o nosso através da Expansão. A Ordem o manipula em sua forma desejada. Colapso detrói a ordem e recicla a matéria novamente para o plano do Caos.  
+Criaturas, incluindo personagens jogáveis, objetos e outros fenômenos da natureza podem ter acesso limitado ao Caos e, força suficiente para manipulá-lo a sua vontade.
+
+### Espécies
+
+Variedade de espécies é o que não falta no mundo de BTH, sejam elas jogáveis ou não jogáveis. Cada espécie, incluindo Humanos, será apresentada através de módulos a parte. Cada espécie possuirá suas próprias características; mecânicas, comportamentais, sociais, etc.
+
+### Tecnologia
+
+A tecnologia depende do módulo e espécie que você decide jogar. Enquanto Humanos possuem acesso a alta tecnologia, outras espécies, como os Evoras, não fazem uso de tecnologia alguma.
+
+## Módulos
+
+Enquanto no [Manuscrito](./0_complete/1_manuscript/index.md) você encontra as mecânicas e regras bases para jogar BTH, detalhes do mundo e espécies serão encontradas em módulos separados. Quando você e seus amigos decidirem começar um jogo, um dos primeiros passos é a decisão do módulo e espécies que desejam jogar. Abaixo você encontra um preview do planejamento de módulos e espécies presentes em cada um.
+
+| Espécie             | Características                                                           | Módulo           |
+| ------------------- | ------------------------------------------------------------------------- | ---------------- |
+| Humanos (Ordinário) | Humanos ordinários vivendo sua vida no espaço em outra galáxia.           | Força Galáctica  |
+| Humanos (A.N.E.)    | Humanos que fazem uso da Armadura Nano Evolutiva.                         | Força Galáctica  |
+| Hiver               | Humanos que abandonaram sua origem para viver em simbiose com o ambiente. | Simbiose         |
+| Symbion             | Fungus que vive em simbionte com outras criaturas orgânicas.              | Simbiose         |
+| Evoras              | Inseto em constante evolução e mutação.                                   | Evolução         |
+| Realshir            | Elemental em busca de aperfeiçoamento de todos os elementos.              | Evolução         |
+| Kitsuzen            | Pequeno humanoid com aparência de raposa. Sua cultura lembra a asiática.  | Arte e Corpo     |
+| Egon                | Mistura entre lobo e lagarto que usa párticulas como areia, neve, etc.    | Arte e Corpo     |
+| Humanos (Sanguine)  | Humanos na Terra e que possuem poderes baseados na cor de seu sangue.     | Nova Velha Terra |
+| Humanos (Cyber)     | Humanos que lembram Cyberpunks.                                           | Nova Velha Terra |
+| Humanos (Mística)   | Humanos que fazem uso de tatuagens mágicas baseadas em misticismos.       | Nova Velha Terra |
+
+**Disclaimer:** Neste play test somente os Humanos Ordinários e A.N.E., do módulo Força Galáctica, estarão disponíveis para escolha.
+
+## Jogadores e Game Master
+
+Todo jogador, exceto um, assume o papel de um personagem jogável (PC). Você poderá ser um Humano Cientista ou Soldado, um Evoras Aracnídeo, um Egon do Deserto, ou diversas outras criaturas.  
+Cabe a você imaginar e interpretar seu PC. Cada espécie tem suas peculariedades de cultura e personalidade, você encontra informações que lhe ajudam a interpretar um membro da espécie escolhida em cada módulo.  
+Os personagens de jogadores são sempre os protagonistas das aventuras. O jogo é sobre você, sobre suas decisões, sua história.
+
+O jogador restante é o Game Master (GM). Ele é responsável por narrar o mundo e a história. É responsável por desafiar o restante dos jogadores, seja por perigos do mundo e espaço, ou através de criaturas e monstros. Criaturas controladas pelo GM são chamadas de personagens não jogáveis (NPCs).  
+É trabalho do GM colocar obstáculos e desafios para os PCs, forçando eles a pensar com cuidado e tomar decisões rápidas. Não é trabalho do GM tomar decisões ou realizar ações pelos PCs, ele não possui controle sobre eles.
+
+O GM descreve os resultados e consequências das ações dos PCs, mas o que acontece de fato no jogo, é decidido durante o mesmo. No jogo, você descobre como sua história acaba.
+
+## O Jogo
+
+O jogo é uma conversação entre os jogadores e o GM, um bate e volta de narrativa. O GM descreve o que está presente e acontece em volta dos PCs, os jogadores descrevem como desejam reagir, o GM narra as consequências e resultados. Se uma situação crítica - como um combate - aparece, é hora de começar a rolar dados - veja mais em [Checks](./0_complete/1_manuscript/checks.md).
+
+### Modos de Jogo
+
+Você pode escolher entre dois modos de jogo: One Shot e Aventura.
+
+One Shot é uma aventura de uma sessão apenas, com duração de 3 a 5 horas de jogo. Neste modo a narrativa é mais cinemática e envolve menos complexidade.
+
+Aventura é uma campanha planejada para rodar entre 12 a 15 sessões, onde os PCs alcançarão nível máximo: 5. Este modo envolve uma trama bem mais complexa, com diversos finais possíveis. Também valoriza o desenvolvimento de personagem.
+
+## Temas
+
+Os temas variam entre os módulos e as espécies, alguns podendo focar mais em ficção científica (sci-fi) e terror, enquanto outros podem focar mais em exploração e fantasia. Abaixo você encontra os temas chaves que podem ser encontrados em abundância pelas aventuras.
+
+### Exploração e "Sense of Wonder"
+
+Curiosidade, mistério e perguntas assombram a mente de qualquer criatura. O universo está cheio destes mistérios, e também - com sorte - suas respostas. Explore mundos, encontre artefatos incompreensíveis de escala gigante, faça contato com organismos de complexidade inesplicáveis, descubra, se surpreenda.
+
+### Sci-fi
+
+Ficção Científica é o carro chefe de BTH. Utilize de todas as ferramentas ao seu alcance, toda a capacidade da sua espécie, para enfrentar os perigos do espaço.
+
+### Fantasia
+
+O Caos e algumas espécies trazem uma pitada de fantasia ao mundo de BTH, fazendo algumas ações, habilidades e fenômenos parecem mágica. Mas não deixe-se enganar, o universo é regido por forças e leis rígidas.
+
+### Terror
+
+No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Com a mecânica de Stress e Pânico isso se torna mais do que claro - veja mais em [Stress e Pânico]().
+
+### Ação
+
+Uma aventura não seria uma boa aventura sem ação. BTH é repleto de ação. Seja fugindo de um vulcão em erupção, correndo por sua vida de um monstro - ou, até mesmo, combatendo-o - a ação é garantida.
+
+## Ferramentas de Jogo
+
+Para jogar este jogo, você precisa das seguintes ferramentas:
+
+- [Ficha de Personagem]()
+- 1 a 3 conjuntos de dados (d6 a d12)
+- Cartas de Moves, Habilidades, etc (opcional)
+
+<!-- Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em _**Cinematic Tactical Adventure Sci-Fi Fantasy**_. Neste módulo você encontrará regras para mecânicas bases do jogo, garantindo seu funcionamento para os mais diversos temas de aventuras.
+
+**Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que estes termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar. -->
 
  <!-- com ênfase em sci-fi. Neste sistema você irá encontrar regras para mecânicas bases que irão guiar seus jogos nos mais diferentes estilos de aventuras e campanhas. Além disso você também encontra neste módulo o Universo base e as leis que regem ele. -->
 
@@ -53,7 +170,7 @@ Todos os jogadores que não forem o GM, serão personagens, os personagens forma
 
 <!-- ## Módulos e Espécies
 
-Como HB é um framework para TTRPGs, aqui você encontrará apenas uma visão geral sobre o universo e algumas criaturas que vivem nele. Módulos serão entregues separadamente, estes contendo a história de algumas espécies jogáveis e tudo que gira em volta delas: estrutura social, planetas, pontos de interesse, perigos e ameaças, etc. 
+Como HB é um framework para TTRPGs, aqui você encontrará apenas uma visão geral sobre o universo e algumas criaturas que vivem nele. Módulos serão entregues separadamente, estes contendo a história de algumas espécies jogáveis e tudo que gira em volta delas: estrutura social, planetas, pontos de interesse, perigos e ameaças, etc.
 
 ### Planejamento
 
@@ -86,7 +203,6 @@ Cada atributo também possui dois **Portões de Caos**. Ao abrir um dos portões
 ## Cartas
 
 Durante a criação de personagem e o decorrer da aventura, você irá receber cartas, estas sendo referentes a espécie, armas, equipamentos, habilidades, passivas, aprimoramentos, etc. Além da ficha de personagem você também irá possuir estas cartas. Esta é uma forma de ajudar e facilitar a visualização do que seu personagem é capaz de fazer. -->
-
 
 <!--
 

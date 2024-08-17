@@ -1,4 +1,4 @@
-site_name: Horizon Beyond
+site_name: Beyond the Horizon
 theme:
   name: "material"
   font:
@@ -17,41 +17,123 @@ theme:
 
 nav:
     - index.md
-    - Links Úteis: links.md
+    # - Links Úteis: links.md
     - Manuscrito:
+      - 0_complete/index.md
+    #     Introdução: o que é, universo, PC e NPC
+    #     Módulos: espécies, sistemas, mundos, histórias
+    #     Modos de Jogo: One Shot & Aventura
+    #     Temas: Exploração espacial, sci-fi, fantasia, terror e ação
+    #     Ferramentas de Jogo: character sheet, dices, cards
+    #   Personagens:
+    #     Criação: espécies, caminhos, avançar atributos, escolher aprimoramentos, personal stuff
+    #     Geral: atributos, moves, habilidades, resiliência, recursos, conhecimento, propriedades
+    #     Inventário: invetário
+    #     Geral 2: armas, armaduras, equipamentos, consumíveis,         
+    #     Personal stuff: nome, aparência, manerismos, tamanho, agenda (objetivos), conexões (pessoas e organizações)  
+    #     Progressão: Subindo de nível, aprimoramentos
+    #   Equipe:
+    #     Geral: nome, membros, etc
+    #     Agenda: objetivos, missão, etc
+    #     Suprimentos: agua, comida, ar, energia, checks de suprimentos
+    #     Recursos: momentum e karma
+    #   Checks: roll, possible outcomes, pushing roll (stress), modifications, difficulty, opposed rolls, group roll, help from others            
+    #   Scene Modes: exploration, combat, social disput, rest
+    #   Combat:  
+    #     Tempo e espaço: mapa, grids, tamanhos, distânica, movimento, bordas e linha de visão, tempo
+    #     Organização: tokens de ação, tokens de Terror, dados de reação
+    #     Turnos: surpresa, equipe e GM  
+    #     Countdown: turno, dinâmico     
+    #     Alvo: alvos 
+    #     close combat: block, grapple, retreat
+    #     ranged attack: cover, munição
+    #     Dano: cálculo, dinâmico, tipos de dano e efeitos, recuperação, critical injuries, morte
+    #     Stress e Panico: nível de stress, panic roll, parando panico, recuperação
+    #   Descanso: bla bla recuperação e crafting
+    #   Atributos: list
+    #   Moves: ações, reações, habilidades, movimento, ambushes e sneak attack, usando equipamento, comunicação
+    #   Habilidades: habilidades
+    #   Resiliência: resiliencia
+    #   Recursos: recursos
+    #   Conhecimento: ciencia e receitas
+    #   Habilidades: passiva, engatilhadas, ativas
+    #   Condições: buffs e aflições
+    #   Hazards: armadilhas, vacuo, explosões, radiação, starving, desidratação, exaustão, freezing, queda, fogo, doença, afogamento, sufocamento
+    #   Armas: features, propriedades
+    #   Armadura: features, propriedades
+    #   Equipamentos: features, propriedades
+    #   Consumíveis: composto químicos e etc
+    #   Transport: veículos e montarias
+    #   Companions: orgânicos e sintéticos
+    #   Crafting: e tal
+    #   Criaturas: propriedades, nível de ameaça
+
+    # Força Galática:
+    #   overview: o que é, espécies, temas
+    #   História: timeline
+    #   Estrutura: social, economica, religião, planetas, estações, organizações
+    #   Agenda: objetivos, interesses e etc
+    #   Criando Humanos:
+    #     Caminhos: ordinários x super
+    #     Ordinários:
+    #       overview: características, agenda, oportunidades
+    #       Caminhos: blabla
+    #       moves: moves
+    #       abilities: abilities
+    #       weapons: weapons
+    #       armor: armor
+    #       equipment: equipment
+    #       recipes: recipes
+    #       aprimoramentos: lista
+    #     super:
+    #       overview: características, agenda, oportunidades
+    #       Caminhos: blabla
+    #       moves: moves
+    #       abilities: abilities
+    #       weapons: weapons
+    #       armor: armor
+    #       equipment: equipment
+    #       recipes: recipes  
+    #       aprimoramentos: lista
+    #   Sistema: planetas de interesse e etc
+    #   Ameaças: criaturas, organizações, etc
+    #   Aventuras: lista de possíveis gatilhos e tal
+    #   Aventura exemplo: aqui
+
+
       - Personagem:
-        - 0_simplified/1_core/2_character/index.md
+        - 1_simplified/1_core/2_character/index.md
       - O Jogo:
-        - 0_simplified/1_core/3_game/index.md
-        - Atributos: 0_simplified/1_core/3_game/attributes.md
-        - Combate: 0_simplified/1_core/3_game/combat.md
-        - Moves: 0_simplified/1_core/3_game/moves.md
-        - Habilidades: 0_simplified/1_core/3_game/abilities.md
-        # - Passivas: 0_simplified/1_core/3_game/passives.md
-        - Checks: 0_simplified/1_core/3_game/checks.md
-        - Resiliência: 0_simplified/1_core/3_game/resilience.md
-        - Recursos: 0_simplified/1_core/3_game/resources.md
-        - Conhecimento: 0_simplified/1_core/3_game/knowledge.md
-        - Dano: 0_simplified/1_core/3_game/damage.md
-        - Condições: 0_simplified/1_core/3_game/conditions.md
-        - Countdowns: 0_simplified/1_core/3_game/countdown.md
-        - Distância e Tamanho: 0_simplified/1_core/3_game/distance.md
-        - Alvos e Proteção: 0_simplified/1_core/3_game/target.md
-        - Descanso: 0_simplified/1_core/3_game/rest.md
-        - Armas e Armaduras: 0_simplified/1_core/3_game/weapon_armor.md
-        - Inventário, Equipamento e Munições: 0_simplified/1_core/3_game/inventory.md
-        - Crafting: 0_simplified/1_core/3_game/crafting.md
-        - Criaturas e Monstros: 0_simplified/1_core/3_game/creatures.md
-        - Propriedades: 0_simplified/1_core/3_game/properties.md
-        - Aprimoramentos: 0_simplified/1_core/3_game/upgrades.md
+        - 1_simplified/1_core/3_game/index.md
+        - Atributos: 1_simplified/1_core/3_game/attributes.md
+        - Combate: 1_simplified/1_core/3_game/combat.md
+        - Moves: 1_simplified/1_core/3_game/moves.md
+        - Habilidades: 1_simplified/1_core/3_game/abilities.md
+        # - Passivas: 1_simplified/1_core/3_game/passives.md
+        - Checks: 1_simplified/1_core/3_game/checks.md
+        - Resiliência: 1_simplified/1_core/3_game/resilience.md
+        - Recursos: 1_simplified/1_core/3_game/resources.md
+        - Conhecimento: 1_simplified/1_core/3_game/knowledge.md
+        - Dano: 1_simplified/1_core/3_game/damage.md
+        - Condições: 1_simplified/1_core/3_game/conditions.md
+        - Countdowns: 1_simplified/1_core/3_game/countdown.md
+        - Distância e Tamanho: 1_simplified/1_core/3_game/distance.md
+        - Alvos e Proteção: 1_simplified/1_core/3_game/target.md
+        - Descanso: 1_simplified/1_core/3_game/rest.md
+        - Armas e Armaduras: 1_simplified/1_core/3_game/weapon_armor.md
+        - Inventário, Equipamento e Munições: 1_simplified/1_core/3_game/inventory.md
+        - Crafting: 1_simplified/1_core/3_game/crafting.md
+        - Criaturas e Monstros: 1_simplified/1_core/3_game/creatures.md
+        - Propriedades: 1_simplified/1_core/3_game/properties.md
+        - Aprimoramentos: 1_simplified/1_core/3_game/upgrades.md
     - Força Galáctica:
-      - 0_simplified/2_galactic_force/index.md
-      - Moves: 0_simplified/2_galactic_force/moves.md
-      - Habilidades: 0_simplified/2_galactic_force/abilities.md
-      - Armas: 0_simplified/2_galactic_force/weapons.md
-      - Armaduras: 0_simplified/2_galactic_force/armor.md
-      - Equipamentos: 0_simplified/2_galactic_force/equipment.md
-      - Receitas: 0_simplified/2_galactic_force/recipes.md
+      - 1_simplified/2_galactic_force/index.md
+      - Moves: 1_simplified/2_galactic_force/moves.md
+      - Habilidades: 1_simplified/2_galactic_force/abilities.md
+      - Armas: 1_simplified/2_galactic_force/weapons.md
+      - Armaduras: 1_simplified/2_galactic_force/armor.md
+      - Equipamentos: 1_simplified/2_galactic_force/equipment.md
+      - Receitas: 1_simplified/2_galactic_force/recipes.md
 
     # - Manuscrito:
     #   - 1_core/index.md
@@ -95,21 +177,21 @@ nav:
     #   # - Mapa:
     #   # - Perigos:
     #   # - Aventuras:
-    - Cursed Set:
-        - 666_cursed_set/index.md  
-        - Atos: 666_cursed_set/acts.md
-        - Profissões: 666_cursed_set/professions.md
-    - Baile Carnificina:
-        - 696_carnage_ball/index.md
-        - CarnArk:
-            - 696_carnage_ball/carnark/index.md
-            - Loja: 696_carnage_ball/carnark/shop.md
-            - Perigos: 696_carnage_ball/carnark/hazards.md
-            - Condições: 696_carnage_ball/carnark/conditions.md
-        - Bailes:
-            - 696_carnage_ball/balls/index.md
-            - Patrocínio: 696_carnage_ball/balls/sponsor.md
-        - Pré-Jogo: 696_carnage_ball/pre_game.md
+    # - Cursed Set:
+    #     - 666_cursed_set/index.md  
+    #     - Atos: 666_cursed_set/acts.md
+    #     - Profissões: 666_cursed_set/professions.md
+    # - Baile Carnificina:
+    #     - 696_carnage_ball/index.md
+    #     - CarnArk:
+    #         - 696_carnage_ball/carnark/index.md
+    #         - Loja: 696_carnage_ball/carnark/shop.md
+    #         - Perigos: 696_carnage_ball/carnark/hazards.md
+    #         - Condições: 696_carnage_ball/carnark/conditions.md
+    #     - Bailes:
+    #         - 696_carnage_ball/balls/index.md
+    #         - Patrocínio: 696_carnage_ball/balls/sponsor.md
+    #     - Pré-Jogo: 696_carnage_ball/pre_game.md
 
 extra_css:
   - stylesheets/extra.css
