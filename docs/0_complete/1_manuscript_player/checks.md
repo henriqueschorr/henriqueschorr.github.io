@@ -25,6 +25,16 @@ Abaixo você encontra as consequências - narrativamente e mecanicamente - que v
 | Sucesso         | Você consegue o que quer.                                              | Você causa <ins>moderado</ins> dano extra. Turno da Equipe.                                                          |
 | Sucesso Parcial | Você consegue o que quer porém enfrenta alguma consequência leve.      | Você causa <ins>baixo</ins> dano extra. Turno do GM caso gaste 3 [Tokens de Ação](), caso contrário Turno da Equipe. |
 | Falha           | Você não consegue o que quer e deve enfrentar consequências moderadas. | Turno do GM caso desejar.                                                                                            |
+|                 |
+
+### Probabilidades
+
+| Resultado               | d6  | d8    | d10 | d12    |
+| ----------------------- | --- | ----- | --- | ------ |
+| Falha (1 - 3)           | 50% | 37,5% | 30% | 25%    |
+| Sucesso Parcial (4 - 7) | 50% | 50%   | 40% | 33,33% |
+| Sucesso (8 - 11)        | 0%  | 12,5% | 30% | 33,33% |
+| Sucesso Crítico (12)    | 0%  | 0%    | 0%  | 8,33%  |
 
 <!-- ## Pushing Roll (Stress) -->
 

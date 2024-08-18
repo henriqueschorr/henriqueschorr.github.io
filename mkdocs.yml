@@ -52,7 +52,7 @@ nav:
         - 0_complete/1_manuscript_player/combat/index.md
         - Moves: 0_complete/1_manuscript_player/combat/moves.md
         - Dano e Pânico: 0_complete/1_manuscript_player/combat/damage.md      
-      - Condições: buffs e aflições
+      - Condições: 0_complete\1_manuscript_player\conditions.md
     #   Hazards: armadilhas, vacuo, explosões, radiação, starving, desidratação, exaustão, freezing, queda, fogo, doença, afogamento, sufocamento alien page 106
     #   Descanso: bla bla recuperação e crafting    
     #   Crafting: e tal
@@ -90,6 +90,15 @@ nav:
     #   Ameaças: criaturas, organizações, etc
     #   Aventuras: lista de possíveis gatilhos e tal
     #   Aventura exemplo: aqui
+
+    - Força Galáctica:
+      - 0_complete/2_galactic_force/index.md
+      - Moves: 0_complete/2_galactic_force/moves.md
+      - Habilidades: 0_complete/2_galactic_force/abilities.md
+      - Armas: 0_complete/2_galactic_force/weapons.md
+      - Armaduras: 0_complete/2_galactic_force/armor.md
+      - Equipamentos: 0_complete/2_galactic_force/equipment.md
+      - Receitas: 0_complete/2_galactic_force/recipes.md
 
 
       # - Personagem:

@@ -24,7 +24,7 @@ Mais do que tudo, é sobre diversão e saber o que lhe espera Além do Horizonte
 
 Nesta página você encontra informações gerais, um resumo do que o jogo se trata e como é jogado.  
 No [Manuscrito](./0_complete/1_manuscript_player/index.md), você encontra as mecânicas e regras bases para jogar um jogo neste modelo.  
-Na [Força Galáctica](./0_complete/2_galactic-force/index.md), você contra as espécies de Humanos (Ordinário e A.N.E.) e o meio em que habitam, assim como seus itens.
+Na [Força Galáctica](./0_complete/2_galactic_force/index.md), você contra as espécies de Humanos (Ordinário e A.N.E.) e o meio em que habitam, assim como seus itens.
 
 ## Universo
 
@@ -66,7 +66,9 @@ Enquanto no [Manuscrito](./0_complete/1_manuscript_player/index.md) você encont
 | Humanos (Cyber)     | Humanos que lembram Cyberpunks.                                           | Nova Velha Terra |
 | Humanos (Mística)   | Humanos que fazem uso de tatuagens mágicas baseadas em misticismos.       | Nova Velha Terra |
 
-**Disclaimer:** Neste play test somente os Humanos Ordinários e A.N.E., do módulo Força Galáctica, estarão disponíveis para escolha.
+<!-- **Disclaimer:** Neste play test somente os Humanos Ordinários e A.N.E., do módulo Força Galáctica, estarão disponíveis para escolha. -->
+
+**Disclaimer:** Neste play test está presente somente os Humanos (A.N.E.), do módulo Força Galáctica.
 
 ## Jogadores e Game Master
 
