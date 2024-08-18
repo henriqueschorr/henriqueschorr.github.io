@@ -12,7 +12,15 @@ Considere o grau de sucesso do seu check para calcular o dano, como abaixo:
 
 Um dano é sempre aplicado contra uma das três resiliências de uma criatura: AP, Ferida ou Stress. Um dano ao Stress estará sempre explicitamente informado, caso contrário, o dano é sempre contra AP/Ferida.  
 Quando uma criatura recebe dano (sem ser ao Stress), o dano é sempre diminuído primeiramente de seu AP, a não ser que a fonte de dano diga o contrário.  
-Dano contra Stress é sempre direto. Dano contra AP/Ferida é primeiramente comparado contra os Limites de Dano da criatura para determinar quantos pontos devem ser marcados.  
+Dano contra Stress é sempre direto. Dano contra AP/Ferida é primeiramente comparado contra os Limites de Dano da criatura para determinar quantos pontos devem ser marcados. De forma mais direta, siga os passos abaixo:
+
+1. Se o dano for contra o Stress, aplique o valor diretamente no Stress
+2. Se o dano <ins>não</ins> for contra o Stress, compare o valor ao seus Limites de Dano
+3. Uma vez definido se você deve marcar 1, 2 ou 3, verifique se o dano desconsidera AP
+4. Caso desconsiderar o AP, aplique o dano diretamente na Ferida
+5. Caso não indique nada, aplique o dano primeiramente no AP
+   1. Se você não tem AP suficiente para segurar o dano, o restante do valor é subtraído de suas Feridas
+
 Para mais informações sobre Limites de Dano, AP, Feridas e Stress, veja [Resiliência]().
 
 ## Dano Dinâmico

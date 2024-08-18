@@ -21,7 +21,6 @@ Ataques são Ações realizados com armas e/ou habilidades, com o propósito de 
    Mantenha os dados na "mesa", ou o resultado anotado, pois o dano é calculado a partir deles na maioria das vezes.
 4. Verifique o [Grau de Sucesso](../checks.md#graus-de-sucesso). Resolva a disputa caso o alvo tenha usado alguma reação.
 5. Calcule o [Dano](./damage.md#calculando-dano) de acordo com o grau de sucesso.  
-   Algumas Habilidades ou Propriedades de armas podem modificar o dano.
 6. [Aplique o dano](./damage.md#aplicando-dano).
 
 Quando um ataque é feito contra <ins>mais de um alvo</ins>, você realiza apenas um check para determinar se acerta os alvos ou não.
@@ -38,8 +37,43 @@ Algumas armas/habilidades têm efeitos adicionais devido a alguma [Propriedade](
 
 ### Usando Equipamento ou Consumível
 
+Usar equipamentos e consumíveis conta como um Move, porém não é necessário realizar checks - a não ser que indicado o contrário. Exemplo: caso você só queira usar uma lanterna para iluminar a área.  
+Se for usar um equipamento para auxiliar em alguma tarefa, geralmente um check será realizado, mas por causa do Move, não por causa da tarefa em si. Neste caso um equipamento pode até modificar seu check, ajudando-o. Exemplo: caso você tente abrir uma escotilha com um pé de cabra, o GM irá lhe pedir um check, provavelmente lhe dando algum bônus modificador pela ajuda do equipamento.
+
 ### Comunicação
+
+Frases curtas - como "Tome isso seu verme insolente" - gestos rápidos ou, qualquer outro tipo de comunicação breve, não contam como um Move.  Comunicação só contará como um Move caso você realmente tenha a intensão de influenciar - causar um efeito - em outra criatura, ou caso sua comunicação seja longa.
 
 ## Reações
 
-## Habilidades
+Diferente das Ações - que são livres - as Reações têm uma lista predefinida do que pode ser realizado. Aprimoramentos, Equipamentos e Habilidades podem lhe conceder mais opções. Todas as Reações geram um check de [Disputa](../checks.md#disputa).
+
+### Esquivar
+
+Você tenta esquivar de um ataque inimigo realizando um check de Agilidade.
+
+**Falha ou Falha Crítica:** Você não consegue esquivar e recebe o dano completo.  
+**Perde a Disputa:** Você não consegue esquivar e recebe o dano completo.  
+**Vence a Disputa:** Você consegue esquivar e não recebe dano algum.
+
+### Defender
+
+Você possui um escudo, arma ou equipamento com a propriedade **Defender**, e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste check depende do item usado para realizar a defesa.
+
+Caso o alvo seja você mesmo:
+
+**Falha ou Falha Crítica:** Você não consegue defender e recebe o dano completo.  
+**Perde a Disputa:** Você não consegue defender e recebe o dano completo.  
+**Vence a Disputa:** Você consegue defender e não recebe dano algum.  
+**Sucesso Crítico:** Você consegue defender, não recebe dano algum e pode realizar uma Ação imediatamente. 
+
+Caso o alvo seja outra criatura:
+
+**Falha ou Falha Crítica:** Você não consegue defender e alvo do ataque recebe o dano completo.   
+**Perde a Disputa:** Você defende parcialmente e o dano completo é dividido (round up) entre você e o alvo do ataque.   
+**Vence a Disputa:** Você consegue defender e ninguém recebe dano.  
+**Sucesso Crítico:** Você consegue defender, ninguém recebe dano e pode realizar uma Ação imediatamente.  
+
+## Habilidades Ativas
+
+Quase sempre você terá uma ou mais Habilidade Ativa que pode ser executada. As Habilidades ativas sempre terão bem claras seu custo em Ações ou se é uma Reação. Siga as instruções nas Habilidades para executá-las durante o combate.

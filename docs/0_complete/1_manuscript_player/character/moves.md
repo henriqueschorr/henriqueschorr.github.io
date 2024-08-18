@@ -12,9 +12,9 @@ Você encontra as regras para algumas ações mais complexas dentro do capítulo
 
 Diferente das Ações, Reações são bem definidas. As bases são: Esquivar e Defender. Mais detalhes podem ser encontrados no capítulo do combate - [aqui](../combat/moves.md#reações).
 
-## Habilidades 
+## Habilidades Ativas
 
 Você pode ter Habilidades Ativas, estas que são Ações e/ou Reações especiais com efeitos poderosos. Habilidades são quase que exclusivas ao seu personagem. Você sempre terá que gastar algum recurso para usar uma Habilidade, sendo ele geralmente Stamina/Caos e/ou Stress.
 
-Para mais informações sobre o uso de Habilidades Ativas durante combate, veja [aqui](../combat/moves.md#habilidades).  
+Para mais informações sobre o uso de Habilidades Ativas durante combate, veja [aqui](../combat/moves.md#habilidades-ativas).  
 Para mais informações em geral sobre Habilidades, veja [aqui](./abilities.md).

@@ -22,4 +22,4 @@ Habilidades ativas são moves (ações/reações) especiais com efeitos poderoso
 - 1 Caos: Faça um ataque com esta arma em todos os inimigos até distância 5.
 - 2 Caos: Faça um ataque com esta arma em todos os inimigos até distância 10. Ignore AP ao causar o dano.
 
-Para mais informações sobre o uso de Habilidades Ativas durante combate, veja [aqui](../combat/moves.md#habilidades).  
+Para mais informações sobre o uso de Habilidades Ativas durante combate, veja [aqui](../combat/moves.md#habilidades-ativas).  

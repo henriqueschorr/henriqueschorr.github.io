@@ -51,9 +51,9 @@ nav:
       - Combate: 
         - 0_complete/1_manuscript_player/combat/index.md
         - Moves: 0_complete/1_manuscript_player/combat/moves.md
-        # - Dano e Pânico: 0_complete/1_manuscript_player/combat/damage.md      
-    #   Condições: buffs e aflições
-    #   Hazards: armadilhas, vacuo, explosões, radiação, starving, desidratação, exaustão, freezing, queda, fogo, doença, afogamento, sufocamento
+        - Dano e Pânico: 0_complete/1_manuscript_player/combat/damage.md      
+      - Condições: buffs e aflições
+    #   Hazards: armadilhas, vacuo, explosões, radiação, starving, desidratação, exaustão, freezing, queda, fogo, doença, afogamento, sufocamento alien page 106
     #   Descanso: bla bla recuperação e crafting    
     #   Crafting: e tal
     #   Criaturas: propriedades, nível de ameaça
