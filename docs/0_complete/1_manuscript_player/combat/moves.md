@@ -35,9 +35,9 @@ Algumas armas/habilidades têm efeitos adicionais devido a alguma [Propriedade](
 
 <!-- ### Ações Surpresas -->
 
-### Usando Equipamento ou Consumível
+### Usando Equipamento
 
-Usar equipamentos e consumíveis conta como um Move, porém não é necessário realizar checks - a não ser que indicado o contrário. Exemplo: caso você só queira usar uma lanterna para iluminar a área.  
+Usar equipamentos conta como um Move, porém não é necessário realizar checks - a não ser que indicado o contrário. Exemplo: caso você só queira usar uma lanterna para iluminar a área.  
 Se for usar um equipamento para auxiliar em alguma tarefa, geralmente um check será realizado, mas por causa do Move, não por causa da tarefa em si. Neste caso um equipamento pode até modificar seu check, ajudando-o. Exemplo: caso você tente abrir uma escotilha com um pé de cabra, o GM irá lhe pedir um check, provavelmente lhe dando algum bônus modificador pela ajuda do equipamento.
 
 ### Comunicação

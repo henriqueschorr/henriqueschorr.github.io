@@ -78,3 +78,7 @@ Uma Hoverboard que pode voar rapidamente e carregar até uma criatura média.
 - **AP:** 4
 - **Equipamentos:** 1x Lanterna, 2x Lâmina Montada
 - **Atributo para Checks:** Controle
+
+## Neurohancer
+
+Equipamento exclusivo dos Capitães. Diretamente integrado no capacete da A.N.E.; é utilizado para realizar habilidades voltadas a manipulação e estratégia de campo de batalha.

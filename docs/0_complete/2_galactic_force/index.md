@@ -8,6 +8,8 @@
 
 ### Batedor
 
+![](../../0_assets/images/human/scout.jpg){ width="200", align="right" }
+
 - **Limites de Dano:** 2 | 4 | 6
 - **Feridas:** 5
 - **Stress:** 5
@@ -19,7 +21,24 @@
 - **Aprimoramentos:** A.N.E., Arco-Caos e Lâmina Fragmento
 - **Atributos Recomendados:** Agilidade e Controle
 
+### Capitão
+
+![](../../0_assets/images/human/captain.jpg){ width="200", align="right" }
+
+- **Limites de Dano:** 2 | 4 | 6
+- **Feridas:** 5
+- **Stress:** 6
+- **Caos:** 3
+- **Armas:** Pistola
+- **Armadura:** A.N.E. Leve
+- **Equipamentos:** Neurohancer, 1x Kit Médico Simples
+- **Habilidades:** Raciocínio Rápido
+- **Aprimoramentos:** A.N.E. e Neurohancer
+- **Atributos Recomendados:** Atenção e Cérebro
+
 ### Cientista
+
+![](../../0_assets/images/human/scientist.jpg){ width="200", align="right" }
 
 - **Limites de Dano:** 2 | 4 | 6
 - **Feridas:** 5
@@ -35,6 +54,8 @@
 
 ### Engenheiro
 
+![](../../0_assets/images/human/engineer.jpg){ width="185", align="right" }
+
 - **Limites de Dano:** 2 | 4 | 6
 - **Feridas:** 5
 - **Stress:** 5
@@ -49,6 +70,8 @@
 
 ### Piloto
 
+![](../../0_assets/images/human/pilot.jpg){ width="210", align="right" }
+
 - **Limites de Dano:** 2 | 4 | 6
 - **Feridas:** 5
 - **Stress:** 6
@@ -60,6 +83,8 @@
 - **Atributos Recomendados:** Controle e Atenção
 
 ### Soldado
+
+![](../../0_assets/images/human/soldier.jpg){ width="200", align="right" }
 
 - **Limites de Dano:** 2 | 4 | 6
 - **Feridas:** 5

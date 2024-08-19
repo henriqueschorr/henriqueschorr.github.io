@@ -13,7 +13,7 @@ Você está Escondido e deixa de ficar somente quando realizar um ataque.
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Seus próximos 3 ataques a distância são realizados com Vantagem.
++1 nos seus próximos 3 ataques a distância.
 
 ## Arco-Caos
 
@@ -29,7 +29,13 @@ Além disso, causam <1d Controle> de dano adicional.
 
 ### Assassinato
 
-Sempre que você realizar um ataque com Vantagem, adicione <2x seu nível> ao dano.
+Sempre que você realizar um ataque com modificadores positivos, adicione <2x seu nível> ao dano.
+
+## Capitão
+
+### Raciocínio Rápido
+
+Quando você e/ou sua equipe for surpreendida, você pode realizar 1 Move antes do turno surpresa do GM.
 
 ## Ciencista
 

@@ -36,7 +36,7 @@ nav:
         - Armas: 0_complete/1_manuscript_player/character/weapons.md #features, propriedades
         - Armadura: 0_complete/1_manuscript_player/character/armor.md
         - Inventório e Equipamentos: 0_complete/1_manuscript_player/character/inventory.md #features, propriedades
-        - Consumíveis: 0_complete/1_manuscript_player/character/consumables.md #composto químicos e etc
+        # - Suprimentos: 0_complete/1_manuscript_player/character/supplies.md #agua, comida, ar, energia, checks de suprimentos
         # recursos e suprimentos
         #   Transport: veículos e montarias
         #   Companions: orgânicos e sintéticos 
@@ -44,7 +44,6 @@ nav:
     #   Equipe:
     #     Geral: nome, membros, etc
     #     Agenda: objetivos, missão, etc
-    #     Suprimentos: agua, comida, ar, energia, checks de suprimentos
     #     Recursos: momentum e karma
       - Checks: 0_complete/1_manuscript_player/checks.md         
     #   Scene Modes: exploration, combat, conflito social (negociação e interrogação), investigação, perseguição ou fuga, stealth, rest
@@ -53,6 +52,7 @@ nav:
         - Moves: 0_complete/1_manuscript_player/combat/moves.md
         - Dano e Pânico: 0_complete/1_manuscript_player/combat/damage.md      
       - Condições: 0_complete/1_manuscript_player/conditions.md
+      - Descanso: 0_complete/1_manuscript_player/rest.md
     #   Hazards: armadilhas, vacuo, explosões, radiação, starving, desidratação, exaustão, freezing, queda, fogo, doença, afogamento, sufocamento alien page 106
     #   Descanso: bla bla recuperação e crafting    
     #   Crafting: e tal
@@ -99,6 +99,7 @@ nav:
       - Armaduras: 0_complete/2_galactic_force/armor.md
       - Equipamentos: 0_complete/2_galactic_force/equipment.md
       - Receitas: 0_complete/2_galactic_force/recipes.md
+      - Descanso: 0_complete/2_galactic_force/rest.md
 
 
       # - Personagem:

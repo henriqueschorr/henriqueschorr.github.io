@@ -46,11 +46,13 @@ Se você marcar seu último Stress, você sofre um ataque de pânico - veja mais
 
 Assim como AP e Ferida, você pode recuperar Stress durante descansos ou com o uso de algum item, habilidade ou recurso.
 
+Apenas PCs têm Stress, o Stress de NPCs está ligado direto às suas Feridas.
+
 <!-- Resultados de check como Sucesso Crítico também recuperam Stress. -->
 
-## Stamina ou Caos
+## Stamina
 
-Caos é a força e matéria que compõem tudo no universo. Os Regentes do Universo são os grandes mestres especialistas em uso dessa força, construindo e modificando constantemente o universo. Algumas criaturas, como seu personagem, podem utilizar a força do Caos de maneira limitada para realizar Moves especiais conhecidos como Habilidades. Nem todos PCs terão acesso ao Caos, - um exemplo são os Humanos (Ordinários) - neste caso eles fazem uso de Stamina.
+Stamina representa a sua capacidade de realizar atos extraordinários. Mecanicamente, é o recurso utilizado para alimentar suas Habilidades. Para alguns personagens, stamina representa apenas sua energia vital, para outros, representa a força da sua conexão com o Caos - e quantidade que pode ser tocada e manipulada.
 
 <!-- ## Saga -->
 

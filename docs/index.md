@@ -70,7 +70,7 @@ Enquanto no [Manuscrito](./0_complete/1_manuscript_player/index.md) você encont
 
 **Disclaimer:** Neste play test está presente somente os Humanos (A.N.E.), do módulo Força Galáctica.
 
-## Jogadores e Game Master
+## Jogadores e Game Master (GM)
 
 Todo jogador, exceto um, assume o papel de um personagem jogável (PC). Você poderá ser um Humano Cientista ou Soldado, um Evoras Aracnídeo, um Egon do Deserto, ou diversas outras criaturas.  
 Cabe a você imaginar e interpretar seu PC. Cada espécie tem suas peculariedades de cultura e personalidade, você encontra informações que lhe ajudam a interpretar um membro da espécie escolhida em cada módulo.  
@@ -111,7 +111,7 @@ O Caos e algumas espécies trazem uma pitada de fantasia ao mundo de BTH, fazend
 
 ### Terror
 
-No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Com a mecânica de Stress e Pânico isso se torna mais do que claro - veja mais em [Stress e Pânico]().
+No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Não importa se você seja um simples Humano ou um predador nato de aparência assustadora como um Evoras, sempre há algum perigo a espreita, esperando o momento mais oportuno para acabar com sua vida, ou sanidade. Com a mecânica de Stress e Pânico isso se torna mais do que claro - veja mais em [Stress e Pânico]().
 
 ### Ação
 

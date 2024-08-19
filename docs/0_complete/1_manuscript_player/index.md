@@ -36,10 +36,10 @@
     - Propriedades
 - [Armadura](./character/armor.md)
 - [Inventório e Equipamentos](./character/inventory.md)
+    - Tipos de Equipamentos
+        - Compostos Químicos
+        - Munição
     - Equipamentos com variações semelhantes
-- [Consumíveis](./character/consumables.md)
-    - Compostos Químicos
-    - Munição
 - [Progressão](./character/progression.md)
 
 ### Checks
@@ -74,7 +74,7 @@
     - Ações
         - Movimento
         - Ataques
-        - Usando Equipamento ou Consumível
+        - Usando Equipamento
         - Comunicação
     - Reações
         - Esquivar
@@ -91,3 +91,9 @@
 ### Condições
 
 - [Condições](conditions.md)
+
+### Descanso
+
+- [Descanso](rest.md)
+    - Descanso Leve
+    - Descanso Longo

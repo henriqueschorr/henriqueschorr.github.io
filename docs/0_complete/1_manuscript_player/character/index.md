@@ -35,7 +35,6 @@ Um caminho <ins>pode conter</ins>:
 - [Armas](): Equipamentos ou Armas Naturais que podem ser usadas ofensivamente.
 - [Armaduras](): Equipamentos ou Armaduras Naturais que podem ser usadas defensivamente.
 - [Equipamentos](): Itens utilitários de uso geral.
-<!-- - Consumíveis -->
 - [Moves (inglês)](): Ações e Reações especiais que você pode realizar.
 - [Habilidades](): Passivas, Engatilhadas ou Ativas.
 

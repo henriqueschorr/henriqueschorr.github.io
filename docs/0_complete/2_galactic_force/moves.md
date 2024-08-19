@@ -30,6 +30,14 @@ Receitas de Química são automaticamente armazenadas em Dardos Infusores.
 
 1 Ação. Escolha um Dardo Infusor com conteúdo. Faça um check de Controle contra uma criatura até alcance 20. Em caso de sucesso, você acerta o Dardo Infusor e o efeito do seu conteúdo é aplicado. Em caso de falha, você perde o Dardo Infusor.
 
+## Neurohancer - Analisar Humor
+
+1 Ação. Você consegue perceber de maneira superficial o humor de uma criatura: Amigável, Indiferente, Hostil, Nervosa, Tranquila.
+
+## Neurohancer - Analisar Linguagem
+
+1 Ação. Através de uma análise da entonação, movimentação e maneirismos de uma criatura de linguagem desconhecida, você consegue formar uma base crua dela. Você entende de maneira geral o contexto da mensagem que a criatura está tentando lhe passar.
+
 ## Ominigun - Modo
 
 1 Ação. Omnigun troca para um de seus modos: Espingarda, Fuzil de Assalto ou Fuzil de Precisão.  
@@ -41,7 +49,7 @@ Fuzil de Peecisão: 80 de Alcance
 
 ## Pistola Cinética - Modo
 
-1 AÇão. Pistola Cinética troca para um de seus modos: Foco ou Disperso.
+1 Ação. Pistola Cinética troca para um de seus modos: Foco ou Disperso.
 
 Foco: Atinge apenas um alvo. Além do dano, empurra o alvo 2 para trás e o deixa Debilitado 1.  
 Disperso: Atinge até 3 alvos adjacentes um ao outro.
