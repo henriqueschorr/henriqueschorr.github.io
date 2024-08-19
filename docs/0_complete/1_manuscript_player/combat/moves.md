@@ -77,3 +77,11 @@ Caso o alvo seja outra criatura:
 ## Habilidades Ativas
 
 Quase sempre você terá uma ou mais Habilidade Ativa que pode ser executada. As Habilidades ativas sempre terão bem claras seu custo em Ações ou se é uma Reação. Siga as instruções nas Habilidades para executá-las durante o combate.
+
+### Resistir
+
+Alguns ataques ou outros eventos vão requisitar que você realize um teste de resistência a algum efeito nocivo. Por exemplo, uma cena horrenda acontece em sua frente, requisitando que você Resista a um ataque de pânico. Para isso, o GM diz que você precisa rolar um check de Resistir Cérebro.
+
+**Falha ou Falha Crítica:** Você recebe efeito da fonte normalmente.   
+**Sucesso Parcial:** Você recebe efeito pela metade. Divida qualquer número informado da fonte - Arredonde para cima.   
+**Sucesso ou Sucesso Crítico:** Você resiste ao efeito da fonte por completo.
