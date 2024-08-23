@@ -24,7 +24,7 @@ Mais do que tudo, é sobre diversão e saber o que lhe espera Além do Horizonte
 
 Nesta página você encontra informações gerais, um resumo do que o jogo se trata e como é jogado.  
 No [Manuscrito](./0_complete/1_manuscript_player/index.md), você encontra as mecânicas e regras bases para jogar um jogo neste modelo.  
-Na [Força Galáctica](./0_complete/2_galactic_force/index.md), você contra as espécies de Humanos (Ordinário e A.N.E.) e o meio em que habitam, assim como seus itens.
+Na [Força Galáctica](./0_complete/2_galactic_force/index.md), você contra as espécies de Humanos (Ordinário e A.N.E.) e o meio em que habitam, assim como seus caminhos e equipamentos.
 
 ## Universo
 
@@ -116,6 +116,10 @@ No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno
 ### Ação
 
 Uma aventura não seria uma boa aventura sem ação. BTH é repleto de ação. Seja fugindo de um vulcão em erupção, correndo por sua vida de um monstro - ou, até mesmo, combatendo-o - a ação é garantida.
+
+### Estratégia
+
+Assim como o espaço, o jogo não pensa duas vezes antes de te punir. Os recursos são poucos e os perigos muitos. Você deve pensar bastante sobre seu posicionamento no mapa. Deve observar com atenção seus inimigos e, administrar bem seus recursos e ações se quiser sobreviver no mundo e combate de BTH.
 
 ## Ferramentas de Jogo
 

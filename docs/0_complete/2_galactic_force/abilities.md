@@ -13,7 +13,11 @@ Você está Escondido e deixa de ficar somente quando realizar um ataque.
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-+1 nos seus próximos 3 ataques a distância.
+Countdown 3:
+
+- Você tem um dos tipos de visão a seguir: Térmica ou Raio X
+- +1 ao realizar checks envolvendo Atenção
+- +1 em todos os ataques a distância
 
 ## Arco-Caos
 
@@ -27,15 +31,15 @@ Além disso, causam <1d Controle> de dano adicional.
 
 ## Batedor
 
-### Assassinato
+### Golpe Certeiro
 
-Sempre que você realizar um ataque com modificadores positivos, adicione <2x seu nível> ao dano.
+<ins>Sempre</ins> que você realizar um ataque com modificadores positivos, adicione <2x seu nível> ao dano.
 
 ## Capitão
 
 ### Raciocínio Rápido
 
-Quando você e/ou sua equipe for surpreendida, você pode realizar 1 Move antes do turno surpresa do GM.
+<ins>Quando</ins> você e/ou sua equipe for surpreendida, você pode realizar 1 Move antes do turno surpresa do GM.
 
 ## Ciencista
 
@@ -142,3 +146,10 @@ Faça um ataque contra um inimigo. Caso o alvo deste ataque use alguma Reação 
 **Custo:** 1 Caos.
 
 Faça um ataque contra um inimigo. Em caso de sucesso, o alvo fica Incapacitado 1. Independentemente do resultado do check, o alvo e todos os outros inimigos até uma distância 20 do alvo ficam Debilitado 2.
+
+## Soldado
+
+### Arsenal
+
+Você pode escolher três aprimoramentos no nível 1, em vez de dois.  
+O mesmo é válido ao nível 3.
