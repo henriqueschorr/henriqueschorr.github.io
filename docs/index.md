@@ -9,16 +9,18 @@ title: Introdução
 ![](0_assets/images/event_horizon.jpg)
 
 <!-- ![](./0_assets/images/HB.png) -->
+Beyond the Horizon (BTH) é um jogo sobre aventuras, sobre histórias, sobre você. Vista a pele de um Humano investigando uma nave espacial que foi dada como abandonada há anos atrás; ande nas patas de um inseto - conhecido como Evoras - em busca de criaturas fortes para consumir e acelerar sua evolução; Crie relações simbiônticas com outras criaturas com o Symbion, e ajudem-os nos seus objetivos, em troca de certos favores, é claro; Ou até mesmo, queime tudo e todos no caminho em busca de seu real propósito com os elementais Realshir.  
+Porém, não importa se você é um simples humano, ou um inseto do tamanho de um cão de porte médio, o universo não é um local amigável. Seja no espaço ou em um planeta, perigos estão sempre presentes, e a morte - ou loucura - sempre a espreita.
 
-Beyond the Horizon (BTH) é um framework design para Tabletop Role-Playing Games (TTRPGs). Aqui você encontrará todas as regras e mecânicas base necessárias para jogar qualquer módulo entregue neste fomato. O universo é brevemente explicado aqui, porém informações mais detalhadas serão encontradas em módulos separados.
+Beyond the Horizon (BTH) é um framework design para Tabletop Role-Playing Games (TTRPGs). Aqui você encontrará todas as regras e mecânicas base necessárias para jogar qualquer módulo entregue neste fomato. O universo é brevemente explicado aqui, porém, informações mais detalhadas serão encontradas em módulos separados.
 
 **Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que estes termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
 
-## O que é Beyond the Horizon?
+<!-- ## O que é Beyond the Horizon?
 
 O espaço é vasto, e nada amigável. Vácuo, radiação, buracos negros, supernovas, meteoros, tudo pode te matar ou até, antes disso, cozinhar seu cérebro. O espaço também não é vazio, diversas criaturas e outras formas de vida, além de Humanos, transitam e vivem por ele.  
 BTH é sobre as variedade de espécies, é sobre contato e exploração, é sobre enfrentar seus medos, é sobre descobrir respostas para os mistérios do universo e sobreviver o tempo bastante para gritá-las, correndo o perigo de ninguém lhe escutar.  
-Mais do que tudo, é sobre diversão e saber o que lhe espera Além do Horizonte.
+Mais do que tudo, é sobre diversão e saber o que lhe espera Além do Horizonte. -->
 
 ## Como ler o jogo?
 
@@ -36,9 +38,9 @@ No universo de BTH você verá nomes conhecidos de galáxias, estrelas, sóis, p
 
 ### Regentes do Universo e Caos
 
-O universo é regido por três forças (algumas culturas o classificam como entidades): Expansão, Ordem e Colapso. Estas três forças manipulam o Caos, que é a matéria que compõem tudo e todos, em ordem para manter o universo.  
+O universo é regido por três forças (algumas culturas os classificam como entidades): Expansão, Ordem e Colapso. Estas três forças manipulam o Caos, que é a matéria que compõem tudo e todos.  
 O Caos pode ser trazido de seu plano para o nosso através da Expansão. A Ordem o manipula em sua forma desejada. Colapso detrói a ordem e recicla a matéria novamente para o plano do Caos.  
-Criaturas, incluindo personagens jogáveis, objetos e outros fenômenos da natureza podem ter acesso limitado ao Caos e, força suficiente para manipulá-lo a sua vontade.
+Criaturas, incluindo personagens jogáveis (PCs), objetos e outros fenômenos da natureza podem ter acesso limitado ao Caos, e força suficiente para manipulá-lo a sua vontade.
 
 ### Espécies
 
