@@ -80,7 +80,14 @@ Quase sempre você terá uma ou mais Habilidade Ativa que pode ser executada. As
 
 ### Resistir
 
-Alguns ataques ou outros eventos vão requisitar que você realize um teste de resistência a algum efeito nocivo. Por exemplo, uma cena horrenda acontece em sua frente, requisitando que você Resista a um ataque de pânico. Para isso, o GM diz que você precisa rolar um check de Resistir Cérebro.
+Nem sempre você irá conseguir Esquivar de ataques ou outros Moves, muitas vezes a Agilidade não é o bastante para sobreviver. Alguns eventos irão requisitar que você Resista com algum Atributo (diferente de Agilidade) a algum efeito nocivo. Exemplos são:
+
+- Uma criatura está tentando te esmagar em seus braços
+- Você foi infectado por um veneno e está tentando resistir ao seu efeito
+- Uma cena ou monstro horrendo força você a resistir a um ataque de pânico
+- etc
+
+O GM ou evento sempre lhe dirá explicitamente quando um teste de resistência é necessário.
 
 **Falha ou Falha Crítica:** Você recebe efeito da fonte normalmente.   
 **Sucesso Parcial:** Você recebe efeito pela metade. Divida qualquer número informado da fonte - Arredonde para cima.   
