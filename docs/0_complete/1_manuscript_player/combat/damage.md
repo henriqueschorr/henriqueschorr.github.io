@@ -27,7 +27,7 @@ Para mais informações sobre Limites de Dano, AP, Feridas e Stress, veja [Resil
 
 Você verá em alguns lugares, o dano representado por palavras/frases entre sinais de maior/menor: <>. Isto serve para indicar formas de calcular o dano dinamicamente, geralmente para acompanhar a progressão de ameaça das criaturas quanto ao seu personagem. Os exemplos mais comuns são:
 
-**< Xd Atributo>:** Indica que você deve rolar X dados do atributo informado. Por exemplo, <3d Força> indica que você deve rolar 3 dados de Força para calcular o dano.  
+**< Xd Atributo>:** Indica que você deve rolar X dados do atributo informado. Por exemplo, <3d Corpo> indica que você deve rolar 3 dados de Corpo para calcular o dano.  
 **< seu nível>:** Indica que você deve somar o seu nível ao dano. Por exemplo, se você estiver no nível 3, você soma 3 ao dano.
 
 ## Tipos de Dano e Efeitos Críticos
