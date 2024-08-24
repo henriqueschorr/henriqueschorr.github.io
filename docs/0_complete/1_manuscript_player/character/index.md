@@ -4,11 +4,12 @@ title: Criando seu Personagem
 
 # Criação de Personagem
 
-Antes de começar a jogar você precisa criar seu personagem. Siga os passos abaixo. Para cada informação recebida durante os passos, tome nota em sua [Ficha de Personagem](https://docs.google.com/spreadsheets/d/19w17pxwF-46oYBTceI109gJkN0Po3Q7_iUlrXDpy-CM/edit?usp=sharing).
+Antes de começar a jogar, você precisa criar seu personagem. Siga os passos abaixo. Para cada informação recebida durante os passos, tome nota em sua Fica de Personagem.
+<!-- [Ficha de Personagem](https://docs.google.com/spreadsheets/d/19w17pxwF-46oYBTceI109gJkN0Po3Q7_iUlrXDpy-CM/edit?usp=sharing). -->
 
 ## Passo 1: Escolha sua Espécie
 
-Atualmente você tem acesso somente a espécie Humano, encontrada no módulo da [Força Galáctica](). Ao escolher uma espécie, você recebe:
+Atualmente, você tem acesso somente a espécie Humano, encontrada no módulo da [Força Galáctica](../../2_galactic_force/index.md). Ao escolher uma espécie, você recebe:
 
 - [Tamanho](): Minúsculo, Pequeno, Médio, Grande ou Gigante.
 - [Movimento](): Representa o terreno que você pode se movimentar e velocidade.

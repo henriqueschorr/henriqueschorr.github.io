@@ -52,7 +52,7 @@ Apenas PCs têm Stress, o Stress de NPCs está ligado direto às suas Feridas.
 
 ## Stamina
 
-Stamina representa a sua capacidade de realizar atos extraordinários. Mecanicamente, é o recurso utilizado para alimentar suas Habilidades. Para alguns personagens, stamina representa apenas sua energia vital, para outros, representa a força da sua conexão com o Caos - e quantidade que pode ser tocada e manipulada.
+Stamina representa a sua capacidade de realizar atos extraordinários. Mecanicamente, é o recurso utilizado para alimentar suas Habilidades. Para alguns personagens, stamina representa apenas sua energia vital, para outros, representa a força da sua conexão com o Caos - quantidade que pode ser tocada e manipulada.
 
 <!-- ## Saga -->
 

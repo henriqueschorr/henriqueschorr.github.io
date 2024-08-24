@@ -17,7 +17,7 @@
 - **Armas:** Arco-Caos, Lâmina Fragmento
 - **Armadura:** A.N.E. Leve
 - **Equipamentos:** 1x Armadilha, 1x Kit Médico Simples
-- **Habilidades:** Assassinato
+- **Habilidades:** Golpe Certeiro
 - **Aprimoramentos:** A.N.E., Arco-Caos e Lâmina Fragmento
 - **Atributos Recomendados:** Agilidade e Controle
 
@@ -47,7 +47,7 @@
 - **Conhecimento:** Perícia em Biologia ou Química
 - **Armas:** Multigun
 - **Armadura:** A.N.E. Leve ou Média
-- **Equipamentos:** 3x Dardos Infusores com conteúdo, 1x Kit Médico Simples
+- **Equipamentos:** 3x Compostos Químicos Simples, 1x Kit Médico Simples
 - **Habilidades:** Scan - Orgânicos
 - **Aprimoramentos:** A.N.E. e Multigun
 - **Atributos Recomendados:** Controle e Cérebro
@@ -93,6 +93,7 @@
 - **Armas:** Omnigun
 - **Armadura:** A.N.E. Leve ou Média
 - **Equipamentos:** 1x Granada, 1x Kit Médico Simples
+- **Habilidades:** Arsenal
 - **Aprimoramentos:** A.N.E. e Omnigun
 - **Atributos Recomendados:** Controle
 
