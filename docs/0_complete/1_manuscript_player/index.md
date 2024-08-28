@@ -9,7 +9,7 @@
     - Escolha Aprimoramentos
     - Finalização: detalhes pessoais
 - [Atributos](./character/attributes.md)
-    - Força
+    - Corpo
     - Agilidade
     - Controle
     - Atenção
