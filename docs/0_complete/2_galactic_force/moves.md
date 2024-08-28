@@ -28,7 +28,7 @@ Receitas de Química são automaticamente armazenadas em Dardos Infusores.
 
 ## Multigun - Lançar Dardo
 
-1 Ação. Escolha um Dardo Infusor com conteúdo. Faça um check de Controle contra uma criatura até alcance 20. Em caso de sucesso, você acerta o Dardo Infusor e o efeito do seu conteúdo é aplicado. Em caso de falha, você perde o Dardo Infusor.
+1 Ação. Escolha um Dardo Infusor com conteúdo. Faça um check de Controle contra uma criatura até o alcance da arma. Em caso de sucesso, você acerta o Dardo Infusor e o efeito do seu conteúdo é aplicado. Em caso de falha, você perde o Dardo Infusor.
 
 ## Neurohancer - Analisar Humor
 
@@ -43,13 +43,13 @@ Receitas de Química são automaticamente armazenadas em Dardos Infusores.
 1 Ação. Omnigun troca para um de seus modos: Espingarda, Fuzil de Assalto ou Fuzil de Precisão.  
 A difereça entre os modos é o alcance e as Habilidades.
 
-Espingarda: 15 de Alcance  
-Fuzil de Assalto: 30 de Alcance  
-Fuzil de Peecisão: 80 de Alcance
+**Espingarda**: Perto  
+**Fuzil de Assalto**: Longe  
+**Fuzil de Precisão**: Muito Longe
 
 ## Pistola Cinética - Modo
 
 1 Ação. Pistola Cinética troca para um de seus modos: Foco ou Disperso.
 
-Foco: Atinge apenas um alvo. Além do dano, empurra o alvo 2 para trás e o deixa Debilitado 1.  
-Disperso: Atinge até 3 alvos adjacentes um ao outro.
+**Foco**: Atinge apenas um alvo. Além do dano, empurra o alvo para trás até 1 Seção, e o deixa Debilitado 1.  
+**Disperso**: Atinge até 3 alvos adjacentes um ao outro.

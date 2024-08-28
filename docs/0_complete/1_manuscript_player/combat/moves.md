@@ -3,7 +3,13 @@
 
 ### Movimento
 
-Qualquer movimento voluntário, acima de 2m, durante o turno de equipe, conta como uma Ação e 1 Token de Ação deve ser entregue ao GM. Para cada Ação de movimento, você pode mover-se até a distância indicada em seu personagem. Você tem a opção de se movimentar o dobro da distância realizando um check de Agilidade.
+Enquanto você se mover dentro de uma mesma Seção, somente a primeira vez que você realiza um movimento nela, conta como uma Ação. Ou seja, você deve entregar 1 Token de Ação para o GM somente quando você se move pela primeira vez dentro de uma Seção.  
+
+Cada Seção que você cruzar ao se mover, conta como uma Ação diferente e 1 Token de Ação deve ser entregue ao GM.  
+
+Você tem a opção de se mover até o dobro da distância indicado em seu personagem, porém, um check de Agilidade deve ser realizado. Em caso de falha, você para no limite do seu movimento.
+
+Apenas movimentos voluntários contam como Ação.
 
 Qualquer movimento em Terreno Difícil, ou se arrastando, necessita de um check de Agilidade.
 
@@ -25,9 +31,9 @@ Ataques são Ações realizados com armas e/ou habilidades, com o propósito de 
 
 Quando um ataque é feito contra <ins>mais de um alvo</ins>, você realiza apenas um check para determinar se acerta os alvos ou não.
 
-Quando um ataque é feito em uma <ins>área</ins>, você não faz um check, os alvos presentes na área devem esquivar ou realizar outra reação para evitar o ataque.
+Quando um ataque é feito em uma <ins>área</ins>, você não faz um check, os alvos presentes na área devem Esquivar ou realizar outra Reação para evitar o ataque.
 
-Quando você causar <ins>dano em mais de uma criatura</ins>, você rola o dano apenas uma vez, aplicando o mesmo dano em todos os alvos atingidos.
+Quando você causar <ins>dano em mais de uma criatura</ins>, você aplica o mesmo dano em todos os alvos atingidos.
 
 #### Passo 2: Efeitos
 
@@ -74,10 +80,6 @@ Caso o alvo seja outra criatura:
 **Vence a Disputa:** Você consegue defender e ninguém recebe dano.  
 **Sucesso Crítico:** Você consegue defender, ninguém recebe dano e pode realizar uma Ação imediatamente.  
 
-## Habilidades Ativas
-
-Quase sempre você terá uma ou mais Habilidade Ativa que pode ser executada. As Habilidades ativas sempre terão bem claras seu custo em Ações ou se é uma Reação. Siga as instruções nas Habilidades para executá-las durante o combate.
-
 ### Resistir
 
 Nem sempre você irá conseguir Esquivar de ataques ou outros Moves, muitas vezes a Agilidade não é o bastante para sobreviver. Alguns eventos irão requisitar que você Resista com algum Atributo (diferente de Agilidade) a algum efeito nocivo. Exemplos são:
@@ -92,3 +94,7 @@ O GM ou evento sempre lhe dirá explicitamente quando um teste de resistência �
 **Falha ou Falha Crítica:** Você recebe efeito da fonte normalmente.   
 **Sucesso Parcial:** Você recebe efeito pela metade. Divida qualquer número informado da fonte - Arredonde para cima.   
 **Sucesso ou Sucesso Crítico:** Você resiste ao efeito da fonte por completo.
+
+## Habilidades Ativas
+
+Quase sempre você terá uma ou mais Habilidade Ativa que pode ser executada. As Habilidades ativas sempre terão bem claras seu custo em Ações ou se é uma Reação. Siga as instruções nas Habilidades para executá-las durante o combate.

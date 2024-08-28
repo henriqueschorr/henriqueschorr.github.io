@@ -22,13 +22,20 @@ Alguns efeitos terão efeitos duradouros. Para manter controle sobre o tempo res
 
 ## Tempo, Espaço & Alvos
 
-### Mapa e Hex/Grids
+### Mapa e Seções
 
-Um combate em BTH é sempre realizado em um mapa representado o local da batalha, seja ele uma nave, um quarto ou qualquer outro. O mapa é dividido em Grids/Hexes e cada um deles representa algo em torno de 2m de tamanho.
+Um combate em BTH é sempre realizado em um mapa representado o local da batalha; seja ele uma nave, um quarto ou qualquer outro espaço. O mapa é dividido em Seções que podem representar pequenas porções de áreas. O tamanho da Seção se dá a interpretação do GM ao criar/usar um mapa, mas você pode usar as seguintes referências:
+
+- Uma área de 16m² (4m x 4m). Isto equivale ao tamanho médio de um quarto normal
+- Se o mapa está dividido em grids ou hexes, considere uma seção sendo como 4x4 grids/hexes
+- Cada cômodo pode ser uma Seção: um quarto, um banheiro, uma sala, um corredor...
+- Sempre que um espaço for dividido por uma passagem (porta, janela, portão, cerca, etc), considere cada espaço como uma Seção diferente
+
+Para ter o melhor exemplo do que um mapa dividido por Seções deveria ser, use o jogo de tabuleiro Mansions of Madness como referência. Você pode inclusive reaproveitar seus mapas.
 
 ### Tamanhos de Criaturas
 
-Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se enquadra. O tamanho sempre é medido em sistema métrico. Esse indicador serve para ajudar na determinação de mecânicas como proteção, e indicar quantos Grids/Hexes a criatura ocupa em um mapa.
+Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se enquadra. O tamanho sempre é medido em sistema métrico. Esse indicador serve para ajudar na determinação de mecânicas como proteção, e indicar quantos Grids/Hexes a criatura ocupa em um mapa (caso houver).
 
 | Tamanho   | Tamanho Médio   | Tiles/Hexes |
 | --------- | --------------- | ----------- |
@@ -41,21 +48,38 @@ Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se en
 
 ### Alcance & Distância
 
-Alcances e Distâncias, quando curtas a moderadas, sempre serão indicadas em um valor de Grid/Hexes. Basta então multiplcar o valor por 2 para ter a medida em metros. Por exemplo, se uma arma tem alcance 10, quer dizer que ela consegue atingir alvos até 10 Grids/Hexes - ou 20m - de distância.
+Alcance e Distâncias sempre serão referenciadas considerando as Seções de um mapa.
+
+| Alcance/Distância | Seções                                                | Metros      | Grids/Hexes |
+| ----------------- | ----------------------------------------------------- | ----------- | ----------- |
+| Adjacente         | Mesma Seção. Alvo deve estar diretamente ao seu lado. | 2m ou menos | 1           |
+| Perto             | Mesma Seção ou 1 Seção adjacente a sua.               | 2m - 8m     | 2 - 8       |
+| Longe             | Até 2 Seções.                                         | 2m - 12m    | 2 - 12      |
+| Muito Longe       | Até 4 Seções.                                         | 2m - 24m    | 2 - 24      |
+
+<!-- Alcances e Distâncias, quando curtas a moderadas, sempre serão indicadas em um valor de Grid/Hexes. Basta então multiplcar o valor por 2 para ter a medida em metros. Por exemplo, se uma arma tem alcance 10, quer dizer que ela consegue atingir alvos até 10 Grids/Hexes - ou 20m - de distância. -->
 
 ### Alvos
 
 Certos Moves, como ataques, terão como requisito a escolha de um alvo. Um alvo pode ser único, múltiplos ou uma área. Um alvo é válido somente quando você tem linha de visão, alcance e bordas abertas entre você e ele. Exceções podem acontecer; estas estarão escritas explicitamente.
 
+Quando um Move é feito contra <ins>mais de um alvo</ins>, você realiza apenas um check para determinar se acerta os alvos ou não.
+
+Quando um Move é feito em uma <ins>área</ins>, você não faz um check, os alvos presentes na área devem Esquivar ou realizar outra Reação para evitar o ataque.
+
+Quando você causar <ins>dano ou qualquer outro efeito em mais de uma criatura</ins>, você aplica o mesmo dano em todos os alvos atingidos.
+
 ### Bordas e Linha de Visão
 
-As bordas entre Grids/Hexes podem ser abertas ou bloqueadas (por uma parede, objeto ou até mesmo outra criatura). Portas, escotilhas e outras aberturas são consideradas bloqueadas quando fechadas, ou abertas quando - bem - abertas.  
-Bordas abertas permitem movimento e linha de visão. Bordas bloquedas impedem linha de visão, a não ser que sejam transparentes (como vidros), ou caso você tenha sentidos que o permitam o contrário. Exceções podem acontecer; estas estarão escritas explicitamente.
+Objetos, estruturas e até mesmo criaturas podem obstruir um caminho ou linha de visão. Tudo aquilo que bloquear seu movimento ou visão, é considerado uma borda. Uma borda pode obstruir seu movimento, mas nem sempre sua visão, como no caso de vidros.  
+Você tem Linha de Visão somente quando seus sentidos principais usados para o Move conseguem alcançar uma criatura.
+
+Exceções podem acontecer; estas estarão escritas explicitamente.
 
 ### Modificadores do Mapa
 
 **Terreno Difícil**  
-Uma área estreita, apertada ou bagunçada/entulhada de objetos, pode dificultar o movimento. Sempre que você tentar se mover em uma área de terreno difícil, você precisa realizar um check de Agilidade. Em caso de falha você não sai do lugar. Exceções podem acontecer; estas estarão escritas explicitamente.
+Uma área estreita, apertada ou bagunçada/entulhada de objetos, pode dificultar o movimento. Sempre que você tentar se mover em uma área de terreno difícil, você precisa realizar um check de Agilidade. Em caso de falha, você não sai do lugar. Exceções podem acontecer; estas estarão escritas explicitamente.
 
 **Escuridão**  
 A área que você se encontra possui baixa, ou nenhuma, luz. Prejudicando os checks de todos aqueles que possuem a Visão como sentido principal.
@@ -144,5 +168,3 @@ Alguns efeitos, como [Condições](), têm valores fixos atrelados (exemplo Debi
 ### Countdown Dinâmico
 
 Nem todos countdowns terão o começo de turno como gatilho para diminuir seu valor. Pode haver eventos maiores e difíceis de medir em uma medida de tempo, como por exemplo: "término da construção de uma bomba". O GM pode decidir que este countdown baixa por diversos motivos: Sempre que um jogador falhar criticamente, sempre que os jogadores fazerem um descanso, etc. O GM não necessariamente precisa dizer para os jogadores quando o countdown irá diminuir, mas sempre precisa mostrar quando acontecer, para eles terem uma ideia. Algumas habilidades também poderão ter countdowns baseados em outros fatores, como por exemplo, baixar sempre que você ou uma criatura do GM realizar um Move.
-
-

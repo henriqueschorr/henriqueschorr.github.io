@@ -26,8 +26,7 @@ Countdown 3:
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Seus próximos 3 ataques com esta arma causam dano Químico (Fogo ou Gelo) em vez de Físico.  
-Além disso, causam <1d Controle> de dano adicional.
+Seus próximos 3 ataques com esta arma causam <1d Controle> dano Químico (Fogo ou Gelo) adicional.  
 
 ## Batedor
 
@@ -48,7 +47,7 @@ Além disso, causam <1d Controle> de dano adicional.
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Você obtém as seguintes informações até alcance 20:
+Você obtém as seguintes informações até alcance Longe:
 
 - Materiais orgânicos nocivos no ambiente
 - Criaturas orgânicas escondidas
@@ -61,7 +60,7 @@ Você obtém as seguintes informações até alcance 20:
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra uma criatura, todos inimigos no caminho e até distância 3 do alvo recebem <1d Controle> + < seu nível> de dano Energia.
+Faça um ataque contra uma criatura. Todos inimigos no caminho e na mesma Seção do alvo recebem <1d Controle> + < seu nível> de dano Energia.
 
 ## Drone Forja
 
@@ -79,7 +78,7 @@ Drone se transforma em uma torre metralhadora montada em alguma superfície. Nes
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Você obtém as seguintes informações até alcance 20:
+Você obtém as seguintes informações até alcance Longe:
 
 - Armadilhas ou dispositivos no ambiente
 - Criaturas construtos escondidas
@@ -92,7 +91,7 @@ Você obtém as seguintes informações até alcance 20:
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um check de Agilidade contra todos os inimigos até distância 6. Em todos aqueles que você tiver sucesso, cause dano da Lâmina Montada.
+Faça um check de Agilidade contra todos os inimigos até distância Perto. Em todos aqueles que você tiver sucesso, cause dano da Lâmina Montada.
 
 ## Lâmina Fragmento
 
@@ -120,7 +119,7 @@ Escolha alguma arma de lâmina que não atire projéteis, gaste um composto quí
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra todos os inimigos até distância 10. Em todos aqueles que você tiver sucesso: Preso 1.
+Faça um ataque contra todos os inimigos até distância Perto. Em todos aqueles que você tiver sucesso: Preso 1.
 
 ### Quebra-Escudo
 
@@ -145,7 +144,7 @@ Faça um ataque contra um inimigo. Caso o alvo deste ataque use alguma Reação 
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra um inimigo. Em caso de sucesso, o alvo fica Incapacitado 1. Independentemente do resultado do check, o alvo e todos os outros inimigos até uma distância 20 do alvo ficam Debilitado 2.
+Faça um ataque contra um inimigo. Em caso de sucesso, o alvo fica Incapacitado 1. Independentemente do resultado do check, o alvo e todos os outros inimigos na sua Seção, e na Seção do alvo ficam Debilitado 2.
 
 ## Soldado
 

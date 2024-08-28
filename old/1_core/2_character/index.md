@@ -156,7 +156,7 @@ Algumas espécies possuem conhecimento científico sobre áreas da ciência: Bio
 
 
 
-=======
+
 ---
 title: Personagem
 ---
