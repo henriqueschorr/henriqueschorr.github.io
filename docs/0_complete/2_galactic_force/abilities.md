@@ -26,13 +26,13 @@ Countdown 3:
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Seus próximos 3 ataques com esta arma causam <1d Controle> dano Químico (Fogo ou Gelo) adicional.  
+Seus próximos 3 ataques com esta arma causam < seu nível> de dano Químico (Fogo ou Gelo) adicional.  
 
 ## Batedor
 
 ### Golpe Certeiro
 
-<ins>Sempre</ins> que você realizar um ataque com modificadores positivos, adicione <2x seu nível> ao dano.
+<ins>Sempre</ins> que você realizar um ataque com modificadores positivos, adicione < seu nível> ao dano.
 
 ## Capitão
 
@@ -60,7 +60,7 @@ Você obtém as seguintes informações até alcance Longe:
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra uma criatura. Todos inimigos no caminho e na mesma Seção do alvo recebem <1d Controle> + < seu nível> de dano Energia.
+Faça um ataque contra uma criatura. < seu nível> + 1 inimigos até distância Perto do alvo recebem metade do dano.
 
 ## Drone Forja
 
@@ -91,7 +91,7 @@ Você obtém as seguintes informações até alcance Longe:
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um check de Agilidade contra todos os inimigos até distância Perto. Em todos aqueles que você tiver sucesso, cause dano da Lâmina Montada.
+Faça um ataque com a Lâmina Montada em até < seu nível> + 1 inimigos até distância Perto. Em todos aqueles que você tiver sucesso, cause dano da Lâmina Montada.
 
 ## Lâmina Fragmento
 
@@ -109,7 +109,7 @@ Faça um ataque contra uma criatura. Em caso de sucesso, alvo recebe Dano Persis
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Escolha alguma arma de lâmina que não atire projéteis, gaste um composto químico Elemental. Countdown 2: Arma escolhida causa <1d Cérebro> dano Químico (Fogo, Gelo, Ácido) adicional.
+Escolha alguma arma de lâmina que não atire projéteis, gaste um composto químico Elemental. Countdown 3: Arma escolhida causa < seu nível> dano Químico (Fogo, Gelo, Ácido, Veneno) adicional.
 
 ## Omnigun
 
@@ -119,7 +119,7 @@ Escolha alguma arma de lâmina que não atire projéteis, gaste um composto quí
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra todos os inimigos até distância Perto. Em todos aqueles que você tiver sucesso: Preso 1.
+Faça um ataque contra até < seu nível> + 1 inimigos até distância Perto. Em todos aqueles que você tiver sucesso: Preso 1.
 
 ### Quebra-Escudo
 
@@ -127,7 +127,7 @@ Faça um ataque contra todos os inimigos até distância Perto. Em todos aqueles
 **Moves:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra um inimigo. Em caso de sucesso e, se o alvo possua ao menos 1 AP, adicione <1d Controle> ao dano.
+Faça um ataque contra um inimigo. Em caso de sucesso e, se o alvo possuir ao menos 1 AP, adicione <2x seu nível> ao dano.
 
 ### Tiro Certeiro
 
