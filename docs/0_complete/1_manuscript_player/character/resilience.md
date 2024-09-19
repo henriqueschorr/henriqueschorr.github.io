@@ -55,7 +55,7 @@ Você pode receber Stress quando:
 
 Você pode recuperar Stress a partir de diversas fontes, como: Descanso, itens, habilidades, etc.
 
-Quando você marcar seu último Stress, você deve rolar um dado e comparar com a tabela de Pânico, para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
+Quando você marca um Stress a mais que metade do seu total, você deve rolar um 1d6, somar seu nível de Stress, e comparar o resultado com a tabela de Pânico para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
 <!-- - Você role Falha Crítica em algum check. -->
 
 <!-- Se você marcar seu último Stress, você sofre um ataque de pânico - veja mais em [Pânico](../combat/damage.md#pânico). -->

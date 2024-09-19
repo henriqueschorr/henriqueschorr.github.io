@@ -10,9 +10,9 @@ Considere o grau de sucesso do seu check para calcular o dano, como abaixo:
 
 ## Aplicando Dano
 
-Um dano é sempre aplicado contra uma das três resiliências de uma criatura: AP, Ferida ou Stress. Um dano ao Stress estará sempre explicitamente informado, caso contrário, o dano é sempre contra AP/Ferida.  
+Um dano é sempre aplicado contra uma das três resiliências de uma criatura: AP, Ferida ou Stress. Um dano ao Stress estará sempre explicitamente informado, caso contrário, o dano é sempre contra AP/Ferida.
 
-Quando uma criatura recebe dano (sem ser ao Stress), o dano é sempre diminuído primeiramente de seu AP, a não ser que a fonte de dano diga o contrário.  
+Quando uma criatura recebe dano (sem ser ao Stress), o dano é sempre diminuído primeiramente de seu AP, a não ser que a fonte de dano diga o contrário.
 
 Dano contra Stress é sempre direto. Dano contra AP/Ferida é primeiramente comparado contra os [Limites de Dano](../character/resilience.md#limites-de-dano) da criatura para determinar quantos pontos devem ser marcados. De forma mais direta, siga os passos abaixo:
 
@@ -46,6 +46,21 @@ Em BTH, temos diversos tipos de dano e, cada um deles, tem seu efeito crítico. 
 ## Ferimentos Críticos
 
 Quando você marcar sua última Ferida, você deve rolar um dado e comparar com a tabela de Ferimentos Críticos, para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
+Caso um ferimento seja Fatal, você deve realizar um Check de Morte.
+
+### Check de Morte
+
+Role 1d Corpo escondido (de você mesmo inclusive). O resultado só é revelado no momento que você receber Atendimento Médico.
+
+**Falha:** Você morre.  
+**Qualquer nível de Sucesso:** Um novo Check de Morte a cada "Limite de Tempo".
+
+### Atendimento Médico
+
+Você pode fazer um atendimento médico em um aliado que esteja realizando Check de Morte.  
+Um atendimento médico dura o turno de equipe inteiro.
+Se você fizer qualquer Ação ou Reação, o atendimento é interrompido.
+Role 1d Cérebro ou Social para realizar um atendimento médico.
 
 <!-- ### Criaturas Orgânicas
 
@@ -57,7 +72,11 @@ Enquanto você tiver ao menos 1 Ferida restante, o dano é representado por fati
 
 ## Pânico
 
-Quando você marcar seu último Stress, você deve rolar um dado e comparar com a tabela de Pânico, para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
+Quando você marca um Stress a mais que metade do seu total, você deve rolar um 1d6, somar seu nível de Stress, e comparar o resultado com a tabela de Pânico para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
+
+## Traumas Permanentes
+
+Quando você tira 13 ou mais na tabela de Pânico, você adquire um Trauma Permanente. Role 1d6 e compare com a tabela da sua espécie.
 
 <!-- ### Criaturas Orgânicas
 

@@ -53,6 +53,10 @@ Equipamentos podem ser utilizados para auxiliar tarefas. Como por exemplo, usar 
 
 Frases curtas - como "Tome isso seu verme insolente" - gestos rápidos ou, qualquer outro tipo de comunicação breve, não contam como uma Ação.  Comunicação só contará como uma Ação caso você realmente tenha a intensão de influenciar - causar um efeito - em outra criatura, ou caso sua comunicação seja longa. Neste caso, 1 Token de Ação deve ser alcançado ao GM.
 
+### Interagindo com o Ambiente
+
+Interagir com o ambiente - abrir uma porta, puxar uma alavanca, etc - também conta como uma ação e 1 Token de Ação deve ser entregue ao GM.
+
 ## Reações
 
 Diferente das Ações - que são livres - as Reações têm uma lista predefinida do que pode ser realizado. Aprimoramentos, Equipamentos e Habilidades podem lhe conceder mais opções. Todas as Reações geram um check de [Disputa](../checks.md#disputa).

@@ -2,7 +2,7 @@
 
 ### Seu personagem
 
-<!-- - [Criação de Personagem](./character/index.md#criação-de-personagem)
+- [Criação de Personagem](./character/index.md#criação-de-personagem)
     - Escolha sua Espécie
     - Escolha seu Caminho
     - Avance Atributos
@@ -17,13 +17,17 @@
     - Social
 - [Resiliência](./character/resilience.md)
     - Limites de Dano
-    - Armor Points (AP)
+    - Armadura (AP)
     - Feridas
     - Stress
-    - Stamina & Caos
+    - Caos
 - [Movimento](./character/movement.md)
     - Tipos de Movimento: Aéreo, Aquático, Subterrâneo, Terrestre e Vertical
-- [Moves (do inglês)](./character/moves.md)
+- [Conhecimento](./character/knowledge.md)
+    - Níveis de Conhecimento
+    - Áreas da Ciência
+    - Receitas e Níveis de Receitas
+- [Ações & Reações](./character/moves.md)
     - Ações
     - Reações
     - Habilidades Ativas
@@ -35,11 +39,12 @@
     - Características
     - Propriedades
 - [Armadura](./character/armor.md)
-- [Inventório e Equipamentos](./character/inventory.md)
+- [Inventório & Equipamentos](./character/inventory.md)
     - Tipos de Equipamentos
         - Compostos Químicos
         - Munição
     - Equipamentos com variações semelhantes
+    - Escolha de Equipamentos (Plot Items)
 - [Progressão](./character/progression.md)
 
 ### Checks
@@ -47,16 +52,18 @@
 - [Checks](checks.md)
     - Graus de Sucesso
     - Resultados e Consequências
-    - Probabilidade
+    - Probabilidades
     - Modificadores
+    - Forçando o Check
     - Dificuldade
+    - Disputa
 
 ### Combate
 
 - [Combate](./combat/index.md)
     - Tokens
     - Tempo, Espaço & Alvos
-        - Mapa e Hex/Grids
+        - Mapas e Seções
         - Tamanhos de Criaturas
         - Alcance & Distância
         - Alvos
@@ -64,18 +71,20 @@
         - Modificadores do Mapa
     - Turnos
         - Surpresa
+        - Ordem de Turnos
         - Turno da Equipe
         - Turno do GM
         - Resolução
     - Countdowns
         - Countdown de Turno
         - Countdown Dinâmico
-- [Moves](./combat/moves.md)
+- [Ações & Reações](./combat/moves.md)
     - Ações
         - Movimento
         - Ataques
         - Usando Equipamento
         - Comunicação
+        - Interagindo com o Ambiente
     - Reações
         - Esquivar
         - Defender
@@ -96,4 +105,4 @@
 
 - [Descanso](rest.md)
     - Descanso Leve
-    - Descanso Longo -->
+    - Descanso Longo
