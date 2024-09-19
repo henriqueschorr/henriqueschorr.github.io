@@ -2,7 +2,7 @@
 
 ### Seu personagem
 
-- [Criação de Personagem](./character/index.md#criação-de-personagem)
+<!-- - [Criação de Personagem](./character/index.md#criação-de-personagem)
     - Escolha sua Espécie
     - Escolha seu Caminho
     - Avance Atributos
@@ -12,9 +12,9 @@
     - Corpo
     - Agilidade
     - Controle
-    - Atenção
+    - Sentidos
     - Cérebro
-    - Influência
+    - Social
 - [Resiliência](./character/resilience.md)
     - Limites de Dano
     - Armor Points (AP)
@@ -96,4 +96,4 @@
 
 - [Descanso](rest.md)
     - Descanso Leve
-    - Descanso Longo
+    - Descanso Longo -->

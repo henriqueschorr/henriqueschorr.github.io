@@ -3,32 +3,39 @@
 ### Camuflagem
 
 **Requisito:** A.N.E. Leve.  
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.  
+**Duração:** Countdown 3 durante combate. Até você realizar 3 Ações - que não sejam movimento - fora de combate.
 
-Você está Escondido e deixa de ficar somente quando realizar um ataque.
+Você está Escondido.
 
 ### Visão Aprimorada
 
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
-
-Countdown 3:
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.  
+**Duração:** Countdown 3 durante combate. 15 minutos fora de combate.
 
 - Você tem um dos tipos de visão a seguir: Térmica ou Raio X
-- +1 ao realizar checks envolvendo Atenção
+- +1 ao realizar checks envolvendo Sentidos
 - +1 em todos os ataques a distância
 
-## Arco-Caos
+## Batedor
+
+### Broca
+
+**Requisito:** Lâmina Fragmento  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Faça um ataque contra uma criatura. Em caso de sucesso, alvo recebe Dano Persistente 2.
 
 ### Carga Elemental
 
-**Moves:** 1 Ação.  
+**Requisito:** Arco-Caos  
+**Ações:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Seus próximos 3 ataques com esta arma causam < seu nível> de dano Químico (Fogo ou Gelo) adicional.  
-
-## Batedor
+Seus próximos 3 ataques com esta arma causam < seu nível> de dano Químico (Fogo ou Gelo) adicional.
 
 ### Golpe Certeiro
 
@@ -38,14 +45,36 @@ Seus próximos 3 ataques com esta arma causam < seu nível> de dano Químico (Fo
 
 ### Raciocínio Rápido
 
-<ins>Quando</ins> você e/ou sua equipe for surpreendida, você pode realizar 1 Move antes do turno surpresa do GM.
+<ins>Quando</ins> o primeiro turno for do GM, você pode realizar 1 Ação antes dele.
 
-## Ciencista
+### Inspiração
+
+**Requisito:** Neurohancer  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Suas próximas 3 Ações ou Reações inspiram seus aliados:
+
+Quando você mover, algum aliado pode mover até distância Longe sem precisar realizar check de Agilidade.  
+Quando você atacar, o primeiro ataque de um aliado no mesmo alvo é feito com +1.  
+Quando você reagir, todos seus aliados recuperam 1 Reação.
+
+### Manipulação
+
+**Requisito:** Neurohancer  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.  
+**Duração:** Countdown 3 durante combate. 15 minutos fora de combate.
+
+Você realiza checks de Social com +2.
+
+## Cientista
 
 ### Scan: Orgânicos
 
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.  
+**Duração:** Countdown 3 durante combate. 15 minutos fora de combate.
 
 Você obtém as seguintes informações até alcance Longe:
 
@@ -53,30 +82,21 @@ Você obtém as seguintes informações até alcance Longe:
 - Criaturas orgânicas escondidas
 - Informações sobre resiliência de uma criatura orgânica de ameaça Campeão ou inferior, a sua escolha
 
-## Coilgun
+### Infusor de Lâmina
 
-### Esfera Tesla
-
-**Moves:** 1 Ação.  
+**Requisito:** Multigun.  
+**Ações:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra uma criatura. < seu nível> + 1 inimigos até distância Perto do alvo recebem metade do dano.
-
-## Drone Forja
-
-### Modo: Torre
-
-**Moves:** 1 Ação (drone).  
-**Custo:** 1 Caos.
-
-Drone se transforma em uma torre metralhadora montada em alguma superfície. Neste modo o Drone não pode se mover, mas pode atacar com seu Rifle Montado. Além disso, pode realizar um ataque como Reação quando um inimigo se mover em direção a um aliado.
+Escolha alguma arma de lâmina que não atire projéteis. Gaste um composto químico Elemental. Countdown 3: Arma escolhida causa < seu nível> dano Químico (Fogo, Gelo, Ácido, Veneno) adicional.
 
 ## Engenheiro
 
 ### Scan: Construtos
 
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.  
+**Duração:** Countdown 3 durante combate. 15 minutos fora de combate.
 
 Você obtém as seguintes informações até alcance Longe:
 
@@ -84,67 +104,39 @@ Você obtém as seguintes informações até alcance Longe:
 - Criaturas construtos escondidas
 - Informações sobre resiliência de uma criatura construto de ameaça Campeão ou inferior, a sua escolha
 
-## Hoverboard
+### Esfera Tesla
+
+**Requisito:** Coilgun.  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Faça um ataque contra uma criatura. < seu nível> + 1 inimigos até distância Perto do alvo recebem metade do dano.
+
+### Modo: Torre
+
+**Requisito:** Drone Forja.  
+**Ações:** 1 Ação (drone).  
+**Custo:** 1 Caos.
+
+Drone se transforma em uma torre metralhadora montada em alguma superfície. Neste modo o Drone não pode se mover, mas pode atacar com seu Rifle Montado. Além disso, pode realizar um ataque como Reação quando um inimigo se mover em direção a um aliado.
+
+## Piloto
 
 ### Rastro de Sangue
 
-**Moves:** 1 Ação.  
+**Requisito:** Hoverboard.  
+**Ações:** 1 Ação.  
 **Custo:** 1 Caos.
 
 Faça um ataque com a Lâmina Montada em até < seu nível> + 1 inimigos até distância Perto. Em todos aqueles que você tiver sucesso, cause dano da Lâmina Montada.
 
-## Lâmina Fragmento
-
-### Broca
-
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
-
-Faça um ataque contra uma criatura. Em caso de sucesso, alvo recebe Dano Persistente 2.
-
-## Multigun
-
-### Infusor de Lâmina
-
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
-
-Escolha alguma arma de lâmina que não atire projéteis, gaste um composto químico Elemental. Countdown 3: Arma escolhida causa < seu nível> dano Químico (Fogo, Gelo, Ácido, Veneno) adicional.
-
-## Omnigun
-
-### Barragem de Tiros
-
-**Requisito:** Fuzil de Assalto  
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
-
-Faça um ataque contra até < seu nível> + 1 inimigos até distância Perto. Em todos aqueles que você tiver sucesso: Preso 1.
-
-### Quebra-Escudo
-
-**Requisito:** Espingarda  
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
-
-Faça um ataque contra um inimigo. Em caso de sucesso e, se o alvo possuir ao menos 1 AP, adicione <2x seu nível> ao dano.
-
-### Tiro Certeiro
-
-**Requisito:** Fuzil de Precisão  
-**Moves:** 1 Ação.  
-**Custo:** 1 Caos.
-
-Faça um ataque contra um inimigo. Caso o alvo deste ataque use alguma Reação que ignoraria ou diminuiria o dano causado, cause o dano normalmente.
-
-## Pistola Cinética
-
 ### Trovão
 
-**Moves:** 1 Ação.  
+**Requisito:** Pistola Cinética.  
+**Ações:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra um inimigo. Em caso de sucesso, o alvo fica Incapacitado 1. Independentemente do resultado do check, o alvo e todos os outros inimigos na sua Seção, e na Seção do alvo ficam Debilitado 2.
+Faça um ataque contra um inimigo. Em caso de sucesso, o alvo fica Incapacitado 1. Independentemente do resultado do check, o alvo e todos os outros inimigos na sua Seção, e na Seção do alvo, ficam Debilitado 2.
 
 ## Soldado
 
@@ -152,3 +144,29 @@ Faça um ataque contra um inimigo. Em caso de sucesso, o alvo fica Incapacitado 
 
 Você pode escolher três aprimoramentos no nível 1, em vez de dois.  
 O mesmo é válido ao nível 3.
+
+### Barragem de Tiros
+
+**Requisito:** Ominigun - modo Fuzil de Assalto  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Faça um ataque contra até < seu nível> + 1 inimigos até distância Perto. Em todos aqueles que você tiver sucesso: Preso 1.
+
+### Quebra-Escudo
+
+**Requisito:** Ominigun - modo Espingarda  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Faça um ataque contra um inimigo. Em caso de sucesso e, se o alvo possuir ao menos 1 AP, adicione <2x seu nível> ao dano.
+
+### Tiro Certeiro
+
+**Requisito:** Ominigun - modo Fuzil de Precisão  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Faça um ataque contra um inimigo. Caso o alvo deste ataque use alguma Reação que ignoraria ou diminuiria o dano causado, cause o dano normalmente.
+
+

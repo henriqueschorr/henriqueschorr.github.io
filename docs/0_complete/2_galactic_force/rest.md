@@ -7,7 +7,7 @@ Para receber os benefícios de um descanso leve, você deve ficar em repouso, is
 **Recupera:**  
 
 1. Metade de seu Stress.
-2. Metade de sua Stamina gasta.
+2. Metade de seu Caos gasta.
 3. Metade de seu AP.
 
 ## Descanso Longo
@@ -18,5 +18,5 @@ Para receber os benefícios de um descanso longo, você deve ficar em repouso to
 
 1. Metade de suas Feridas.
 2. Todo seu Stress.
-3. Toda sua Stamina.
+3. Todo seu Caos.
 4. Todo seu AP.

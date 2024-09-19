@@ -6,53 +6,60 @@ title: Introdução
 
 # Seja bem vindo a Beyond the Horizon
 
-![](0_assets/images/event_horizon.jpg)
+![](0_assets/event_horizon.jpg)
 
 <!-- ![](./0_assets/images/HB.png) -->
-Beyond the Horizon (BTH) é um jogo sobre aventuras, sobre histórias, sobre você. Vista a pele de um Humano investigando uma nave espacial que foi dada como abandonada há anos atrás; ande nas patas de um inseto - conhecido como Evoras - em busca de criaturas fortes para consumir e acelerar sua evolução; Crie relações simbiônticas com outras criaturas com o Symbion, e ajudem-os nos seus objetivos, em troca de certos favores, é claro; Ou até mesmo, queime tudo e todos no caminho em busca de seu real propósito com os elementais Realshir.  
+
+Beyond the Horizon (BTH) é um framework design para Tabletop Role-Playing Games (TTRPGs). No [Manuscrito](./0_complete/1_manuscript_player/index.md), você encontra as todas as mecânicas e regras bases para jogar. Uma breve generalização do universo e do sistema mágico é explicado nesta página. Aventuras, Espécies disponíveis para jogar e construção do Mundo/Universo serão encontradas em módulos separados.
+
+<!-- Aqui você encontrará todas as regras e mecânicas base necessárias para jogar qualquer módulo entregue neste fomato. -->
+
+<!-- Beyond the Horizon (BTH) é um jogo sobre aventuras, sobre histórias, sobre você. Vista a pele de um Humano investigando uma nave espacial que foi dada como abandonada há anos atrás; ande nas patas de um inseto - conhecido como Evoras - em busca de criaturas fortes para consumir e acelerar sua evolução; Crie relações simbiônticas com outras criaturas com o Symbion, e ajudem-os nos seus objetivos, em troca de certos favores, é claro; Ou até mesmo, queime tudo e todos no caminho em busca de seu real propósito com os elementais Realshir.
 Porém, não importa se você é um simples humano, ou um inseto do tamanho de um cão de porte médio, o universo não é um local amigável. Seja no espaço ou em um planeta, perigos estão sempre presentes, e a morte - ou loucura - sempre a espreita.
 
-Beyond the Horizon (BTH) é um framework design para Tabletop Role-Playing Games (TTRPGs). Aqui você encontrará todas as regras e mecânicas base necessárias para jogar qualquer módulo entregue neste fomato. O universo é brevemente explicado aqui, porém, informações mais detalhadas serão encontradas em módulos separados.
+Beyond the Horizon (BTH) é um framework design para Tabletop Role-Playing Games (TTRPGs). Aqui você encontrará todas as regras e mecânicas base necessárias para jogar qualquer módulo entregue neste fomato. O universo é brevemente explicado aqui, porém, informações mais detalhadas serão encontradas em módulos separados. -->
 
 **Disclaimer:** Você verá vários termos em inglês nesta documentação, decidi seguir por este caminho uma vez que estes termos já estão bem difundidos em qualquer tipo de jogo, ou caso sua tradução para o português não seja boa ou totalmente equivalente com a ideia que estou tentando passar.
 
 <!-- ## O que é Beyond the Horizon?
 
-O espaço é vasto, e nada amigável. Vácuo, radiação, buracos negros, supernovas, meteoros, tudo pode te matar ou até, antes disso, cozinhar seu cérebro. O espaço também não é vazio, diversas criaturas e outras formas de vida, além de Humanos, transitam e vivem por ele.  
-BTH é sobre as variedade de espécies, é sobre contato e exploração, é sobre enfrentar seus medos, é sobre descobrir respostas para os mistérios do universo e sobreviver o tempo bastante para gritá-las, correndo o perigo de ninguém lhe escutar.  
+O espaço é vasto, e nada amigável. Vácuo, radiação, buracos negros, supernovas, meteoros, tudo pode te matar ou até, antes disso, cozinhar seu cérebro. O espaço também não é vazio, diversas criaturas e outras formas de vida, além de Humanos, transitam e vivem por ele.
+BTH é sobre as variedade de espécies, é sobre contato e exploração, é sobre enfrentar seus medos, é sobre descobrir respostas para os mistérios do universo e sobreviver o tempo bastante para gritá-las, correndo o perigo de ninguém lhe escutar.
 Mais do que tudo, é sobre diversão e saber o que lhe espera Além do Horizonte. -->
 
-## Como ler o jogo?
+## Como ler esta Wiki?
 
 Nesta página você encontra informações gerais, um resumo do que o jogo se trata e como é jogado.  
-No [Manuscrito](./0_complete/1_manuscript_player/index.md), você encontra as mecânicas e regras bases para jogar um jogo neste modelo.  
-Na [Força Galáctica](./0_complete/2_galactic_force/index.md), você contra as espécies de Humanos (Ordinário e A.N.E.) e o meio em que habitam, assim como seus caminhos e equipamentos.
+No [Manuscrito](./0_complete/1_manuscript_player/index.md), você encontra todas as mecânicas e regras bases para jogar um jogo de BTH.  
+Na [Força Galáctica](./0_complete/2_galactic_force/index.md), você contra a espécie Humano, assim como descrições de seu universo, equipamentos, possíveis ameaças e aventuras.
 
 ## Universo
 
-O universo de Beyond the Horizon é equivalente ao nosso; mesmo sistema solar, galáxias parecidas, mesmas leis da física, porém, também tem grandes diferenças.
+Imagine o universo em que vivemos, mas com a licensa poética de ser diferente o bastante para abrigar diversas espécies e mundos habitáveis. Agora imagine forças poderosas que percorrem e se expandem por todo o universo, permitindo você, e diversos outros seres, usar habilidades que nos olhos de muitos, parece magia. Essa é a ideia de Beyond the Horizon; um universo que traz um senso de conhecido, mas ao mesmo tempo, maleável e diferente o bastante para permitir você viver as aventuras mais diversas.
 
-### Galáxias, Planetas e outros corpos celeste
+<!-- O universo de Beyond the Horizon é equivalente ao nosso; mesmo sistema solar, galáxias parecidas, mesmas leis da física, porém, também tem grandes diferenças. -->
 
-No universo de BTH você verá nomes conhecidos de galáxias, estrelas, sóis, planetas e qualquer outro corpo celeste, porém, seus posicionamentos, composições e outros detalhes podem ser completamente diferentes.
+<!-- ### Galáxias, Planetas e outros corpos celeste
+
+No universo de BTH você verá nomes conhecidos de galáxias, estrelas, sóis, planetas e qualquer outro corpo celeste, porém, seus posicionamentos, composições e outros detalhes podem ser completamente diferentes. -->
 
 ### Regentes do Universo e Caos
 
 O universo é regido por três forças (algumas culturas os classificam como entidades): Expansão, Ordem e Colapso. Estas três forças manipulam o Caos, que é a matéria que compõem tudo e todos.  
-O Caos pode ser trazido de seu plano para o nosso através da Expansão. A Ordem o manipula em sua forma desejada. Colapso detrói a ordem e recicla a matéria novamente para o plano do Caos.  
-Criaturas, incluindo personagens jogáveis (PCs), objetos e outros fenômenos da natureza podem ter acesso limitado ao Caos, e força suficiente para manipulá-lo a sua vontade.
+O Caos pode ser trazido de seu plano para o nosso através da Expansão. A Ordem o manipula na forma em que deseja. Colapso detrói a ordem e recicla a matéria novamente para o plano do Caos.  
+Criaturas, incluindo personagens jogáveis (PCs), objetos e outros fenômenos da natureza, podem ter acesso limitado ao Caos, e força suficiente para manipulá-lo a sua vontade.
 
 ### Espécies
 
-Variedade de espécies é o que não falta no mundo de BTH, sejam elas jogáveis ou não jogáveis. Cada espécie, incluindo Humanos, será apresentada através de módulos a parte. Cada espécie possuirá suas próprias características; mecânicas, comportamentais, sociais, etc.
+Variedade de espécies é o que não falta no mundo de BTH, sejam elas jogáveis ou não jogáveis. Cada espécie, incluindo Humanos, é apresentada através de módulos a parte. Cada espécie possuirá suas próprias características: mecânicas, comportamentais, sociais, etc.
 
 ### Tecnologia
 
-A tecnologia depende do módulo e espécie que você decide jogar. Enquanto Humanos possuem acesso a alta tecnologia, outras espécies, como os Evoras, não fazem uso de tecnologia alguma.
+A tecnologia depende do módulo e espécie que você decide jogar. Enquanto Humanos possuem acesso a alta tecnologia, outras espécies - como os Evoras - não fazem uso de tecnologia alguma.
 
 ## Módulos
 
-Enquanto no [Manuscrito](./0_complete/1_manuscript_player/index.md) você encontra as mecânicas e regras bases para jogar BTH, detalhes do mundo e espécies serão encontradas em módulos separados. Quando você e seus amigos decidirem começar um jogo, um dos primeiros passos é a decisão do módulo e espécies que desejam jogar. Abaixo você encontra um preview do planejamento de módulos e espécies presentes em cada um.
+Enquanto no [Manuscrito](./0_complete/1_manuscript_player/index.md) você encontra as mecânicas e regras bases para jogar BTH, detalhes do mundo e espécies são encontradas em módulos separados. Quando você e seus amigos decidirem começar um jogo, um dos primeiros passos é a decisão do módulo e espécies que desejam jogar. Abaixo você encontra um planejamento de módulos e espécies presentes em cada um.
 
 | Espécie             | Características                                                           | Módulo           |
 | ------------------- | ------------------------------------------------------------------------- | ---------------- |
@@ -64,13 +71,13 @@ Enquanto no [Manuscrito](./0_complete/1_manuscript_player/index.md) você encont
 | Realshir            | Elemental em busca de aperfeiçoamento de todos os elementos.              | Evolução         |
 | Kitsuzen            | Pequeno humanoid com aparência de raposa. Sua cultura lembra a asiática.  | Arte e Corpo     |
 | Egon                | Mistura entre lobo e lagarto que usa párticulas como areia, neve, etc.    | Arte e Corpo     |
-| Humanos (Sanguine)  | Humanos na Terra e que possuem poderes baseados na cor de seu sangue.     | Nova Velha Terra |
-| Humanos (Cyber)     | Humanos que lembram Cyberpunks.                                           | Nova Velha Terra |
-| Humanos (Mística)   | Humanos que fazem uso de tatuagens mágicas baseadas em misticismos.       | Nova Velha Terra |
+| Sanguine            | Humanos na Terra e que possuem poderes baseados na cor de seu sangue.     | Nova Velha Terra |
+| Cy_mera             | Humanos que lembram Cyberpunks.                                           | Nova Velha Terra |
+| Mistique            | Humanos que fazem uso de tatuagens mágicas baseadas em misticismos.       | Nova Velha Terra |
 
 <!-- **Disclaimer:** Neste play test somente os Humanos Ordinários e A.N.E., do módulo Força Galáctica, estarão disponíveis para escolha. -->
 
-**Disclaimer:** Neste play test está presente somente os Humanos (A.N.E.), do módulo Força Galáctica.
+**Disclaimer:** Neste play test, somente os Humanos (A.N.E) estão disponíveis para jogo.
 
 ## Jogadores e Game Master (GM)
 
@@ -78,10 +85,10 @@ Todo jogador, exceto um, assume o papel de um personagem jogável (PC). Você po
 Cabe a você imaginar e interpretar seu PC. Cada espécie tem suas peculariedades de cultura e personalidade, você encontra informações que lhe ajudam a interpretar um membro da espécie escolhida em cada módulo.  
 Os personagens de jogadores são sempre os protagonistas das aventuras. O jogo é sobre você, sobre suas decisões, sua história.
 
-O jogador restante é o Game Master (GM). Ele é responsável por narrar o mundo e a história. É responsável por desafiar o restante dos jogadores, seja por perigos do mundo e espaço, ou através de criaturas e monstros. Criaturas controladas pelo GM são chamadas de personagens não jogáveis (NPCs).  
-É trabalho do GM colocar obstáculos e desafios para os PCs, forçando eles a pensar com cuidado e tomar decisões rápidas. Não é trabalho do GM tomar decisões ou realizar ações pelos PCs, ele não possui controle sobre eles.
+O jogador restante é o Game Master (GM). Ele é responsável por narrar o mundo e a história. É responsável por desafiar a equipe de jogadores; seja colocando impencilhos no caminho ou atacando com monstros. Criaturas controladas pelo GM são chamadas de personagens não jogáveis (NPCs).  
+É trabalho do GM colocar obstáculos e desafios para os PCs, forçando eles a pensar com cuidado, mas ao mesmo tempo, tomar decisões rápidas. Não é trabalho do GM tomar decisões ou realizar ações pelos PCs, ele não possui controle sobre eles.
 
-O GM descreve os resultados e consequências das ações dos PCs, mas o que acontece de fato no jogo, é decidido durante o mesmo. No jogo, você descobre como sua história acaba.
+O GM descreve os resultados e consequências das ações dos PCs, mas o que acontece de fato no jogo, é decidido durante ele.
 
 ## O Jogo
 
@@ -101,7 +108,7 @@ Os temas variam entre os módulos e as espécies, alguns podendo focar mais em f
 
 ### Exploração e "Sense of Wonder"
 
-Curiosidade, mistério e perguntas assombram a mente de qualquer criatura. O universo está cheio destes mistérios, e também - com sorte - suas respostas. Explore mundos, encontre artefatos incompreensíveis de escala gigante, faça contato com organismos de complexidade inesplicáveis, descubra, se surpreenda.
+Curiosidade, mistério e perguntas assombram a mente de qualquer criatura. O universo está cheio destes mistérios, e também - com sorte - suas respostas. Explore mundos, encontre artefatos incompreensíveis e de escala gigante, faça contato com organismos de complexidade inesplicáveis; descubra, se surpreenda.
 
 ### Sci-fi
 
@@ -109,11 +116,11 @@ Ficção Científica é o carro chefe de BTH. Utilize de todas as ferramentas ao
 
 ### Fantasia
 
-O Caos e algumas espécies trazem uma pitada de fantasia ao mundo de BTH, fazendo algumas ações, habilidades e fenômenos parecem mágica. Mas não deixe-se enganar, o universo é regido por forças e leis rígidas.
+O Caos e algumas espécies trazem uma pitada de fantasia ao mundo de BTH, fazendo algumas ações, habilidades e fenômenos parecerem mágica. Mas não deixe-se enganar, o universo é regido por forças e leis rígidas.
 
 ### Terror
 
-No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Não importa se você seja um simples Humano ou um predador nato de aparência assustadora como um Evoras, sempre há algum perigo a espreita, esperando o momento mais oportuno para acabar com sua vida, ou sanidade. Com a mecânica de Stress e Pânico isso se torna mais do que claro - veja mais em [Stress e Pânico]().
+No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Não importa se você seja um simples Humano ou um predador nato de aparência assustadora como um Evoras, sempre há algum perigo a espreita, esperando o momento mais oportuno para acabar com sua vida; ou sanidade. Com a mecânica de Stress e Pânico isso se torna mais do que claro - veja mais em [Stress e Pânico](./0_complete/1_manuscript_player/character/resilience.md#stress).
 
 ### Ação
 
@@ -121,16 +128,16 @@ Uma aventura não seria uma boa aventura sem ação. BTH é repleto de ação. S
 
 ### Estratégia
 
-Assim como o espaço, o jogo não pensa duas vezes antes de te punir. Os recursos são poucos e os perigos muitos. Você deve pensar bastante sobre seu posicionamento no mapa. Deve observar com atenção seus inimigos e, administrar bem seus recursos e ações se quiser sobreviver no mundo e combate de BTH.
+Assim como o espaço, o jogo não pensa duas vezes antes de te punir. Os recursos são poucos e os perigos muitos. Você deve pensar bastante sobre seu posicionamento no mapa. Deve observar com atenção seus inimigos e, administrar bem seus recursos e ações se quiser sobreviver no mundo - e combate - de BTH.
 
 ## Ferramentas de Jogo
 
 Para jogar este jogo, você precisa das seguintes ferramentas:
 
-- [Ficha de Personagem]()
+- Ficha de Personagem
 - 1 a 3 conjuntos de dados (d6 a d12)
 - Tokens para Ação, Reação e Terror
-- Cartas de Moves, Habilidades, etc (opcional)
+- Cartas de Ações/Reações, Habilidades, Equipamentos e Companions
 
 <!-- Horizon Beyond (HB) é um framework design para Tabletop Role-Playing Games (TTRPGs) com ênfase em _**Cinematic Tactical Adventure Sci-Fi Fantasy**_. Neste módulo você encontrará regras para mecânicas bases do jogo, garantindo seu funcionamento para os mais diversos temas de aventuras.
 

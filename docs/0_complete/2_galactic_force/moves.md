@@ -16,15 +16,20 @@
 | 5         | Você causa <seu nível> de dano extra no seu próximo ataque com esta arma.            |
 | 6         | Você causa o dobro do <seu nível> de dano extra no seu próximo ataque com esta arma. |
 
+## Drone Forja - Conexão
+
+1 Ação. Você consegue acessar os sentidos de visão e audição através do drone.
+
 ## Drone Forja - Modo: Forja
 
-2 Ações. Drone se transforma em uma estação de Crafting para receitas de Engenharia.
+2 Ações. Drone se transforma em uma estação de Crafting para receitas de Engenharia. Além disso, você tem +1 nos checks de Crafting usando o drone.
 
 ## Multigun - Crafting
 
 Esta arma conta como uma estação de Crafting para receitas de Biologia e Química.  
 Receitas de Química que possuem tempo de produção de 10 minutos ou menos são feitas ao custo de apenas 1 ação.  
-Receitas de Química são automaticamente armazenadas em Dardos Infusores.
+Receitas de Química são automaticamente armazenadas em Dardos Infusores.  
+Você também tem +1 nos checks de Crafting com esta arma.
 
 ## Multigun - Lançar Dardo
 

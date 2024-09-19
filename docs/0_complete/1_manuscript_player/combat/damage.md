@@ -11,8 +11,10 @@ Considere o grau de sucesso do seu check para calcular o dano, como abaixo:
 ## Aplicando Dano
 
 Um dano é sempre aplicado contra uma das três resiliências de uma criatura: AP, Ferida ou Stress. Um dano ao Stress estará sempre explicitamente informado, caso contrário, o dano é sempre contra AP/Ferida.  
+
 Quando uma criatura recebe dano (sem ser ao Stress), o dano é sempre diminuído primeiramente de seu AP, a não ser que a fonte de dano diga o contrário.  
-Dano contra Stress é sempre direto. Dano contra AP/Ferida é primeiramente comparado contra os Limites de Dano da criatura para determinar quantos pontos devem ser marcados. De forma mais direta, siga os passos abaixo:
+
+Dano contra Stress é sempre direto. Dano contra AP/Ferida é primeiramente comparado contra os [Limites de Dano](../character/resilience.md#limites-de-dano) da criatura para determinar quantos pontos devem ser marcados. De forma mais direta, siga os passos abaixo:
 
 1. Se o dano for contra o Stress, aplique o valor diretamente no Stress
 2. Se o dano <ins>não</ins> for contra o Stress, compare o valor ao seus Limites de Dano
@@ -21,7 +23,7 @@ Dano contra Stress é sempre direto. Dano contra AP/Ferida é primeiramente comp
 5. Caso não indique nada, aplique o dano primeiramente no AP
    1. Se você não tem AP suficiente para segurar o dano, o restante do valor é subtraído de suas Feridas
 
-Para mais informações sobre Limites de Dano, AP, Feridas e Stress, veja [Resiliência]().
+Para mais informações sobre Limites de Dano, AP, Feridas e Stress, veja [Resiliência](../character/resilience.md).
 
 ## Dano Dinâmico
 
@@ -32,7 +34,7 @@ Você verá em alguns lugares, o dano representado por palavras/frases entre sin
 
 ## Tipos de Dano e Efeitos Críticos
 
-Em BTH temos diversos tipos de dano e, cada um deles, tem seu efeito crítico. Este efeito acontece sempre que o resultado de um check de ataque seja Sucesso Crítico. Quando um ataque possui mais de um tipo de dano, o jogador que realizou o ataque escolhe apenas um dos efeitos críticos para ser aplicado ao alvo.
+Em BTH, temos diversos tipos de dano e, cada um deles, tem seu efeito crítico. Este efeito acontece sempre que o resultado de um check de ataque seja Sucesso Crítico. Quando um ataque possui mais de um tipo de dano, o jogador que realizou o ataque escolhe apenas um dos efeitos críticos para ser aplicado ao alvo.
 
 | Dano    | Efeito Crítico                                      | Exemplos                                                                                                                                        |
 | ------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,21 +45,25 @@ Em BTH temos diversos tipos de dano e, cada um deles, tem seu efeito crítico. E
 
 ## Ferimentos Críticos
 
-### Criaturas Orgânicas
+Quando você marcar sua última Ferida, você deve rolar um dado e comparar com a tabela de Ferimentos Críticos, para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
 
-Enquanto você tiver ao menos 1 Ferida restante, o dano é representado por fatiga, machucados, cortes leves, etc. Quando um PC chega a 0 Feridas, ele sofre um ferimento crítico. Este pode permanentemente lhe aleijar ou matar. Quando você chegar a 0 HP, role um d66 (2d6: 1 dezena e outro unidade) para a tabela abaixo:
+<!-- ### Criaturas Orgânicas
+
+Enquanto você tiver ao menos 1 Ferida restante, o dano é representado por fatiga, machucados, cortes leves, etc. Quando um PC chega a 0 Feridas, ele sofre um ferimento crítico. Este pode permanentemente lhe aleijar ou matar. Quando você chegar a 0 HP, role um d66 (2d6: 1 dezena e outro unidade) para a tabela abaixo: -->
 
 <!-- | D?? | Ferimento | Fatal | Efeito |
 | --- | --------- | ----- | ------ | -->
-![](../../../0_assets/images/critical-injury.png)
+<!-- ![](../../../0_assets/images/critical-injury.png) -->
 
 ## Pânico
 
-### Criaturas Orgânicas
+Quando você marcar seu último Stress, você deve rolar um dado e comparar com a tabela de Pânico, para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
 
-Enquanto você tiver ao menos 1 Stress restante, você está apenas abalado emocionalmente, sobrecarregado ou nervoso. Quando um PC chega a 0 Stress, ele sofre um ataque de pânico. Quando você chegar a 0 Stress, role 1d20 para a tabela abaixo:
+<!-- ### Criaturas Orgânicas
 
-![](../../../0_assets/images/panic-attack.png)
+Enquanto você tiver ao menos 1 Stress restante, você está apenas abalado emocionalmente, sobrecarregado ou nervoso. Quando um PC chega a 0 Stress, ele sofre um ataque de pânico. Quando você chegar a 0 Stress, role 1d20 para a tabela abaixo: -->
+
+<!-- ![](../../../0_assets/images/panic-attack.png) -->
 
 <!-- ### Criaturas Sintéticas -->
 

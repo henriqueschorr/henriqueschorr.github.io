@@ -8,9 +8,9 @@
 
 ### Batedor
 
-![](../../0_assets/images/human/scout.jpg){ width="200", align="right" }
+![](../../0_assets/galactic_force/images/scout.jpg){ width="200", align="right" }
 
-- **Limites de Dano:** 2 | 4 | 6
+- **Limites de Dano:** 2 | 5 | 7
 - **Feridas:** 5
 - **Stress:** 5
 - **Caos:** 2
@@ -23,9 +23,9 @@
 
 ### Capitão
 
-![](../../0_assets/images/human/captain.jpg){ width="200", align="right" }
+![](../../0_assets/galactic_force/images/captain.jpg){ width="200", align="right" }
 
-- **Limites de Dano:** 2 | 4 | 6
+- **Limites de Dano:** 2 | 5 | 7
 - **Feridas:** 5
 - **Stress:** 6
 - **Caos:** 3
@@ -34,13 +34,13 @@
 - **Equipamentos:** Neurohancer, 1x Kit Médico Simples
 - **Habilidades:** Raciocínio Rápido
 - **Aprimoramentos:** A.N.E. e Neurohancer
-- **Atributos Recomendados:** Atenção e Cérebro
+- **Atributos Recomendados:** Sentidos e Social
 
 ### Cientista
 
-![](../../0_assets/images/human/scientist.jpg){ width="200", align="right" }
+![](../../0_assets/galactic_force/images/scientist.jpg){ width="200", align="right" }
 
-- **Limites de Dano:** 2 | 4 | 6
+- **Limites de Dano:** 2 | 5 | 7
 - **Feridas:** 5
 - **Stress:** 5
 - **Caos:** 3
@@ -54,9 +54,9 @@
 
 ### Engenheiro
 
-![](../../0_assets/images/human/engineer.jpg){ width="185", align="right" }
+![](../../0_assets/galactic_force/images/engineer.jpg){ width="185", align="right" }
 
-- **Limites de Dano:** 2 | 4 | 6
+- **Limites de Dano:** 2 | 5 | 7
 - **Feridas:** 5
 - **Stress:** 5
 - **Caos:** 3
@@ -70,9 +70,9 @@
 
 ### Piloto
 
-![](../../0_assets/images/human/pilot.jpg){ width="210", align="right" }
+![](../../0_assets/galactic_force/images/pilot.jpg){ width="210", align="right" }
 
-- **Limites de Dano:** 2 | 4 | 6
+- **Limites de Dano:** 2 | 5 | 7
 - **Feridas:** 5
 - **Stress:** 6
 - **Caos:** 2
@@ -80,13 +80,13 @@
 - **Armadura:** A.N.E. Leve
 - **Equipamentos:** Hoverboard, 1x Kit Médico Simples
 - **Aprimoramentos:** A.N.E., Pistola Cinética e Hoverboard
-- **Atributos Recomendados:** Controle e Atenção
+- **Atributos Recomendados:** Controle e Sentidos
 
 ### Soldado
 
-![](../../0_assets/images/human/soldier.jpg){ width="200", align="right" }
+![](../../0_assets/galactic_force/images/soldier.jpg){ width="200", align="right" }
 
-- **Limites de Dano:** 2 | 4 | 6
+- **Limites de Dano:** 2 | 5 | 7
 - **Feridas:** 5
 - **Stress:** 5
 - **Caos:** 2

@@ -4,9 +4,7 @@ Armadura Nano Evolutivo, ou A.N.E, é a tecnologia militar mais avançada dispon
 
 #### Características
 
-Abaixo segue as características de A.N.E.
-
 **Nome:** A.N.E.  
 **Carga:** Leve/Média/Média-Pesada/Pesada  
 **AP:** 2/3/4/6  
-**Equipamentos:** 1x Comunicador, 1x Lanterna.
+**Equipamentos:** 1x Comunicador, 1x Lanterna, 1x Monitor de Informações.

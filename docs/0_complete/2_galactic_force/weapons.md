@@ -1,4 +1,4 @@
-| Nome (Mãos)          | Atributo e Alcance    | Dano               | Propriedades              | Moves                  |
+| Nome (Mãos)          | Atributo e Alcance    | Dano               | Propriedades              | Ações                  |
 | -------------------- | --------------------- | ------------------ | ------------------------- | ---------------------- |
 | Arco-Caos (2)        | Controle - Longe      | Físico             | Silenciosa                | Retração, Montagem     |
 | Coilgun (2)          | Controle - Perto      | Energia (Elétrico) | Recarregar                | Carregar               |

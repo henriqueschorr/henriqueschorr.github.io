@@ -16,4 +16,4 @@ Ações e Reações quase que exclusivas do seu personagem e suas escolhas.
 
 #### Habilidade - Ação/Reação/Engatilhada/Passiva
 
-Habilidades quase que exclusivas do seu personagem, podendo ser um Move (Ação ou Reação), Engatilhada ou Passiva.
+Habilidades quase que exclusivas do seu personagem, podendo ser uma Ação/Reação, ou Engatilhada e Passiva.
