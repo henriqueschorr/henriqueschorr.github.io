@@ -18,6 +18,10 @@ Compostos químicos são substâncias químicas que podem ser consumidas para ca
 **Inalação:** Indica que é necessário inalar - respirar - o gás.   
 **Toque:** Indica que o componente químico é acionado assim que entrar em contato com alguma superfície.
 
+<figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/chemical_compounds.png)
+</figure>
+
 ### Munição
 
 Algumas armas e equipamentos podem fazer uso de munição. Em BTH, não fazemos a contagem de munição para armas que usam munições comuns, ou seja, você não precisará contar quantas flechas ainda tem para atirar com seu arco, ou balas para usar com sua pistola. Munições também variam entre armas e espécies, mas você sempre usará os nomes genéricos descritos abaixo.
@@ -32,6 +36,10 @@ Munição mais difícil de produzir ou encontrar, geralmente causam efeitos ou d
 #### Munição Especial
 
 Munição rara ou super especializada a um arma. Muito mais difícil de produzir ou encontrar. Este tipo de munição terá contagem.
+
+<figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/ammo.png)
+</figure>
 
 ## Equipamentos com Variações Semelhantes
 

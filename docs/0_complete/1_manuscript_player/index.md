@@ -69,6 +69,9 @@
         - Alvos
         - Bordas e Linha de Visão
         - Modificadores do Mapa
+            - Escuridão
+            - Terreno Difícil
+            - Terreno Vantajoso
     - Turnos
         - Surpresa
         - Ordem de Turnos

@@ -8,3 +8,5 @@
 | Omnigun (2)          | Controle - Variado    | Físico             | Recarregar                | Modo                   |
 | Pistola Cinética (1) | Controle - Perto      | Físico             | Recarregar                | Modo                   |
 | Rifle Montado        | Controle - Longe      | Energia (Elétrico) |                           |                        |
+
+<!-- TODO: Show weapons -->

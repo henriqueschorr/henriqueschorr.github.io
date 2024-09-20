@@ -7,6 +7,8 @@
 | Lanterna               | Permite iluminar áreas até distância Longe.                                                                      |
 | Monitor de Informações | Mostra de modo geral temperatura do ambiente, nível de oxigênio, etc. Também mostra informações sobre sua saúde. |
 
+<!-- TODO: Show equipments -->
+
 ## Drone Forja
 
 Possui a forma de um cubo cinza sem nenhum orifício, interface ou dispositivo aparente. Acompanha seu Engenheiro, geralmente flutuando próximo a um de seus ombros. Mantém um tamanho de 8000cm³ (20cm cada lado), mas estende seu tamanho indefinadamente para assumir novas formas.

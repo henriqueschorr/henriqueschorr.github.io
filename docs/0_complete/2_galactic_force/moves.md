@@ -7,14 +7,14 @@
 
 1 Ação. Jogue 1d6 e aplique o efeito do seu resultado.
 
-| Resultado | Efeito                                                                               |
-| --------- | ------------------------------------------------------------------------------------ |
-| 1         | Arma emperra e não pode ser utilizada por 2 turnos de equipe.                        |
-| 2         | Nenhum efeito.                                                                       |
-| 3         | Nenhum efeito.                                                                       |
-| 4         | Nenhum efeito.                                                                       |
-| 5         | Você causa <seu nível> de dano extra no seu próximo ataque com esta arma.            |
-| 6         | Você causa o dobro do <seu nível> de dano extra no seu próximo ataque com esta arma. |
+| Resultado | Efeito                                                                                |
+| --------- | ------------------------------------------------------------------------------------- |
+| 1         | Arma emperra e não pode ser utilizada por 2 turnos de equipe.                         |
+| 2         | Nenhum efeito.                                                                        |
+| 3         | Nenhum efeito.                                                                        |
+| 4         | Nenhum efeito.                                                                        |
+| 5         | Você causa < seu nível> de dano extra no seu próximo ataque com esta arma.            |
+| 6         | Você causa o dobro do < seu nível> de dano extra no seu próximo ataque com esta arma. |
 
 ## Drone Forja - Conexão
 

@@ -87,12 +87,13 @@ Você obtém as seguintes informações até alcance Longe:
 **Requisito:** Multigun.  
 **Ações:** 1 Ação.  
 **Custo:** 1 Caos.
+**Duração:** Countdown 3 durante combate. 15 minutos fora de combate.
 
-Escolha alguma arma de lâmina que não atire projéteis. Gaste um composto químico Elemental. Countdown 3: Arma escolhida causa < seu nível> dano Químico (Fogo, Gelo, Ácido, Veneno) adicional.
+Escolha alguma arma de lâmina (como uma espada, faca, etc). Gaste um composto químico Elemental. Arma escolhida causa < seu nível> dano Químico (Fogo, Gelo, Ácido, Veneno) adicional.
 
 ## Engenheiro
 
-### Scan: Construtos
+### Scan: Não-Orgânicos
 
 **Ações:** 1 Ação.  
 **Custo:** 1 Caos.  
@@ -101,8 +102,8 @@ Escolha alguma arma de lâmina que não atire projéteis. Gaste um composto quí
 Você obtém as seguintes informações até alcance Longe:
 
 - Armadilhas ou dispositivos no ambiente
-- Criaturas construtos escondidas
-- Informações sobre resiliência de uma criatura construto de ameaça Campeão ou inferior, a sua escolha
+- Criaturas não-orgânicas escondidas
+- Informações sobre resiliência de uma criatura não-orgânica de ameaça Campeão ou inferior, a sua escolha
 
 ### Esfera Tesla
 
@@ -110,7 +111,8 @@ Você obtém as seguintes informações até alcance Longe:
 **Ações:** 1 Ação.  
 **Custo:** 1 Caos.
 
-Faça um ataque contra uma criatura. < seu nível> + 1 inimigos até distância Perto do alvo recebem metade do dano.
+Faça um ataque contra uma criatura. < seu nível> + 1 inimigos até distância Perto do alvo recebem metade do dano.  
+Esta habilidade pode ser usada em conjunto com Carregar.
 
 ### Modo: Torre
 

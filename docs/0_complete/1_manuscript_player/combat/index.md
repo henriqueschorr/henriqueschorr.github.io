@@ -4,6 +4,11 @@ Correr ou lutar? Eis a questão. Quando você escolhe pela última opção, a ce
 
 Você usará tokens durante o combate para manter o controle sobre certos recursos pertinentes. Separe moedas, fichas de poker, ou qualquer outro item de quantidade repetida para identificar cada tipo de token.
 
+<figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/tokens.png)
+</figure>
+
+
 ### Tokens de Ação
 
 Separe uma pilha de tokens de ação para cada jogador, mínimo 3 para cada. Toda vez que um jogador realiza uma Ação, incluindo Habilidades, ele deve entregar um Token de Ação para o GM. Ao final do turno do GM, os tokens utilizados são devolvidos aos jogadores.
@@ -33,6 +38,14 @@ Um combate em BTH é quase sempre realizado em um mapa representando o local da 
 
 Para ter o melhor exemplo do que um mapa dividido por Seções deveria ser, use o jogo de tabuleiro Mansions of Madness como referência. Você pode inclusive reaproveitar seus mapas.
 
+<!-- <figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/map.jpg){ width="250" }
+</figure> -->
+
+<figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/map2.webp){ width="400" }
+</figure>
+
 ### Tamanhos de Criaturas
 
 Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se enquadra. O tamanho sempre é medido em sistema métrico. Esse indicador serve para ajudar na determinação de mecânicas como proteção, e indicar quantos Grids/Hexes a criatura ocupa em um mapa (caso houver).
@@ -46,6 +59,8 @@ Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se en
 | Gigante   | 4,01m até 10m   | 3x3         |
 | Colossal  | Acima de 10m    | 4x4 ou mais |
 
+<!-- TODO: Creature token on grid -->
+
 ### Alcance & Distância
 
 Alcance e Distâncias sempre serão referenciadas considerando as Seções de um mapa.
@@ -56,6 +71,8 @@ Alcance e Distâncias sempre serão referenciadas considerando as Seções de um
 | Perto             | Mesma Seção ou 1 Seção adjacente a sua.               | 2m - 8m     | 2 - 8       |
 | Longe             | Até 2 Seções.                                         | 2m - 12m    | 2 - 12      |
 | Muito Longe       | Até 4 Seções.                                         | 2m - 24m    | 2 - 24      |
+
+<!-- TODO: Show distances (Dungeon Painter map) -->
 
 <!-- Alcances e Distâncias, quando curtas a moderadas, sempre serão indicadas em um valor de Grid/Hexes. Basta então multiplcar o valor por 2 para ter a medida em metros. Por exemplo, se uma arma tem alcance 10, quer dizer que ela consegue atingir alvos até 10 Grids/Hexes - ou 20m - de distância. -->
 
@@ -79,10 +96,8 @@ Exceções podem acontecer; estas estarão escritas explicitamente.
 
 ### Modificadores do Mapa
 
-**Terreno Difícil**  
-Uma área estreita, apertada ou bagunçada/entulhada de objetos, pode dificultar o movimento. Sempre que você tentar se mover em uma área de terreno difícil, você precisa realizar um check de Agilidade. Em caso de falha, você não sai do lugar. Exceções podem acontecer; estas estarão escritas explicitamente.
+#### Escuridão
 
-**Escuridão**  
 A área que você se encontra possui baixa, ou nenhuma luz, prejudicando os checks de todos aqueles que possuem a Visão como sentido principal.
 
 - Checks de Sentidos, usando a visão, recebem uma penalidade de -2
@@ -90,6 +105,14 @@ A área que você se encontra possui baixa, ou nenhuma luz, prejudicando os chec
 - Ações/Reações contra alvos distantes recebem uma penalidade de -2 aos checks
 
 Exceções podem acontecer; estas estarão escritas explicitamente.
+
+#### Terreno Difícil
+
+Uma área estreita, apertada ou bagunçada/entulhada de objetos, pode dificultar o movimento. Sempre que você tentar se mover em uma área de terreno difícil, você precisa realizar um check de Agilidade. Em caso de falha, você não sai do lugar. Exceções podem acontecer; estas estarão escritas explicitamente.
+
+#### Terreno Vantajoso
+
+Quando você está em um terreno vantajoso comparado com seu alvo - como por exemplo, num ponto mais alto que você - seus ataques a distância possuem +1.
 
 ### Tempo
 
@@ -155,6 +178,8 @@ O combate acontece sempre em uma das duas formas: Corpo-a-Corpo (indicado como A
 ### À Distância -->
 
 ## Countdowns
+
+<!-- TODO: Show countdown pizza -->
 
 Algumas mecânicas podem querer introduzir um **countdown**. Cowntdowns são uma maneira dos jogadores e GM acompanharem o andamento de um evento ou efeito. Podem ser representados de duas formas: um dado ou um relógio de progresso dividido em partes (como uma pizza). Podem representar qualquer forma de tempo: turno, minutos, horas, dias, semanas, etc; ou até mesmo quantidades como ações, reações, etc.
 

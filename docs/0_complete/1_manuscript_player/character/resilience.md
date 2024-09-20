@@ -41,7 +41,7 @@ Se você marcar sua última Ferida, você sofre um ferimento crítico - veja mai
 
 <!-- imediatamente deve fazer uma ação de [Morte](./death.md#morte). -->
 
-<!-- Durante descansos ou através do uso de algum item, habilidade ou recurso, você poderá recuperar AP ou Ferida, assim apagando a marca da sua ficha. --> -->
+<!-- Durante descansos ou através do uso de algum item, habilidade ou recurso, você poderá recuperar AP ou Ferida, assim apagando a marca da sua ficha. --> 
 
 ## Stress
 

@@ -4,6 +4,11 @@ Um check em BTH consiste em rolar um dado do [Atributo](./character/attributes.m
 
 Sempre é importante manter o resultado dos checks na "mesa", ou anotados, em caso de [Ataques](./combat/moves.md#ataques), pois eles também determinam o dano.
 
+![](../../0_assets/manuscript/images/d6.png){ width="100" }
+![](../../0_assets/manuscript/images/d8.png){ width="100" }
+![](../../0_assets/manuscript/images/d10.png){ width="100" }
+![](../../0_assets/manuscript/images/d12.png){ width="100" }
+
 ## Graus de Sucesso
 
 O grau de sucesso varia de acordo com o resultado rolado no Dado Base.

@@ -94,7 +94,7 @@ nav:
 
     - Força Galáctica:
       - 0_complete/2_galactic_force/index.md
-      - Moves: 0_complete/2_galactic_force/moves.md
+      - Ações & Reações: 0_complete/2_galactic_force/moves.md
       - Habilidades: 0_complete/2_galactic_force/abilities.md
       - Armas: 0_complete/2_galactic_force/weapons.md
       - Armaduras: 0_complete/2_galactic_force/armor.md
@@ -205,3 +205,5 @@ markdown_extensions:
   - attr_list
   - md_in_html
       
+plugins:
+  - glightbox

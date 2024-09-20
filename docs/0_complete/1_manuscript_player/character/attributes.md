@@ -1,3 +1,7 @@
+<figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/attributes.png)
+</figure>
+
 Atributos representam suas características físicas e mentais. Abaixo você encontra os seis atributos bases: Corpo, Agilidade, Controle, Sentidos, Cérebro e Social. Ao lado do nome de cada um, segue exemplos de ações que você pode executar, sendo elas apenas inspirações, não se limite a elas. O uso de atributos para ações é <ins>dinâmico</ins> e depende do contexto, exemplos:
 
 _Quer intimidar uma criatura com ameaças verbais? Use Social.  
@@ -5,6 +9,20 @@ Quer intimidar a criatura quebrando algum objeto e ameaçando apenas com sua pre
 
 _Quer desativar um dipositivo digital tentando hack? Use Cérebro.   
 Quer desativar um dispositivo digital abrindo-o e mexendo em seus componentes? Use Controle._  
+
+<!-- ![](../../../0_assets/manuscript/images/attributes.png){ align=center } -->
+
+<!-- <figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/d6.png){ width="100" }
+  ![Image title](../../../0_assets/manuscript/images/d8.png){ width="100" }
+  ![Image title](../../../0_assets/manuscript/images/d10.png){ width="100" }
+  ![Image title](../../../0_assets/manuscript/images/d12.png){ width="100" }
+</figure> -->
+
+![](../../../0_assets/manuscript/images/d6.png){ width="100" }
+![](../../../0_assets/manuscript/images/d8.png){ width="100" }
+![](../../../0_assets/manuscript/images/d10.png){ width="100" }
+![](../../../0_assets/manuscript/images/d12.png){ width="100" }
 
 ### CORPO: Elevar, Agarrar, Quebrar
 

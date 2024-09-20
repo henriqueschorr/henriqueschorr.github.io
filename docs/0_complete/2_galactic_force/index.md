@@ -64,7 +64,7 @@
 - **Armas:** Coilgun
 - **Armadura:** A.N.E. Leve ou Média
 - **Equipamentos:** Drone Forja, 1x Kit Médico Simples
-- **Habilidades:** Scan - Construtos
+- **Habilidades:** Scan - Não-Orgânicos
 - **Aprimoramentos:** A.N.E., Coilgun e Drone Forja
 - **Atributos Recomendados:** Controle e Cérebro
 
