@@ -9,4 +9,6 @@ Armadura Nano Evolutivo, ou A.N.E, é a tecnologia militar mais avançada dispon
 **AP:** 2/3/4/6  
 **Equipamentos:** 1x Comunicador, 1x Lanterna, 1x Monitor de Informações.
 
-<!-- TODO: Show armor -->
+<figure markdown="span">
+  ![Image title](../../0_assets/galactic_force/images/pilot.jpg)
+</figure>

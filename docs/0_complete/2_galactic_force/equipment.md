@@ -22,6 +22,10 @@ Possui a forma de um cubo cinza sem nenhum orifício, interface ou dispositivo a
 - O drone pode se afastar até 100m de você antes de se tornar inoperável e ficar em espera, ou voltar até sua posição.
 - Possui apenas AP e, quando chega a 0, se torna inutilizável pelas próximas 24 horas.
 
+<figure markdown="span">
+  ![Image title](../../0_assets/galactic_force/images/drone.png)
+</figure>
+
 ### Características
 
 - **Tamanho:** Médio
@@ -39,6 +43,10 @@ Uma Hoverboard que pode voar rapidamente e carregar até uma criatura média.
 - Ações da Hoverboard que necessitam checks utilizam seu Controle.
 - Ao utilizar Habilidades da Hoverboard, use o Caos do seu próprio personagem.
 - Possui apenas AP e, quando chega a 0, se torna inutilizável pelas próximas 24 horas.
+
+<figure markdown="span">
+  ![Image title](../../0_assets/galactic_force/images/hoverboard.png)
+</figure>
 
 ### Características
 

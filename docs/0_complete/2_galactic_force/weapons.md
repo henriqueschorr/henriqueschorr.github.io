@@ -9,4 +9,9 @@
 | Pistola Cinética (1) | Controle - Perto      | Físico             | Recarregar                | Modo                   |
 | Rifle Montado        | Controle - Longe      | Energia (Elétrico) |                           |                        |
 
-<!-- TODO: Show weapons -->
+![](../../0_assets/galactic_force/images/omnigun.png){ width="300" }
+![](../../0_assets/galactic_force/images/coilgun.png){ width="400" }
+
+<figure markdown="span">
+  ![Image title](../../../0_assets/galactic_force/images/chaos_bow.png){ width="200" }
+</figure>
