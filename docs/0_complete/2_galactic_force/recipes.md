@@ -65,7 +65,7 @@
 | Nome               | Tempo | Tipo      | Efeito                                                                                                                                                  |
 | ------------------ | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Calmante           | 10min | Inalação  | Desmarca 1 Stress.                                                                                                                                      |
-| Composto Elemental | 10min | Toque     | Resistir Cérebro. Todas as criaturas na Seção recebem dano igual a <1d Cérebro> + < seu nível>. O tipo de dano é Químico (Fogo, Gelo, Ácido ou Veneno). |
+| Composto Elemental | 10min | Toque     | Resistir Corpo. Todas as criaturas na Seção recebem dano igual a <1d Cérebro> + < seu nível>. O tipo de dano é Químico (Fogo, Gelo, Ácido ou Veneno). |
 | Escorregão         | 10min | Toque     | Todas as criaturas na Seção caem e ficam Vulnerável 1.                                                                                                  |
 | Hemofólico         | 10min | Aplicação | Resistir Corpo. Countdown 1: Causa 1 Ferida toda vez que a criatura recebe dano de um ataque.                                                           |
 | Med-Gel            | 10min | Aplicação | Desmarca 1 Ferida.                                                                                                                                      |

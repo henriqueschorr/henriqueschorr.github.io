@@ -91,6 +91,16 @@ Você obtém as seguintes informações até alcance Longe:
 
 Escolha alguma arma de lâmina (como uma espada, faca, etc). Gaste um composto químico Elemental. Arma escolhida causa < seu nível> dano Químico (Fogo, Gelo, Ácido, Veneno) adicional.
 
+### Tiro & Efeito
+
+**Requisito:** Multigun.  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Você consegue atacar e lançar um dardo ao mesmo tempo.
+
+Faça um ataque contra um alvo. Cause o dano da Multigun, e escolha um dardo infusor para causar o efeito de um componente químico junto.
+
 ## Engenheiro
 
 ### Scan: Não-Orgânicos
