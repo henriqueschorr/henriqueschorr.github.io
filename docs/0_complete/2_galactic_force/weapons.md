@@ -13,5 +13,5 @@
 ![](../../0_assets/galactic_force/images/coilgun.png){ width="400" }
 
 <figure markdown="span">
-  ![Image title](../../../0_assets/galactic_force/images/chaos_bow.png){ width="200" }
+  ![Image title](../../0_assets/galactic_force/images/chaos_bow.png){ width="200" }
 </figure>
