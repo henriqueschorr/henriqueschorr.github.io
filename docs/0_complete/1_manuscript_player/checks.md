@@ -33,13 +33,19 @@ Abaixo você encontra as consequências - narrativamente e mecanicamente - que v
 
 ### Probabilidades
 
-| Resultado               | d6  | d8    | d10 | d12    |
-| ----------------------- | --- | ----- | --- | ------ |
-| Falha (1 - 3)           | 50% | 37,5% | 30% | 25%    |
-| Sucesso Parcial (4 - 7) | 50% | 50%   | 40% | 33,33% |
-| Sucesso (8 - 11)        | 0%  | 12,5% | 30% | 33,33% |
-| Sucesso Crítico (12)    | 0%  | 0%    | 0%  | 8,33%  |
-| Total Sucesso           | 50% | 62,5% | 70% | 75%    |
+| Dado | Falha (1-3) | Sucesso Parcial (4-7) | Sucesso (8-11) | Sucesso Crítico (12) |
+| --- | ------------- | --------------------- | ------------- | -------------------- |
+| d6  | 50%           | 50%                   | 0%            | 0%                   |
+| d8  | 37.50%        | 50%                   | 12.50%        | 0%                   |
+| d10 | 30%           | 40%                   | 30%           | 0%                   |
+| d12 | 25%           | 33.33%                | 33.33%        | 8.33%                |
+
+| Die | Total Success Probability |
+|-----|---------------------------|
+| d6  | 50%                        |
+| d8  | 62.50%                    |
+| d10 | 70%                       |
+| d12 | 74.99%                    |
 
 <!-- ## Pushing Roll (Stress) -->
 
