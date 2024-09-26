@@ -17,7 +17,7 @@
 - **Armas:** Arco-Caos, Lâmina Fragmento
 - **Armadura:** A.N.E. Leve
 - **Equipamentos:** 1x Armadilha, 1x Kit Médico Simples
-- **Habilidades:** Golpe Certeiro
+- **Habilidades:** Camuflagem
 - **Aprimoramentos:** A.N.E., Arco-Caos e Lâmina Fragmento
 - **Atributos Recomendados:** Agilidade e Controle
 

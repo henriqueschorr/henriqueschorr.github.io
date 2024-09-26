@@ -1,13 +1,12 @@
 ## A.N.E.
 
-### Camuflagem
+### Escudo Pessoal
 
-**Requisito:** A.N.E. Leve.  
-**Ações:** 1 Ação.  
-**Custo:** 1 Caos.  
-**Duração:** Countdown 3 durante combate. Até você realizar 3 Ações - que não sejam movimento - fora de combate.
+**Ações:** 1 Ação/1 Reação.  
+**Custo:** 1 Caos/1 Stress.  
+**Duração:** Countdown 3 durante combate. 15 minutos fora de combate.
 
-Você está Escondido.
+Todos seus limites de dano são aumentados em < seu nível>.  Esta habilidade pode ser utilizada como Reação ao custo adicional de 1 Stress.
 
 ### Visão Aprimorada
 
@@ -29,6 +28,19 @@ Você está Escondido.
 
 Faça um ataque contra uma criatura. Em caso de sucesso, alvo recebe Dano Persistente 2.
 
+### Camuflagem
+
+**Requisito:** A.N.E. Leve.  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.  
+**Duração**: Countdown 3 durante combate. 
+15 minutos fora de combate. Efeito acaba no momento que você realizar 3 ações que forcem um check seu ou de outra criatura.
+
+•	Você está escondido.
+•	Você tem +1 em checks para se esgueirar.
+•	Criaturas tem -1 em checks de Sentidos com visão contra você.
+•	Ataques durante Camuflagem têm +2 no check e causam < seu nível> de dano adicional
+
 ### Carga Elemental
 
 **Requisito:** Arco-Caos  
@@ -37,9 +49,9 @@ Faça um ataque contra uma criatura. Em caso de sucesso, alvo recebe Dano Persis
 
 Seus próximos 3 ataques com esta arma causam < seu nível> de dano Químico (Fogo ou Gelo) adicional.
 
-### Golpe Certeiro
+<!-- ### Golpe Certeiro
 
-<ins>Sempre</ins> que você realizar um ataque com modificadores positivos, adicione < seu nível> ao dano.
+<ins>Sempre</ins> que você realizar um ataque com modificadores positivos, adicione < seu nível> ao dano. -->
 
 ## Capitão
 
@@ -91,7 +103,15 @@ Você obtém as seguintes informações até alcance Longe:
 
 Escolha alguma arma de lâmina (como uma espada, faca, etc). Gaste um composto químico Elemental. Arma escolhida causa < seu nível> dano Químico (Fogo, Gelo, Ácido, Veneno) adicional.
 
-### Tiro & Efeito
+### Solução Rápida
+
+**Requisito:** Multigun.  
+**Ações:** 1 Ação.  
+**Custo:** 1 Caos.
+
+Ao tempo de 1 ação, você consegue fabricar até 2 compostos químicos com tempo de produção de 10min ou menos.
+
+<!-- ### Tiro & Efeito
 
 **Requisito:** Multigun.  
 **Ações:** 1 Ação.  
@@ -99,7 +119,7 @@ Escolha alguma arma de lâmina (como uma espada, faca, etc). Gaste um composto q
 
 Você consegue atacar e lançar um dardo ao mesmo tempo.
 
-Faça um ataque contra um alvo. Cause o dano da Multigun, e escolha um dardo infusor para causar o efeito de um componente químico junto.
+Faça um ataque contra um alvo. Cause o dano da Multigun, e escolha um dardo infusor para causar o efeito de um componente químico junto. -->
 
 ## Engenheiro
 

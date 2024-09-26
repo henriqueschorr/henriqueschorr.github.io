@@ -16,13 +16,11 @@
 | 5         | Você causa < seu nível> de dano extra no seu próximo ataque com esta arma.            |
 | 6         | Você causa o dobro do < seu nível> de dano extra no seu próximo ataque com esta arma. |
 
-## Drone Forja - Conexão
+## Drone Forja - Forja & Conexão
+
+1 Ação. Drone se transforma em uma estação de Crafting para receitas de Engenharia. Você tem +1 nos checks de Crafting usando o drone.  
 
 1 Ação. Você consegue acessar os sentidos de visão e audição através do drone.
-
-## Drone Forja - Modo: Forja
-
-2 Ações. Drone se transforma em uma estação de Crafting para receitas de Engenharia. Além disso, você tem +1 nos checks de Crafting usando o drone.
 
 ## Multigun - Crafting
 
