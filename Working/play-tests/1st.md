@@ -6,25 +6,25 @@
 <!-- - Confusion when creating character (2 thought it easy, other found overwhelming - engineer) -->
 <!-- - Complain about the dice system (too much luck, should have more modifiers from character)
 - It should be more clear on what a character is good and not, dice is too much luck -->
-- Complain about the static damage (should be rolled dice?)
-- Scientist too good
-- Engineer was jealous of scientist
-- Scout lost the identity when all other characters had access to camouflage
-- Scout lost the assassin identity when soldier was killing everything
-- Too much Control checks (weapons)
-- Too little Chaos
-- The monsters were weak (PCs killed everything before they had a chance to act)
-- The Token/Action economy system is genius (players must concentrate on take the better action possible in less actions)
-- The Token/Action should need special attention if players just continue to succeed
-- Eduardo was kind of lost since there was no turn order
-- The liberty in the combat is good (no turn order)
-- More care for players stopped in time, no actions while others took a lot of actions
-- The combat dynamic was good
-- The abilities were good for the scientist (actually, it was the chemicals)
-- The abilities were bad, the cost was too high for the outcome
-- Missing audio/music
+<!-- - Complain about the static damage (should be rolled dice?) -->
+<!-- - Scientist too good
+- Engineer was jealous of scientist -->
+<!-- - Scout lost the identity when all other characters had access to camouflage
+- Scout lost the assassin identity when soldier was killing everything -->
+<!-- - Too much Control checks (weapons)
+- Too little Chaos -->
+<!-- - The monsters were weak (PCs killed everything before they had a chance to act) -->
+<!-- - The Token/Action economy system is genius (players must concentrate on take the better action possible in less actions)
+- The Token/Action should need special attention if players just continue to succeed -->
+<!-- - Eduardo was kind of lost since there was no turn order -->
+<!-- - The liberty in the combat is good (no turn order) -->
+<!-- - More care for players stopped in time, no actions while others took a lot of actions
+- The combat dynamic was good -->
+<!-- - The abilities were good for the scientist (actually, it was the chemicals)
+- The abilities were bad, the cost was too high for the outcome -->
+<!-- - Missing audio/music
 - It was fun
-- It looked more like a tabletop game than an RPG
+- It looked more like a tabletop game than an RPG -->
 
 
 ### My Impressions/General Observations
