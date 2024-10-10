@@ -51,7 +51,7 @@ Uma Hoverboard que pode voar rapidamente e carregar até uma criatura média.
 ### Características
 
 - **Tamanho:** Pequeno
-- **Movimento:** Aéreo Perto
+- **Movimento:** Aéreo Longe
 - **Limites de Dano:** 1 | 3 | 5
 - **Armadura:** 4
 - **Equipamentos:** 1x Lanterna, 2x Lâmina Montada
