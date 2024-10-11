@@ -1,11 +1,12 @@
 ## Equipamentos Gerais
 
-| Nome                   | Efeito                                                                                                           |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Comunicador            | Permite conversação via subvocalização até distância 100.                                                        |
-| Dardo Infusor          | Dardo que pode conter um Composto Químico. Pode ser aplicado manualmente ou lançado pela Multigun.               |
-| Lanterna               | Permite iluminar áreas até distância Longe.                                                                      |
-| Monitor de Informações | Mostra de modo geral temperatura do ambiente, nível de oxigênio, etc. Também mostra informações sobre sua saúde. |
+| Nome                   | Efeito                                                                                                                              |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Botas Magnéticas       | Como 1 Ação ou Reação, você pode ativar suas botas magnéticas, podendo "grudar" em superfícies metálicas e andar em gravidade zero. |
+| Comunicador            | Permite conversação via subvocalização até distância 100.                                                                           |
+| Dardo Infusor          | Dardo que pode conter um Composto Químico. Pode ser aplicado manualmente ou lançado pela Multigun.                                  |
+| Lanterna               | Permite iluminar áreas até distância Longe.                                                                                         |
+| Monitor de Informações | Mostra de modo geral temperatura do ambiente, nível de oxigênio, etc. Também mostra informações sobre sua saúde.                    |
 
 <!-- TODO: Show equipments -->
 
