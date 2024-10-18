@@ -1,4 +1,3 @@
-
 <!-- ## Ações
 
 Abaixo segue alguns detalhes importantes para ações realizadass durante combate.
@@ -55,7 +54,7 @@ Frases curtas - como "Tome isso seu verme insolente" - gestos rápidos ou, qualq
 
 ### Interagindo com o Ambiente
 
-Interagir com o ambiente - abrir uma porta, puxar uma alavanca, etc - também conta como uma ação e 1 Token de Ação deve ser entregue ao GM. -->
+Interagir com o ambiente - abrir uma porta, puxar uma alavanca, etc - também conta como uma ação e 1 Token de Ação deve ser entregue ao GM. 
 
 ## Reações
 
@@ -104,4 +103,4 @@ O GM, ou evento, sempre lhe dirá explicitamente quando um teste de resistência
 
 ## Habilidades Ativas
 
-Quase sempre você terá uma ou mais Habilidades Ativas que pode ser executada. As Habilidades ativas sempre terão bem claras seu custo em Ações ou se é uma Reação. Siga as instruções nas Habilidades para executá-las durante, ou fora, do combate.
+Quase sempre você terá uma ou mais Habilidades Ativas que pode ser executada. As Habilidades ativas sempre terão bem claras seu custo em Ações ou se é uma Reação. Siga as instruções nas Habilidades para executá-las durante, ou fora, do combate. -->
