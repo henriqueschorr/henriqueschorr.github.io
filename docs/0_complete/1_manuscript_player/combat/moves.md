@@ -1,5 +1,5 @@
 
-## Ações
+<!-- ## Ações
 
 Abaixo segue alguns detalhes importantes para ações realizadass durante combate.
 
@@ -41,7 +41,7 @@ Quando você causar <ins>dano em mais de uma criatura</ins>, você aplica o mesm
 
 Algumas armas/habilidades têm efeitos adicionais devido a alguma [Propriedade](../character/weapons.md#propriedades-1) ou outra característica. Também podem aplicar [Condições](../conditions.md), estas que só são aplicadas caso o ataque tenha causado dano, a não ser que indicado o contrário. Resolva todos os efeitos e condições causados pelo ataque neste passo.
 
-<!-- ### Ações Surpresas -->
+ ### Ações Surpresas 
 
 ### Usando Equipamento
 
@@ -55,7 +55,7 @@ Frases curtas - como "Tome isso seu verme insolente" - gestos rápidos ou, qualq
 
 ### Interagindo com o Ambiente
 
-Interagir com o ambiente - abrir uma porta, puxar uma alavanca, etc - também conta como uma ação e 1 Token de Ação deve ser entregue ao GM.
+Interagir com o ambiente - abrir uma porta, puxar uma alavanca, etc - também conta como uma ação e 1 Token de Ação deve ser entregue ao GM. -->
 
 ## Reações
 
