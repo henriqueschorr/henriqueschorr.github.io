@@ -4,9 +4,11 @@ Quando você tem sucesso em um [Check](../checks.md) de ataque contra um alvo, v
 
 Considere o grau de sucesso do seu check para calcular o dano, como abaixo:
 
-**Sucesso Parcial:** <ins>Maior</ins> valor rolado no check.  
-**Sucesso:** <ins>Soma</ins> dos 2 <ins>maiores</ins> valores rolado no check.  
-**Sucesso Crítico:** <ins>Soma</ins> dos 3 <ins>maiores</ins> valores rolado no check + [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano.
+| Grau            | Dano                                                                                                                                    |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Sucesso Parcial | <ins>Maior</ins> valor rolado no check.                                                                                                 |
+| Sucesso         | <ins>Soma</ins> dos <ins>2 maiores</ins> valores rolado no check.                                                                       |
+| Sucesso Crítico | <ins>Soma</ins> dos <ins>3 maiores</ins> valores rolado no check + [efeito crítico](#tipos-de-dano-e-efeitos-críticos) do tipo de dano. |
 
 ## Aplicando Dano
 
