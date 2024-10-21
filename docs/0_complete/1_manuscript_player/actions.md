@@ -3,7 +3,7 @@ As ações em Beyond the Horizon são completamente livres, mas claro, use o bom
 
 Algumas das regras/limitações devem ser levadas em conta somente em situações de combate ou perigo. Por exemplo, fora de um cenário de batalha, você não deve ficar pensando quantas Seções você pode mover.
 
-## Sucesso Automático
+#### Sucesso Automático
 
 Toda ação realizada tem sucesso automático, a não ser que:
 
@@ -63,24 +63,24 @@ Qualquer movimento em Terreno Difícil, ou se arrastando, necessita de um check 
 Apenas a primeira vez que você se movimenta dentro de uma mesma Seção conta como 1 ação (GM recebe 1 Token de Ação). Depois disso, você pode se movimentar livremente dentro da Seção.  
 Cada Seção que você cruzar ao se mover, conta como uma Ação diferente e 1 Token de Ação deve ser entregue ao GM.  
 
-## Pilotar/Dirigir
+### Pilotar/Dirigir
 
 Para pilotar veículos, você quase sempre usará Controle. 
 
 Assim como qualquer outra ação, Checks devem ser requisitados somente em manobras mais arriscadas ou que necessitam de maior precisão. O GM deve receber 1 Token de Ação somente durante estas manobras.
 
-## Procurar
+### Procurar
 
 Para procurar pessoas, objetos ou qualquer outra coisa, você geralmente irá usar os atributos de Sentidos ou Cérebro.
 
 O GM deve receber 1 Token de Ação somente a primeira vez que você começa a procurar algo em uma Seção.
 
-## Realizar Manobra
+### Realizar Manobra
 
 Empurrar, derrubar, puxar, desarmar e outros diversos tipos de golpes contam como uma manobra contra alguém. Geralmente uma manobra tem um propósito como algo mais utilitário e não causa dano diretamente.
 
 Você geralmente irá utilizar Força ou Agilidade para realizar uma manobra e, o alvo, terá que usar Esquivar ou Resistir (Força) caso queira evitar seu sucesso.
 
-## Usar Habilidade
+### Usar Habilidade
 
 Você pode usar Habilidades Ativas como ação, quando possível. Para isso, "pague" o número de ações da habilidade como Tokens de Ação para o GM. Depois, basta apenas seguir a descrição da Habilidade para aplicá-la.
