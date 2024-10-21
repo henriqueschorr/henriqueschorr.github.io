@@ -13,7 +13,7 @@ Armas do tipo equipamento, que não possuam a propriedade [Natural](#natural), t
 Indica qual [Atributo](./attributes.md) você irá utilizar para realizar Ações/Reações com a arma (Exemplo: Controle).
 
 #### Alcance
-Indica o [Alcance](../combat/index.md#alcance--distância) máximo que você pode atacar com a arma (Exemplo: Longe).
+Indica o [Alcance](../combat.md#alcance--distância) máximo que você pode atacar com a arma (Exemplo: Longe).
 
 #### Propriedades
 Indica as [Propriedades](#propriedades-1), se alguma, ligada ao arma.

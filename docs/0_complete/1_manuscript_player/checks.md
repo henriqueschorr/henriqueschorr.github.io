@@ -2,7 +2,7 @@ Quando a resolução de uma Ação/Reação é dúbia e pode resultar em consqu�
 
 Um check em BTH consiste em rolar um dado do [Atributo](./character/attributes.md) associado a Ação/Reação e então verificar seu resultado. Este dado recebe o nome de Dado Base, e pode variar entre d6 a d12. Um check sem disputa tem sua resolução definida puramente pelo seu próprio resultado do dado, sem definição de grau/valor de dificuldade a ser alcançado. Um check com [Disputa](#disputa) é comparado com o resultado da oposição.
 
-Sempre é importante manter o resultado dos checks na "mesa", ou anotados, em caso de [Ataques](./combat/moves.md#ataques), pois eles também determinam o dano.
+Sempre é importante manter o resultado dos checks na "mesa", ou anotados, em caso de [Ataques](actions.md#ataques), pois eles também determinam o dano.
 
 ![](../../0_assets/manuscript/images/d6.png){ width="100" }
 ![](../../0_assets/manuscript/images/d8.png){ width="100" }

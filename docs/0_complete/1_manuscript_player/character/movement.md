@@ -8,4 +8,4 @@ Movimentos identificam como você pode se mover pelo ambiente.
 | Terrestre   | Você se movimenta em chão firme e horizontal como um humano.         |
 | Vertical    | Você pode escalar paredes e tetos livremente como uma aranha.        |
 
-Para informações sobre como usar movimento durante combate, acesse [aqui](../combat/moves.md#movimento).
+Para informações sobre como mover, acesse [aqui](../actions.md#mover).

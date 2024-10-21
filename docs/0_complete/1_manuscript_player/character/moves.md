@@ -8,15 +8,15 @@ Você pode tentar executar qualquer ação que vier a sua mente. Não há uma li
 
 **Exemplos de Ações:** Mover, Correr, Saltar, Nadar, Hackear dispositivo, Desativar armadilha, Calcular, Atacar, Usar Equipamento, Usar Habilidade, Empurrar, Puxar, Prender, Negociar, Ameaçar, etc.
 
-Você encontra as regras para algumas ações mais complexas dentro do capítulo do combate - [aqui](../combat/moves.md#ações).
+Você encontra as regras para algumas ações mais básicas [aqui](../actions.md).
 
 ## Reações
 
-Diferente das Ações, Reações são bem definidas. As bases são: Esquivar, Defender e Resistir. Mais detalhes podem ser encontrados no capítulo do combate - [aqui](../combat/moves.md#reações).
+Diferente das Ações, Reações são bem definidas. As bases são: Esquivar, Defender e Resistir. Mais detalhes podem ser encontrados no capítulo do combate - [aqui](../reactions.md).
 
 ## Habilidades Ativas
 
 Você pode ter Habilidades Ativas, estas que são Ações e/ou Reações especiais com efeitos poderosos. Habilidades são quase que exclusivas ao seu personagem. Você sempre terá que gastar algum recurso para usar uma Habilidade, sendo ele geralmente Caos e/ou Stress.
 
-Para mais informações sobre o uso de Habilidades Ativas durante combate, veja [aqui](../combat/moves.md#habilidades-ativas).  
+Para mais informações sobre o uso de Habilidades Ativas, veja [aqui](../actions.md#usar-habilidade).  
 Para mais informações em geral sobre Habilidades, veja [aqui](./abilities.md).

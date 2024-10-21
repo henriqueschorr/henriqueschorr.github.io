@@ -2,7 +2,7 @@ Algumas espécies, como os Humanos, podem usar e carregar itens - objetos - cons
 
 Enquanto alguns tipos de equipamentos têm suas áreas próprias na ficha de personagem, outros ficam em seu inventário. São itens de uso geral e variam entre espécies, podendo ir de uma simples caneta até bombas nucleares.
 
-O uso de Equipamentos durante combate segue certas regras que podem ser vistas [aqui](../combat/moves.md#usando-equipamento).
+O uso de Equipamentos como ação segue certas regras que podem ser vistas [aqui](../actions.md#interagir-com-objetos).
 
 Algumas espécies, como o Evoras, não podem usar itens ou equipamentos, portanto não terão inventário. Não há limite mecanicamente para o número de itens que você pode carregar, mas tente usar o bom senso; por exemplo, não tente carregar um carro no seu bolso; ou ainda, 35 armas diferentes na sua mochila.
 

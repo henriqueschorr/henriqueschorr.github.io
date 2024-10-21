@@ -11,7 +11,7 @@ Antes de começar a jogar, você precisa criar seu personagem; para isso, siga o
 
 Atualmente, você tem acesso somente a espécie Humano, encontrada no módulo da [Força Galáctica](../../2_galactic_force/index.md). Ao escolher uma espécie, você recebe:
 
-- [Tamanho](../combat/index.md#tamanhos-de-criaturas): Minúsculo, Pequeno, Médio, Grande ou Gigante.
+- [Tamanho](../combat.md#tamanhos-de-criaturas): Minúsculo, Pequeno, Médio, Grande ou Gigante.
 - [Movimento](../character/movement.md): Representa o terreno que você pode se movimentar e distância de movimento.
 - [Conhecimento](../character/knowledge.md): Nível de conhecimento científico e receitas que pode produzir.
 

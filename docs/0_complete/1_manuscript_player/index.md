@@ -58,7 +58,23 @@
     - Dificuldade
     - Disputa
 
-### Combate
+### Ações & Reações
+
+- [Ações](actions.md)
+    - Ajudar
+    - Atacar
+    - Mover
+    - Pilotar/Dirigir
+    - Procurar
+    - Realizar Manobra
+    - Usar Habilidade
+- [Reações](reactions.md)
+    - Esquivar
+    - Defender
+    - Resistir
+    - Usar Habilidade
+
+### Modos de Cena
 
 - [Combate](./combat/index.md)
     - Tokens
@@ -81,17 +97,9 @@
     - Countdowns
         - Countdown de Turno
         - Countdown Dinâmico
-- [Ações & Reações](./combat/moves.md)
-    - Ações
-        - Movimento
-        - Ataques
-        - Usando Equipamento
-        - Comunicação
-        - Interagindo com o Ambiente
-    - Reações
-        - Esquivar
-        - Defender
-    - Habilidades Ativas
+
+### Dano & Pânico
+
 - [Dano e Pânico](./combat/damage.md)
     - Calculando Dano
     - Aplicando Dano

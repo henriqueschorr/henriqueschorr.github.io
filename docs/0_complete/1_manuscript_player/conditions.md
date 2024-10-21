@@ -2,7 +2,7 @@
 
 Condições são efeitos ou circunstâncias que influenciam em como checks ou Ações/Reações são executados, podendo benificiar ou prejudicar.
 
-Algumas condições são temporárias e virão acompanhadas de um número que representa o [Countdown de Turno](./combat/index.md#countdown-turno) informado logo após; como por exemplo Debilitado 2. Outras, é necessário que a criatura realize algum tipo de Ação para acabar com o efeito da condição, este geralmente descrito no ataque que causou a condição, ou especificado pelo GM.
+Algumas condições são temporárias e virão acompanhadas de um número que representa o [Countdown de Turno](combat.md#countdown-turno) informado logo após; como por exemplo Debilitado 2. Outras, é necessário que a criatura realize algum tipo de Ação para acabar com o efeito da condição, este geralmente descrito no ataque que causou a condição, ou especificado pelo GM.
 
 Condições estão separadas em Aflições, que causam efeitos negativos, e Buffs, que causam efeitos positivos.
 

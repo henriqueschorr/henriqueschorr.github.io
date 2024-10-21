@@ -46,12 +46,12 @@ nav:
     #     Geral: nome, membros, etc
     #     Agenda: objetivos, missão, etc
     #     Recursos: momentum e karma
-      - Checks: 0_complete/1_manuscript_player/checks.md         
+      - Checks: 0_complete/1_manuscript_player/checks.md   
+      - Ações: 0_complete/1_manuscript_player/actions.md
+      - Reações: 0_complete/1_manuscript_player/reactions.md
     #   Scene Modes: exploration, combat, conflito social (negociação e interrogação), investigação, perseguição ou fuga, stealth, rest
-      - Combate: 
-        - 0_complete/1_manuscript_player/combat/index.md
-        - Ações & Reações: 0_complete/1_manuscript_player/combat/moves.md
-        - Dano e Pânico: 0_complete/1_manuscript_player/combat/damage.md      
+      - Combate: 0_complete/1_manuscript_player/combat.md      
+      - Dano e Pânico: 0_complete/1_manuscript_player/damage.md      
       - Condições: 0_complete/1_manuscript_player/conditions.md
       - Crafting: 0_complete/1_manuscript_player/crafting.md
       - Descanso: 0_complete/1_manuscript_player/rest.md
