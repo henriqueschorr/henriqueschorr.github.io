@@ -14,11 +14,11 @@
 - **Feridas:** 5
 - **Stress:** 5
 - **Caos:** 2
-- **Armas:** Arco-Caos, Lâmina Fragmento
+- **Armas:** Arco Caótico, Lâmina Fragmento
 - **Armadura:** A.N.E. Leve
 - **Equipamentos:** 1x Armadilha, 1x Kit Médico Simples
-- **Habilidades:** Camuflagem
-- **Aprimoramentos:** A.N.E., Arco-Caos e Lâmina Fragmento
+- **Habilidades & Moves:** Camuflagem, Montagem e Retração
+- **Aprimoramentos:** A.N.E., Arco Caótico e Lâmina Fragmento
 - **Atributos Recomendados:** Agilidade e Controle
 
 ### Capitão
@@ -32,7 +32,7 @@
 - **Armas:** Pistola
 - **Armadura:** A.N.E. Leve
 - **Equipamentos:** Neurohancer, 1x Kit Médico Simples
-- **Habilidades:** Raciocínio Rápido
+- **Habilidades & Moves:** Analisar: Humor, Analisar: Linguagem, Raciocínio Rápido
 - **Aprimoramentos:** A.N.E. e Neurohancer
 - **Atributos Recomendados:** Sentidos e Social
 
@@ -48,7 +48,7 @@
 - **Armas:** Multigun
 - **Armadura:** A.N.E. Leve ou Média
 - **Equipamentos:** 3x Compostos Químicos Simples, 1x Kit Médico Simples
-- **Habilidades:** Scan - Orgânicos
+- **Habilidades & Moves:** Crafting, Lançar Dardo, Scan - Orgânicos
 - **Aprimoramentos:** A.N.E. e Multigun
 - **Atributos Recomendados:** Controle e Cérebro
 
@@ -64,7 +64,7 @@
 - **Armas:** Coilgun
 - **Armadura:** A.N.E. Leve ou Média
 - **Equipamentos:** Drone Forja, 1x Kit Médico Simples
-- **Habilidades:** Scan - Não-Orgânicos
+- **Habilidades & Moves:** Carregar, Conexão, Modo:Forja, Scan - Não-Orgânicos
 - **Aprimoramentos:** A.N.E., Coilgun e Drone Forja
 - **Atributos Recomendados:** Controle e Cérebro
 
@@ -79,6 +79,7 @@
 - **Armas:** Pistola Cinética
 - **Armadura:** A.N.E. Leve
 - **Equipamentos:** Hoverboard, 1x Kit Médico Simples
+- **Habilidades & Moves:** Troca de Modo
 - **Aprimoramentos:** A.N.E., Pistola Cinética e Hoverboard
 - **Atributos Recomendados:** Controle e Sentidos
 
@@ -93,7 +94,7 @@
 - **Armas:** Omnigun
 - **Armadura:** A.N.E. Leve ou Média
 - **Equipamentos:** 1x Granada, 1x Kit Médico Simples
-- **Habilidades:** Arsenal
+- **Habilidades & Moves:** Arsenal, Troca de Modo  
 - **Aprimoramentos:** A.N.E. e Omnigun
 - **Atributos Recomendados:** Controle
 

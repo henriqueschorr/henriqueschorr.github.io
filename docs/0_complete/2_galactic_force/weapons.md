@@ -1,6 +1,6 @@
 | Nome (Mãos)          | Atributo e Alcance    | Dano               | Propriedades              | Ações                  |
 | -------------------- | --------------------- | ------------------ | ------------------------- | ---------------------- |
-| Arco-Caos (2)        | Controle - Longe      | Físico             | Silenciosa                | Retração, Montagem     |
+| Arco Caótico (2)        | Controle - Longe      | Físico             | Silenciosa                | Retração, Montagem     |
 | Coilgun (2)          | Controle - Perto      | Energia (Elétrico) | Recarregar                | Carregar               |
 | Lâmina Fragmento (1) | Agilidade - Adjacente | Físico             | Rápida, Segura, Sileciosa | Retração, Montagem     |
 | Lâmina Montada       | Agilidade - Adjacente | Físico             |                           |                        |
