@@ -93,7 +93,7 @@
 - **Caos:** 2
 - **Armas:** Omnigun
 - **Armadura:** A.N.E. Leve ou Média
-- **Equipamentos:** 1x Granada, 1x Kit Médico Simples
+- **Equipamentos:** 1x Granada, 3x Munição Avançada, 1x Kit Médico Simples
 - **Habilidades & Moves:** Arsenal, Troca de Modo  
 - **Aprimoramentos:** A.N.E. e Omnigun
 - **Atributos Recomendados:** Controle
