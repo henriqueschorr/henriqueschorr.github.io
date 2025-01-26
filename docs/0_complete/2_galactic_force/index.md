@@ -47,7 +47,7 @@
 - **Conhecimento:** Perícia em Biologia ou Química
 - **Armas:** Multigun
 - **Armadura:** A.N.E. Leve ou Média
-- **Equipamentos:** 3x Compostos Químicos Simples, 1x Kit Médico Simples
+- **Equipamentos:** 3x Compostos Químicos Simples, 2x Kit Médico Simples
 - **Habilidades & Moves:** Crafting, Lançar Dardo, Scan - Orgânicos
 - **Aprimoramentos:** A.N.E. e Multigun
 - **Atributos Recomendados:** Controle e Cérebro
