@@ -43,7 +43,7 @@
 - **Limites de Dano:** 2 | 5 | 7
 - **Feridas:** 5
 - **Stress:** 5
-- **Caos:** 3
+- **Caos:** 2
 - **Conhecimento:** Perícia em Biologia ou Química
 - **Armas:** Multigun
 - **Armadura:** A.N.E. Leve ou Média
