@@ -27,3 +27,7 @@ Create from https://github.com/mhausenblas/mkdocs-template
 4. Update Character Sheet
 5. Update this project
 6. Update google drive
+
+## Copying from excel
+
+shift + alt + v

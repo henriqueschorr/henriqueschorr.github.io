@@ -47,7 +47,7 @@ Em BTH, temos diversos tipos de dano e, cada um deles, tem seu efeito crítico. 
 
 ## Ferimentos Críticos
 
-Quando você marcar sua última Ferida, você deve rolar um dado e comparar com a tabela de Ferimentos Críticos, para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
+Quando você marcar sua última Ferida, você deve rolar um dado e comparar com a tabela de Ferimentos Críticos para saber o que acontece com seu personagem. O dado e a tabela variam entre espécies.
 Caso um ferimento seja Fatal, você deve realizar um Check de Morte.
 
 ### Check de Morte
@@ -55,15 +55,27 @@ Caso um ferimento seja Fatal, você deve realizar um Check de Morte.
 Role 1d Corpo escondido (de você mesmo inclusive). O resultado só é revelado no momento que você receber Atendimento Médico.
 
 **Falha:** Você morre.  
-**Qualquer nível de Sucesso:** Um novo Check de Morte a cada "Limite de Tempo".
+**Qualquer nível de Sucesso:** Um novo Check de Morte a cada turno durante combate, ou "Limite de Tempo" fora de combate.
 
 ### Atendimento Médico
 
-Você pode fazer um atendimento médico em um aliado que esteja realizando Check de Morte.  
-Um atendimento médico dura o turno de equipe inteiro.
-Se você fizer qualquer Ação ou Reação, o atendimento é interrompido.
-Role 1d Cérebro ou Social para realizar um atendimento médico.
+Você pode fazer um atendimento médico em um aliado que esteja com um Ferimento Crítico fatal.   
+Um atendimento médico dura o turno de equipe inteiro.  
+Se você fizer qualquer Ação ou Reação, o atendimento é interrompido.  
+Role 1d Cérebro ou Social para realizar um atendimento médico.  
 
+Indepentente do resultado, você identifica se o aliado está morto ou não.
+
+**Falha:** Você não consegue ajudar o aliado e ele continua realizando Checks de Morte.  
+**Sucesso:** Você consegue ajudar o aliado ao ponto de evitar que ele role novos Checks de Morte. Por enquanto.
+
+### Tempo Limite
+
+Indica o tempo limite até o efeito se tornar permanente caso você não receba atendimento médico apropriado (não a ação acima).  
+
+### Tempo de Cura
+
+Indica o tempo que você leva até se recuperar do ferimento, enquanto recebendo cuidados médicos.
 <!-- ### Criaturas Orgânicas
 
 Enquanto você tiver ao menos 1 Ferida restante, o dano é representado por fatiga, machucados, cortes leves, etc. Quando um PC chega a 0 Feridas, ele sofre um ferimento crítico. Este pode permanentemente lhe aleijar ou matar. Quando você chegar a 0 HP, role um d66 (2d6: 1 dezena e outro unidade) para a tabela abaixo: -->
@@ -78,7 +90,7 @@ Quando você marca um Stress a mais que metade do seu total, você deve rolar um
 
 ## Traumas Permanentes
 
-Quando você tira 13 ou mais na tabela de Pânico, você adquire um Trauma Permanente. Role 1d6 e compare com a tabela da sua espécie.
+Quando você tira 11 ou mais na tabela de Pânico, você adquire um Trauma Permanente. Role 1d6 e compare com a tabela da sua espécie.
 
 <!-- ### Criaturas Orgânicas
 

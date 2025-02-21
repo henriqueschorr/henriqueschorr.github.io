@@ -45,27 +45,27 @@ Role 1d66 (2 d6s) e compare o resultado com a tabela abaixo. Aplique imediatamen
 
 Role 1d6 e adicione seu nível de Stress. Compare o resultado com a tabela abaixo. Aplique imediatamente seu efeito.
 
-| 1d6 + Stress | Nome              | Efeito                                                                                                |
-| ------------ | ----------------- | ----------------------------------------------------------------------------------------------------- |
-| 1-6          | Mantém a Calma    | Você consegue manter a calma, por pouco.                                                              |
-| 7            | Tique Nervoso     | Todos os aliados até distância Perto de você recebem 1 de Stress.                                     |
-| 8            | Tremedeira        | Qualquer check de Agilidade ou Controle recebe -2. Outros -1.                                         |
-| 9            | Derrubar Item     | GM escolhe um item seu para ser derrubado.                                                            |
-| 10           | Congelar          | Você está Atordoado 1.                                                                                |
-| 11           | Procurar Proteção | Você gasta todas suas Ações/Reações para chegar a um lugar seguro. Depois disso você age normalmente. |
-| 12           | Grito             | Você solta um grito alto o bastante para causar 1 de Stress em todos os aliados até distância Longe.  |
-| 13           | Fugir             | Você gasta todas suas Ações/Reações para chegar a um lugar seguro. Você não age até o perigo acabar.  |
-| 14           | Quebrar Item      | Você acidetalmente quebra um item a escolha do GM.                                                    |
-| 15           | Berserk           | Você fica Confuso 5 e deve gastar todas as suas Ações/Reações para atacar.                            |
-| 16           | Catatônico        | Você colapsa no chão e não pode mover ou falar, apenas encara cegamente o vazio.                      |
+| 1d6 + Stress | Nome              | Efeito                                                                                                                                                                                              |
+| ------------ | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 - 6        | Mantém a Calma    | Você consegue manter a calma, por pouco.                                                                                                                                                            |
+| 7            | Tique Nervoso     | Todos os aliados até distância Perto de você recebem 1 de Stress.                                                                                                                                   |
+| 8            | Derrubar Item     | Você derruba um item a escolha do GM.                                                                                                                                                               |
+| 9            | Procurar Proteção | Você gasta todas suas Ações/Reações para chegar a um lugar seguro.<br/>Ao chegar em um lugar seguro, você gasta mais 1 turno de equipe para recuperar o fôlego.<br/>Após isso você age normalmente. |
+| 10           | Congelar          | Você fica Incapacitado 1.                                                                                                                                                                           |
+| 11           | Tremedeira        | Checks de Agilidade ou Controle recebem -2.<br/>Checks de outros Atributos recebem -1.<br/>Este efeito acaba no momento que você recuperar todo seu Stress.                                         |
+| 12           | Grito             | Você solta um grito alto o bastante para causar 1 de Stress em todos os aliados até distância Longe.                                                                                                |
+| 13           | Fugir             | Você gasta todas suas Ações/Reações para chegar a um lugar seguro.<br/>Você não age até o perigo acabar.                                                                                            |
+| 14           | Quebrar Item      | Você acidetalmente quebra um item a escolha do GM.                                                                                                                                                  |
+| 15           | Berserk           | Você fica Confuso 5 e deve gastar todas as suas Ações/Reações para atacar.                                                                                                                          |
+| 16           | Catatônico        | Você colapsa no chão e não pode mover ou falar, apenas encara cegamente o vazio.                                                                                                                    |
 
 ## Traumas Permanentes
 
-| d6  | Nome          | Efeito                                                                                                                                                                                       |
-| --- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Fobia         | Você fica aterrorizado por alguma coisa. O GM decide. Se você estiver até distância Perto da causa da fobia, você recebe 1 Stress. Se você ficar na mesma Seção, faça uma rolagem de Pânico. |
-| 2   | Alcoolismo    | Você deve beber ácool em todo descanso (causando efeitos negativos) para curar seu Stress. Você não consegue curar Stress com descansos sem alcool.                                          |
-| 3   | Pesadelos     | Faça um check Cérebro ou Social quando for dormir. Se você falhar, você tem um pesadelo horrível, não recupera Stress e ainda aumenta ele em 1.                                              |
-| 4   | Depressão     | Faça um check de Social quando acordar de um descanso longo. Se você falhar, você fica depressivo, aumenta o Stress em 1 e não pode recuperar mais até o próximo descanso longo.             |
-| 5   | Uso de Drogas | Você deve usar alguma droga em todo descanso (causando efeitos negativos) para curar seu Stress. Você não consegue curar Stress com descansos sem drogas.                                    |
-| 6   | Amnesia       | Você perde sua memória por completo.                                                                                                                                                         |
+| d6  | Nome          | Efeito                                                                                                                                                                                                                                                                                          |
+| --- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Fobia         | Você fica aterrorizado por alguma coisa. O GM decide.<br/>Se você estiver até distância Perto da causa da fobia, você recebe 1 Stress.<br/>Se você ficar na mesma Seção, faça uma rolagem de Pânico.<br/>Este efeito acontece todo turno até que a fonte da fobia não esteja mais nas proximidades. |
+| 2   | Alcoolismo    | Você deve beber ácool em todo descanso (causando efeitos negativos) para curar seu Stress.<br/>Você não consegue curar Stress com descansos sem alcool.                                                                                                                                             |
+| 3   | Pesadelos     | Faça um check Cérebro ou Social quando for dormir.<br/>Se você falhar, você tem um pesadelo horrível, não recupera Stress e ainda aumenta ele em 1.                                                                                                                                                 |
+| 4   | Depressão     | Faça um check de Social quando acordar de um descanso longo.<br/>Se você falhar, você fica depressivo, aumenta o Stress em 1 e não pode recuperar mais até o próximo descanso longo.                                                                                                                |
+| 5   | Uso de Drogas | Você deve usar alguma droga em todo descanso (causando efeitos negativos) para curar seu Stress.<br/>Você não consegue curar Stress com descansos sem drogas.                                                                                                                                       |
+| 6   | Amnesia       | Você perde sua memória por completo.                                                                                                                                                                                                                                                            |
