@@ -1,0 +1,1891 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../reactions/">
+      
+      
+        <link rel="next" href="../damage/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Combate - Beyond the Horizon</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#tokens" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Beyond the Horizon" class="md-header__button md-logo" aria-label="Beyond the Horizon" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Beyond the Horizon
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Combate
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Introdução
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+    
+  
+  Manuscrito (Jogador)
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../2_galactic_force/" class="md-tabs__link">
+          
+  
+    
+  
+  Força Galáctica
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Beyond the Horizon" class="md-nav__button md-logo" aria-label="Beyond the Horizon" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Beyond the Horizon
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introdução
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Manuscrito (Jogador)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Manuscrito (Jogador)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../character/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Seu Personagem
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Seu Personagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/attributes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Atributos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/resilience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resiliência
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/movement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Movimento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/knowledge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conhecimento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/moves/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ações & Reações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/abilities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Habilidades
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/weapons/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/armor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armadura
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/inventory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inventório & Equipamentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../character/progression/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Progressão
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../checks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Checks
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../actions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reactions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Combate
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Combate
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tokens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-acao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Ação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-terror" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Terror
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-reacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Reação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-countdowns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Countdowns
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tempo-espaco-alvos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tempo, Espaço &amp; Alvos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tempo, Espaço & Alvos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mapa-e-secoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mapa e Seções
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tamanhos-de-criaturas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tamanhos de Criaturas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alcance-distancia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Alcance &amp; Distância
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alvos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Alvos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bordas-e-linha-de-visao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bordas e Linha de Visão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modificadores-do-mapa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modificadores do Mapa
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Modificadores do Mapa">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#escuridao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Escuridão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#terreno-dificil" class="md-nav__link">
+    <span class="md-ellipsis">
+      Terreno Difícil
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#terreno-vantajoso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Terreno Vantajoso
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tempo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tempo
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#turnos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Turnos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Turnos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#surpresa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Surpresa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ordem-de-turnos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ordem de Turnos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#turdo-da-equipe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Turdo da Equipe
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#turdo-do-gm" class="md-nav__link">
+    <span class="md-ellipsis">
+      Turdo do GM
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resolucao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resolução
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#countdowns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Countdowns
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Countdowns">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#countdown-turno" class="md-nav__link">
+    <span class="md-ellipsis">
+      Countdown Turno
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#countdown-dinamico" class="md-nav__link">
+    <span class="md-ellipsis">
+      Countdown Dinâmico
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../damage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dano e Pânico
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../conditions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Condições
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crafting/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crafting
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Descanso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../2_galactic_force/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Força Galáctica
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Força Galáctica
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2_galactic_force/abilities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Habilidades & Moves
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2_galactic_force/weapons/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2_galactic_force/armor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armaduras
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2_galactic_force/equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Equipamentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2_galactic_force/recipes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Receitas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2_galactic_force/rest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Descanso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2_galactic_force/critical/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferimentos Críticos & Pânico
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tokens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-acao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Ação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-terror" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Terror
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-reacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Reação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tokens-de-countdowns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokens de Countdowns
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tempo-espaco-alvos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tempo, Espaço &amp; Alvos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tempo, Espaço & Alvos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mapa-e-secoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mapa e Seções
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tamanhos-de-criaturas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tamanhos de Criaturas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alcance-distancia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Alcance &amp; Distância
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alvos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Alvos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bordas-e-linha-de-visao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bordas e Linha de Visão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modificadores-do-mapa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modificadores do Mapa
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Modificadores do Mapa">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#escuridao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Escuridão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#terreno-dificil" class="md-nav__link">
+    <span class="md-ellipsis">
+      Terreno Difícil
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#terreno-vantajoso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Terreno Vantajoso
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tempo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tempo
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#turnos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Turnos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Turnos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#surpresa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Surpresa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ordem-de-turnos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ordem de Turnos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#turdo-da-equipe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Turdo da Equipe
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#turdo-do-gm" class="md-nav__link">
+    <span class="md-ellipsis">
+      Turdo do GM
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resolucao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resolução
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#countdowns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Countdowns
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Countdowns">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#countdown-turno" class="md-nav__link">
+    <span class="md-ellipsis">
+      Countdown Turno
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#countdown-dinamico" class="md-nav__link">
+    <span class="md-ellipsis">
+      Countdown Dinâmico
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Combate</h1>
+
+<p>Correr ou lutar? Eis a questão. Quando você escolhe pela última opção, a cena vira em combate. Durante o combate, todas as criaturas envolvidas estarão tentando causar dano o suficiente para vencer seu adversário, seja matando-o, fazendo-o se render ou fugir.</p>
+<h2 id="tokens">Tokens<a class="headerlink" href="#tokens" title="Permanent link"></a></h2>
+<p>Você usará tokens durante o combate para manter o controle sobre certos recursos pertinentes. Separe moedas, fichas de poker, ou qualquer outro item de quantidade repetida para identificar cada tipo de token.</p>
+<figure>
+  <img alt="Image title" src="../../../0_assets/manuscript/images/tokens.png" />
+</figure>
+<h3 id="tokens-de-acao">Tokens de Ação<a class="headerlink" href="#tokens-de-acao" title="Permanent link"></a></h3>
+<p>Separe uma pilha de tokens de ação para cada jogador, mínimo 3 para cada. Toda vez que um jogador realiza uma Ação, incluindo Habilidades, ele deve entregar um Token de Ação para o GM. Ao final do turno do GM, os tokens utilizados são devolvidos aos jogadores.</p>
+<h3 id="tokens-de-terror">Tokens de Terror<a class="headerlink" href="#tokens-de-terror" title="Permanent link"></a></h3>
+<p>No início do turno do GM, ele pode converter 2 Tokens de Ação em 1 Token de Terror. Terror é equivalente ao Caos dos PCs. Ele é gasto para realizar Habilidades especiais de NPCs, ou para reduzir Countdowns de Aflições em NPCs em 1.</p>
+<h3 id="tokens-de-reacao">Tokens de Reação<a class="headerlink" href="#tokens-de-reacao" title="Permanent link"></a></h3>
+<p>Toda criatura tem o direito ao mínimo de 1 Reação por rodada, podendo ter mais baseadas em certos fatores como progressão, habilidades e/ou outros efeitos. Mantenha um dado ou qualquer outro tipo de token que indique o uso e/ou disponibilidade de Reações.</p>
+<h3 id="tokens-de-countdowns">Tokens de Countdowns<a class="headerlink" href="#tokens-de-countdowns" title="Permanent link"></a></h3>
+<p>Alguns efeitos terão efeitos duradouros. Para manter controle sobre o tempo restante, utilize tokens para ir diminuindo os valores. O token mais indicado para esse caso são dados - Para mais informações, veja <a href="#countdowns">Countdowns</a>.</p>
+<h2 id="tempo-espaco-alvos">Tempo, Espaço &amp; Alvos<a class="headerlink" href="#tempo-espaco-alvos" title="Permanent link"></a></h2>
+<h3 id="mapa-e-secoes">Mapa e Seções<a class="headerlink" href="#mapa-e-secoes" title="Permanent link"></a></h3>
+<p>Um combate em BTH é quase sempre realizado em um mapa representando o local da batalha; seja ele uma nave, um quarto ou qualquer outro espaço. O mapa é dividido em Seções que podem representar pequenas porções de áreas. O tamanho da Seção se dá a interpretação do GM ao criar/usar um mapa, mas você pode usar as seguintes referências:</p>
+<ul>
+<li>Uma área de 16m² (4m x 4m). Isto equivale ao tamanho médio de um quarto normal</li>
+<li>Se o mapa está dividido em grids ou hexes, considere uma seção sendo como 4x4 grids/hexes</li>
+<li>Cada cômodo pode ser uma Seção: um quarto, um banheiro, uma sala, um corredor...</li>
+<li>Sempre que um espaço for dividido por uma passagem (porta, janela, portão, cerca, etc), considere cada espaço como uma Seção diferente</li>
+</ul>
+<p>Para ter o melhor exemplo do que um mapa dividido por Seções deveria ser, use o jogo de tabuleiro Mansions of Madness como referência. Você pode inclusive reaproveitar seus mapas.</p>
+<!-- <figure markdown="span">
+  ![Image title](../../../0_assets/manuscript/images/map.jpg){ width="250" }
+</figure> -->
+
+<figure>
+  <img alt="Image title" src="../../../0_assets/manuscript/images/map2.webp" width="400" />
+</figure>
+<h3 id="tamanhos-de-criaturas">Tamanhos de Criaturas<a class="headerlink" href="#tamanhos-de-criaturas" title="Permanent link"></a></h3>
+<p>Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se enquadra. O tamanho sempre é medido em sistema métrico. Esse indicador serve para ajudar na determinação de mecânicas como proteção, e indicar quantos Grids/Hexes a criatura ocupa em um mapa (caso houver).</p>
+<table>
+<thead>
+<tr>
+<th>Tamanho</th>
+<th>Tamanho Médio</th>
+<th>Tiles/Hexes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Minúsculo</td>
+<td>Até 20cm</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Pequeno</td>
+<td>21cm até 1,5m</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Médio</td>
+<td>1,51m até 2,30m</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Grande</td>
+<td>2,31m até 4m</td>
+<td>2x2</td>
+</tr>
+<tr>
+<td>Gigante</td>
+<td>4,01m até 10m</td>
+<td>3x3</td>
+</tr>
+<tr>
+<td>Colossal</td>
+<td>Acima de 10m</td>
+<td>4x4 ou mais</td>
+</tr>
+</tbody>
+</table>
+<!-- TODO: Creature token on grid -->
+
+<h3 id="alcance-distancia">Alcance &amp; Distância<a class="headerlink" href="#alcance-distancia" title="Permanent link"></a></h3>
+<p>Alcance e Distâncias sempre serão referenciadas considerando as Seções de um mapa.</p>
+<table>
+<thead>
+<tr>
+<th>Alcance/Distância</th>
+<th>Seções</th>
+<th>Metros</th>
+<th>Grids/Hexes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Adjacente</td>
+<td>Mesma Seção. Alvo deve estar diretamente ao seu lado.</td>
+<td>2m ou menos</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Perto</td>
+<td>Mesma Seção ou 1 Seção adjacente a sua.</td>
+<td>2m - 8m</td>
+<td>2 - 8</td>
+</tr>
+<tr>
+<td>Longe</td>
+<td>Até 2 Seções.</td>
+<td>2m - 12m</td>
+<td>2 - 12</td>
+</tr>
+<tr>
+<td>Muito Longe</td>
+<td>Até 4 Seções.</td>
+<td>2m - 24m</td>
+<td>2 - 24</td>
+</tr>
+</tbody>
+</table>
+<!-- TODO: Show distances (Dungeon Painter map) -->
+
+<!-- Alcances e Distâncias, quando curtas a moderadas, sempre serão indicadas em um valor de Grid/Hexes. Basta então multiplcar o valor por 2 para ter a medida em metros. Por exemplo, se uma arma tem alcance 10, quer dizer que ela consegue atingir alvos até 10 Grids/Hexes - ou 20m - de distância. -->
+
+<h3 id="alvos">Alvos<a class="headerlink" href="#alvos" title="Permanent link"></a></h3>
+<p>Certos Ações/Reações, como ataques, terão como requisito a escolha de um alvo. Um alvo pode ser único, múltiplos ou uma área. Um alvo é válido somente quando você tem linha de visão, alcance e bordas abertas entre você e ele. Exceções podem acontecer; estas estarão escritas explicitamente.</p>
+<p>Quando um Move é feito contra <ins>mais de um alvo</ins>, você realiza apenas um check para determinar se acerta os alvos ou não.</p>
+<p>Quando um Move é feito em uma <ins>área</ins>, você não faz um check, os alvos presentes na área devem Esquivar ou realizar outra Reação para evitar o ataque.</p>
+<p>Quando você causar <ins>dano ou qualquer outro efeito em mais de uma criatura</ins>, você aplica o mesmo dano em todos os alvos atingidos.</p>
+<h3 id="bordas-e-linha-de-visao">Bordas e Linha de Visão<a class="headerlink" href="#bordas-e-linha-de-visao" title="Permanent link"></a></h3>
+<p>Objetos, estruturas e até mesmo criaturas podem obstruir um caminho ou linha de visão. Tudo aquilo que bloquear seu movimento ou visão, é considerado uma borda. Uma borda pode obstruir seu movimento, mas nem sempre sua visão, como no caso de vidros.  </p>
+<p>Você tem Linha de Visão somente quando seus sentidos principais usados para a Ação/Reação conseguem alcançar uma criatura.</p>
+<p>Exceções podem acontecer; estas estarão escritas explicitamente.</p>
+<h3 id="modificadores-do-mapa">Modificadores do Mapa<a class="headerlink" href="#modificadores-do-mapa" title="Permanent link"></a></h3>
+<h4 id="escuridao">Escuridão<a class="headerlink" href="#escuridao" title="Permanent link"></a></h4>
+<p>A área que você se encontra possui baixa, ou nenhuma luz, prejudicando os checks de todos aqueles que possuem a Visão como sentido principal.</p>
+<ul>
+<li>Checks de Sentidos, usando a visão, recebem uma penalidade de -2</li>
+<li>Ações/Reações contra alvos adjacentes recebem uma penalidade de -1 aos checks</li>
+<li>Ações/Reações contra alvos distantes recebem uma penalidade de -2 aos checks</li>
+</ul>
+<p>Exceções podem acontecer; estas estarão escritas explicitamente.</p>
+<h4 id="terreno-dificil">Terreno Difícil<a class="headerlink" href="#terreno-dificil" title="Permanent link"></a></h4>
+<p>Uma área estreita, apertada ou bagunçada/entulhada de objetos, pode dificultar o movimento. Sempre que você tentar se mover em uma área de terreno difícil, você precisa realizar um check de Agilidade. Em caso de falha, você não sai do lugar. Exceções podem acontecer; estas estarão escritas explicitamente.</p>
+<h4 id="terreno-vantajoso">Terreno Vantajoso<a class="headerlink" href="#terreno-vantajoso" title="Permanent link"></a></h4>
+<p>Quando você está em um terreno vantajoso comparado com seu alvo - como por exemplo, num ponto mais alto que você - seus ataques a distância possuem +1.</p>
+<h3 id="tempo">Tempo<a class="headerlink" href="#tempo" title="Permanent link"></a></h3>
+<p>O tempo de cada Ações/Reações, assim como o de cada turno, varia. Cabe ao GM a decidir o tempo que se passa durante um combate. Apesar de cada um realizar suas Ações/Reações separadas, e existirem turnos separados entre equipe e GM, toda uma rodada acontece ao mesmo tempo.</p>
+<h2 id="turnos">Turnos<a class="headerlink" href="#turnos" title="Permanent link"></a></h2>
+<p>Um combate acontece em turnos, intercalando entre turnos de Equipe de jogadores, e de GM. Siga os passos descritos abaixo.</p>
+<h3 id="surpresa">Surpresa<a class="headerlink" href="#surpresa" title="Permanent link"></a></h3>
+<p>Antes do início de um combate, basicamente ninguém possui conhecimento da presença de ninguém. Caso um dos lados (Equipe ou GM) ataque primeiro, surpreendendo o inimigo, um turno surpresa acontece.</p>
+<p><strong>GM Surpreende Equipe</strong><br />
+Caso os NPCs surpreendam a equipe de jogadores, todas as criaturas do GM estão ativas e ele começa com seu turno.</p>
+<p><strong>Equipe Surpreende GM</strong><br />
+Caso os PCs surpreendam os NPCs, o primeiro turno é da equipe. Além disso, a primera Ação/Reação de cada jogador é realizada com +1.</p>
+<h3 id="ordem-de-turnos">Ordem de Turnos<a class="headerlink" href="#ordem-de-turnos" title="Permanent link"></a></h3>
+<p>Caso não haja surpresa, alguém deve rolar 1d6 para decidir a ordem de turnos. Em um resultado de 1 - 3, o primeiro turno é do GM; em um resultado de 4 - 6, o primeiro turno é da equipe de jogadores.</p>
+<h3 id="turdo-da-equipe">Turdo da Equipe<a class="headerlink" href="#turdo-da-equipe" title="Permanent link"></a></h3>
+<p>Considere os seguintes pontos durante o turno da Equipe de jogadores:</p>
+<ul>
+<li>Todos jogadores recuperam todas suas Reações.</li>
+<li>Todos os <a href="#countdown-turno">Countdown de Turno</a> presentes nos PCs diminuem em 1.</li>
+<li>Não há ordem de iniciativa, qualquer jogador pode executar Ações e Habilidades na ordem em que quiser.</li>
+<li>Não há limites de <a href="./moves.md">Ações</a> que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantos e quaisquer Ações desejarem.</li>
+<li>Para cada Ação que um jogador realizar durante este turno, 1 Token de Ação deve ser alcançado ao GM.</li>
+<li>NPCs podem realizar apenas <a href="./moves.md#reações">Reações</a>, estando ativos ou inativos.</li>
+</ul>
+<p>Os resultados dos checks dos jogadores influenciam o decorrer do jogo:</p>
+<p><strong>Sucesso ou Sucesso Crítico:</strong> Turno de Equipe continua normalmente.<br />
+<strong>Sucesso Parcial:</strong> GM pode jogar caso gaste 2 Tokens de Ação, caso contrário, Turno de Equipe continua normalmente.<br />
+<strong>Falha ou Falha Crítica:</strong> GM pode jogar.</p>
+<h3 id="turdo-do-gm">Turdo do GM<a class="headerlink" href="#turdo-do-gm" title="Permanent link"></a></h3>
+<p>Considere os seguintes pontos durante o turno do GM:</p>
+<ul>
+<li>Todos os NPCs recuperam todas suas Reações.</li>
+<li>Todos os <a href="#countdown-turno">Countdown de Turno</a> presentes nos NPCs diminuem em 1.</li>
+<li>GM pode <strong>ativar</strong> criaturas gastando Tokens de Ação. 1 Token de Ação = 1 Criatura ativa.</li>
+<li>GM pode converter Tokens de Ação em Tokens de Terror. 1 Token de Ação = 1 Token de Terror.</li>
+<li>O GM pode realizar 1 Ação para cada criatura ativa, deixando-a então inativa. Exceções podem acontecer; estas estarão escritas explicitamente.</li>
+<li>PCs podem realizar apenas Reações.</li>
+<li>A vez passa para a equipe de jogadores assim que não houver mais criaturas ativas ou caso o GM queira passar antes.</li>
+</ul>
+<h3 id="resolucao">Resolução<a class="headerlink" href="#resolucao" title="Permanent link"></a></h3>
+<p>O Combate segue o fluxo, intercalando entre turnos de equipe e GM, até um dos lados ser completamente eliminado, fugir, ou aceitar alguma negociação de paz ou rendição, ou qualquer outra interação em acordo entre o grupo.</p>
+<!-- ## Tipos de Combate
+
+O combate acontece sempre em uma das duas formas: Corpo-a-Corpo (indicado como Adjacente) ou à Distância.
+
+### Ajdacente ou Corpo-a-corpo
+
+### À Distância -->
+
+<h2 id="countdowns">Countdowns<a class="headerlink" href="#countdowns" title="Permanent link"></a></h2>
+<!-- TODO: Show countdown pizza -->
+
+<p>Algumas mecânicas podem querer introduzir um <strong>countdown</strong>. Cowntdowns são uma maneira dos jogadores e GM acompanharem o andamento de um evento ou efeito. Podem ser representados de duas formas: um dado ou um relógio de progresso dividido em partes (como uma pizza). Podem representar qualquer forma de tempo: turno, minutos, horas, dias, semanas, etc; ou até mesmo quantidades como ações, reações, etc.</p>
+<p>O GM ou a própria regra define um valor do countdown, este que será representado por um dado do mesmo valor ou um relógio com divisões. Por exemplo, para um countdown 4, será usado um dado no valor 4 ou um relógio com 4 partes.</p>
+<p>Countdowns andam apenas para frente, nunca para trás, ou seja, cada vez que um gatilho acontence, você diminui em 1 o valor do dado ou preenche uma parte do relógio.</p>
+<p>Quando o countdown chega a 0 ou a ultima parte do relógio é marcada, o evento acontece ou o efeito acaba.</p>
+<h3 id="countdown-turno">Countdown Turno<a class="headerlink" href="#countdown-turno" title="Permanent link"></a></h3>
+<p>Alguns efeitos, como <a href="../conditions.md">Condições</a>, têm valores fixos atrelados (exemplo Debilitado 2). Nesse tipo de countdown, o evento segue sempre que o turno do lado afetado começa. Por exemplo, se uma criatura do GM aplica a condição Debilitado 2 em seu personagem, o countdown diminui em 1 sempre que o turno de equipe começa.</p>
+<h3 id="countdown-dinamico">Countdown Dinâmico<a class="headerlink" href="#countdown-dinamico" title="Permanent link"></a></h3>
+<p>Nem todos countdowns terão o começo de turno como gatilho para diminuir seu valor. Pode haver eventos maiores e difíceis de medir em uma medida de tempo, como por exemplo: "término da construção de uma bomba". O GM pode decidir que este countdown baixa por diversos motivos: Sempre que um jogador falhar criticamente, sempre que os jogadores fazerem um descanso, etc. O GM não necessariamente precisa dizer para os jogadores quando o countdown irá diminuir, mas sempre precisa mostrar quando acontecer, para eles terem uma ideia. Algumas habilidades também poderão ter countdowns baseados em outros fatores, como por exemplo, baixar sempre que você ou uma criatura do GM realizar uma Ação.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.path", "navigation.indexes"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>
